@@ -1,16 +1,20 @@
 
 const server = require('http').createServer();
-const io = require('socket.io')(server);
+// const io = require('socket.io')(server);
+const io = require("socket.io")(server, {
+    cors: {
+        origin: "https://example.com",
+        methods: ["GET", "POST"],
+        allowedHeaders: ["my-custom-header"],
+        credentials: true
+    }
+});
 const express = require('express');
 const cors = require('cors');
 const router = require('./router');
 const app = express();
 const MD = new mdAPISocket(io)
 const fs = require('file-system');
-// const fnAdmin = require("./api/admin/admin");
-// const fnChess = require("./api/chess/chess");
-// const fnSaveFile = require("./api/saveFile/saveFile");
-// const fnLogin = require("./api/login/login");
 app.use(cors());
 app.use(router);
 
