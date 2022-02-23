@@ -8,10 +8,11 @@ const fs = require('file-system');
 const router = require("./router")
 app.use(cors());
 app.use(router);
-
+let i = 0
 io.on('connection', client => {
-    console.log("connect_01", client.id)
-    io.to(client.id).emit("connect_01", client.id)
+    i++
+    console.log("connect_01", client.id, i)
+    io.to(client.id).emit("connect_01", client.id + "_" + i)
     client.on('disconnect', () => {
         console.log("disconnected", client.id)
     });

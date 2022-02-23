@@ -16,6 +16,10 @@ router.post("/loadDataThuchanhcanban", jsonParser, (req, res) => {
   const data = require("./filedulieu/" + req.body.id)
   res.send({ "data": data }).status(200);
 });
+router.get("/loadDataThuchanhnangcao", jsonParser, (req, res) => {
+  const data = require("./filedulieu/A1_NhaHang_01/bai1")
+  res.send({ "data": data }).status(200);
+});
 
 
 
