@@ -8,11 +8,19 @@ const jsonParser = bodyParser.json()
 router.get("/", (req, res) => {
   res.send("Server is up and running. Success").status(200);
 });
-router.get("/menuThuchanhcoban", (req, res) => {
+router.get("/menuThuchanhcoban", (req, res) => {  
   const data = require("./filedulieu/listLesson")
   res.send({ "data": data }).status(200);
 });
-router.post("/loadDataThuchanhcanban", jsonParser, (req, res) => {
+router.get("/menuThuchanhkienthuc", (req, res) => {  
+  const data = require("./filedulieu/listLessonKienthuc")
+  res.send({ "data": data }).status(200);
+});
+router.post("/loadDataThuchanhcoban", jsonParser, (req, res) => {
+  const data = require("./filedulieu/" + req.body.id)
+  res.send({ "data": data }).status(200);
+});
+router.post("/loadDataThuchanhkienthuc", jsonParser, (req, res) => {
   const data = require("./filedulieu/" + req.body.id)
   res.send({ "data": data }).status(200);
 });
