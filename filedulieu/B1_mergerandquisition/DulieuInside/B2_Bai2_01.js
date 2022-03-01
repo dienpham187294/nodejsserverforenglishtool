@@ -7,26 +7,25 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
-const A1_Bai1 = require("./A1_bai1"
-)
+const Input = require("./A1_bai2")
 let ArrOfSubmit;
 let A1_data = []
-A1_Bai1.forEach(e => {
+Input.forEach(e => {
     A1_data.push(
         { "Answer": e.Answer }
     )
 })
 let ArrUse = [
-    A1_Bai1
+    Input
 ]
-module.exports = function A2_Bai1(n) {
+module.exports = function B2_Bai2_01(n) {
 
     let output = []
     let DataTable = {
         "m01": A1_data
     }
 
-    ArrPeple.slice(0, n).forEach(e => {
+    ArrPeple.forEach(e => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e[1]
@@ -46,7 +45,7 @@ module.exports = function A2_Bai1(n) {
                 objGet1.slice(4 - objGet1.length)
             )
         } else {
-            ArrUse.push(A1_Bai1)
+            ArrUse.push(Input)
         }
         let SpeakFirst = [""]
         let ArrBegin = [

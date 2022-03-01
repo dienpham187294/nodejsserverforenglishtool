@@ -6,9 +6,8 @@ const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
 const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
-
+const shuffleArr = require("../../dataHelperFunction/shuffleArr")
 const A1_Bai1 = require("./A1_bai1")
-
 let ArrOfSubmit;
 let A1_data = []
 A1_Bai1.forEach(e => {
@@ -19,14 +18,14 @@ A1_Bai1.forEach(e => {
 let ArrUse = [
     A1_Bai1
 ]
-module.exports = function A2_Bai1(n) {
+module.exports = function B2_Bai1_01(n) {
 
     let output = []
     let DataTable = {
         "m01": A1_data
     }
 
-    ArrPeple.slice(0, n).forEach(e => {
+    ArrPeple.forEach(e => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e[1]
@@ -48,23 +47,39 @@ module.exports = function A2_Bai1(n) {
         } else {
             ArrUse.push(A1_Bai1)
         }
-        let SpeakFirst = [objGet[0].Question]
+        let SpeakFirst = [""]
         let ArrBegin = [
             FnObjHanldingNext(
-                [objGet[0].Answer],
-                [objGet[1].Question]
+                ["Hi"],
+                [""],
+                objaction_01(objGet, objGet[0].VnAnswer)
             )
         ]
 
         let input_01_Body = [
-            "0"
+            "0", "0-0", "0-0-0", "0-0-0-0"
         ]
         let input_02_Body = [
             FnObjHanldingNext(
+                [objGet[0].Answer],
+                [""],
+                objaction_02(objGet, objGet[0].Question)
+            ),
+            FnObjHanldingNext(
+                [objGet[0].Question],
+                [""],
+                objaction_01(objGet, objGet[1].VnAnswer)
+            ),
+            FnObjHanldingNext(
                 [objGet[1].Answer],
-                ["Thank you!"],
+                [""],
+                objaction_02(objGet, objGet[1].Question)
+            ),
+            FnObjHanldingNext(
+                [objGet[1].Question],
+                [""],
                 objEndSuccefull
-            )
+            ),
         ]
 
         let End = null
@@ -89,27 +104,51 @@ module.exports = function A2_Bai1(n) {
     return { "core": output, "tool": DataTable }
 }
 
-
-
-function fnAction_01(data, n) {
+function objaction_02(data, n) {
     let arrT = []
     data.forEach((e) => {
-        if (e.IPA === n) {
+
+        if (e.Question === n) {
             arrT.push(
                 {
-                    "data": e.Word,
+                    "data": e.Question,
                     "stt": true,
                     "submit": false
                 }
             )
         } else {
-            arrT.push({ "data": e.Word, "stt": true, "submit": true })
+            arrT.push({ "data": e.Question, "stt": true, "submit": true })
         }
     })
 
     return {
         "action": {
-            "name": "Từ/cụm từ nào có phiên âm: " + n,
+            "name": "Câu hỏi nào phù hợp với câu trả lời trên?",
+            "list": shuffleArr(arrT),
+        }
+    }
+}
+function objaction_01(data, n) {
+    let arrT = []
+    data.forEach((e) => {
+
+        if (e.VnAnswer === n) {
+
+            arrT.push(
+                {
+                    "data": e.Answer,
+                    "stt": true,
+                    "submit": false
+                }
+            )
+        } else {
+            arrT.push({ "data": e.Answer, "stt": true, "submit": true })
+        }
+    })
+
+    return {
+        "action": {
+            "name": "Câu nào có nghĩa là: " + n,
             "list": shuffleArr(arrT),
         }
     }

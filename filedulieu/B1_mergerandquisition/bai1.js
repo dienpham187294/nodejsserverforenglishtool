@@ -1,20 +1,20 @@
 
 const shuffleArr = require("../dataHelperFunction/shuffleArr")
 
-const A2_Bai1 = require("./DulieuInside/A2_Bai1")
+const B2_Bai1 = require("./DulieuInside/B2_Bai1")
 
 
-let InA2_Bai1 = A2_Bai1(40)
+let InB2_Bai1 = B2_Bai1(40)
 
 
 
 
 let coerdataoflession = [].concat(
-    InA2_Bai1.core,
+    InB2_Bai1.core,
 )
 
 let DataTable = [
-    // InA2_Bai1.tool.m01
+    // InB2_Bai1.tool.m01
 ]
 
 

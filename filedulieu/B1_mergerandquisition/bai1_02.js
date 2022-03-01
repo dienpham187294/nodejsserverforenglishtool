@@ -1,16 +1,16 @@
 
 const shuffleArr = require("../dataHelperFunction/shuffleArr")
 
-const A2_Bai1_02 = require("./DulieuInside/A2_Bai1_02")
+const B2_Bai1_02 = require("./DulieuInside/B2_Bai1_02")
 
 
-let InA2_Bai1_02 = A2_Bai1_02(40)
+let InB2_Bai1_02 = B2_Bai1_02(40)
 
 
 
 
 let coerdataoflession = [].concat(
-    InA2_Bai1_02.core,
+    InB2_Bai1_02.core,
 
 )
 

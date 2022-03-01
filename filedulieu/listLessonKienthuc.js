@@ -17,7 +17,24 @@ module.exports = [
         "fileName": "B1_mergerandquisition/bai1",
         "videoSrc": "https://www.youtube.com/embed/WBHzCDgEtVQ"
     },
-    { "id": "merger-acquisition-2", "name": "Merger & Acquistion (M&A) Deal Structures Explained", "fileName": "B1_mergerandquisition/bai2", "videoSrc": "https://www.youtube.com/embed/ASUM5illI98" },
+    {
+        "id": "merger-acquisition-2",
+        "name": "Merger & Acquistion (M&A) Deal Structures Explained_001",
+        "fileName": "B1_mergerandquisition/bai2_01",
+        "videoSrc": "https://www.youtube.com/embed/WBHzCDgEtVQ"
+    },
+    {
+        "id": "merger-acquisition-2",
+        "name": "Merger & Acquistion (M&A) Deal Structures Explained_002",
+        "fileName": "B1_mergerandquisition/bai2_02",
+        "videoSrc": "https://www.youtube.com/embed/WBHzCDgEtVQ"
+    },
+    {
+        "id": "merger-acquisition-2",
+        "name": "Merger & Acquistion (M&A) Deal Structures Explained_final",
+        "fileName": "B1_mergerandquisition/bai2",
+        "videoSrc": "https://www.youtube.com/embed/WBHzCDgEtVQ"
+    },
     { "id": "merger-acquisition-3", "name": "Mergers and Acquisitions Due Diligence Explained", "fileName": "B1_mergerandquisition/bai3", "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ" },
     { "id": "merger-acquisition-4", "name": "3 Reasons to Consider Seller Financing in the Sale of Your Business", "fileName": "B1_mergerandquisition/bai4", "videoSrc": "https://www.youtube.com/embed/1Gyw5X02ISc" },
     { "id": "merger-acquisition-5", "name": "M&A Letters of Intent: Are They Really Necessary?", "fileName": "B1_mergerandquisition/bai5", "videoSrc": "https://www.youtube.com/embed/aNioqOmfOe4" },
@@ -39,7 +56,7 @@ module.exports = [
     { "id": "merger-acquisition-21", "name": "8 Ways to Avoid Merger & Acquisitions (M&A) Lawsuits", "fileName": "B1_mergerandquisition/bai21", "videoSrc": "https://www.youtube.com/embed/2Z51XwsUTGw" },
     { "id": "merger-acquisition-22", "name": "M&A Deal Structures: Working Capital Adjustments vs. Locked Box Closing Approach", "fileName": "B1_mergerandquisition/bai22", "videoSrc": "https://www.youtube.com/embed/ydfu0lpiDjc" },
     { "id": "merger-acquisition-23", "name": "What is M&A (Mergers & Acquisitions) (in 60 seconds)", "fileName": "B1_mergerandquisition/bai23", "videoSrc": "https://www.youtube.com/embed/VKjPLqG4em4" },
-    { "id": "merger-acquisition-24", "name": "The 4 Main Categories of Merger & Acquisition (M&A) Deals", "fileName": "B1_mergerandquisition/bai24", "videoSrc": "https://www.youtube.com/embed/1290srbuHcM"},
+    { "id": "merger-acquisition-24", "name": "The 4 Main Categories of Merger & Acquisition (M&A) Deals", "fileName": "B1_mergerandquisition/bai24", "videoSrc": "https://www.youtube.com/embed/1290srbuHcM" },
     { "id": "merger-acquisition-25", "name": "PART 1: Why Do Businesses Buy Other Businesses? (M&A Motivations)", "fileName": "B1_mergerandquisition/bai25", "videoSrc": "https://www.youtube.com/embed/Xd1FWmkjXFQ" },
     { "id": "merger-acquisition-26", "name": "PART 2: Why Do Businesses Buy Other Businesses? (M&A Motivations)", "fileName": "B1_mergerandquisition/bai26", "videoSrc": "https://www.youtube.com/embed/9NZMrMWcAag" },
     { "id": "merger-acquisition-27", "name": "PART 3: Why Do Businesses Buy Other Businesses? (M&A Motivations)", "fileName": "B1_mergerandquisition/bai27", "videoSrc": "https://www.youtube.com/embed/WKH8qkHszU4" },

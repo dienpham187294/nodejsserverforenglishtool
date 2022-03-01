@@ -1,10 +1,10 @@
 const ArrPeple = require("../../dataHelperFunction/ArrOfpeple")
 const pickNRandomElementsOfArray = require("../../dataHelperFunction/pickNRandomElementsOfArray_01")
-const getElementsToDataTable = require("../../dataHelperFunction/getElementsToDataTable")
+// const getElementsToDataTable = require("../../dataHelperFunction/getElementsToDataTable")
 const Fnperson = require("../../dataHelperFunction/Fnperson")
 const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
 const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
-const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
+// const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
 const A1_Bai1 = require("./A1_bai1")
@@ -17,14 +17,14 @@ let ArrUse = [
 let ArrUseIPA = [
     A1_Bai_01
 ]
-module.exports = function A2_Bai1(n) {
+module.exports = function B2_Bai1() {
 
     let output = []
     let DataTable = {
         "m01": []
     }
 
-    ArrPeple.slice(0, n).forEach(e => {
+    ArrPeple.forEach(e => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e[1]

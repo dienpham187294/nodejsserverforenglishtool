@@ -1,30 +1,29 @@
 
 const shuffleArr = require("../dataHelperFunction/shuffleArr")
 
-const B2_Bai1_01 = require("./DulieuInside/B2_Bai1_01")
+const B2_Bai2 = require("./DulieuInside/B2_Bai2")
 
 
-let InB2_Bai1_01 = B2_Bai1_01(40)
+let InB2_Bai2 = B2_Bai2(40)
 
 
 
 
 let coerdataoflession = [].concat(
-    InB2_Bai1_01.core,
-
+    InB2_Bai2.core,
 )
 
 let DataTable = [
-
+    // InB2_Bai2.tool.m01
 ]
 
 
-const Bai1_01
+const Bai2
     = [
         {
-            "nameoflession": "",
-            "srcYoutube": "",
-            "storyBoicanh": "Luyện tập 01",
+            "nameoflession": "Mergers and Acquisitions Explained_ A Crash Course on M&A",
+            "srcYoutube": "https://www.youtube.com/embed/WBHzCDgEtVQ",
+            "storyBoicanh": "M&A 01",
             "story": "",
             "dataTool": DataTable,
             "hoctap": {
@@ -38,7 +37,7 @@ const Bai1_01
             "coerdataoflession": shuffleArr(shuffleArr(coerdataoflession))
         }
     ]
-module.exports = Bai1_01
+module.exports = Bai2
 
 
 

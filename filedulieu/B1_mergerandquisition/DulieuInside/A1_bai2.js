@@ -1,4 +1,4 @@
-[
+module.exports = [
     {
         "Question": "What is the main idea of the article?",
         "VnQuestion": "Ý chính của bài báo là gì?",
