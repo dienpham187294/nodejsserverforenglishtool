@@ -7,17 +7,17 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
-const A1_Bai1 = require("./A/A1_bai1")
-const A1_Bai_01 = require("./A/A1_bai1_01")
+const Input = require("./A/C1")
+const Input_01 = require("./A/C2")
 let ArrOfSubmit;
 
 let ArrUse = [
-    A1_Bai1
+    Input
 ]
 let ArrUseIPA = [
-    A1_Bai_01
+    Input_01
 ]
-module.exports = function B2_Bai1() {
+module.exports = function B2_Bai2() {
 
     let output = []
     let DataTable = {
@@ -44,7 +44,7 @@ module.exports = function B2_Bai1() {
                 objGet1.slice(3 - objGet1.length)
             )
         } else {
-            ArrUse.push(A1_Bai1)
+            ArrUse.push(Input)
         }
 
 
@@ -57,7 +57,7 @@ module.exports = function B2_Bai1() {
                 objGetIPA1.slice(3 - objGetIPA1.length)
             )
         } else {
-            ArrUseIPA.push(A1_Bai_01)
+            ArrUseIPA.push(Input_01)
         }
         let SpeakFirst = [objGet[0].Question]
         let ArrBegin = [
@@ -78,22 +78,22 @@ module.exports = function B2_Bai1() {
             FnObjHanldingNext(
                 [objGet[2].Answer],
                 [""],
-                fnAction_01(A1_Bai_01, objGetIPA[0].IPA)
+                fnAction_01(Input_01, objGetIPA[0].IPA)
             ),
             FnObjHanldingNext(
                 [objGetIPA[0].Word],
                 [objGetIPA[0].Word],
-                fnAction_01(A1_Bai_01, objGetIPA[1].IPA)
+                fnAction_01(Input_01, objGetIPA[1].IPA)
             ),
             FnObjHanldingNext(
                 [objGetIPA[1].Word],
                 [objGetIPA[1].Word],
-                fnAction_01(A1_Bai_01, objGetIPA[2].IPA)
+                fnAction_01(Input_01, objGetIPA[2].IPA)
             ),
             FnObjHanldingNext(
                 [objGetIPA[2].Word],
                 [objGetIPA[2].Word],
-                fnAction_02(A1_Bai1, objGet)
+                fnAction_02(Input, objGet)
             ),
             FnObjHanldingNext(
                 ["I'm done"],

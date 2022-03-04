@@ -35,7 +35,26 @@ module.exports = [
         "fileName": "B1_mergerandquisition/bai2",
         "videoSrc": "https://www.youtube.com/embed/WBHzCDgEtVQ"
     },
-    { "id": "merger-acquisition-3", "name": "Mergers and Acquisitions Due Diligence Explained", "fileName": "B1_mergerandquisition/bai3", "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ" },
+
+    {
+        "id": "merger-acquisition-3",
+        "name": "Mergers and Acquisitions Due Diligence Explained_001",
+        "fileName": "B1_mergerandquisition/C_bai_01",
+        "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ"
+    },
+    {
+        "id": "merger-acquisition-3",
+        "name": "Mergers and Acquisitions Due Diligence Explained_002",
+        "fileName": "B1_mergerandquisition/C_bai_02",
+        "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ"
+    },
+    {
+        "id": "merger-acquisition-3",
+        "name": "Mergers and Acquisitions Due Diligence Explained_final",
+        "fileName": "B1_mergerandquisition/C_bai_final",
+        "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ"
+    },
+
     { "id": "merger-acquisition-4", "name": "3 Reasons to Consider Seller Financing in the Sale of Your Business", "fileName": "B1_mergerandquisition/bai4", "videoSrc": "https://www.youtube.com/embed/1Gyw5X02ISc" },
     { "id": "merger-acquisition-5", "name": "M&A Letters of Intent: Are They Really Necessary?", "fileName": "B1_mergerandquisition/bai5", "videoSrc": "https://www.youtube.com/embed/aNioqOmfOe4" },
     { "id": "merger-acquisition-6", "name": "How to Structure Earnouts in Business Mergers & Acquisitions", "fileName": "B1_mergerandquisition/bai6", "videoSrc": "https://www.youtube.com/embed/Q3DfoFgXLwY" },

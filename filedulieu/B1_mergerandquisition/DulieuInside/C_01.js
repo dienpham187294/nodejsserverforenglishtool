@@ -1,13 +1,13 @@
 const ArrPeple = require("../../dataHelperFunction/ArrOfpeple")
 const pickNRandomElementsOfArray = require("../../dataHelperFunction/pickNRandomElementsOfArray_01")
-const getElementsToDataTable = require("../../dataHelperFunction/getElementsToDataTable")
+// const getElementsToDataTable = require("../../dataHelperFunction/getElementsToDataTable")
 const Fnperson = require("../../dataHelperFunction/Fnperson")
 const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
 const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
-const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
+// const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
-const Input = require("./A/A1_bai2")
+const Input = require("./A/C1")
 let ArrOfSubmit;
 let A1_data = []
 Input.forEach(e => {

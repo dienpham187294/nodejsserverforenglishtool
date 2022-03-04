@@ -7,8 +7,8 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
-const Input = require("./A1_bai2")
-const Input_01 = require("./A1_bai2_01")
+const Input = require("./A/A1_bai2")
+const Input_01 = require("./A/A1_bai2_01")
 let ArrOfSubmit;
 
 let ArrUse = [

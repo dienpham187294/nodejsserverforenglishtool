@@ -8,9 +8,7 @@ const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjS
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 
 
-const Food = require("./A1_foods")
-const dataPickuptable_01 = require("./A1_tableOfPickup_01")
-const dataPickuptable_02 = require("./A1_tableOfPickup_02")
+
 
 const dataTableBooked = require("./A1_tableOfBooking")
 const dataPhoneNumber = require("./A1_phonenumber")
