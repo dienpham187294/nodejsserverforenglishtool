@@ -117,6 +117,6 @@ module.exports = [
     {
         "id": "Office-Conversation-1",
         "name": "Văn phòng__ Bài 1",
-        "fileName": "A1_OfficeConversation/bai5"
+        "fileName": "A1_OfficeConversation/A_bai_1"
     }
 ]
