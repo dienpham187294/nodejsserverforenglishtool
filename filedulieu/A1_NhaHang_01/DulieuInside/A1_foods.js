@@ -2,7 +2,7 @@ module.exports = [
     { "input": "Grilled fish of the day", "img": "https://i.postimg.cc/q7rJTkMh/Grilled-fish-of-the-day.jpg" },
     { "input": "Steak with chips or salad", "img": "https://i.postimg.cc/J4BMHysH/Steak-with-chips-or-salad.jpg" },
     { "input": "Sausage and roast tomato pasta", "img": "https://i.postimg.cc/Dwrh5td2/Sausage-and-roast-tomato-pasta.png" },
-    { "input": "Chicken salad with garlic yoghurt dressing", "img": "https://i.postimg.cc/NfWGd63x/Chicken-salad-with-garlic-yoghurt-dressing.jpg" },
+    { "input": "Chicken salad with garlic yogurt dressing", "img": "https://i.postimg.cc/NfWGd63x/Chicken-salad-with-garlic-yoghurt-dressing.jpg" },
     { "input": "Cheese and tomato pizza", "img": "https://i.postimg.cc/MTPqVV0V/Cheese-and-tomato-pizza.jpg" },
     { "input": "Mushroom omelette", "img": "https://i.postimg.cc/bJNqZ3nq/Mushroom-omelette.jpg" },
     { "input": "Vegetable chili", "img": "https://i.postimg.cc/x1DYv0mx/Vegetable-chili.jpg" },

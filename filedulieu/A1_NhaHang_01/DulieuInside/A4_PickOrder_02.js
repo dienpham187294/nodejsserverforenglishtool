@@ -17,6 +17,9 @@ let ArrOfSubmit;
 
 module.exports = function A4_PickOrder_02(n) {
 
+
+
+
     let DataTable = {
         "m00": dataPickuptable_02
     }
