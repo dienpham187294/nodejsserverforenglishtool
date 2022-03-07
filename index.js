@@ -9,12 +9,18 @@ const router = require("./router")
 app.use(cors());
 app.use(router);
 let i = 0
+
 io.on('connection', client => {
     i++
     console.log("connect_01", client.id, i)
     io.to(client.id).emit("connect_01", client.id + "_" + i)
     client.on('disconnect', () => {
         console.log("disconnected", client.id)
+    });
+
+    client.on('emit_RES_Client', (data) => {
+        
+        io.emit("emit_RES_Server", data)
     });
 });
 server.listen(port, () => {

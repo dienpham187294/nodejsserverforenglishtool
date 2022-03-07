@@ -121,7 +121,7 @@ function Record(ARR_Input) {
             ARR_Output.push(
                 {
                     "title": "",
-                    "data": e.name + e.jobTittle + e.nameCompany,
+                    "data": e.name + "-" + e.jobTittle + "-" + e.nameCompany,
                     "stt": true,
                     "submit": false
                 }
