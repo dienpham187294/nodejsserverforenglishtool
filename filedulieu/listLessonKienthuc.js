@@ -55,7 +55,12 @@ module.exports = [
         "videoSrc": "https://www.youtube.com/embed/zVZSS88gIGQ"
     },
 
-    { "id": "merger-acquisition-4", "name": "3 Reasons to Consider Seller Financing in the Sale of Your Business", "fileName": "B1_mergerandquisition/bai4", "videoSrc": "https://www.youtube.com/embed/1Gyw5X02ISc" },
+    {
+        "id": "merger-acquisition-4",
+        "name": "3 Reasons to Consider Seller Financing in the Sale of Your Business",
+        "fileName": "B1_mergerandquisition/D",
+        "videoSrc": "https://www.youtube.com/embed/1Gyw5X02ISc"
+    },
     { "id": "merger-acquisition-5", "name": "M&A Letters of Intent: Are They Really Necessary?", "fileName": "B1_mergerandquisition/bai5", "videoSrc": "https://www.youtube.com/embed/aNioqOmfOe4" },
     { "id": "merger-acquisition-6", "name": "How to Structure Earnouts in Business Mergers & Acquisitions", "fileName": "B1_mergerandquisition/bai6", "videoSrc": "https://www.youtube.com/embed/Q3DfoFgXLwY" },
     { "id": "merger-acquisition-7", "name": "EBITDA vs SDE: What's the Difference? | A Business Lawyer Explains", "fileName": "B1_mergerandquisition/bai7", "videoSrc": "https://www.youtube.com/embed/lN1XUxvPKQA" },
