@@ -1,162 +1,202 @@
 module.exports = [
     {
-        "Word": "Luật sư Kinh doanh",
-        "IPA": "ˈbɪznɪs əˈtɜːni"
+        "Word": "Business attorney",
+        "IPA": "ˈbɪznɪs əˈtɜːni",
+        "VN": "Luật sư Kinh doanh"
     },
     {
-        "Word": "Thẩm định",
-        "IPA": "djuː ˈdɪlɪʤəns"
+        "Word": "Due diligence",
+        "IPA": "djuː ˈdɪlɪʤəns",
+        "VN": "Thẩm định"
     },
     {
-        "Word": "Bối cảnh",
-        "IPA": "ˈkɒntɛkst"
+        "Word": "Context",
+        "IPA": "ˈkɒntɛkst",
+        "VN": "Bối cảnh"
     },
     {
-        "Word": "Nhà đầu tư mạo hiểm",
-        "IPA": "ˈvɛnʧə ˈkæpɪtl ɪnˈvɛstəz"
+        "Word": "Venture capital investors",
+        "IPA": "ˈvɛnʧə ˈkæpɪtl ɪnˈvɛstəz",
+        "VN": "Nhà đầu tư mạo hiểm"
     },
     {
-        "Word": "Sáp nhập và mua lại",
-        "IPA": "ˈmɜːʤəz ænd ˌækwɪˈzɪʃ(ə)nz"
+        "Word": "Mergers and acquisitions",
+        "IPA": "ˈmɜːʤəz ænd ˌækwɪˈzɪʃ(ə)nz",
+        "VN": "Sáp nhập và mua lại"
     },
     {
-        "Word": "Một bức thư ý định",
-        "IPA": "ə ˈlɛtər ɒv ɪnˈtɛnt"
+        "Word": "A letter of intent",
+        "IPA": "ə ˈlɛtər ɒv ɪnˈtɛnt",
+        "VN": "Một bức thư ý định"
     },
     {
-        "Word": "Dấu hiệu quan tâm",
-        "IPA": "ˌɪndɪˈkeɪʃən ɒv ˈɪntrɪst"
+        "Word": "Indication of interest",
+        "IPA": "ˌɪndɪˈkeɪʃən ɒv ˈɪntrɪst",
+        "VN": "Dấu hiệu quan tâm"
     },
     {
-        "Word": "Tài chính",
-        "IPA": "faɪˈnæns"
+        "Word": "Finance",
+        "IPA": "faɪˈnæns",
+        "VN": "Tài chính"
     },
     {
-        "Word": "Pháp lý",
-        "IPA": "ˈliːgəl"
+        "Word": "Legal",
+        "IPA": "ˈliːgəl",
+        "VN": "Pháp lý"
     },
     {
-        "Word": "Tổ chức",
-        "IPA": "ˌɒpəˈreɪʃənl"
+        "Word": "Operational",
+        "IPA": "ˌɒpəˈreɪʃənl",
+        "VN": "Tổ chức"
     },
     {
-        "Word": "Chiến lược",
-        "IPA": "strəˈtiːʤɪk"
+        "Word": "Strategic",
+        "IPA": "strəˈtiːʤɪk",
+        "VN": "Chiến lược"
     },
     {
-        "Word": "Nguồn nhân lực",
-        "IPA": "ˈhjuːmən rɪˈsɔːsɪz"
+        "Word": "Human resources",
+        "IPA": "ˈhjuːmən rɪˈsɔːsɪz",
+        "VN": "Nguồn nhân lực"
     },
     {
-        "Word": "Các chức năng chính",
-        "IPA": "ðə meɪn ˈfʌŋkʃənz"
+        "Word": "The main functions",
+        "IPA": "ðə meɪn ˈfʌŋkʃənz",
+        "VN": "Các chức năng chính"
     },
     {
-        "Word": "Một yêu cầu",
-        "IPA": "ə rɪˈkwɛst"
+        "Word": "A request",
+        "IPA": "ə rɪˈkwɛst",
+        "VN": "Một yêu cầu"
     },
     {
-        "Word": "Quá trình khởi động",
-        "IPA": "ˈprəʊsɛs ɒv ˈkɪkɪŋ ðə ˈtaɪəz"
+        "Word": "Process of kicking the tires",
+        "IPA": "ˈprəʊsɛs ɒv ˈkɪkɪŋ ðə ˈtaɪəz",
+        "VN": "Quá trình khởi động"
     },
     {
-        "Word": "Quá trình đau đớn",
-        "IPA": "ˈpeɪnfʊl ˈprəʊsɛs"
+        "Word": "Painful process",
+        "IPA": "ˈpeɪnfʊl ˈprəʊsɛs",
+        "VN": "Quá trình đau đớn"
     },
     {
-        "Word": "Như rút tủy",
-        "IPA": "laɪk ə ruːt kəˈnæl"
+        "Word": "Like a root canal",
+        "IPA": "laɪk ə ruːt kəˈnæl",
+        "VN": "Như rút tủy"
     },
     {
-        "Word": "Thu thập nhiều tài liệu",
-        "IPA": "ˈgæðə lɒts ɒv ˈdɒkjʊmənts"
+        "Word": "Gather lots of documents",
+        "IPA": "ˈgæðə lɒts ɒv ˈdɒkjʊmənts",
+        "VN": "Thu thập nhiều tài liệu"
     },
     {
-        "Word": "Phản hồi",
-        "IPA": "rɪsˈpɒns"
+        "Word": "Response",
+        "IPA": "rɪsˈpɒns",
+        "VN": "Phản hồi"
     },
     {
-        "Word": "Thư mục",
-        "IPA": "ˈfəʊldə"
+        "Word": "Folder",
+        "IPA": "ˈfəʊldə",
+        "VN": "Thư mục"
     },
     {
-        "Word": "Lý tưởng",
-        "IPA": "aɪˈdɪəl"
+        "Word": "Ideal",
+        "IPA": "aɪˈdɪəl",
+        "VN": "Lý tưởng"
     },
     {
-        "Word": "Mục đích",
-        "IPA": "ˈpɜːpəs"
+        "Word": "Purpose",
+        "IPA": "ˈpɜːpəs",
+        "VN": "Mục đích"
     },
     {
-        "Word": "Ba năm gần nhất",
-        "IPA": "ðə lɑːst θriː jɪəz"
+        "Word": "The last three years",
+        "IPA": "ðə lɑːst θriː jɪəz",
+        "VN": "Ba năm gần nhất"
     },
     {
-        "Word": "Báo cáo lãi lỗ",
-        "IPA": "ˈprɒfɪt ænd lɒs ˈsteɪtmənts"
+        "Word": "Profit and loss statements",
+        "IPA": "ˈprɒfɪt ænd lɒs ˈsteɪtmənts",
+        "VN": "Báo cáo lãi lỗ"
     },
     {
-        "Word": "Báo cáo thu nhập",
-        "IPA": "ˈɪnkʌm ˈsteɪtmənts"
+        "Word": "Income statements",
+        "IPA": "ˈɪnkʌm ˈsteɪtmənts",
+        "VN": "Báo cáo thu nhập"
     },
     {
-        "Word": "Dòng tiền",
-        "IPA": "kæʃ fləʊ"
+        "Word": "Cash flow",
+        "IPA": "kæʃ fləʊ",
+        "VN": "Dòng tiền"
     },
     {
-        "Word": "Khai thuế",
-        "IPA": "tæks rɪˈtɜːn"
+        "Word": "Tax return",
+        "IPA": "tæks rɪˈtɜːn",
+        "VN": "Khai thuế"
     },
     {
-        "Word": "Danh sách khách hàng",
-        "IPA": "ˈkʌstəmə lɪsts"
+        "Word": "Customer lists",
+        "IPA": "ˈkʌstəmə lɪsts",
+        "VN": "Danh sách khách hàng"
     },
     {
-        "Word": "Mười khách hàng hàng đầu",
-        "IPA": "tɒp tɛn ˈkʌstəməz"
+        "Word": "Top ten customers",
+        "IPA": "tɒp tɛn ˈkʌstəməz",
+        "VN": "Mười khách hàng hàng đầu"
     },
     {
-        "Word": "Tất cả các hợp đồng",
-        "IPA": "ɔːl ðə ˈkɒntrækts"
+        "Word": "All the contracts",
+        "IPA": "ɔːl ðə ˈkɒntrækts",
+        "VN": "Tất cả các hợp đồng"
     },
     {
-        "Word": "Quá trình liên quan",
-        "IPA": "ɪnˈvɒlvd ˈprəʊsɛs"
+        "Word": "Involved process",
+        "IPA": "ɪnˈvɒlvd ˈprəʊsɛs",
+        "VN": "Quá trình liên quan"
     },
     {
-        "Word": "Vạch ra",
-        "IPA": "mæp aʊt"
+        "Word": "Map out",
+        "IPA": "mæp aʊt",
+        "VN": "Vạch ra"
     },
     {
-        "Word": "Tham gia sâu vào đàm phán",
-        "IPA": "gɛt diːp ˈɪntuː nɪˈgəʊʃɪeɪtɪŋ"
+        "Word": "Get deep into negotiating",
+        "IPA": "gɛt diːp ˈɪntuː nɪˈgəʊʃɪeɪtɪŋ",
+        "VN": "Tham gia sâu vào đàm phán"
     },
     {
-        "Word": "Hữu ích",
-        "IPA": "ˈhɛlpfʊl"
+        "Word": "Helpful",
+        "IPA": "ˈhɛlpfʊl",
+        "VN": "Hữu ích"
     },
     {
-        "Word": "Giấy phép",
-        "IPA": "ˈpɜːmɪts"
+        "Word": "Permits",
+        "IPA": "ˈpɜːmɪts",
+        "VN": "Giấy phép"
     },
     {
-        "Word": "Hợp đồng thuê",
-        "IPA": "ˈliːsɪz"
+        "Word": "Leases",
+        "IPA": "ˈliːsɪz",
+        "VN": "Hợp đồng thuê"
     },
     {
-        "Word": "Hồ sơ nhân sự",
-        "IPA": "eɪʧ-ɑː ˈrɛkɔːdz"
+        "Word": "HR records",
+        "IPA": "eɪʧ-ɑː ˈrɛkɔːdz",
+        "VN": "Hồ sơ nhân sự"
     },
     {
-        "Word": "Dưới sự bảo vệ của",
-        "IPA": "ˈʌndə ðə ˈkʌvər ɒv"
+        "Word": "Under the cover of",
+        "IPA": "ˈʌndə ðə ˈkʌvər ɒv",
+        "VN": "Dưới sự bảo vệ của"
     },
     {
-        "Word": "Cho dù họ có phải là đối thủ cạnh tranh hay không",
-        "IPA": "ˈwɛðə ðeər ə kəmˈpɛtɪtər ɔː nɒt"
+        "Word": "Whether they're a competitor or not",
+        "IPA": "ˈwɛðə ðeər ə kəmˈpɛtɪtər ɔː nɒt",
+        "VN": "Cho dù họ có phải là đối thủ cạnh tranh hay không"
     },
     {
-        "Word": "Thỏa thuận không tiết lộ",
-        "IPA": "nɒn-dɪsˈkləʊʒər əˈgriːmənt"
+        "Word": "Non-disclosure agreement",
+        "IPA": "nɒn-dɪsˈkləʊʒər əˈgriːmənt",
+        "VN": "Thỏa thuận không tiết lộ"
     }
 ]

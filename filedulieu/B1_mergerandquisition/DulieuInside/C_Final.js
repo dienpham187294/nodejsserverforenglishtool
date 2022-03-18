@@ -17,6 +17,8 @@ let ArrUse = [
 let ArrUseIPA = [
     Input_01
 ]
+
+
 module.exports = function B2_Bai2() {
 
     let output = []
@@ -51,6 +53,8 @@ module.exports = function B2_Bai2() {
         let in_pickRandomIPA = pickNRandomElementsOfArray(ArrUseIPA[ArrUseIPA.length - 1], 3)
         let objGetIPA = in_pickRandomIPA[0]
         let objGetIPA1 = in_pickRandomIPA[1]
+
+
 
         if (objGetIPA1.length > 6) {
             ArrUseIPA.push(
@@ -132,13 +136,13 @@ function fnAction_01(data, n) {
         if (e.IPA === n) {
             arrT.push(
                 {
-                    "data": e.Word,
+                    "data": e.VN,
                     "stt": true,
                     "submit": false
                 }
             )
         } else {
-            arrT.push({ "data": e.Word, "stt": true, "submit": true })
+            arrT.push({ "data": e.VN, "stt": true, "submit": true })
         }
     })
 
