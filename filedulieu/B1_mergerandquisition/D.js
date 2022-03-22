@@ -34,7 +34,7 @@ const Bai2
             "status": "",
         },
         {
-            "coerdataoflession": shuffleArr(shuffleArr(coerdataoflession))
+            "coerdataoflession": shuffleArr(shuffleArr(shuffleArr(shuffleArr(shuffleArr(coerdataoflession)))))
         }
     ]
 module.exports = Bai2
