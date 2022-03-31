@@ -168,117 +168,117 @@ module.exports =
         {
             "id": 34,
             "Words": "Your order is one Grilled fish, one Steak, and one Mineral water. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn grɪld fɪʃ, wʌn steɪk, ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn grɪld fɪʃ, wʌn steɪk, ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
         },
         {
             "id": 35,
             "Words": "Your order is one Steak, one pasta, and one Fresh orange juice. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn steɪk, wʌn ˈpɑstə, ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn steɪk, wʌn ˈpɑstə, ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
         },
         {
             "id": 36,
             "Words": "Your order is one pasta, one Chicken salad, and one Soft drink. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈpɑstə, wʌn ˈʧɪkən ˈsæləd, ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpɑstə, wʌn ˈʧɪkən ˈsæləd, ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
         },
         {
             "id": 37,
             "Words": "Your order is two pasta and one Mineral water. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈpɑstə ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈpɑstə ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
         },
         {
             "id": 38,
             "Words": "Your order is two Chicken salads and one Fresh orange juice. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈʧɪkən ˈsælədz ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
         },
         {
             "id": 39,
             "Words": "Your order is one Steak and one Mineral water. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn steɪk ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn steɪk ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
         },
         {
             "id": 40,
             "Words": "Your order is one pasta and one Fresh orange juice. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈpɑstə ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpɑstə ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
         },
         {
             "id": 41,
             "Words": "Your order is one Chicken salad and one Soft drink. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈʧɪkən ˈsæləd ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈʧɪkən ˈsæləd ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
         },
         {
             "id": 42,
             "Words": "Your order is two pizzas and two English tea, Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈpitsəz ænd tu ˈɪŋglɪʃ ti, ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈpitsəz ænd tu ˈɪŋglɪʃ ti, ɪz ɪt raɪt?"
         },
         {
             "id": 43,
             "Words": "Your order is two Mushroom omelets and two Irish Cream Coffee. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈmʌʃrum ˈɑmləts ænd tu ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈmʌʃrum ˈɑmləts ænd tu ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
         },
         {
             "id": 44,
             "Words": "Your order is one Chicken salad, one pizza, and one English tea. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈʧɪkən ˈsæləd, wʌn ˈpitsə, ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈʧɪkən ˈsæləd, wʌn ˈpitsə, ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
         },
         {
             "id": 45,
             "Words": "Your order is one pizza, one Mushroom omelet, and one Irish Cream Coffee. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈpitsə, wʌn ˈmʌʃrum ˈɑmlət, ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpitsə, wʌn ˈmʌʃrum ˈɑmlət, ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
         },
         {
             "id": 46,
             "Words": "Your order is two pizzas and one Soft drink. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈpitsəz ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈpitsəz ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
         },
         {
             "id": 47,
             "Words": "Your order is two Mushroom omelets and one English tea. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈmʌʃrum ˈɑmləts ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈmʌʃrum ˈɑmləts ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
         },
         {
             "id": 48,
             "Words": "Your order is two Vegetable chilies and one Irish Cream Coffee. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈvɛʤtəbəl ˈʧɪliz ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈvɛʤtəbəl ˈʧɪliz ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
         },
         {
             "id": 49,
             "Words": "Your order is two Steak and two Mineral water. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu steɪk ænd tu ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu steɪk ænd tu ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
         },
         {
             "id": 50,
             "Words": "Your order is two pasta and two Fresh orange juice. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈpɑstə ænd tu frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈpɑstə ænd tu frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
         },
         {
             "id": 51,
             "Words": "Your order is two Chicken salads and two Soft drinks. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
         },
         {
             "id": 52,
             "Words": "Your order is one pizza and one English tea. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈpitsə ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpitsə ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
         },
         {
             "id": 53,
             "Words": "Your order is one Mushroom omelet and one Irish Cream Coffee. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz wʌn ˈmʌʃrum ˈɑmlət ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈmʌʃrum ˈɑmlət ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
         },
         {
             "id": 54,
             "Words": "Your order is two Chicken salads and two Soft drinks. Is it right?",
-            "IPA": "jʊər ˈɔrdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
+            "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
         },
         {
             "id": 55,
             "Words": "Your order is not ready yet. Can you wait a few more minutes?",
-            "IPA": "jʊər ˈɔrdər ɪz nɑt ˈrɛdi jɛt. kæn ju weɪt ə fju mɔr ˈmɪnəts?"
+            "IPA": "jɔːr ˈɔːdər ɪz nɑt ˈrɛdi jɛt. kæn ju weɪt ə fju mɔr ˈmɪnəts?"
         },
         {
             "id": 56,
             "Words": "Your order is ready!",
-            "IPA": "jʊər ˈɔrdər ɪz ˈrɛdi!"
+            "IPA": "jɔːr ˈɔːdər ɪz ˈrɛdi!"
         },
         {
             "id": 57,

@@ -94,42 +94,12 @@ function getOutputT(DataTable) {
 
                     ],
                     [
-                        "Please go down to the lobby first. There are 20 people waiting for you there."
-                    ]
-                )
-            },
-            {
-                "index": "1-0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Yes", "I got it."
-
-                    ],
-                    [
-                        "Second, remember to greet them by. Hi, how are you?"
-                    ]
-                )
-            },
-            {
-                "index": "1-0-0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Yes", "I got it."
-
-                    ],
-                    [
-                        "Next, ask their name, occupation, and company by. What is your name? What do you do? Who do you work for?"
-                    ]
-                )
-            },
-            {
-                "index": "1-0-0-0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Yes", "I got it."
-                    ],
-                    [
-                        "Finally, come to Administration department and fill it in computer. The computer password is I love you."
+                        [
+                            "Please go down to the lobby first. There are 20 people waiting for you there.",
+                            "Second, remember to greet them by. Hi, how are you?",
+                            "Next, ask their name, occupation, and company by. What is your name? What do you do? Who do you work for?",
+                            "Finally, come to Administration department and fill it in computer. The computer password is I love you."
+                        ]
                     ]
                 )
             },
