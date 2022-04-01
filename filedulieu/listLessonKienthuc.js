@@ -61,8 +61,18 @@ module.exports = [
         "fileName": "B1_mergerandquisition/D",
         "videoSrc": "https://www.youtube.com/embed/1Gyw5X02ISc"
     },
-    { "id": "merger-acquisition-5", "name": "M&A Letters of Intent: Are They Really Necessary?", "fileName": "B1_mergerandquisition/bai5", "videoSrc": "https://www.youtube.com/embed/aNioqOmfOe4" },
-    { "id": "merger-acquisition-6", "name": "How to Structure Earnouts in Business Mergers & Acquisitions", "fileName": "B1_mergerandquisition/bai6", "videoSrc": "https://www.youtube.com/embed/Q3DfoFgXLwY" },
+    {
+        "id": "merger-acquisition-5",
+        "name": "M&A Letters of Intent: Are They Really Necessary?",
+        "fileName": "B1_mergerandquisition/D",
+        "videoSrc": "https://www.youtube.com/embed/aNioqOmfOe4"
+    },
+    {
+        "id": "merger-acquisition-6",
+        "name": "How to Structure Earnouts in Business Mergers & Acquisitions",
+        "fileName": "B1_mergerandquisition/E",
+        "videoSrc": "https://www.youtube.com/embed/Q3DfoFgXLwY"
+    },
     { "id": "merger-acquisition-7", "name": "EBITDA vs SDE: What's the Difference? | A Business Lawyer Explains", "fileName": "B1_mergerandquisition/bai7", "videoSrc": "https://www.youtube.com/embed/lN1XUxvPKQA" },
     { "id": "merger-acquisition-8", "name": "Dealing with Debt in a Business Sale or Acquisition", "fileName": "B1_mergerandquisition/bai8", "videoSrc": "https://www.youtube.com/embed/rWu5eV6FhJY" },
     { "id": "merger-acquisition-9", "name": "Comparing Multiple Offers: Mergers & Acquisitons Explained", "fileName": "B1_mergerandquisition/bai9", "videoSrc": "https://www.youtube.com/embed/DC9-AqEzXmI" },
