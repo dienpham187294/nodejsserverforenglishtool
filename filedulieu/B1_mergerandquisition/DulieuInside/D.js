@@ -10,7 +10,7 @@ const shuffleArr = require("../../dataHelperFunction/shuffleArr")
 const I01 = require("./A/C1")
 const I02 = require("./A/A1_bai1")
 const I03 = require("./A/A1_bai2")
-const { end_successfull } = require("../../dataHelperFunction/objEndSuccefull")
+// const { end_successfull } = require("../../dataHelperFunction/objEndSuccefull")
 
 let Input = I01.concat(I02, I03)
 

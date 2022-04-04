@@ -11,9 +11,9 @@ const I01 = require("./A/C1")
 const I02 = require("./A/A1_bai1")
 const I03 = require("./A/A1_bai2")
 const I04 = require("./A/E")
-const { end_successfull } = require("../../dataHelperFunction/objEndSuccefull")
+// const { end_successfull } = require("../../dataHelperFunction/objEndSuccefull")
 
-let Input = I04.concat(I01,I02, I03)
+let Input = I04.concat(I01, I02, I03)
 
 let ArrOfSubmit;
 let A1_data = []
