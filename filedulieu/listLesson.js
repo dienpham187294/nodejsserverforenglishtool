@@ -1,22 +1,22 @@
 module.exports = [
     {
         "id": "Nha-hang-1",
-        "name": "Eat here or to go",
+        "name": "1a: Eat here or to go",
         "fileName": "A1_NhaHang_01/bai1_1"
     },
     {
         "id": "Nha-hang-2",
-        "name": "I want to order.",
+        "name": "1b: I want to order.",
         "fileName": "A1_NhaHang_01/bai1_2"
     },
     {
         "id": "Nha-hang-3",
-        "name": "Menu, please!",
+        "name": "1c: Menu, please!",
         "fileName": "A1_NhaHang_01/bai1_3"
     },
     {
         "id": "Nha-hang-4",
-        "name": "I have a question.",
+        "name": "1d: I have a question.",
         "fileName": "A1_NhaHang_01/bai1_4"
     },
     {
@@ -26,27 +26,27 @@ module.exports = [
     },
     {
         "id": "Nha-hang-6",
-        "name": "Ok get me this dish.",
+        "name": "2a: Ok get me this dish.",
         "fileName": "A1_NhaHang_01/bai2_1"
     },
     {
         "id": "Nha-hang-7",
-        "name": "I don't really like it.",
+        "name": "2b: I don't really like it.",
         "fileName": "A1_NhaHang_01/bai2_2"
     },
     {
         "id": "Nha-hang-8",
-        "name": "By the way, do you know where the restroom is?",
+        "name": "2c: By the way, do you know where the restroom is?",
         "fileName": "A1_NhaHang_01/bai2_3"
     },
     {
         "id": "Nha-hang-9",
-        "name": "By the way, do you have any baby chairs?",
+        "name": "2d: By the way, do you have any baby chairs?",
         "fileName": "A1_NhaHang_01/bai2_4"
     },
     {
         "id": "Nha-hang-10",
-        "name": "I want to order",
+        "name": "2e: I want to order",
         "fileName": "A1_NhaHang_01/bai2_5"
     },
     {
@@ -61,22 +61,22 @@ module.exports = [
     },
     {
         "id": "Nha-hang-13",
-        "name": "Your order is ready!",
+        "name": "4a: Your order is ready!",
         "fileName": "A1_NhaHang_01/bai4_01"
     },
     {
         "id": "Nha-hang-14",
-        "name": "I get $120",
+        "name": "4b: I get $120",
         "fileName": "A1_NhaHang_01/bai4_02"
     },
     {
         "id": "Nha-hang-15",
-        "name": "I get $200. Your change is $120",
+        "name": "4c: I get $200. Your change is $120",
         "fileName": "A1_NhaHang_01/bai4_03"
     },
     {
         "id": "Nha-hang-16",
-        "name": "Your order is not ready yet.",
+        "name": "4d: Your order is not ready yet.",
         "fileName": "A1_NhaHang_01/bai4_04"
     },
     {
@@ -86,27 +86,27 @@ module.exports = [
     },
     {
         "id": "Nha-hang-18",
-        "name": "Do you want to change to another day, sir? No thanks!",
+        "name": "5a: Do you want to change to another day, sir? No thanks!",
         "fileName": "A1_NhaHang_01/bai5_01"
     },
     {
         "id": "Nha-hang-19",
-        "name": "We have space available that day.",
+        "name": "5b: We have space available that day.",
         "fileName": "A1_NhaHang_01/bai5_02"
     },
     {
         "id": "Nha-hang-20",
-        "name": "How about the 21 of January.",
+        "name": "5c: How about the 21 of January.",
         "fileName": "A1_NhaHang_01/bai5_03"
     },
     {
         "id": "Nha-hang-21",
-        "name": "I want an outdoor table",
+        "name": "5d: I want an outdoor table",
         "fileName": "A1_NhaHang_01/bai5_04"
     },
     {
         "id": "Nha-hang-22",
-        "name": "So, you take an indoor table. Right?",
+        "name": "5e: So, you take an indoor table. Right?",
         "fileName": "A1_NhaHang_01/bai5_05"
     },
     {
