@@ -7,24 +7,19 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 
-const A1_foods = require("./A1_foods")
-const A1_drinks = require("./A1_drinks")
-
 
 let ArrOfSubmit;
 
-module.exports = function A2_Togo(n) {
+module.exports = function A2_EatHere(n) {
 
     let output = []
     let DataTable = {
-        "m01": ["For here", "To go"],
-        "m02": getElementsToDataTable(A1_foods, "img"),
-        "m03": getElementsToDataTable(A1_drinks, "img"),
+        "m01": ["2", "3", "4"]
     }
 
     ArrPeple.slice(0, n).forEach(e => {
 
-        ArrOfSubmit = []
+        ArrOfSubmit = ["For here"]
 
         let ArrInFN = {}
         ArrInFN.img = e[1]
@@ -44,24 +39,19 @@ module.exports = function A2_Togo(n) {
         let input_01_Body = [
             "0",
             "1",
-            "2"
+
         ]
         let input_02_Body = [
             FnObjHanldingNext(
                 ["How can I help you?", "Do you want to eat here or to go?", "May I help you?"],
-                ["I want to take to go.", "To go, please."]
+                ["I want to eat here.", "Eat here, please."]
             )
             ,
             FnObjHanldingNext(
-                ["What would you like today?", "What do you want to order?"],
-                AwFoods(A1_foods)
+                ["How many people do you have?", "For how many?"],
+                AwHowmany()
             )
-            ,
-            FnObjHanldingNext(
-                ["Do you want to take some drinks", "Something to drink?", "Do you want to order a drink?"],
-                AwDrink(A1_drinks),
-              
-            )
+
         ]
 
         let End = null
@@ -87,30 +77,16 @@ module.exports = function A2_Togo(n) {
     return { "core": output, "tool": DataTable }
 }
 
-function AwFoods(foods) {
+function AwHowmany() {
 
-    let input = pickNRandomElementsOfArray(foods, 1)
+    let input = pickNRandomElementsOfArray(["2", "3", "4"], 1)
 
-    ArrOfSubmit.push(input[0].img)
+    // ArrOfSubmit.push(input[0])
 
     return (
         [
-            "I want to take " + input[0].input,
-            input[0].input + ", please!"
+            "A table for " + input[0] + ", please."
         ]
     )
 }
 
-
-function AwDrink(Drink) {
-    let input = pickNRandomElementsOfArray(Drink, 1)
-
-    ArrOfSubmit.push(input[0].img)
-
-    return (
-        [
-            "I want to take " + input[0].input,
-            input[0].input + ", please!"
-        ]
-    )
-}

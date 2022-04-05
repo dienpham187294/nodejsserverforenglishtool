@@ -1,5 +1,25 @@
 module.exports = [
     {
+        "id": "Nha-hang-sub1",
+        "name": "1a_01: Hi, how arr you?",
+        "fileName": "A1_NhaHang_01/bai1_1a"
+    },
+    {
+        "id": "Nha-hang-sub2",
+        "name": "1a_01: How can I help you?",
+        "fileName": "A1_NhaHang_01/bai1_1b"
+    },
+    {
+        "id": "Nha-hang-sub3",
+        "name": "1a_01: How many people do you have?",
+        "fileName": "A1_NhaHang_01/bai1_1c"
+    },
+    {
+        "id": "Nha-hang-sub4",
+        "name": "1a_01: What would you like, today?",
+        "fileName": "A1_NhaHang_01/bai1_1d"
+    },
+    {
         "id": "Nha-hang-1",
         "name": "1a: Eat here or to go",
         "fileName": "A1_NhaHang_01/bai1_1"

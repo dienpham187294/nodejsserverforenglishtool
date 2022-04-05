@@ -24,7 +24,7 @@ module.exports = function A2_Togo(n) {
 
     ArrPeple.slice(0, n).forEach(e => {
 
-        ArrOfSubmit = []
+        ArrOfSubmit = ["To go"]
 
         let ArrInFN = {}
         ArrInFN.img = e[1]
@@ -91,7 +91,7 @@ function AwFoods(foods) {
 
     let input = pickNRandomElementsOfArray(foods, 1)
 
-    ArrOfSubmit.push(input[0].img)
+    // ArrOfSubmit.push(input[0].img)
 
     return (
         [
@@ -105,7 +105,7 @@ function AwFoods(foods) {
 function AwDrink(Drink) {
     let input = pickNRandomElementsOfArray(Drink, 1)
 
-    ArrOfSubmit.push(input[0].img)
+    // ArrOfSubmit.push(input[0].img)
 
     return (
         [

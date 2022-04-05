@@ -17,9 +17,9 @@ module.exports = function A2_Togo(n) {
 
     let output = []
     let DataTable = {
-        "m01": ["For here", "To go"],
-        "m02": getElementsToDataTable(A1_foods, "img"),
-        "m03": getElementsToDataTable(A1_drinks, "img"),
+        "m01": ["Doing fine", "Good", "I'm good", "I'm great"],
+        // "m02": getElementsToDataTable(A1_foods, "img"),
+        // "m03": getElementsToDataTable(A1_drinks, "img"),
     }
 
     ArrPeple.slice(0, n).forEach(e => {
@@ -34,33 +34,26 @@ module.exports = function A2_Togo(n) {
             "img": "https://i.postimg.cc/kgRbM0Rv/guest-Is-Comming.jpg"
         }
         let SpeakFirst = ["Hi", "Hello"]
+
+
+        let input = pickNRandomElementsOfArray(["Doing fine", "Good", "I'm good", "I'm great"], 1)
+     
+         ArrOfSubmit.push(input[0])
         let ArrBegin = [
             FnObjHanldingNext(
                 ["Hi, how are you?", "Good afternoon, how are you?", "Good morning, how are you?", "Good evening, how are you?"],
-                ["Doing fine", "Good", "I'm good", "I'm great"]
+                input
             )
         ]
 
         let input_01_Body = [
             "0",
-            "1",
-            "2"
+
         ]
         let input_02_Body = [
             FnObjHanldingNext(
-                ["How can I help you?", "Do you want to eat here or to go?", "May I help you?"],
-                ["I want to take to go.", "To go, please."]
-            )
-            ,
-            FnObjHanldingNext(
-                ["What would you like today?", "What do you want to order?"],
-                AwFoods(A1_foods)
-            )
-            ,
-            FnObjHanldingNext(
-                ["Do you want to take some drinks", "Something to drink?", "Do you want to order a drink?"],
-                AwDrink(A1_drinks),
-              
+                ["Hi, how are you?", "Good afternoon, how are you?", "Good morning, how are you?", "Good evening, how are you?"],
+                input
             )
         ]
 
@@ -79,7 +72,7 @@ module.exports = function A2_Togo(n) {
                 FnToArrobj(input_01_Body, input_02_Body),
                 End,
                 SpeakFirst,
-                "Hi"
+                ""
             )
         )
     })

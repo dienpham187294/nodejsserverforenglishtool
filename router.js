@@ -22,7 +22,10 @@ router.get("/menuIPA", (req, res) => {
   const data = require("./filedulieu/C_IPA/A_IPA")
   res.send({ "data": data }).status(200);
 });
-
+router.get("/menuNghe", (req, res) => {
+  const data = require("./filedulieu/D_LISTEN/DA_DATA")
+  res.send({ "data": data }).status(200);
+});
 router.get("/menuMusic", (req, res) => {
   const data = require("./filedulieu/C_IPA/B_Mucsic")
   res.send({ "data": data }).status(200);
@@ -67,6 +70,21 @@ router.post("/loadDataIPA", jsonParser, (req, res) => {
 
   res.send({ "data": output }).status(200);
 });
+
+router.post("/loadDataListen", jsonParser, (req, res) => {
+  const data = require("./filedulieu/D_LISTEN/DA_DATA")
+  let output = []
+  data.forEach(e => {
+    if (e.id == req.body.id) {
+      output.push(e)
+    }
+  })
+
+  res.send({ "data": output }).status(200);
+});
+
+
+
 
 
 router.post("/loadDataMusic", jsonParser, (req, res) => {

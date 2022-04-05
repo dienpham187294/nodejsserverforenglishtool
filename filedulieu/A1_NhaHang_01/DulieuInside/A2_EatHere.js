@@ -19,7 +19,7 @@ module.exports = function A2_EatHere(n) {
 
     ArrPeple.slice(0, n).forEach(e => {
 
-        ArrOfSubmit = ["For here"]
+        ArrOfSubmit = []
 
         let ArrInFN = {}
         ArrInFN.img = e[1]
@@ -44,7 +44,7 @@ module.exports = function A2_EatHere(n) {
         let input_02_Body = [
             FnObjHanldingNext(
                 ["How can I help you?", "Do you want to eat here or to go?", "May I help you?"],
-                ["I want to eat here?", "Eat here, please."]
+                ["I want to eat here.", "Eat here, please."]
             )
             ,
             FnObjHanldingNext(
