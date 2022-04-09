@@ -8,25 +8,14 @@ const fs = require('file-system');
 const router = require("./router")
 const { mdAPISocket } = require('./api/mdApiSocket');
 const MD = new mdAPISocket(io)
+
+const ARR = require("./database/words3000");
+const { json } = require('body-parser');
 // const i_DATA_ScoreStatistical = require("./api/Data_SCoreStatistical")
 app.use(cors());
 app.use(router);
 let i = 0
 
-
-// console.log(i_DATA_ScoreStatistical)
-// const mongoose = require('mongoose');
-// mongoose.connect('mongodb+srv://ericpham:ericpham@ericphamdatabase.9ymht.mongodb.net/ericpham?retryWrites=true&w=majority', { useNewUrlParser: true, useNewUrlParser: true, useUnifiedTopology: true });
-// var db = mongoose.connection;
-// //Bắt sự kiện error
-// db.on('error', function (err) {
-//     if (err) console.log(err)
-// });
-// //Bắt sự kiện open
-// db.once('open', function () {
-//     TEST(db)
-//     console.log("Kết nối thành công !");
-// });
 
 
 io.on('connection', client => {

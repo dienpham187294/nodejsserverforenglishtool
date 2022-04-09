@@ -54,7 +54,7 @@ router.post("/loadDataVideoSrc", jsonParser, (req, res) => {
 
 
 router.get("/loadDataThuchanhnangcao", jsonParser, (req, res) => {
-  const data = require("./filedulieu/A1_NhaHang_01/bai1")
+  const data = require("./filedulieu/A2_Nangcao_01/bai1")
   res.send({ "data": data }).status(200);
 });
 
