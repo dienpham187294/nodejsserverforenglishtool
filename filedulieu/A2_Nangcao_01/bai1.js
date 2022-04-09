@@ -31,8 +31,13 @@ const Bai1
             "srcYoutube": "",
             "storyBoicanh": "Nhà hàng",
             "story": "",
-            "move": D_Move,
-           
+            "move": [
+                {
+                    index: [480, 267, 552, 297],
+                    data: D_Move
+                }
+            ],
+
             "dataTool": DataTable,
             "hoctap": {
                 "listenRead": [],
