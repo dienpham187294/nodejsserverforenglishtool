@@ -27,7 +27,7 @@ module.exports = function A1_20JobCompany() {
 
 function getOutputT(DataTable) {
     let outputT = []
-    DataA_jobCompany.slice(0, 20).forEach(e => {
+    DataA_jobCompany.forEach(e => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e.img

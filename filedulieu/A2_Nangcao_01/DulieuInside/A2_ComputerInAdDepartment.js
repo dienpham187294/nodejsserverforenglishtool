@@ -14,18 +14,18 @@ const DataA_jobCompany = require("../A/A_jobCompany")
 let ArrOfSubmit;
 
 
-module.exports = function A2_Computer() {
+module.exports = function A2_Computer(ArrUse) {
 
     let DataTable = {}
 
     let output = [].concat(
-        getOutputT(DataTable),
+        getOutputT(DataTable, ArrUse),
     )
 
     return { "core": shuffleArr(output), "tool": DataTable }
 }
 
-function getOutputT(DataTable) {
+function getOutputT(DataTable, ArrUse) {
     let outputT = []
     // DataA_jobCompany.slice(0, 1).forEach(e => {
     let e = DataA_jobCompany[0]
@@ -56,7 +56,7 @@ function getOutputT(DataTable) {
                 [
                     "Your computer is already!",
                 ],
-                Record(DataA_jobCompany)
+                Record(DataA_jobCompany, ArrUse)
             )
         },
         {
@@ -113,25 +113,43 @@ function getOutputT(DataTable) {
     return outputT
 }
 
-function Record(ARR_Input) {
+function Record(ARR_Input, ArrUse) {
     let ARR_Output = []
 
     ARR_Input.forEach((e, i) => {
-        if (i < 20) {
+        if (ArrUse.includes("" + i)) {
+          
             ARR_Output.push(
                 {
                     "title": "",
-                    "data": e.name + "-" + e.jobTittle + "-" + e.nameCompany,
+                    "data": e.jobTittle,
+                    "stt": true,
+                    "submit": false
+                }
+            )
+            ARR_Output.push(
+                {
+                    "title": "",
+                    "data": e.nameCompany,
                     "stt": true,
                     "submit": false
                 }
             )
         }
         else {
+          
             ARR_Output.push(
                 {
                     "title": "",
-                    "data": e.name + "-" + e.jobTittle + "-" + e.nameCompany,
+                    "data": e.jobTittle,
+                    "stt": true,
+                    "submit": true
+                }
+            )
+            ARR_Output.push(
+                {
+                    "title": "",
+                    "data": e.nameCompany,
                     "stt": true,
                     "submit": true
                 }

@@ -1,8 +1,8 @@
 // const ArrPeple = require("../../dataHelperFunction/ArrOfpeple")
-// const pickNRandomElementsOfArray = require("../../dataHelperFunction/pickNRandomElementsOfArray")
+const pickNRandomElementsOfArray = require("../../dataHelperFunction/pickNRandomElementsOfArray")
 // const getElementsToDataTable = require("../../dataHelperFunction/getElementsToDataTable")
 const Fnperson = require("../../dataHelperFunction/Fnperson")
-const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
+// const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
 const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 // const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
@@ -10,26 +10,34 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 const DataA_jobCompany = require("../A/A_jobCompany")
 const FnData_20JobCompany = require("../DulieuInside/A1_20JobCompany")
 const FnData_Computer = require("../DulieuInside/A2_ComputerInAdDepartment")
-
+const FNA3_Guild = require("../DulieuInside/A3_Guild")
 let ArrOfSubmit;
+let ArrIndexT = [
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29",
+]
 
 
 module.exports = function Amain_01() {
+    let ArrIN = [2, 3, 4, 5, 6]
+    ALL_ARRUSE = []
+    ArrIN.forEach((e, i) => {
+        let ArrUse = pickNRandomElementsOfArray(ArrIndexT, e)
+        ALL_ARRUSE.push(ArrUse)
+    })
 
-    let DataTable = {
 
-    }
-
+    let DataTable = {}
     let output = [].concat(
-        getOutputT(DataTable),
+        getOutputT(DataTable, ALL_ARRUSE),
     )
 
     return { "core": output, "tool": DataTable }
 }
 
-function getOutputT(DataTable) {
+function getOutputT(DataTable, ALL_ARRUSE) {
+
     let outputT = []
-    DataA_jobCompany.slice(0, 1).forEach(e => {
+    DataA_jobCompany.slice(0, 5).forEach((e, i) => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e.img
@@ -40,16 +48,12 @@ function getOutputT(DataTable) {
             "des": e.name,
             "guild": {
                 "img": e[1],
-                "says": [
-                    "Hello",
-                    "I want to tell you",
-                    "fucking good"
-                ],
+                "says": FNA3_Guild(ALL_ARRUSE[i]),
                 "readIndex": [1, 0.9, 1]
             },
             "moveLocation": {
                 "dep0": FnData_20JobCompany(),
-                "dep19": FnData_Computer()
+                "dep19": FnData_Computer(ALL_ARRUSE[i])
             },
         }
 
@@ -58,93 +62,6 @@ function getOutputT(DataTable) {
         if (e.gender === "female") {
             nameBE = ", ma'am"
         }
-        let objUse = {}
-
-        let Begin = [
-            {
-                "index": "0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Hi, What can I do for you" + nameBE + " ?",
-
-                    ],
-                    [
-                        "Can you go to the main lobby? There were 20 people there. I need you to list your name, occupation and company of them.",
-                    ],
-                )
-            },]
-
-        let input_01_Begin = []
-        let input_02_Begin = []
-
-        Begin.forEach(e => {
-            input_01_Begin.push(e.index)
-            input_02_Begin.push(e.handle)
-        })
-        let Mid = [
-            {
-                "index": "0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Yes of cource. I got it.",
-
-                    ],
-                    [
-                        "That's good. Thank you so much!"
-                    ],
-                    {
-                        "moveLocation": {
-                            "dep0": FnData_20JobCompany(),
-                            "dep19": FnData_Computer()
-                        },
-                    }
-                )
-            },
-            {
-                "index": "1",
-                "handle": FnObjHanldingNext(
-                    [
-                        "What do I need to do" + nameBE + "?",
-
-                    ],
-                    [
-                        [
-                            "Please go down to the lobby first. There are 20 people waiting for you there.",
-                            "Second, remember to greet them by. Hi, how are you?",
-                            "Next, ask their name, occupation, and company by. What is your name? What do you do? Who do you work for?",
-                            "Finally, come to Administration department and fill it in computer. The computer password is I love you."
-                        ]
-                    ]
-                )
-            },
-            {
-                "index": "2",
-                "handle": FnObjHanldingNext(
-                    [
-                        "I got it.",
-                    ],
-                    [
-                        "That's good. Thank you so much!"
-                    ],
-                    {
-                        "moveLocation": {
-                            "dep0": FnData_20JobCompany(),
-                            "dep19": FnData_Computer()
-                        },
-                    }
-                )
-            },
-        ]
-        let input_01_Body = []
-        let input_02_Body = []
-
-        Mid.forEach(e => {
-            input_01_Body.push(e.index)
-            input_02_Body.push(e.handle)
-        })
-
-        let End = null
-
 
         ArrInFN.Submit = ArrOfSubmit
 
@@ -154,9 +71,9 @@ function getOutputT(DataTable) {
             Fnperson(
                 ArrInFN,
                 DataTable,
-                FnToArrobj(input_01_Begin, input_02_Begin),
-                FnToArrobj(input_01_Body, input_02_Body),
-                End,
+                FnToArrobj([], []),
+                FnToArrobj([], []),
+                null,
                 SpeakFirst,
                 ["Hi"]
             )

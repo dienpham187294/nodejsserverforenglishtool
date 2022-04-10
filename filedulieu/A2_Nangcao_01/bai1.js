@@ -32,7 +32,7 @@ const Bai5
             "status": "",
         },
         {
-            "coerdataoflession": (coerdataoflession)
+            "coerdataoflession": shuffleArr(shuffleArr(shuffleArr(coerdataoflession)))
         }
     ]
 module.exports = Bai5
