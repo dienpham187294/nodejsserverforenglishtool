@@ -1,19 +1,33 @@
 
-const shuffleArr = require("../dataHelperFunction/shuffleArr")
-const A1_20Job = require("./DulieuInside/Amain_01")
+// import shuffleArr from "../dataHelperFunction/shuffleArr"
 const D_Move = require("./A/Z_deparments")
-let InA1_20Job = A1_20Job()
+const A2_Togo = require("./DulieuInside/A2_Togo")
+const A2_EatHere = require("./DulieuInside/A2_EatHere")
+
+
+const shuffleArr = require("../dataHelperFunction/shuffleArr")
+
+let InA2_Togo = A2_Togo(10)
+let InA2_EatHere = A2_EatHere(10)
+
+
+
+
 let coerdataoflession = [].concat(
-    InA1_20Job.core,
+    InA2_Togo.core,
+    InA2_EatHere.core,
+
 )
 
 let DataTable = [
+    InA2_Togo.tool.m01
 ]
 
-const Bai5
+
+const Bai1
     = [
         {
-            "nameoflession": "01 _ Office Staff",
+            "nameoflession": "B.3.2",
             "srcYoutube": "",
             "storyBoicanh": "Nhà hàng",
             "story": "",
@@ -23,6 +37,7 @@ const Bai5
                     data: D_Move
                 }
             ],
+
             "dataTool": DataTable,
             "hoctap": {
                 "listenRead": [],
@@ -32,10 +47,10 @@ const Bai5
             "status": "",
         },
         {
-            "coerdataoflession": (coerdataoflession)
+            "coerdataoflession": shuffleArr(shuffleArr(coerdataoflession))
         }
     ]
-module.exports = Bai5
+module.exports = Bai1
 
 
 

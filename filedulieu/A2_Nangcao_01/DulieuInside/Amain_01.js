@@ -6,37 +6,53 @@ const FnObjHanldingNext = require("../../dataHelperFunction/FnObjHanldingNext")
 const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 // const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
-const shuffleArr = require("../../dataHelperFunction/shuffleArr")
+
 const DataA_jobCompany = require("../A/A_jobCompany")
-
-
+const FnData_20JobCompany = require("../DulieuInside/A1_20JobCompany")
+const FnData_Computer = require("../DulieuInside/A2_ComputerInAdDepartment")
 
 let ArrOfSubmit;
 
 
-module.exports = function A1_20JobCompany() {
+module.exports = function Amain_01() {
 
-    let DataTable = {}
+    let DataTable = {
+
+    }
 
     let output = [].concat(
         getOutputT(DataTable),
     )
 
-    return { "core": shuffleArr(output), "tool": DataTable }
+    return { "core": output, "tool": DataTable }
 }
 
 function getOutputT(DataTable) {
     let outputT = []
-    DataA_jobCompany.slice(0, 20).forEach(e => {
+    DataA_jobCompany.slice(0, 1).forEach(e => {
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e.img
         ArrInFN.gender = e.gender
         ArrInFN.viewPick = {
-            "header": "The main lobby!",
-            "img": e.img,
-            "des": e.name
+            "header": "Calling!",
+            "img": "https://i.postimg.cc/QdrkPKhZ/11-maze-map-game-puzzle-build-find-way-out-solution-labyrinth-mission-512.png",
+            "des": e.name,
+            "guild": {
+                "img": e[1],
+                "says": [
+                    "Hello",
+                    "I want to tell you",
+                    "fucking good"
+                ],
+                "readIndex": [1, 0.9, 1]
+            },
+            "moveLocation": {
+                "dep0": FnData_20JobCompany(),
+                "dep19": FnData_Computer()
+            },
         }
+
         let SpeakFirst = ["Hi", "Hello"]
         let nameBE = ", sir"
         if (e.gender === "female") {
@@ -49,12 +65,11 @@ function getOutputT(DataTable) {
                 "index": "0",
                 "handle": FnObjHanldingNext(
                     [
-                        "Hi, how are you?",
+                        "Hi, What can I do for you" + nameBE + " ?",
 
                     ],
                     [
-                        "I'm good.",
-                        "I'm fine."
+                        "Can you go to the main lobby? There were 20 people there. I need you to list your name, occupation and company of them.",
                     ],
                 )
             },]
@@ -71,23 +86,34 @@ function getOutputT(DataTable) {
                 "index": "0",
                 "handle": FnObjHanldingNext(
                     [
-                        "What is your name" + nameBE + "?",
+                        "Yes of cource. I got it.",
 
                     ],
                     [
-                        "My name is " + e.name
-                    ]
+                        "That's good. Thank you so much!"
+                    ],
+                    {
+                        "moveLocation": {
+                            "dep0": FnData_20JobCompany(),
+                            "dep19": FnData_Computer()
+                        },
+                    }
                 )
             },
             {
                 "index": "1",
                 "handle": FnObjHanldingNext(
                     [
-                        "What do you do?",
+                        "What do I need to do" + nameBE + "?",
 
                     ],
                     [
-                        "I am  " + e.jobTittle
+                        [
+                            "Please go down to the lobby first. There are 20 people waiting for you there.",
+                            "Second, remember to greet them by. Hi, how are you?",
+                            "Next, ask their name, occupation, and company by. What is your name? What do you do? Who do you work for?",
+                            "Finally, come to Administration department and fill it in computer. The computer password is I love you."
+                        ]
                     ]
                 )
             },
@@ -95,27 +121,19 @@ function getOutputT(DataTable) {
                 "index": "2",
                 "handle": FnObjHanldingNext(
                     [
-                        "Who do you do work for?",
-
+                        "I got it.",
                     ],
                     [
-                        "I work for  " + e.nameCompany + " company."
-                    ]
-                )
-            },
-            {
-                "index": "3",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Thank you.",
-
+                        "That's good. Thank you so much!"
                     ],
-                    [
-                        "You are welcome."
-                    ]
+                    {
+                        "moveLocation": {
+                            "dep0": FnData_20JobCompany(),
+                            "dep19": FnData_Computer()
+                        },
+                    }
                 )
             },
-
         ]
         let input_01_Body = []
         let input_02_Body = []
