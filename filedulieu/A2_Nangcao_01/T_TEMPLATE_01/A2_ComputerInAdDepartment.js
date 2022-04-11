@@ -14,21 +14,18 @@ const DataA_jobCompany = require("../A/A_jobCompany")
 let ArrOfSubmit;
 
 
-module.exports = function A2_Computer(ArrUse) {
-
-    let DataTable = {}
-
+module.exports = function A2_Computer(DATA, ArrUse) {
+    let DATAUSE = [].concat(DATA.data)
     let output = [].concat(
-        getOutputT(DataTable, ArrUse),
+        getOutputT(DATAUSE, ArrUse),
     )
-
-    return { "core": shuffleArr(output), "tool": DataTable }
+    return { "core": shuffleArr(output), "tool": [] }
 }
 
-function getOutputT(DataTable, ArrUse) {
+function getOutputT(DATAUSE, ArrUse) {
     let outputT = []
     // DataA_jobCompany.slice(0, 1).forEach(e => {
-    let e = DataA_jobCompany[0]
+    let e = DATAUSE[0]
     ArrOfSubmit = []
     let ArrInFN = {}
     ArrInFN.img = "https://i.postimg.cc/wjJBbfkp/desktop.png"
@@ -50,13 +47,12 @@ function getOutputT(DataTable, ArrUse) {
             "index": "0",
             "handle": FnObjHanldingNext(
                 [
-                    "I love you!",
-
+                    e.password,
                 ],
                 [
-                    "Your computer is already!",
+                    "Your computer is already! Say I'm done when you finish! Thank you!",
                 ],
-                Record(DataA_jobCompany, ArrUse)
+                Record(DATAUSE, ArrUse)
             )
         },
         {
@@ -100,7 +96,7 @@ function getOutputT(DataTable, ArrUse) {
     outputT.push(
         Fnperson(
             ArrInFN,
-            DataTable,
+            [],
             FnToArrobj(input_01_Begin, input_02_Begin),
             FnToArrobj(input_01_Body, input_02_Body),
             End,
@@ -118,41 +114,30 @@ function Record(ARR_Input, ArrUse) {
 
     ARR_Input.forEach((e, i) => {
         if (ArrUse.includes(i)) {
-            ARR_Output.push(
-                {
-                    "title": "",
-                    "data": e.jobTittle,
-                    "stt": true,
-                    "submit": false
-                }
-            )
-            ARR_Output.push(
-                {
-                    "title": "",
-                    "data": e.nameCompany,
-                    "stt": true,
-                    "submit": false
-                }
-            )
+
+            e.submit.forEach(e1 => {
+                ARR_Output.push(
+                    {
+                        "title": "",
+                        "data": e1,
+                        "stt": true,
+                        "submit": false
+                    }
+                )
+            })
         }
         else {
 
-            ARR_Output.push(
-                {
-                    "title": "",
-                    "data": e.jobTittle,
-                    "stt": true,
-                    "submit": true
-                }
-            )
-            ARR_Output.push(
-                {
-                    "title": "",
-                    "data": e.nameCompany,
-                    "stt": true,
-                    "submit": true
-                }
-            )
+            e.submit.forEach(e1 => {
+                ARR_Output.push(
+                    {
+                        "title": "",
+                        "data": e1,
+                        "stt": true,
+                        "submit": true
+                    }
+                )
+            })
         }
     })
     return {

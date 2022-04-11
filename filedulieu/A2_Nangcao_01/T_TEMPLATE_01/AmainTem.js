@@ -7,17 +7,18 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 // const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 
-const DataA_jobCompany = require("../A/A_jobCompany")
-const FnData_20JobCompany = require("../DulieuInside/A1_20JobCompany")
-const FnData_Computer = require("../DulieuInside/A2_ComputerInAdDepartment")
-const FNA3_Guild = require("../DulieuInside/A3_Guild")
+const FnData_20JobCompany = require("./A1_20JobCompany")
+const FnData_Computer = require("./A2_ComputerInAdDepartment")
+const FNA3_Guild = require("./A3_Guild")
 let ArrOfSubmit;
-let ArrIndexT = []
-DataA_jobCompany.forEach((e, i) => {
-    ArrIndexT.push(i)
-})
 
-module.exports = function Amain_01() {
+
+module.exports = function Amain_01(data) {
+    let DataA_jobCompany = [].concat(data.data)
+    let ArrIndexT = []
+    DataA_jobCompany.forEach((e, i) => {
+        ArrIndexT.push(i)
+    })
     let ArrIN = [2, 3, 4]
     ALL_ARRUSE = []
     ArrIN.forEach((e, i) => {
@@ -28,13 +29,13 @@ module.exports = function Amain_01() {
 
     let DataTable = {}
     let output = [].concat(
-        getOutputT(DataTable, ALL_ARRUSE),
+        getOutputT(DataA_jobCompany, ALL_ARRUSE, data),
     )
 
     return { "core": output, "tool": DataTable }
 }
 
-function getOutputT(DataTable, ALL_ARRUSE) {
+function getOutputT(DataA_jobCompany, ALL_ARRUSE, data) {
 
     let outputT = []
     DataA_jobCompany.slice(0, 3).forEach((e, i) => {
@@ -42,19 +43,21 @@ function getOutputT(DataTable, ALL_ARRUSE) {
         let ArrInFN = {}
         ArrInFN.img = e.img
         ArrInFN.gender = e.gender
+
+
+        let objMoveLocation = {}
+        objMoveLocation[DataA_jobCompany[1].code1] = FnData_20JobCompany(data)
+        objMoveLocation[DataA_jobCompany[1].code2] = FnData_Computer(data, ALL_ARRUSE[i])
         ArrInFN.viewPick = {
             "header": "Calling!",
             "img": "https://i.postimg.cc/QdrkPKhZ/11-maze-map-game-puzzle-build-find-way-out-solution-labyrinth-mission-512.png",
             "des": e.name,
             "guild": {
                 "img": e[1],
-                "says": FNA3_Guild(ALL_ARRUSE[i]),
+                "says": FNA3_Guild(data, ALL_ARRUSE[i]),
                 "readIndex": [1, 0.9, 1]
             },
-            "moveLocation": {
-                "dep0": FnData_20JobCompany(),
-                "dep19": FnData_Computer(ALL_ARRUSE[i])
-            },
+            "moveLocation": objMoveLocation,
         }
 
         let SpeakFirst = ["Hi", "Hello"]
@@ -70,7 +73,7 @@ function getOutputT(DataTable, ALL_ARRUSE) {
         outputT.push(
             Fnperson(
                 ArrInFN,
-                DataTable,
+                null,
                 FnToArrobj([], []),
                 FnToArrobj([], []),
                 null,

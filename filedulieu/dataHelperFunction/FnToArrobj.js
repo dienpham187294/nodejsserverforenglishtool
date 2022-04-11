@@ -5,8 +5,8 @@ function FnToArrobj(ArrIn1, ArrIn2) {
             ObjRes.push(ArrIn2[i])
         }
         else {
-            let ArrTem1 = e.split("-")
             try {
+                let ArrTem1 = e.split("-")
                 let StrTem1 = "ObjRes"
                 for (let i = 0; i < ArrTem1.length - 1; i++) {
                     if (i > 0) {

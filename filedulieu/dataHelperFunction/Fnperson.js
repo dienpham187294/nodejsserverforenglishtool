@@ -23,12 +23,6 @@ function Fnperson(Arr, DataTable, Begin, Middle, End, robotspeakfirst, icon) {
             "submitsyntax": [
                 syntax
             ],
-            "Tabletool": [
-                {
-                    "indexToSubmit": 0,
-                    "dataoftable": DataTable
-                }
-            ],
             "robotspeakfirst": robotspeakfirst
         },
         "begin": {

@@ -1,10 +1,11 @@
 
 const shuffleArr = require("../dataHelperFunction/shuffleArr")
-const A1_20Job = require("./DulieuInside/Amain_01")
+const AmainTem = require("./T_TEMPLATE_01/AmainTem")
+const Data = require("./DLFIX01/DL_EASY_01")
 const D_Move = require("./A/Z_deparments")
-let InA1_20Job = A1_20Job()
+let InAmainTem = AmainTem(Data)
 let coerdataoflession = [].concat(
-    InA1_20Job.core,
+    InAmainTem.core,
 )
 
 let DataTable = [

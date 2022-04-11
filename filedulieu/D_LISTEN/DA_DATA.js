@@ -5,8 +5,14 @@ const D1_fruits = require("./DATALISTEN/D1_fruits")
 const D1_jobs = require("./DATALISTEN/D1_jobs")
 const D1_name = require("./DATALISTEN/D1_name")
 const D1_Department = require("./DATALISTEN/D1_Department")
+const D1_Maps = require("./DATALISTEN/D1_Maps")
 module.exports =
     [
+        {
+            "id": 9,
+            "Words": "Maps",
+            "DataListen": D1_Maps
+        },
         {
             "id": 1,
             "Words": "Hi, how are you?",
