@@ -59,8 +59,7 @@ function getOutputT(DATAUSE, ArrUse) {
             "index": "0-0",
             "handle": FnObjHanldingNext(
                 [
-                    "I'm done!",
-
+                    "I'm done", "Done", "I am done"
                 ],
                 [
                     "",
