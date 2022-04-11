@@ -46,8 +46,8 @@ function getOutputT(DataA_jobCompany, ALL_ARRUSE, data) {
 
 
         let objMoveLocation = {}
-        objMoveLocation[DataA_jobCompany[1].code1] = FnData_20JobCompany(data)
-        objMoveLocation[DataA_jobCompany[1].code2] = FnData_Computer(data, ALL_ARRUSE[i])
+        objMoveLocation[DataA_jobCompany[1].code2] = FnData_20JobCompany(data)
+        objMoveLocation[DataA_jobCompany[1].code1] = FnData_Computer(data, ALL_ARRUSE[i])
         ArrInFN.viewPick = {
             "header": "Calling!",
             "img": "https://i.postimg.cc/QdrkPKhZ/11-maze-map-game-puzzle-build-find-way-out-solution-labyrinth-mission-512.png",
