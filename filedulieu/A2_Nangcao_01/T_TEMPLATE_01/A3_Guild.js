@@ -30,7 +30,7 @@ function getOutputT(DATA, ArrUse) {
     });
     outputT.push(t)
     outputT.push(
-        "Then ask them about their occupation and where they work.",
+        "Then ask them about " + DATA[1].ask,
         "Then come back to " + DATA[1].togo2 + " and fill this data to the computer.",
         "The passwork of the computer is: " + DATA[1].password
     )
