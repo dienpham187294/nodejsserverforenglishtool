@@ -7,7 +7,7 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const convertArrToObjSource = require("../../dataHelperFunction/convertArrToObjSource")
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr")
-const DataA_jobCompany = require("../A/A_jobCompany")
+// const DataA_jobCompany = require("../A/A_jobCompany")
 
 
 
@@ -62,7 +62,7 @@ function getOutputT(DATAUSE, ArrUse) {
                     "I'm done", "Done", "I am done"
                 ],
                 [
-                    "",
+                    "Copied it!",
                 ],
                 objEndSuccefull
             )
@@ -115,6 +115,7 @@ function Record(ARR_Input, ArrUse) {
         if (ArrUse.includes(i)) {
 
             e.submit.forEach(e1 => {
+                // console.log(e1)
                 ARR_Output.push(
                     {
                         "title": "",

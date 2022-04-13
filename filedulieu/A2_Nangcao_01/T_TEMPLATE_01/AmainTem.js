@@ -23,6 +23,7 @@ module.exports = function Amain_01(data) {
     ALL_ARRUSE = []
     ArrIN.forEach((e, i) => {
         let ArrUse = pickNRandomElementsOfArray(ArrIndexT, e)
+
         ALL_ARRUSE.push(ArrUse)
     })
 
