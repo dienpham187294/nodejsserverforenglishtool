@@ -136,7 +136,17 @@ module.exports = [
     },
     {
         "id": "PronunCourses-1",
-        "name": "1000 QuestionAndAnswer",
+        "name": "1000QS - 01",
         "fileName": "PronunCourses/bai1"
+    },
+    {
+        "id": "PronunCourses-2",
+        "name": "1000QS - 02",
+        "fileName": "PronunCourses/bai2"
+    },
+    {
+        "id": "PronunCourses-2",
+        "name": "1000QS - FULL(1-2)",
+        "fileName": "PronunCourses/bai3"
     }
 ]
