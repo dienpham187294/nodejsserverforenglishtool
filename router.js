@@ -19,8 +19,6 @@ router.get("/menuThuchanhkienthuc", (req, res) => {
   const data = require("./filedulieu/listLessonKienthuc")
   res.send({ "data": data }).status(200);
 });
-
-
 router.get("/menuIPA", (req, res) => {
   const data = require("./filedulieu/C_IPA/A_IPA")
   res.send({ "data": data }).status(200);

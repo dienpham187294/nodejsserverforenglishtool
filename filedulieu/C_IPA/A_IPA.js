@@ -300,5 +300,15 @@ module.exports =
             "id": 60,
             "Words": "Who do you work for?",
             "IPA": "huː duː juː wɜːk fɔː?"
+        },
+        {
+            "id": 61,
+            "Words": "What is your name?",
+            "IPA": "wɒt ɪz jɔː neɪm?"
+        },
+        {
+            "id": 62,
+            "Words": "How old are you?",
+            "IPA": "haʊ əʊld ɑː juː?"
         }
     ]
