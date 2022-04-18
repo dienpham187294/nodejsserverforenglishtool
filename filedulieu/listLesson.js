@@ -144,14 +144,4 @@ module.exports = [
         "name": "1000QS - 01",
         "fileName": "PronunCourses/bai1"
     },
-    {
-        "id": "PronunCourses-3",
-        "name": "1000QS - 02",
-        "fileName": "PronunCourses/bai2"
-    },
-    {
-        "id": "PronunCourses-4",
-        "name": "Full (1-2)",
-        "fileName": "PronunCourses/bai3"
-    }
 ]
