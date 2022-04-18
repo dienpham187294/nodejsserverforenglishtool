@@ -290,4 +290,15 @@ module.exports =
             "Words": "I get $200. Your change is 100.",
             "IPA": "aɪ gɛt $200. jʊər ʧeɪnʤ ɪz 100."
         }
+        ,
+        {
+            "id": 59,
+            "Words": "What do you do?",
+            "IPA": "wɒt duː juː duː?"
+        },
+        {
+            "id": 60,
+            "Words": "Who do you work for?",
+            "IPA": "huː duː juː wɜːk fɔː?"
+        }
     ]

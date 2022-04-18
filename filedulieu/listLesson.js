@@ -146,7 +146,7 @@ module.exports = [
     },
     {
         "id": "PronunCourses-2",
-        "name": "1000QS - FULL(1-2)",
+        "name": "1000QS - FULL (1-2)",
         "fileName": "PronunCourses/bai3"
     }
 ]

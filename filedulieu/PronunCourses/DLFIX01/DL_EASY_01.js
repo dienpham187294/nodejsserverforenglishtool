@@ -10,9 +10,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "an operator",
                 "Apple"
@@ -53,9 +54,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a secretary",
                 "Gooseberry"
@@ -96,9 +98,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a business manager",
                 "Banana"
@@ -139,9 +142,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a typist",
                 "Cherry"
@@ -182,9 +186,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a quality control coordinator",
                 "Orange"
@@ -225,9 +230,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "an accountant",
                 "Apricot"
@@ -268,9 +274,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a chief executive officer",
                 "Mango"
@@ -311,9 +318,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a receptionist",
                 "Jackfruit"
@@ -354,9 +362,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a business analyst",
                 "Grapes"
@@ -397,9 +406,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "an office manager",
                 "Kiwifruit"
@@ -440,9 +450,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a risk manager",
                 "Pineapple"
@@ -483,9 +494,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "an auditing clerk",
                 "Lime"
@@ -526,9 +538,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "an administrative specialist",
                 "Pomegranate"
@@ -569,9 +582,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I work at Apple company.",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I work at Apple company.",
             "submit": [
                 "a branch manager",
                 "Peach"
@@ -612,9 +626,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a program administrator",
                 "Avocado"
@@ -655,9 +670,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a human resources",
                 "Pear"
@@ -698,9 +714,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a program manager",
                 "Coconut"
@@ -741,9 +758,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an office assistant",
                 "Tamarind"
@@ -784,9 +802,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an administrative analyst",
                 "Papaya"
@@ -827,9 +846,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an office clerk",
                 "Custard-Apple"
@@ -870,9 +890,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a data entry",
                 "Watermelon"
@@ -913,9 +934,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a file clerk",
                 "Fig"
@@ -956,9 +978,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a computer scientist",
                 "Dragonfruit"
@@ -999,9 +1022,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an account executive",
                 "Guava"
@@ -1042,9 +1066,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a web developer",
                 "Strawberry"
@@ -1085,9 +1110,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an account collector",
                 "MuskMelon"
@@ -1128,9 +1154,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a UX designer",
                 "Blueberry"
@@ -1171,9 +1198,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an executive assistant",
                 "Olives"
@@ -1214,9 +1242,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "a web designer",
                 "Blackberry"
@@ -1257,9 +1286,10 @@ module.exports = {
             "ask": "their occupation, and company.",
             "code1": "dep19",
             "code2": "dep0",
-            "password": "occupation and company.",
+            "password": "I am work as a business manager",
             "togo1": "the main lobby",
             "togo2": "Administration department",
+            "description": "occupation and company.Password: I am work as a business manager",
             "submit": [
                 "an administrative manager",
                 "Java Plum"
