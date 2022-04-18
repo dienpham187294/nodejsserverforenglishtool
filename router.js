@@ -8,6 +8,9 @@ const jsonParser = bodyParser.json()
 router.get("/", (req, res) => {
   res.send("Server is up and running. Success").status(200);
 });
+router.get("/2", (req, res) => {
+  res.send("Server is up and running. Success 2").status(200);
+});
 router.get("/menuThuchanhcoban", (req, res) => {
   const data = require("./filedulieu/listLesson")
   res.send({ "data": data }).status(200);
