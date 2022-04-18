@@ -16,8 +16,6 @@ app.use(cors());
 app.use(router);
 let i = 0
 
-
-
 io.on('connection', client => {
     i++
     console.log("connect_01", client.id, i)
