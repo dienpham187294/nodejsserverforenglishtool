@@ -8,6 +8,8 @@ const D1_Department = require("./DATALISTEN/D1_Department")
 const D1_Maps = require("./DATALISTEN/D1_Maps")
 const E_Age = require("./DATALISTEN/E_Age")
 const E_Name = require("./DATALISTEN/E_Name")
+const E_WhereTheyFrom = require("./DATALISTEN/E_WhereTheyFrom")
+const E_WhereTheyLive = require("./DATALISTEN/E_WhereTheyLive")
 let ArrOutput = [
     {
         "id": 9,
@@ -63,6 +65,16 @@ let ArrOutput = [
         "id": 8,
         "Words": "Departments!",
         "DataListen": D1_Department
+    },
+    {
+        "id": 8,
+        "Words": "WhereTheyFrom!",
+        "DataListen": E_WhereTheyFrom
+    },
+    {
+        "id": 8,
+        "Words": "WhereTheyLive!",
+        "DataListen": E_WhereTheyLive
     }
 ]
 ArrOutput.forEach((e, i) => {
