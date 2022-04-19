@@ -1,4 +1,4 @@
-module.exports = [
+let ArrOutput = [
     {
         "id": "Nha-hang-sub1",
         "name": "1a_01: Hi, how arr you?",
@@ -144,4 +144,19 @@ module.exports = [
         "name": "1000QS - 01",
         "fileName": "PronunCourses/bai1"
     },
+    {
+        "id": "PronunCourses-3",
+        "name": "1000QS - 02",
+        "fileName": "PronunCourses/bai2"
+    },
+    {
+        "id": "PronunCourses-3",
+        "name": "1000QS - 03",
+        "fileName": "PronunCourses/bai3"
+    },
 ]
+
+ArrOutput.forEach((e, i) => {
+    e.id += i
+})
+module.exports = ArrOutput

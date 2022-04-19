@@ -7,28 +7,27 @@ module.exports = {
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Richard",
-                18
+                "March 8",
+                "Mobile App Development"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 18"
+                        "My birthday is on March 8."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Richard",
-                        "I am Richard"
+                        "I work in Mobile App Development."
                     ]
                 }
             ]
@@ -38,28 +37,27 @@ module.exports = {
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Barbara",
-                19
+                "March 17",
+                "Shopify Development"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 19"
+                        "My birthday is on March 17."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Barbara",
-                        "I am Barbara"
+                        "I work in Shopify Development."
                     ]
                 }
             ]
@@ -69,28 +67,27 @@ module.exports = {
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Michael",
-                20
+                "January 21",
+                "WordPress Development"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 20"
+                        "My birthday is on January 21."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Michael",
-                        "I am Michael"
+                        "I work in WordPress Development."
                     ]
                 }
             ]
@@ -100,28 +97,27 @@ module.exports = {
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Betty",
-                21
+                "January 29",
+                "Legal Translation"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 21"
+                        "My birthday is on January 29."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Betty",
-                        "I am Betty"
+                        "I work in Legal Translation."
                     ]
                 }
             ]
@@ -131,28 +127,27 @@ module.exports = {
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Steven",
-                22
+                "May 14",
+                "Documentation & Contract Review"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 22"
+                        "My birthday is on May 14."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Steven",
-                        "I am Steven"
+                        "I work in Documentation & Contract Review."
                     ]
                 }
             ]
@@ -162,28 +157,27 @@ module.exports = {
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Kimberly",
-                23
+                "May 30",
+                "Legal Writing"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 23"
+                        "My birthday is on May 30."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Kimberly",
-                        "I am Kimberly"
+                        "I work in Legal Writing."
                     ]
                 }
             ]
@@ -193,28 +187,27 @@ module.exports = {
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Robert",
-                24
+                "September 5",
+                "Trademark Registration"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 24"
+                        "My birthday is on September 5."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Robert",
-                        "I am Robert"
+                        "I work in Trademark Registration."
                     ]
                 }
             ]
@@ -224,28 +217,27 @@ module.exports = {
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Lisa",
-                25
+                "March 3",
+                "HR Information Systems"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 25"
+                        "My birthday is on March 3."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Lisa",
-                        "I am Lisa"
+                        "I work in HR Information Systems."
                     ]
                 }
             ]
@@ -255,28 +247,27 @@ module.exports = {
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "William",
-                26
+                "October 29",
+                "Organizational Development"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 26"
+                        "My birthday is on October 29."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is William",
-                        "I am William"
+                        "I work in Organizational Development."
                     ]
                 }
             ]
@@ -286,28 +277,27 @@ module.exports = {
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Dorothy",
-                27
+                "December 6",
+                "Social Media Management"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 27"
+                        "My birthday is on December 6."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Dorothy",
-                        "I am Dorothy"
+                        "I work in Social Media Management."
                     ]
                 }
             ]
@@ -317,28 +307,27 @@ module.exports = {
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "David",
-                28
+                "June 14",
+                "Logo Design"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 28"
+                        "My birthday is on June 14."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is David",
-                        "I am David"
+                        "I work in Logo Design."
                     ]
                 }
             ]
@@ -348,28 +337,27 @@ module.exports = {
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Susan",
-                29
+                "November 20",
+                "Machine Learning"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 29"
+                        "My birthday is on November 20."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Susan",
-                        "I am Susan"
+                        "I work in Machine Learning."
                     ]
                 }
             ]
@@ -379,28 +367,27 @@ module.exports = {
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Anthony",
-                30
+                "January 6",
+                "Photoshop Editing"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 30"
+                        "My birthday is on January 6."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Anthony",
-                        "I am Anthony"
+                        "I work in Photoshop Editing."
                     ]
                 }
             ]
@@ -410,28 +397,27 @@ module.exports = {
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "My birthday is on March 8.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Donna",
-                31
+                "December 15",
+                "Architecture & Interior Design"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 31"
+                        "My birthday is on December 15."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Donna",
-                        "I am Donna"
+                        "I work in Architecture & Interior Design."
                     ]
                 }
             ]
@@ -441,28 +427,27 @@ module.exports = {
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Charles",
-                32
+                "August 26",
+                "Video Editing"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 32"
+                        "My birthday is on August 26."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Charles",
-                        "I am Charles"
+                        "I work in Video Editing."
                     ]
                 }
             ]
@@ -472,28 +457,27 @@ module.exports = {
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Mary",
-                33
+                "July 17",
+                "Facebook Advertising"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 33"
+                        "My birthday is on July 17."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Mary",
-                        "I am Mary"
+                        "I work in Facebook Advertising."
                     ]
                 }
             ]
@@ -503,28 +487,27 @@ module.exports = {
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Christopher",
-                34
+                "June 5",
+                "Marketing Strategy"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 34"
+                        "My birthday is on June 5."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Christopher",
-                        "I am Christopher"
+                        "I work in Marketing Strategy."
                     ]
                 }
             ]
@@ -534,28 +517,27 @@ module.exports = {
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Michelle",
-                35
+                "October 28",
+                "Video Marketing"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 35"
+                        "My birthday is on October 28."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Michelle",
-                        "I am Michelle"
+                        "I work in Video Marketing."
                     ]
                 }
             ]
@@ -565,28 +547,27 @@ module.exports = {
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Kenneth",
-                36
+                "February 1",
+                "Articles & Blogs"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 36"
+                        "My birthday is on February 1."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Kenneth",
-                        "I am Kenneth"
+                        "I work in Articles & Blogs."
                     ]
                 }
             ]
@@ -596,28 +577,27 @@ module.exports = {
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Ashley",
-                37
+                "April 30",
+                "Website Content"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 37"
+                        "My birthday is on April 30."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Ashley",
-                        "I am Ashley"
+                        "I work in Website Content."
                     ]
                 }
             ]
@@ -627,28 +607,27 @@ module.exports = {
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Mark",
-                38
+                "September 24",
+                "Resume Writing"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 38"
+                        "My birthday is on September 24."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Mark",
-                        "I am Mark"
+                        "I work in Resume Writing."
                     ]
                 }
             ]
@@ -658,28 +637,27 @@ module.exports = {
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Linda",
-                39
+                "June 13",
+                "Books & eBooks"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 39"
+                        "My birthday is on June 13."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Linda",
-                        "I am Linda"
+                        "I work in Books & eBooks."
                     ]
                 }
             ]
@@ -689,28 +667,27 @@ module.exports = {
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Thomas",
-                40
+                "August 10",
+                "Project Management"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 40"
+                        "My birthday is on August 10."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Thomas",
-                        "I am Thomas"
+                        "I work in Project Management."
                     ]
                 }
             ]
@@ -720,28 +697,27 @@ module.exports = {
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Patricia",
-                41
+                "January 2",
+                "Customer Support"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 41"
+                        "My birthday is on January 2."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Patricia",
-                        "I am Patricia"
+                        "I work in Customer Support."
                     ]
                 }
             ]
@@ -751,28 +727,27 @@ module.exports = {
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Matthew",
-                42
+                "February 10",
+                "Virtual Assistance"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 42"
+                        "My birthday is on February 10."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Matthew",
-                        "I am Matthew"
+                        "I work in Virtual Assistance."
                     ]
                 }
             ]
@@ -782,28 +757,27 @@ module.exports = {
             "name": "Margaret",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Margaret",
-                43
+                "September 8",
+                "eCommerce Management"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 43"
+                        "My birthday is on September 8."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Margaret",
-                        "I am Margaret"
+                        "I work in eCommerce Management."
                     ]
                 }
             ]
@@ -813,28 +787,27 @@ module.exports = {
             "name": "Daniel",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Daniel",
-                44
+                "January 10",
+                "Accounting & Bookkeeping"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 44"
+                        "My birthday is on January 10."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Daniel",
-                        "I am Daniel"
+                        "I work in Accounting & Bookkeeping."
                     ]
                 }
             ]
@@ -844,28 +817,27 @@ module.exports = {
             "name": "Karen",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Karen",
-                45
+                "December 15",
+                "Financial Forecasting & Modeling"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 45"
+                        "My birthday is on December 15."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Karen",
-                        "I am Karen"
+                        "I work in Financial Forecasting & Modeling."
                     ]
                 }
             ]
@@ -875,28 +847,27 @@ module.exports = {
             "name": "Donald",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Donald",
-                46
+                "October 30",
+                "Tax Consulting"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 46"
+                        "My birthday is on October 30."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Donald",
-                        "I am Donald"
+                        "I work in Tax Consulting."
                     ]
                 }
             ]
@@ -906,28 +877,27 @@ module.exports = {
             "name": "Sarah",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I work in Mobile App Development.",
+            "description": "Ask them day of birth and line of job. Password:",
             "submit": [
-                "Sarah",
-                47
+                "June 13",
+                "Financial Wealth Management"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "When is your birthday?"
                     ],
                     "aw": [
-                        "I am 47"
+                        "My birthday is on June 13."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "What line of work are you in?"
                     ],
                     "aw": [
-                        "My name is Sarah",
-                        "I am Sarah"
+                        "I work in Financial Wealth Management."
                     ]
                 }
             ]

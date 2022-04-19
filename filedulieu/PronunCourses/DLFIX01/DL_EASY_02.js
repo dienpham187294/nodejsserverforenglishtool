@@ -7,28 +7,28 @@ module.exports = {
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Richard",
-                18
+                "China",
+                "Tokyo, Japan"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 18"
+                        "I come from the China",
+                        "I’m from China"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Richard",
-                        "I am Richard"
+                        "I live in Tokyo, Japan."
                     ]
                 }
             ]
@@ -38,28 +38,28 @@ module.exports = {
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Barbara",
-                19
+                "India",
+                "Delhi, India"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 19"
+                        "I come from the India",
+                        "I’m from India"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Barbara",
-                        "I am Barbara"
+                        "I live in Delhi, India."
                     ]
                 }
             ]
@@ -69,28 +69,28 @@ module.exports = {
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Michael",
-                20
+                "United States",
+                "Shanghai, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 20"
+                        "I come from the United States",
+                        "I’m from United States"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Michael",
-                        "I am Michael"
+                        "I live in Shanghai, China."
                     ]
                 }
             ]
@@ -100,28 +100,28 @@ module.exports = {
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Betty",
-                21
+                "Indonesia",
+                "Sao Paulo, Brazil"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 21"
+                        "I come from the Indonesia",
+                        "I’m from Indonesia"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Betty",
-                        "I am Betty"
+                        "I live in Sao Paulo, Brazil."
                     ]
                 }
             ]
@@ -131,28 +131,28 @@ module.exports = {
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Steven",
-                22
+                "Pakistan",
+                "Mexico City, Mexico"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 22"
+                        "I come from the Pakistan",
+                        "I’m from Pakistan"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Steven",
-                        "I am Steven"
+                        "I live in Mexico City, Mexico."
                     ]
                 }
             ]
@@ -162,28 +162,28 @@ module.exports = {
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Kimberly",
-                23
+                "Brazil",
+                "Dhaka, Bangladesh"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 23"
+                        "I come from the Brazil",
+                        "I’m from Brazil"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Kimberly",
-                        "I am Kimberly"
+                        "I live in Dhaka, Bangladesh."
                     ]
                 }
             ]
@@ -193,28 +193,28 @@ module.exports = {
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Robert",
-                24
+                "Nigeria",
+                "Cairo, Egypt"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 24"
+                        "I come from the Nigeria",
+                        "I’m from Nigeria"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Robert",
-                        "I am Robert"
+                        "I live in Cairo, Egypt."
                     ]
                 }
             ]
@@ -224,28 +224,28 @@ module.exports = {
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Lisa",
-                25
+                "Bangladesh",
+                "Beijing, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 25"
+                        "I come from the Bangladesh",
+                        "I’m from Bangladesh"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Lisa",
-                        "I am Lisa"
+                        "I live in Beijing, China."
                     ]
                 }
             ]
@@ -255,28 +255,28 @@ module.exports = {
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "William",
-                26
+                "Russia",
+                "Mumbai, India"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 26"
+                        "I come from the Russia",
+                        "I’m from Russia"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is William",
-                        "I am William"
+                        "I live in Mumbai, India."
                     ]
                 }
             ]
@@ -286,28 +286,28 @@ module.exports = {
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Dorothy",
-                27
+                "Mexico",
+                "Osaka, Japan"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 27"
+                        "I come from the Mexico",
+                        "I’m from Mexico"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Dorothy",
-                        "I am Dorothy"
+                        "I live in Osaka, Japan."
                     ]
                 }
             ]
@@ -317,28 +317,28 @@ module.exports = {
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "David",
-                28
+                "Japan",
+                "Karachi, Pakistan"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 28"
+                        "I come from the Japan",
+                        "I’m from Japan"
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is David",
-                        "I am David"
+                        "I live in Karachi, Pakistan."
                     ]
                 }
             ]
@@ -348,28 +348,28 @@ module.exports = {
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Susan",
-                29
+                "Ethiopia",
+                "Chongqing, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 29"
+                        "I come from the Ethiopia.",
+                        "I’m from Ethiopia."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Susan",
-                        "I am Susan"
+                        "I live in Chongqing, China."
                     ]
                 }
             ]
@@ -379,28 +379,28 @@ module.exports = {
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Anthony",
-                30
+                "Philippines",
+                "Istanbul, Turkey"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 30"
+                        "I come from the Philippines.",
+                        "I’m from Philippines."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Anthony",
-                        "I am Anthony"
+                        "I live in Istanbul, Turkey."
                     ]
                 }
             ]
@@ -410,28 +410,28 @@ module.exports = {
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "password": "I come from the Italy.",
+            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
             "submit": [
-                "Donna",
-                31
+                "Egypt",
+                "Buenos Aires, Argentina"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 31"
+                        "I come from the Egypt.",
+                        "I’m from Egypt."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Donna",
-                        "I am Donna"
+                        "I live in Buenos Aires, Argentina."
                     ]
                 }
             ]
@@ -441,28 +441,28 @@ module.exports = {
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Charles",
-                32
+                "Congo",
+                "Kolkata, India"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 32"
+                        "I come from the Congo.",
+                        "I’m from Congo."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Charles",
-                        "I am Charles"
+                        "I live in Kolkata, India."
                     ]
                 }
             ]
@@ -472,28 +472,28 @@ module.exports = {
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Mary",
-                33
+                "Turkey",
+                "Kinshasa, DR Congo"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 33"
+                        "I come from the Turkey.",
+                        "I’m from Turkey."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Mary",
-                        "I am Mary"
+                        "I live in Kinshasa, DR Congo."
                     ]
                 }
             ]
@@ -503,28 +503,28 @@ module.exports = {
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Christopher",
-                34
+                "Iran",
+                "Lagos, Nigeria"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 34"
+                        "I come from the Iran.",
+                        "I’m from Iran."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Christopher",
-                        "I am Christopher"
+                        "I live in Lagos, Nigeria."
                     ]
                 }
             ]
@@ -534,28 +534,28 @@ module.exports = {
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Michelle",
-                35
+                "Germany",
+                "Manila, Philippines"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 35"
+                        "I come from the Germany.",
+                        "I’m from Germany."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Michelle",
-                        "I am Michelle"
+                        "I live in Manila, Philippines."
                     ]
                 }
             ]
@@ -565,28 +565,28 @@ module.exports = {
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Kenneth",
-                36
+                "Thailand",
+                "Tianjin, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 36"
+                        "I come from the Thailand.",
+                        "I’m from Thailand."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Kenneth",
-                        "I am Kenneth"
+                        "I live in Tianjin, China."
                     ]
                 }
             ]
@@ -596,28 +596,28 @@ module.exports = {
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Ashley",
-                37
+                "United Kingdom",
+                "Guangzhou, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 37"
+                        "I come from the United Kingdom.",
+                        "I’m from United Kingdom."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Ashley",
-                        "I am Ashley"
+                        "I live in Guangzhou, China."
                     ]
                 }
             ]
@@ -627,28 +627,28 @@ module.exports = {
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Mark",
-                38
+                "France",
+                "Rio De Janeiro, Brazil"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 38"
+                        "I come from the France.",
+                        "I’m from France."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Mark",
-                        "I am Mark"
+                        "I live in Rio De Janeiro, Brazil."
                     ]
                 }
             ]
@@ -658,28 +658,28 @@ module.exports = {
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Linda",
-                39
+                "Tanzania",
+                "Lahore, Pakistan"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 39"
+                        "I come from the Tanzania.",
+                        "I’m from Tanzania."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Linda",
-                        "I am Linda"
+                        "I live in Lahore, Pakistan."
                     ]
                 }
             ]
@@ -689,28 +689,28 @@ module.exports = {
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Thomas",
-                40
+                "Italy",
+                "Bangalore, India"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 40"
+                        "I come from the Italy.",
+                        "I’m from Italy."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Thomas",
-                        "I am Thomas"
+                        "I live in Bangalore, India."
                     ]
                 }
             ]
@@ -720,28 +720,28 @@ module.exports = {
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Patricia",
-                41
+                "South Africa",
+                "Moscow, Russia"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 41"
+                        "I come from the South Africa.",
+                        "I’m from South Africa."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Patricia",
-                        "I am Patricia"
+                        "I live in Moscow, Russia."
                     ]
                 }
             ]
@@ -751,28 +751,28 @@ module.exports = {
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Matthew",
-                42
+                "Kenya",
+                "Shenzhen, China"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 42"
+                        "I come from the Kenya.",
+                        "I’m from Kenya."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Matthew",
-                        "I am Matthew"
+                        "I live in Shenzhen, China."
                     ]
                 }
             ]
@@ -782,28 +782,28 @@ module.exports = {
             "name": "Margaret",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Margaret",
-                43
+                "Myanmar",
+                "Chennai, India"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 43"
+                        "I come from the Myanmar.",
+                        "I’m from Myanmar."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Margaret",
-                        "I am Margaret"
+                        "I live in Chennai, India."
                     ]
                 }
             ]
@@ -813,28 +813,28 @@ module.exports = {
             "name": "Daniel",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Daniel",
-                44
+                "South Korea",
+                "Bogota, Colombia"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 44"
+                        "I come from the South Korea.",
+                        "I’m from South Korea."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Daniel",
-                        "I am Daniel"
+                        "I live in Bogota, Colombia."
                     ]
                 }
             ]
@@ -844,28 +844,28 @@ module.exports = {
             "name": "Karen",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Karen",
-                45
+                "Colombia",
+                "Paris, France"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 45"
+                        "I come from the Colombia.",
+                        "I’m from Colombia."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Karen",
-                        "I am Karen"
+                        "I live in Paris, France."
                     ]
                 }
             ]
@@ -875,28 +875,28 @@ module.exports = {
             "name": "Donald",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Donald",
-                46
+                "Spain",
+                "Jakarta, Indonesia"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 46"
+                        "I come from the Spain.",
+                        "I’m from Spain."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Donald",
-                        "I am Donald"
+                        "I live in Jakarta, Indonesia."
                     ]
                 }
             ]
@@ -906,28 +906,28 @@ module.exports = {
             "name": "Sarah",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "password": "I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
             "submit": [
-                "Sarah",
-                47
+                "Argentina",
+                "Lima, Peru"
             ],
             "QA": [
                 {
                     "qs": [
-                        "how old are you?"
+                        "Where are you from?"
                     ],
                     "aw": [
-                        "I am 47"
+                        "I come from the Argentina.",
+                        "I’m from Argentina."
                     ]
                 },
                 {
                     "qs": [
-                        "what is your name?"
+                        "Where do you live?"
                     ],
                     "aw": [
-                        "My name is Sarah",
-                        "I am Sarah"
+                        "I live in Lima, Peru."
                     ]
                 }
             ]
