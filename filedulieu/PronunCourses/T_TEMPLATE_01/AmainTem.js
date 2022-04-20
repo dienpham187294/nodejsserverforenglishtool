@@ -116,7 +116,7 @@ function getOutputT(DATAUSE) {
                 FnToArrobj(input_01_Body, input_02_Body),
                 End,
                 SpeakFirst,
-                [e.description + " " + e.password]
+                [e.description, "Password: " + e.password]
             )
         )
     })

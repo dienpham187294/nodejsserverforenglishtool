@@ -8,7 +8,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "China",
                 "Tokyo, Japan"
@@ -39,7 +39,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "India",
                 "Delhi, India"
@@ -70,7 +70,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "United States",
                 "Shanghai, China"
@@ -101,7 +101,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Indonesia",
                 "Sao Paulo, Brazil"
@@ -132,7 +132,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Pakistan",
                 "Mexico City, Mexico"
@@ -163,7 +163,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Brazil",
                 "Dhaka, Bangladesh"
@@ -194,7 +194,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Nigeria",
                 "Cairo, Egypt"
@@ -225,7 +225,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Bangladesh",
                 "Beijing, China"
@@ -256,7 +256,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Russia",
                 "Mumbai, India"
@@ -287,7 +287,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Mexico",
                 "Osaka, Japan"
@@ -318,7 +318,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Japan",
                 "Karachi, Pakistan"
@@ -349,7 +349,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Ethiopia",
                 "Chongqing, China"
@@ -380,7 +380,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Philippines",
                 "Istanbul, Turkey"
@@ -411,7 +411,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I come from the Italy.",
-            "description": "Ask where they are from and where they live? Password: I come from the Italy.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Egypt",
                 "Buenos Aires, Argentina"
@@ -442,7 +442,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Congo",
                 "Kolkata, India"
@@ -473,7 +473,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Turkey",
                 "Kinshasa, DR Congo"
@@ -504,7 +504,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Iran",
                 "Lagos, Nigeria"
@@ -535,7 +535,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Germany",
                 "Manila, Philippines"
@@ -566,7 +566,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Thailand",
                 "Tianjin, China"
@@ -597,7 +597,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "United Kingdom",
                 "Guangzhou, China"
@@ -628,7 +628,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "France",
                 "Rio De Janeiro, Brazil"
@@ -659,7 +659,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Tanzania",
                 "Lahore, Pakistan"
@@ -690,7 +690,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Italy",
                 "Bangalore, India"
@@ -721,7 +721,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "South Africa",
                 "Moscow, Russia"
@@ -752,7 +752,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Kenya",
                 "Shenzhen, China"
@@ -783,7 +783,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Myanmar",
                 "Chennai, India"
@@ -814,7 +814,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "South Korea",
                 "Bogota, Colombia"
@@ -845,7 +845,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Colombia",
                 "Paris, France"
@@ -876,7 +876,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Spain",
                 "Jakarta, Indonesia"
@@ -907,7 +907,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I live in Tokyo, Japan.",
-            "description": "Ask where they are from and where they live? Password: I live in Tokyo, Japan.",
+            "description": "Ask where they are from and where they live?",
             "submit": [
                 "Argentina",
                 "Lima, Peru"

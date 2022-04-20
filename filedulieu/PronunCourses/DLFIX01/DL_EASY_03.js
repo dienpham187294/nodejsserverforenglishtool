@@ -8,7 +8,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "March 8",
                 "Mobile App Development"
@@ -38,7 +38,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "March 17",
                 "Shopify Development"
@@ -68,7 +68,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "January 21",
                 "WordPress Development"
@@ -98,7 +98,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "January 29",
                 "Legal Translation"
@@ -128,7 +128,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "May 14",
                 "Documentation & Contract Review"
@@ -158,7 +158,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "May 30",
                 "Legal Writing"
@@ -188,7 +188,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "September 5",
                 "Trademark Registration"
@@ -218,7 +218,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "March 3",
                 "HR Information Systems"
@@ -248,7 +248,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "October 29",
                 "Organizational Development"
@@ -278,7 +278,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "December 6",
                 "Social Media Management"
@@ -308,7 +308,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "June 14",
                 "Logo Design"
@@ -338,7 +338,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "November 20",
                 "Machine Learning"
@@ -368,7 +368,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "January 6",
                 "Photoshop Editing"
@@ -398,7 +398,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "My birthday is on March 8.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "December 15",
                 "Architecture & Interior Design"
@@ -428,7 +428,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "August 26",
                 "Video Editing"
@@ -458,7 +458,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "July 17",
                 "Facebook Advertising"
@@ -488,7 +488,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "June 5",
                 "Marketing Strategy"
@@ -518,7 +518,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "October 28",
                 "Video Marketing"
@@ -548,7 +548,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "February 1",
                 "Articles & Blogs"
@@ -578,7 +578,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "April 30",
                 "Website Content"
@@ -608,7 +608,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "September 24",
                 "Resume Writing"
@@ -638,7 +638,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "June 13",
                 "Books & eBooks"
@@ -668,7 +668,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "August 10",
                 "Project Management"
@@ -698,7 +698,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "January 2",
                 "Customer Support"
@@ -728,7 +728,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "February 10",
                 "Virtual Assistance"
@@ -758,7 +758,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "September 8",
                 "eCommerce Management"
@@ -788,7 +788,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "January 10",
                 "Accounting & Bookkeeping"
@@ -818,7 +818,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "December 15",
                 "Financial Forecasting & Modeling"
@@ -848,7 +848,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "October 30",
                 "Tax Consulting"
@@ -878,7 +878,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I work in Mobile App Development.",
-            "description": "Ask them day of birth and line of job. Password:",
+            "description": "Ask them day of birth and line of job.",
             "submit": [
                 "June 13",
                 "Financial Wealth Management"

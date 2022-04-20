@@ -8,7 +8,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Richard",
                 18
@@ -39,7 +39,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Barbara",
                 19
@@ -70,7 +70,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Michael",
                 20
@@ -101,7 +101,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Betty",
                 21
@@ -132,7 +132,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Steven",
                 22
@@ -163,7 +163,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Kimberly",
                 23
@@ -194,7 +194,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Robert",
                 24
@@ -225,7 +225,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Lisa",
                 25
@@ -256,7 +256,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "William",
                 26
@@ -287,7 +287,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Dorothy",
                 27
@@ -318,7 +318,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "David",
                 28
@@ -349,7 +349,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Susan",
                 29
@@ -380,7 +380,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Anthony",
                 30
@@ -411,7 +411,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "I am 18",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Donna",
                 31
@@ -442,7 +442,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Charles",
                 32
@@ -473,7 +473,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Mary",
                 33
@@ -504,7 +504,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Christopher",
                 34
@@ -535,7 +535,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Michelle",
                 35
@@ -566,7 +566,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Kenneth",
                 36
@@ -597,7 +597,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Ashley",
                 37
@@ -628,7 +628,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Mark",
                 38
@@ -659,7 +659,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Linda",
                 39
@@ -690,7 +690,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Thomas",
                 40
@@ -721,7 +721,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Patricia",
                 41
@@ -752,7 +752,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Matthew",
                 42
@@ -783,7 +783,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Margaret",
                 43
@@ -814,7 +814,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Daniel",
                 44
@@ -845,7 +845,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Karen",
                 45
@@ -876,7 +876,7 @@ module.exports = {
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Donald",
                 46
@@ -907,7 +907,7 @@ module.exports = {
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
             "password": "My name is Susan",
-            "description": "Name and age. Password: ",
+            "description": "Name and age.",
             "submit": [
                 "Sarah",
                 47
