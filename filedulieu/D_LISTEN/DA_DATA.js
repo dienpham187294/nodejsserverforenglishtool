@@ -10,71 +10,79 @@ const E_Age = require("./DATALISTEN/E_Age")
 const E_Name = require("./DATALISTEN/E_Name")
 const E_WhereTheyFrom = require("./DATALISTEN/E_WhereTheyFrom")
 const E_WhereTheyLive = require("./DATALISTEN/E_WhereTheyLive")
+const F_DOB = require("./DATALISTEN/F_DOB")
+const F_LineOfWord = require("./DATALISTEN/F_LineOfWord")
 let ArrOutput = [
     {
-        "id": 9,
+
         "Words": "Maps",
         "DataListen": D1_Maps
     },
     {
-        "id": 9,
+
         "Words": "Age",
         "DataListen": E_Age
     },
     {
-        "id": 9,
+
         "Words": "Name",
         "DataListen": E_Name
     },
     {
-        "id": 1,
+
         "Words": "Hi, how are you?",
         "DataListen": hihowareyou
     },
     {
-        "id": 2,
+
         "Words": "How can I help you?",
         "DataListen": hihowareyou
     },
     {
-        "id": 3,
+
         "Words": "What would you like, today?",
         "DataListen": Whatwouldyoulike
     },
     {
-        "id": 4,
+
         "Words": "Something to drink?",
         "DataListen": Somethingtodrink
     },
     {
-        "id": 5,
+
         "Words": "Name!",
         "DataListen": D1_name
     },
     {
-        "id": 6,
+
         "Words": "Jobs!",
         "DataListen": D1_jobs
     },
     {
-        "id": 7,
+
         "Words": "Fruits!",
         "DataListen": D1_fruits
     },
     {
-        "id": 8,
+
         "Words": "Departments!",
         "DataListen": D1_Department
     },
     {
-        "id": 8,
         "Words": "WhereTheyFrom!",
         "DataListen": E_WhereTheyFrom
     },
     {
-        "id": 8,
         "Words": "WhereTheyLive!",
         "DataListen": E_WhereTheyLive
+    },
+    {
+        "Words": "Day of Birth!",
+        "DataListen": F_DOB
+    },
+    {
+        "Words": "Line of Work!",
+        "DataListen": F_LineOfWord
     }
 ]
 ArrOutput.forEach((e, i) => {

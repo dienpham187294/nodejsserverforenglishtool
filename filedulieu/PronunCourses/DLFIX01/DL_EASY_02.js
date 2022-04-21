@@ -7,7 +7,7 @@ module.exports = {
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "China",
@@ -19,7 +19,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the China",
+                        "I come from China",
                         "I’m from China"
                     ]
                 },
@@ -38,7 +38,7 @@ module.exports = {
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "India",
@@ -50,7 +50,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the India",
+                        "I come from India",
                         "I’m from India"
                     ]
                 },
@@ -69,7 +69,7 @@ module.exports = {
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "United States",
@@ -81,7 +81,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the United States",
+                        "I come from United States",
                         "I’m from United States"
                     ]
                 },
@@ -100,7 +100,7 @@ module.exports = {
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Indonesia",
@@ -112,7 +112,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Indonesia",
+                        "I come from Indonesia",
                         "I’m from Indonesia"
                     ]
                 },
@@ -131,7 +131,7 @@ module.exports = {
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Pakistan",
@@ -143,7 +143,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Pakistan",
+                        "I come from Pakistan",
                         "I’m from Pakistan"
                     ]
                 },
@@ -162,7 +162,7 @@ module.exports = {
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Brazil",
@@ -174,7 +174,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Brazil",
+                        "I come from Brazil",
                         "I’m from Brazil"
                     ]
                 },
@@ -193,7 +193,7 @@ module.exports = {
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Nigeria",
@@ -205,7 +205,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Nigeria",
+                        "I come from Nigeria",
                         "I’m from Nigeria"
                     ]
                 },
@@ -224,7 +224,7 @@ module.exports = {
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Bangladesh",
@@ -236,7 +236,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Bangladesh",
+                        "I come from Bangladesh",
                         "I’m from Bangladesh"
                     ]
                 },
@@ -255,7 +255,7 @@ module.exports = {
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Russia",
@@ -267,7 +267,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Russia",
+                        "I come from Russia",
                         "I’m from Russia"
                     ]
                 },
@@ -286,7 +286,7 @@ module.exports = {
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Mexico",
@@ -298,7 +298,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Mexico",
+                        "I come from Mexico",
                         "I’m from Mexico"
                     ]
                 },
@@ -317,7 +317,7 @@ module.exports = {
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Japan",
@@ -329,7 +329,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Japan",
+                        "I come from Japan",
                         "I’m from Japan"
                     ]
                 },
@@ -348,7 +348,7 @@ module.exports = {
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Ethiopia",
@@ -360,7 +360,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Ethiopia.",
+                        "I come from Ethiopia.",
                         "I’m from Ethiopia."
                     ]
                 },
@@ -379,7 +379,7 @@ module.exports = {
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Philippines",
@@ -391,7 +391,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Philippines.",
+                        "I come from Philippines.",
                         "I’m from Philippines."
                     ]
                 },
@@ -410,7 +410,7 @@ module.exports = {
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
-            "password": "I come from the Italy.",
+            "password": "I come from Italy.",
             "description": "Ask where they are from and where they live?",
             "submit": [
                 "Egypt",
@@ -422,7 +422,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Egypt.",
+                        "I come from Egypt.",
                         "I’m from Egypt."
                     ]
                 },
@@ -453,7 +453,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Congo.",
+                        "I come from Congo.",
                         "I’m from Congo."
                     ]
                 },
@@ -484,7 +484,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Turkey.",
+                        "I come from Turkey.",
                         "I’m from Turkey."
                     ]
                 },
@@ -515,7 +515,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Iran.",
+                        "I come from Iran.",
                         "I’m from Iran."
                     ]
                 },
@@ -546,7 +546,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Germany.",
+                        "I come from Germany.",
                         "I’m from Germany."
                     ]
                 },
@@ -577,7 +577,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Thailand.",
+                        "I come from Thailand.",
                         "I’m from Thailand."
                     ]
                 },
@@ -608,7 +608,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the United Kingdom.",
+                        "I come from United Kingdom.",
                         "I’m from United Kingdom."
                     ]
                 },
@@ -639,7 +639,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the France.",
+                        "I come from France.",
                         "I’m from France."
                     ]
                 },
@@ -670,7 +670,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Tanzania.",
+                        "I come from Tanzania.",
                         "I’m from Tanzania."
                     ]
                 },
@@ -701,7 +701,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Italy.",
+                        "I come from Italy.",
                         "I’m from Italy."
                     ]
                 },
@@ -732,7 +732,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the South Africa.",
+                        "I come from South Africa.",
                         "I’m from South Africa."
                     ]
                 },
@@ -763,7 +763,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Kenya.",
+                        "I come from Kenya.",
                         "I’m from Kenya."
                     ]
                 },
@@ -794,7 +794,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Myanmar.",
+                        "I come from Myanmar.",
                         "I’m from Myanmar."
                     ]
                 },
@@ -825,7 +825,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the South Korea.",
+                        "I come from South Korea.",
                         "I’m from South Korea."
                     ]
                 },
@@ -856,7 +856,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Colombia.",
+                        "I come from Colombia.",
                         "I’m from Colombia."
                     ]
                 },
@@ -887,7 +887,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Spain.",
+                        "I come from Spain.",
                         "I’m from Spain."
                     ]
                 },
@@ -918,7 +918,7 @@ module.exports = {
                         "Where are you from?"
                     ],
                     "aw": [
-                        "I come from the Argentina.",
+                        "I come from Argentina.",
                         "I’m from Argentina."
                     ]
                 },
