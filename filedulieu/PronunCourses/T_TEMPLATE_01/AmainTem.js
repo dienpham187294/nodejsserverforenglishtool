@@ -26,7 +26,6 @@ module.exports = function A1_20JobCompany(DATA) {
 function getOutputT(DATAUSE) {
     let outputT = []
     DATAUSE.forEach((e, iM) => {
-        console.log(e.submit, iM)
         ArrOfSubmit = []
         let ArrInFN = {}
         ArrInFN.img = e.img
@@ -127,33 +126,65 @@ function getOutputT(DATAUSE) {
 
 function Record(ARR_Input, iM) {
     let ARR_Output = []
-    ARR_Input.forEach((e, i) => {
-        if (i === iM) {
-            e.submit.forEach(e1 => {
-                // console.log(e1)
-                ARR_Output.push(
-                    {
-                        "title": "",
-                        "data": e1,
-                        "stt": true,
-                        "submit": false
-                    }
-                )
+    let Arr_InCheck = []
+    ARR_Input.forEach(e => {
+        e.submit.forEach(ee => {
+            if (!Arr_InCheck.includes(ee)) {
+                Arr_InCheck.push(ee)
+            }
+        })
+    })
+
+
+    ARR_Input[iM].submit.forEach(ee => {
+        ARR_Output.push(
+            {
+                "title": "",
+                "data": ee,
+                "stt": true,
+                "submit": false
             })
-        }
-        else {
-            e.submit.forEach(e1 => {
-                ARR_Output.push(
-                    {
-                        "title": "",
-                        "data": e1,
-                        "stt": true,
-                        "submit": true
-                    }
-                )
-            })
+    })
+    Arr_InCheck.forEach(e => {
+        if (!ARR_Input[iM].submit.includes(e)) {
+            ARR_Output.push(
+                {
+                    "title": "",
+                    "data": e,
+                    "stt": true,
+                    "submit": true
+                })
         }
     })
+
+
+    // ARR_Input.forEach((e, i) => {
+    //     if (i === iM) {
+    //         e.submit.forEach(e1 => {
+    //             // console.log(e1)
+    //             ARR_Output.push(
+    //                 {
+    //                     "title": "",
+    //                     "data": e1,
+    //                     "stt": true,
+    //                     "submit": false
+    //                 }
+    //             )
+    //         })
+    //     }
+    //     else {
+    //         e.submit.forEach(e1 => {
+    //             ARR_Output.push(
+    //                 {
+    //                     "title": "",
+    //                     "data": e1,
+    //                     "stt": true,
+    //                     "submit": true
+    //                 }
+    //             )
+    //         })
+    //     }
+    // })
     return {
         "action": {
             "name": "Please enter data!",
