@@ -12,6 +12,7 @@ const E_WhereTheyFrom = require("./DATALISTEN/E_WhereTheyFrom")
 const E_WhereTheyLive = require("./DATALISTEN/E_WhereTheyLive")
 const F_DOB = require("./DATALISTEN/F_DOB")
 const F_LineOfWord = require("./DATALISTEN/F_LineOfWord")
+const G_Hobbies = require("./DATALISTEN/G_Hobbies")
 let ArrOutput = [
     {
 
@@ -83,6 +84,10 @@ let ArrOutput = [
     {
         "Words": "Line of Work!",
         "DataListen": F_LineOfWord
+    },
+    {
+        "Words": "What do you like to do?",
+        "DataListen": G_Hobbies
     }
 ]
 ArrOutput.forEach((e, i) => {
