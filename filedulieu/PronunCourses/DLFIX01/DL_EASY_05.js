@@ -3,7 +3,7 @@ module.exports = {
     "base": [],
     "data": [
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pita",
             "name": "Richard",
             "gender": "male",
@@ -34,7 +34,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Hamburger",
             "name": "Barbara",
             "gender": "female",
@@ -65,7 +65,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Fried chicken",
             "name": "Michael",
             "gender": "male",
@@ -96,7 +96,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is French fries",
             "name": "Betty",
             "gender": "female",
@@ -127,7 +127,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Onion ring",
             "name": "Steven",
             "gender": "male",
@@ -158,7 +158,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Chicken nugget",
             "name": "Kimberly",
             "gender": "female",
@@ -189,7 +189,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Taco",
             "name": "Robert",
             "gender": "male",
@@ -220,7 +220,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pizza",
             "name": "Lisa",
             "gender": "female",
@@ -251,7 +251,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Hot dog",
             "name": "William",
             "gender": "male",
@@ -282,7 +282,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Ice cream",
             "name": "Dorothy",
             "gender": "female",
@@ -313,7 +313,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Salad",
             "name": "David",
             "gender": "male",
@@ -344,7 +344,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is White bread",
             "name": "Susan",
             "gender": "female",
@@ -375,7 +375,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Wheat bread",
             "name": "Anthony",
             "gender": "male",
@@ -406,7 +406,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Whole grain bread",
             "name": "Donna",
             "gender": "female",
@@ -437,7 +437,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Rye bread",
             "name": "Charles",
             "gender": "male",
@@ -468,7 +468,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Hot dog bun",
             "name": "Mary",
             "gender": "female",
@@ -499,7 +499,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Hamburger bun",
             "name": "Christopher",
             "gender": "male",
@@ -530,7 +530,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Croissant",
             "name": "Michelle",
             "gender": "female",
@@ -561,7 +561,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Swiss roll",
             "name": "Kenneth",
             "gender": "male",
@@ -592,7 +592,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pretzel",
             "name": "Ashley",
             "gender": "female",
@@ -623,7 +623,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Bagel",
             "name": "Mark",
             "gender": "male",
@@ -654,7 +654,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Donut",
             "name": "Linda",
             "gender": "female",
@@ -685,7 +685,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Roll",
             "name": "Thomas",
             "gender": "male",
@@ -716,7 +716,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Breadstick",
             "name": "Patricia",
             "gender": "female",
@@ -747,7 +747,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is French bread",
             "name": "Matthew",
             "gender": "male",
@@ -778,7 +778,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is baguette",
             "name": "Margaret",
             "gender": "female",
@@ -809,7 +809,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Jelly roll",
             "name": "Daniel",
             "gender": "male",
@@ -840,7 +840,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Apple",
             "name": "Karen",
             "gender": "female",
@@ -871,7 +871,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Watermelon",
             "name": "Donald",
             "gender": "male",
@@ -902,7 +902,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Orange",
             "name": "Sarah",
             "gender": "female",
@@ -933,7 +933,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pear",
             "name": "Richard",
             "gender": "male",
@@ -964,7 +964,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Cherry",
             "name": "Barbara",
             "gender": "female",
@@ -995,7 +995,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Strawberry",
             "name": "Michael",
             "gender": "male",
@@ -1026,7 +1026,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Nectarine",
             "name": "Betty",
             "gender": "female",
@@ -1057,7 +1057,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Grape",
             "name": "Steven",
             "gender": "male",
@@ -1088,7 +1088,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Mango",
             "name": "Kimberly",
             "gender": "female",
@@ -1119,7 +1119,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Blueberry",
             "name": "Robert",
             "gender": "male",
@@ -1150,7 +1150,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pomegranate",
             "name": "Lisa",
             "gender": "female",
@@ -1181,7 +1181,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Carambola",
             "name": "William",
             "gender": "male",
@@ -1212,7 +1212,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Plum",
             "name": "Dorothy",
             "gender": "female",
@@ -1243,7 +1243,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Banana",
             "name": "David",
             "gender": "male",
@@ -1274,7 +1274,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Raspberry",
             "name": "Susan",
             "gender": "female",
@@ -1305,7 +1305,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Mandarin",
             "name": "Anthony",
             "gender": "male",
@@ -1336,7 +1336,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Jackfruit",
             "name": "Donna",
             "gender": "female",
@@ -1367,7 +1367,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Papaya",
             "name": "Charles",
             "gender": "male",
@@ -1398,7 +1398,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Kiwi",
             "name": "Mary",
             "gender": "female",
@@ -1429,7 +1429,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pineapple",
             "name": "Christopher",
             "gender": "male",
@@ -1460,7 +1460,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Lime",
             "name": "Michelle",
             "gender": "female",
@@ -1491,7 +1491,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Lemon",
             "name": "Kenneth",
             "gender": "male",
@@ -1522,7 +1522,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Apricot",
             "name": "Ashley",
             "gender": "female",
@@ -1553,7 +1553,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Grapefruit",
             "name": "Mark",
             "gender": "male",
@@ -1584,7 +1584,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Melon",
             "name": "Linda",
             "gender": "female",
@@ -1615,7 +1615,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Coconut",
             "name": "Thomas",
             "gender": "male",
@@ -1646,7 +1646,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Avocado",
             "name": "Patricia",
             "gender": "female",
@@ -1677,7 +1677,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Peach",
             "name": "Matthew",
             "gender": "male",
@@ -1708,7 +1708,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Star-fruit",
             "name": "Margaret",
             "gender": "female",
@@ -1739,7 +1739,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Corn",
             "name": "Daniel",
             "gender": "male",
@@ -1770,7 +1770,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Mushroom",
             "name": "Karen",
             "gender": "female",
@@ -1801,7 +1801,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Broccoli",
             "name": "Donald",
             "gender": "male",
@@ -1832,7 +1832,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Cucumber",
             "name": "Sarah",
             "gender": "female",
@@ -1863,7 +1863,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Red bell pepper",
             "name": "Richard",
             "gender": "male",
@@ -1894,7 +1894,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Tomato",
             "name": "Barbara",
             "gender": "female",
@@ -1925,7 +1925,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Swede",
             "name": "Michael",
             "gender": "male",
@@ -1956,7 +1956,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Carrot",
             "name": "Betty",
             "gender": "female",
@@ -1987,7 +1987,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Brussels sprout",
             "name": "Steven",
             "gender": "male",
@@ -2018,7 +2018,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pumpkin",
             "name": "Kimberly",
             "gender": "female",
@@ -2049,7 +2049,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Cabbage",
             "name": "Robert",
             "gender": "male",
@@ -2080,7 +2080,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Potato",
             "name": "Lisa",
             "gender": "female",
@@ -2111,7 +2111,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Eggplant",
             "name": "William",
             "gender": "male",
@@ -2142,7 +2142,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Sweet potato",
             "name": "Dorothy",
             "gender": "female",
@@ -2173,7 +2173,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Turnip",
             "name": "David",
             "gender": "male",
@@ -2204,7 +2204,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Courgette",
             "name": "Susan",
             "gender": "female",
@@ -2235,7 +2235,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Green chilli",
             "name": "Anthony",
             "gender": "male",
@@ -2266,7 +2266,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Onion",
             "name": "Donna",
             "gender": "female",
@@ -2297,7 +2297,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Lettuce",
             "name": "Charles",
             "gender": "male",
@@ -2328,7 +2328,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Radish",
             "name": "Mary",
             "gender": "female",
@@ -2359,7 +2359,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pea",
             "name": "Christopher",
             "gender": "male",
@@ -2390,7 +2390,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Asparagus",
             "name": "Michelle",
             "gender": "female",
@@ -2421,7 +2421,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Celery",
             "name": "Kenneth",
             "gender": "male",
@@ -2452,7 +2452,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Green pepper",
             "name": "Ashley",
             "gender": "female",
@@ -2483,7 +2483,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is French beans",
             "name": "Mark",
             "gender": "male",
@@ -2514,7 +2514,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Spinach",
             "name": "Linda",
             "gender": "female",
@@ -2545,7 +2545,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Beetroot",
             "name": "Thomas",
             "gender": "male",
@@ -2576,7 +2576,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Red chilli",
             "name": "Patricia",
             "gender": "female",
@@ -2607,7 +2607,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Bean",
             "name": "Matthew",
             "gender": "male",
@@ -2638,7 +2638,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Rutabaga",
             "name": "Margaret",
             "gender": "female",
@@ -2669,7 +2669,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Zucchini",
             "name": "Daniel",
             "gender": "male",
@@ -2700,7 +2700,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Marmalade",
             "name": "Karen",
             "gender": "female",
@@ -2731,7 +2731,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Ham",
             "name": "Donald",
             "gender": "male",
@@ -2762,7 +2762,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Egg",
             "name": "Sarah",
             "gender": "female",
@@ -2793,7 +2793,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Bread",
             "name": "Richard",
             "gender": "male",
@@ -2824,7 +2824,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Breakfast burrito",
             "name": "Barbara",
             "gender": "female",
@@ -2855,7 +2855,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Bacon",
             "name": "Michael",
             "gender": "male",
@@ -2886,7 +2886,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Porridge",
             "name": "Betty",
             "gender": "female",
@@ -2917,7 +2917,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Muffin",
             "name": "Steven",
             "gender": "male",
@@ -2948,7 +2948,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Waffle",
             "name": "Kimberly",
             "gender": "female",
@@ -2979,7 +2979,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pancake",
             "name": "Robert",
             "gender": "male",
@@ -3010,7 +3010,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Toast",
             "name": "Lisa",
             "gender": "female",
@@ -3041,7 +3041,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Breakfast sandwich",
             "name": "William",
             "gender": "male",
@@ -3072,7 +3072,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Yogurt",
             "name": "Dorothy",
             "gender": "female",
@@ -3103,7 +3103,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Cheese",
             "name": "David",
             "gender": "male",
@@ -3134,7 +3134,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Sausage",
             "name": "Susan",
             "gender": "female",
@@ -3165,7 +3165,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Breakfast cereal",
             "name": "Anthony",
             "gender": "male",
@@ -3196,7 +3196,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Omelet",
             "name": "Donna",
             "gender": "female",
@@ -3227,7 +3227,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Kebab",
             "name": "Charles",
             "gender": "male",
@@ -3258,7 +3258,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Fish",
             "name": "Mary",
             "gender": "female",
@@ -3289,7 +3289,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Steak",
             "name": "Christopher",
             "gender": "male",
@@ -3320,7 +3320,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Broth",
             "name": "Michelle",
             "gender": "female",
@@ -3351,7 +3351,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Tossed salad",
             "name": "Kenneth",
             "gender": "male",
@@ -3382,7 +3382,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Dressing",
             "name": "Ashley",
             "gender": "female",
@@ -3413,7 +3413,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Pasta",
             "name": "Mark",
             "gender": "male",
@@ -3444,7 +3444,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Rice",
             "name": "Linda",
             "gender": "female",
@@ -3475,7 +3475,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Soup",
             "name": "Thomas",
             "gender": "male",
@@ -3506,7 +3506,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Fish and chips",
             "name": "Patricia",
             "gender": "female",
@@ -3537,7 +3537,7 @@ module.exports = {
             ]
         },
         {
-            "Description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
+            "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
             "password": "My favorite food is Sandwich",
             "name": "Matthew",
             "gender": "male",
