@@ -159,6 +159,11 @@ let ArrOutput = [
         "name": "1000QS - 04",
         "fileName": "PronunCourses/bai4"
     },
+    {
+        "id": "PronunCourses-3",
+        "name": "1000QS - 05",
+        "fileName": "PronunCourses/bai5"
+    },
 ]
 
 ArrOutput.forEach((e, i) => {
