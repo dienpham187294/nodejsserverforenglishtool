@@ -100,6 +100,36 @@ router.post("/loadDataMusic", jsonParser, (req, res) => {
   res.send({ "data": output }).status(200);
 });
 
+router.post("/InsertListenData", jsonParser, (req, res) => {
 
+  fs.readFile("./database/Data_Listen.json", 'utf8', (err, jsonFile) => {
+    if (!err) {
+      try {
+        let data = JSON.parse(jsonFile)
+        data.push({ name: req.body.name, data: req.body.body })
+        fs.writeFile("./database/Data_Listen.json", JSON.stringify(data))
+      } catch (error) {
+        console.log(error)
+      }
+    }
+  })
+  res.send({ "success": true }).status(200);
+});
+
+router.post("/InsertSpeakData", jsonParser, (req, res) => {
+
+  fs.readFile("./database/Data_Speak.json", 'utf8', (err, jsonFile) => {
+    if (!err) {
+      try {
+        let data = JSON.parse(jsonFile)
+        let outPut = data.concat(JSON.parse(req.body.body))
+        fs.writeFile("./database/Data_Speak.json", JSON.stringify(outPut))
+      } catch (error) {
+        console.log(error)
+      }
+    }
+  })
+  res.send({ "success": true }).status(200);
+});
 
 module.exports = router;

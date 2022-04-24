@@ -1,0 +1,266 @@
+[
+    {
+        "Words": "Hi, how are you?",
+        "IPA": "haɪ, haʊ ɑr ju?"
+    },
+    {
+        "Words": "How can I help you?",
+        "IPA": "haʊ kæn aɪ hɛlp ju?"
+    },
+    {
+        "Words": "Do you want to eat here or to go?",
+        "IPA": "du ju wɑnt tu it hir ɔr tu goʊ?"
+    },
+    {
+        "Words": "May I help you?",
+        "IPA": "meɪ aɪ hɛlp ju?"
+    },
+    {
+        "Words": "How many people do you have?",
+        "IPA": "haʊ ˈmɛni ˈpipəl du ju hæv?"
+    },
+    {
+        "Words": "For how many?",
+        "IPA": "fɔr haʊ ˈmɛni?"
+    },
+    {
+        "Words": "What would you like today?",
+        "IPA": "wʌt wʊd ju laɪk təˈdeɪ?"
+    },
+    {
+        "Words": "Do you want to take some drinks",
+        "IPA": "du ju wɑnt tu teɪk sʌm drɪŋks"
+    },
+    {
+        "Words": "Something to drink?",
+        "IPA": "ˈsʌmθɪŋ tu drɪŋk?"
+    },
+    {
+        "Words": "Here you are!",
+        "IPA": "hir ju ɑr!"
+    },
+    {
+        "Words": "Yes of course! I bring it to you right now.",
+        "IPA": "jɛs ʌv kɔrs! aɪ brɪŋ ɪt tu ju raɪt naʊ."
+    },
+    {
+        "Words": "The toilet is at the end of the hallway.",
+        "IPA": "ðə ˈtɔɪlət ɪz æt ði ɛnd ʌv ðə ˈhɔlˌweɪ."
+    },
+    {
+        "Words": "I recommend the Grilled fish of the day.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə grɪld fɪʃ ʌv ðə deɪ."
+    },
+    {
+        "Words": "I recommend the Steak with chips or salad.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə steɪk wɪð ʧɪps ɔr ˈsæləd."
+    },
+    {
+        "Words": "I recommend the Sausage and roast tomato pasta.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə ˈsɔsəʤ ænd roʊst təˈmeɪˌtoʊ ˈpɑstə."
+    },
+    {
+        "Words": "I recommend the Chicken salad with garlic yogurt dressing.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə ˈʧɪkən ˈsæləd wɪð ˈgɑrlɪk ˈjoʊgərt ˈdrɛsɪŋ."
+    },
+    {
+        "Words": "I recommend the cheese and tomato pizza.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə ʧiz ænd təˈmeɪˌtoʊ ˈpitsə."
+    },
+    {
+        "Words": "I recommend the Mushroom omelet.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə ˈmʌʃrum ˈɑmlət."
+    },
+    {
+        "Words": "I recommend the Vegetable chili.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə ˈvɛʤtəbəl ˈʧɪli."
+    },
+    {
+        "Words": "I recommend the Soup of the day with brown or white bread.",
+        "IPA": "aɪ ˌrɛkəˈmɛnd ðə sup ʌv ðə deɪ wɪð braʊn ɔr waɪt brɛd."
+    },
+    {
+        "Words": "How about the Grilled fish of the day.",
+        "IPA": "haʊ əˈbaʊt ðə grɪld fɪʃ ʌv ðə deɪ."
+    },
+    {
+        "Words": "How about the Steak with chips or salad.",
+        "IPA": "haʊ əˈbaʊt ðə steɪk wɪð ʧɪps ɔr ˈsæləd."
+    },
+    {
+        "Words": "How about the Sausage and roast tomato pasta.",
+        "IPA": "haʊ əˈbaʊt ðə ˈsɔsəʤ ænd roʊst təˈmeɪˌtoʊ ˈpɑstə."
+    },
+    {
+        "Words": "How about the Chicken salad with garlic yogurt dressing.",
+        "IPA": "haʊ əˈbaʊt ðə ˈʧɪkən ˈsæləd wɪð ˈgɑrlɪk ˈjoʊgərt ˈdrɛsɪŋ."
+    },
+    {
+        "Words": "How about the Cheese and tomato pizza.",
+        "IPA": "haʊ əˈbaʊt ðə ʧiz ænd təˈmeɪˌtoʊ ˈpitsə."
+    },
+    {
+        "Words": "How about the Mushroom omelette.",
+        "IPA": "haʊ əˈbaʊt ðə ˈmʌʃrum omelette."
+    },
+    {
+        "Words": "How about the Vegetable chili.",
+        "IPA": "haʊ əˈbaʊt ðə ˈvɛʤtəbəl ˈʧɪli."
+    },
+    {
+        "Words": "How about the Soup of the day with brown or white bread.",
+        "IPA": "haʊ əˈbaʊt ðə sup ʌv ðə deɪ wɪð braʊn ɔr waɪt brɛd."
+    },
+    {
+        "Words": "Do you need anything else?",
+        "IPA": "du ju nid ˈɛniˌθɪŋ ɛls?"
+    },
+    {
+        "Words": "I got it. Do you need anything else?",
+        "IPA": "aɪ gɑt ɪt. du ju nid ˈɛniˌθɪŋ ɛls?"
+    },
+    {
+        "Words": "What is your name?",
+        "IPA": "wʌt ɪz jʊər neɪm?"
+    },
+    {
+        "Words": "What is your phone number?",
+        "IPA": "wʌt ɪz jʊər foʊn ˈnʌmbər?"
+    },
+    {
+        "Words": "What is your Receipt number?",
+        "IPA": "wʌt ɪz jʊər rɪˈsit ˈnʌmbər?"
+    },
+    {
+        "Words": "Your order is one Grilled fish, one Steak, and one Mineral water. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn grɪld fɪʃ, wʌn steɪk, ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one Steak, one pasta, and one Fresh orange juice. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn steɪk, wʌn ˈpɑstə, ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one pasta, one Chicken salad, and one Soft drink. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpɑstə, wʌn ˈʧɪkən ˈsæləd, ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two pasta and one Mineral water. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈpɑstə ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Chicken salads and one Fresh orange juice. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one Steak and one Mineral water. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn steɪk ænd wʌn ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one pasta and one Fresh orange juice. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpɑstə ænd wʌn frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one Chicken salad and one Soft drink. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈʧɪkən ˈsæləd ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two pizzas and two English tea, Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈpitsəz ænd tu ˈɪŋglɪʃ ti, ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Mushroom omelets and two Irish Cream Coffee. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈmʌʃrum ˈɑmləts ænd tu ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one Chicken salad, one pizza, and one English tea. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈʧɪkən ˈsæləd, wʌn ˈpitsə, ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one pizza, one Mushroom omelet, and one Irish Cream Coffee. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpitsə, wʌn ˈmʌʃrum ˈɑmlət, ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two pizzas and one Soft drink. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈpitsəz ænd wʌn sɑft drɪŋk. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Mushroom omelets and one English tea. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈmʌʃrum ˈɑmləts ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Vegetable chilies and one Irish Cream Coffee. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈvɛʤtəbəl ˈʧɪliz ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Steak and two Mineral water. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu steɪk ænd tu ˈmɪnərəl ˈwɔtər. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two pasta and two Fresh orange juice. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈpɑstə ænd tu frɛʃ ˈɔrənʤ ʤus. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Chicken salads and two Soft drinks. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one pizza and one English tea. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈpitsə ænd wʌn ˈɪŋglɪʃ ti. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is one Mushroom omelet and one Irish Cream Coffee. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz wʌn ˈmʌʃrum ˈɑmlət ænd wʌn ˈaɪrɪʃ krim ˈkɑfi. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is two Chicken salads and two Soft drinks. Is it right?",
+        "IPA": "jɔːr ˈɔːdər ɪz tu ˈʧɪkən ˈsælədz ænd tu sɑft drɪŋks. ɪz ɪt raɪt?"
+    },
+    {
+        "Words": "Your order is not ready yet. Can you wait a few more minutes?",
+        "IPA": "jɔːr ˈɔːdər ɪz nɑt ˈrɛdi jɛt. kæn ju weɪt ə fju mɔr ˈmɪnəts?"
+    },
+    {
+        "Words": "Your order is ready!",
+        "IPA": "jɔːr ˈɔːdər ɪz ˈrɛdi!"
+    },
+    {
+        "Words": "It is $100.",
+        "IPA": "ɪt ɪz $100."
+    },
+    {
+        "Words": "I get $200. Your change is 100.",
+        "IPA": "aɪ gɛt $200. jʊər ʧeɪnʤ ɪz 100."
+    },
+    {
+        "Words": "What do you do?",
+        "IPA": "wɒt duː juː duː?"
+    },
+    {
+        "Words": "Who do you work for?",
+        "IPA": "huː duː juː wɜːk fɔː?"
+    },
+    {
+        "Words": "What is your name?",
+        "IPA": "wɒt ɪz jɔː neɪm?"
+    },
+    {
+        "Words": "How old are you?",
+        "IPA": "haʊ əʊld ɑː juː?"
+    },
+    {
+        "Words": "Where are you from?",
+        "IPA": "weər ɑː juː frɒm?"
+    },
+    {
+        "Words": "Where do you live?",
+        "IPA": "weə duː juː lɪv?"
+    },
+    {
+        "Words": "I live in Tokyo, Japan.",
+        "IPA": "aɪ lɪv ɪn ˈtəʊkiəʊ, ʤəˈpæn."
+    },
+    {
+        "Words": "I come from Italy.",
+        "IPA": "aɪ kʌm frɒm ˈɪtəli."
+    }
+]

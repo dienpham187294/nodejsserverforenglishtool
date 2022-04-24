@@ -1,3 +1,5 @@
+
+const data = require("../../database/Data_Listen.json")
 const hihowareyou = require("./DATALISTEN/Hihowareyou")
 const Whatwouldyoulike = require("./DATALISTEN/Whatwouldyoulike")
 const Somethingtodrink = require("./DATALISTEN/Somethingtodrink")
@@ -110,9 +112,42 @@ let ArrOutput = [
         "DataListen": H_Movies
     }
 ]
+
+try {
+    data.forEach(e => {
+        ArrOutput.push(
+            {
+                "Words": e.name,
+                "DataListen": e.data
+            }
+        )
+    })
+} catch (error) {
+    console.log(e)
+}
+
 ArrOutput.forEach((e, i) => {
     e.id = i + 1
 })
 
 
 module.exports = ArrOutput
+
+
+
+// async function ReadDataListen() {
+//     console.log(3)
+//     try {
+//         await fs.readFile("../../database/Data_Listen.txt", 'utf8', (err, jsonFile) => {
+//             if (!err) {
+//                 try {
+//                     console.log(JSON.parse(jsonFile))
+//                 } catch (error) {
+//                     console.log(error)
+//                 }
+//             }
+//         })
+//     } catch (error) {
+//         console.log(error)
+//     }
+// }
