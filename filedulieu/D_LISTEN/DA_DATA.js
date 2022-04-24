@@ -15,6 +15,7 @@ const E_WhereTheyLive = require("./DATALISTEN/E_WhereTheyLive")
 const F_DOB = require("./DATALISTEN/F_DOB")
 const F_LineOfWord = require("./DATALISTEN/F_LineOfWord")
 const G_Hobbies = require("./DATALISTEN/G_Hobbies")
+const G_Tennis = require("./DATALISTEN/G_Tennis")
 const G_Colors = require("./DATALISTEN/G_Colors")
 const G_Foods = require("./DATALISTEN/G_Foods")
 const H_Drinks = require("./DATALISTEN/H_Drinks")
@@ -96,8 +97,12 @@ let ArrOutput = [
         "DataListen": G_Hobbies
     },
     {
-        "Words": "What kinds of food do you like?",
-        "DataListen": G_Foods
+        "Words": "What kinds of films do you like? ",
+        "DataListen": H_Movies
+    },
+    {
+        "Words": "Do you like playing tennis?",
+        "DataListen": G_Tennis
     },
     {
         "Words": "What color do you like?",
