@@ -97,12 +97,12 @@ let ArrOutput = [
         "DataListen": G_Hobbies
     },
     {
-        "Words": "What kinds of films do you like? ",
-        "DataListen": H_Movies
-    },
-    {
         "Words": "Do you like playing tennis?",
         "DataListen": G_Tennis
+    },
+    {
+        "Words": "What kinds of films do you like? ",
+        "DataListen": H_Movies
     },
     {
         "Words": "What color do you like?",
