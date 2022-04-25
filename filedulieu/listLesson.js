@@ -1,5 +1,6 @@
-const fs = require('file-system');
+// const fs = require('file-system');
 
+const data = require("../database/Data_Practice.json")
 
 let ArrOutput = [
     {
@@ -172,7 +173,7 @@ let ArrOutput = [
         "name": "1000QS - 06",
         "fileName": "PronunCourses/bai6"
     },
-]
+].concat(data)
 
 ArrOutput.forEach((e, i) => {
     e.id += i

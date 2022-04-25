@@ -1,7 +1,8 @@
 const express = require("express");
 const router = express.Router();
 const fs = require('file-system');
-
+const shuffleArr = require("./filedulieu/dataHelperFunction/shuffleArr")
+const AmainTem = require("./filedulieu/PronunCourses/T_TEMPLATE_01/AmainTem")
 const bodyParser = require('body-parser')
 const jsonParser = bodyParser.json()
 
@@ -106,7 +107,7 @@ router.post("/InsertListenData", jsonParser, (req, res) => {
     if (!err) {
       try {
         let data = JSON.parse(jsonFile)
-        data.push({ name: req.body.name, data: req.body.body })
+        data.push({ name: req.body.name, data: JSON.parse(req.body.body) })
         fs.writeFile("./database/Data_Listen.json", JSON.stringify(data))
       } catch (error) {
         console.log(error)
@@ -131,5 +132,48 @@ router.post("/InsertSpeakData", jsonParser, (req, res) => {
   })
   res.send({ "success": true }).status(200);
 });
+router.post("/InsertPracticeData", jsonParser, (req, res) => {
 
+  fs.readFile("./database/Data_Practice.json", 'utf8', (err, jsonFile) => {
+    if (!err) {
+      try {
+        let data = JSON.parse(jsonFile)
+        data.push({ name: req.body.name, fileName: "PronunCourses/" + req.body.name })
+        fs.writeFile("./database/Data_Practice.json", JSON.stringify(data))
+        fs.writeFile("./filedulieu/PronunCourses/" + req.body.name + ".json", JSON.stringify(getPracticeLestion(JSON.parse(req.body.body))))
+      } catch (error) {
+        console.log(error)
+      }
+    }
+  })
+  res.send({ "success": true }).status(200);
+});
 module.exports = router;
+
+
+
+
+
+
+function getPracticeLestion(DAT) {
+  let InAmainTem = AmainTem(DAT)
+  let coerdataoflession = [].concat(
+    InAmainTem.core,
+  )
+  let DataTable = []
+
+
+  const outPut
+    = [
+      {
+        "nameoflession": "B.3.2_01",
+        "story": "",
+        "dataTool": DataTable,
+        "status": "",
+      },
+      {
+        "coerdataoflession": shuffleArr(shuffleArr(coerdataoflession))
+      }
+    ]
+  return outPut
+}
