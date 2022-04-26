@@ -4,7 +4,7 @@ module.exports = {
     "data": [
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pita",
+            "password": "My favorite food is Pita. password",
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -35,7 +35,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Hamburger",
+            "password": "My favorite food is Hamburger. password",
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -66,7 +66,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Fried chicken",
+            "password": "My favorite food is Fried chicken. password",
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -97,7 +97,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is French fries",
+            "password": "My favorite food is French fries. password",
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -128,7 +128,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Onion ring",
+            "password": "My favorite food is Onion ring. password",
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -159,7 +159,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Chicken nugget",
+            "password": "My favorite food is Chicken nugget. password",
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -190,7 +190,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Taco",
+            "password": "My favorite food is Taco. password",
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -221,7 +221,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pizza",
+            "password": "My favorite food is Pizza. password",
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -252,7 +252,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Hot dog",
+            "password": "My favorite food is Hot dog. password",
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -283,7 +283,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Ice cream",
+            "password": "My favorite food is Ice cream. password",
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -314,7 +314,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Salad",
+            "password": "My favorite food is Salad. password",
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -345,7 +345,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is White bread",
+            "password": "My favorite food is White bread. password",
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -376,7 +376,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Wheat bread",
+            "password": "My favorite food is Wheat bread. password",
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -407,7 +407,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Whole grain bread",
+            "password": "My favorite food is Whole grain bread. password",
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -438,7 +438,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Rye bread",
+            "password": "My favorite food is Rye bread. password",
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -469,7 +469,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Hot dog bun",
+            "password": "My favorite food is Hot dog bun. password",
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -500,7 +500,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Hamburger bun",
+            "password": "My favorite food is Hamburger bun. password",
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -531,7 +531,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Croissant",
+            "password": "My favorite food is Croissant. password",
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -562,7 +562,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Swiss roll",
+            "password": "My favorite food is Swiss roll. password",
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -593,7 +593,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pretzel",
+            "password": "My favorite food is Pretzel. password",
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -624,7 +624,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Bagel",
+            "password": "My favorite food is Bagel. password",
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -655,7 +655,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Donut",
+            "password": "My favorite food is Donut. password",
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -686,7 +686,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Roll",
+            "password": "My favorite food is Roll. password",
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -717,7 +717,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Breadstick",
+            "password": "My favorite food is Breadstick. password",
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -748,7 +748,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is French bread",
+            "password": "My favorite food is French bread. password",
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -779,7 +779,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is baguette",
+            "password": "My favorite food is baguette. password",
             "name": "Margaret",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -810,7 +810,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Jelly roll",
+            "password": "My favorite food is Jelly roll. password",
             "name": "Daniel",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -841,7 +841,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Apple",
+            "password": "My favorite food is Apple. password",
             "name": "Karen",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -872,7 +872,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Watermelon",
+            "password": "My favorite food is Watermelon. password",
             "name": "Donald",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -903,7 +903,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Orange",
+            "password": "My favorite food is Orange. password",
             "name": "Sarah",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -934,7 +934,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pear",
+            "password": "My favorite food is Pear. password",
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -965,7 +965,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Cherry",
+            "password": "My favorite food is Cherry. password",
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -996,7 +996,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Strawberry",
+            "password": "My favorite food is Strawberry. password",
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -1027,7 +1027,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Nectarine",
+            "password": "My favorite food is Nectarine. password",
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -1058,7 +1058,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Grape",
+            "password": "My favorite food is Grape. password",
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -1089,7 +1089,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Mango",
+            "password": "My favorite food is Mango. password",
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -1120,7 +1120,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Blueberry",
+            "password": "My favorite food is Blueberry. password",
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -1151,7 +1151,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pomegranate",
+            "password": "My favorite food is Pomegranate. password",
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -1182,7 +1182,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Carambola",
+            "password": "My favorite food is Carambola. password",
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -1213,7 +1213,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Plum",
+            "password": "My favorite food is Plum. password",
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -1244,7 +1244,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Banana",
+            "password": "My favorite food is Banana. password",
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -1275,7 +1275,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Raspberry",
+            "password": "My favorite food is Raspberry. password",
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -1306,7 +1306,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Mandarin",
+            "password": "My favorite food is Mandarin. password",
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -1337,7 +1337,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Jackfruit",
+            "password": "My favorite food is Jackfruit. password",
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -1368,7 +1368,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Papaya",
+            "password": "My favorite food is Papaya. password",
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -1399,7 +1399,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Kiwi",
+            "password": "My favorite food is Kiwi. password",
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -1430,7 +1430,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pineapple",
+            "password": "My favorite food is Pineapple. password",
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -1461,7 +1461,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Lime",
+            "password": "My favorite food is Lime. password",
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -1492,7 +1492,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Lemon",
+            "password": "My favorite food is Lemon. password",
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -1523,7 +1523,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Apricot",
+            "password": "My favorite food is Apricot. password",
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -1554,7 +1554,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Grapefruit",
+            "password": "My favorite food is Grapefruit. password",
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -1585,7 +1585,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Melon",
+            "password": "My favorite food is Melon. password",
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -1616,7 +1616,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Coconut",
+            "password": "My favorite food is Coconut. password",
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -1647,7 +1647,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Avocado",
+            "password": "My favorite food is Avocado. password",
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -1678,7 +1678,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Peach",
+            "password": "My favorite food is Peach. password",
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -1709,7 +1709,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Star-fruit",
+            "password": "My favorite food is Star-fruit. password",
             "name": "Margaret",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -1740,7 +1740,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Corn",
+            "password": "My favorite food is Corn. password",
             "name": "Daniel",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -1771,7 +1771,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Mushroom",
+            "password": "My favorite food is Mushroom. password",
             "name": "Karen",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -1802,7 +1802,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Broccoli",
+            "password": "My favorite food is Broccoli. password",
             "name": "Donald",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -1833,7 +1833,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Cucumber",
+            "password": "My favorite food is Cucumber. password",
             "name": "Sarah",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -1864,7 +1864,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Red bell pepper",
+            "password": "My favorite food is Red bell pepper. password",
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -1895,7 +1895,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Tomato",
+            "password": "My favorite food is Tomato. password",
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -1926,7 +1926,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Swede",
+            "password": "My favorite food is Swede. password",
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -1957,7 +1957,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Carrot",
+            "password": "My favorite food is Carrot. password",
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -1988,7 +1988,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Brussels sprout",
+            "password": "My favorite food is Brussels sprout. password",
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -2019,7 +2019,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pumpkin",
+            "password": "My favorite food is Pumpkin. password",
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -2050,7 +2050,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Cabbage",
+            "password": "My favorite food is Cabbage. password",
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -2081,7 +2081,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Potato",
+            "password": "My favorite food is Potato. password",
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -2112,7 +2112,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Eggplant",
+            "password": "My favorite food is Eggplant. password",
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -2143,7 +2143,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Sweet potato",
+            "password": "My favorite food is Sweet potato. password",
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -2174,7 +2174,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Turnip",
+            "password": "My favorite food is Turnip. password",
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -2205,7 +2205,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Courgette",
+            "password": "My favorite food is Courgette. password",
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -2236,7 +2236,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Green chilli",
+            "password": "My favorite food is Green chilli. password",
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -2267,7 +2267,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Onion",
+            "password": "My favorite food is Onion. password",
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -2298,7 +2298,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Lettuce",
+            "password": "My favorite food is Lettuce. password",
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -2329,7 +2329,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Radish",
+            "password": "My favorite food is Radish. password",
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -2360,7 +2360,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pea",
+            "password": "My favorite food is Pea. password",
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -2391,7 +2391,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Asparagus",
+            "password": "My favorite food is Asparagus. password",
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -2422,7 +2422,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Celery",
+            "password": "My favorite food is Celery. password",
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -2453,7 +2453,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Green pepper",
+            "password": "My favorite food is Green pepper. password",
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -2484,7 +2484,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is French beans",
+            "password": "My favorite food is French beans. password",
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -2515,7 +2515,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Spinach",
+            "password": "My favorite food is Spinach. password",
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -2546,7 +2546,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Beetroot",
+            "password": "My favorite food is Beetroot. password",
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -2577,7 +2577,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Red chilli",
+            "password": "My favorite food is Red chilli. password",
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -2608,7 +2608,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Bean",
+            "password": "My favorite food is Bean. password",
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -2639,7 +2639,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Rutabaga",
+            "password": "My favorite food is Rutabaga. password",
             "name": "Margaret",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -2670,7 +2670,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Zucchini",
+            "password": "My favorite food is Zucchini. password",
             "name": "Daniel",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -2701,7 +2701,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Marmalade",
+            "password": "My favorite food is Marmalade. password",
             "name": "Karen",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -2732,7 +2732,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Ham",
+            "password": "My favorite food is Ham. password",
             "name": "Donald",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -2763,7 +2763,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Egg",
+            "password": "My favorite food is Egg. password",
             "name": "Sarah",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -2794,7 +2794,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Bread",
+            "password": "My favorite food is Bread. password",
             "name": "Richard",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -2825,7 +2825,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Breakfast burrito",
+            "password": "My favorite food is Breakfast burrito. password",
             "name": "Barbara",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -2856,7 +2856,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Bacon",
+            "password": "My favorite food is Bacon. password",
             "name": "Michael",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -2887,7 +2887,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Porridge",
+            "password": "My favorite food is Porridge. password",
             "name": "Betty",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -2918,7 +2918,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Muffin",
+            "password": "My favorite food is Muffin. password",
             "name": "Steven",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -2949,7 +2949,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Waffle",
+            "password": "My favorite food is Waffle. password",
             "name": "Kimberly",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -2980,7 +2980,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pancake",
+            "password": "My favorite food is Pancake. password",
             "name": "Robert",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -3011,7 +3011,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Toast",
+            "password": "My favorite food is Toast. password",
             "name": "Lisa",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -3042,7 +3042,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Breakfast sandwich",
+            "password": "My favorite food is Breakfast sandwich. password",
             "name": "William",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -3073,7 +3073,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Yogurt",
+            "password": "My favorite food is Yogurt. password",
             "name": "Dorothy",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -3104,7 +3104,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Cheese",
+            "password": "My favorite food is Cheese. password",
             "name": "David",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -3135,7 +3135,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Sausage",
+            "password": "My favorite food is Sausage. password",
             "name": "Susan",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -3166,7 +3166,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Breakfast cereal",
+            "password": "My favorite food is Breakfast cereal. password",
             "name": "Anthony",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -3197,7 +3197,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Omelet",
+            "password": "My favorite food is Omelet. password",
             "name": "Donna",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -3228,7 +3228,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Kebab",
+            "password": "My favorite food is Kebab. password",
             "name": "Charles",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
@@ -3259,7 +3259,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Fish",
+            "password": "My favorite food is Fish. password",
             "name": "Mary",
             "gender": "female",
             "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
@@ -3290,7 +3290,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Steak",
+            "password": "My favorite food is Steak. password",
             "name": "Christopher",
             "gender": "male",
             "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
@@ -3321,7 +3321,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Broth",
+            "password": "My favorite food is Broth. password",
             "name": "Michelle",
             "gender": "female",
             "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
@@ -3352,7 +3352,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Tossed salad",
+            "password": "My favorite food is Tossed salad. password",
             "name": "Kenneth",
             "gender": "male",
             "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
@@ -3383,7 +3383,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Dressing",
+            "password": "My favorite food is Dressing. password",
             "name": "Ashley",
             "gender": "female",
             "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
@@ -3414,7 +3414,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Pasta",
+            "password": "My favorite food is Pasta. password",
             "name": "Mark",
             "gender": "male",
             "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
@@ -3445,7 +3445,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Rice",
+            "password": "My favorite food is Rice. password",
             "name": "Linda",
             "gender": "female",
             "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
@@ -3476,7 +3476,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Soup",
+            "password": "My favorite food is Soup. password",
             "name": "Thomas",
             "gender": "male",
             "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
@@ -3507,7 +3507,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Fish and chips",
+            "password": "My favorite food is Fish and chips. password",
             "name": "Patricia",
             "gender": "female",
             "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
@@ -3538,7 +3538,7 @@ module.exports = {
         },
         {
             "description": "Có bạn đến nhà chơi, tôi hỏi bạn thích ăn gì và màu sắc yêu thích của bạn là gì?",
-            "password": "My favorite food is Sandwich",
+            "password": "My favorite food is Sandwich. password",
             "name": "Matthew",
             "gender": "male",
             "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",

@@ -1,1 +1,18 @@
-[{"name":"Lesson 07","fileName":"PronunCourses/Lesson 07"},{"name":"Lesson 08","fileName":"PronunCourses/Lesson 08"}]
+[
+    {
+        "name": "Lesson 07",
+        "fileName": "PronunCourses/Lesson 07"
+    },
+    {
+        "name": "Lesson 08",
+        "fileName": "PronunCourses/Lesson 08"
+    },
+    {
+        "name": "Lesson 09",
+        "fileName": "PronunCourses/Lesson 09"
+    },
+    {
+        "name": "Lesson 10",
+        "fileName": "PronunCourses/Lesson 10"
+    }
+]

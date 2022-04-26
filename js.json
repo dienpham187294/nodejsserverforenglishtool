@@ -1,3 +1,936 @@
-[
-
-]
+{
+    "info": "",
+    "base": [],
+    "data": [
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy an evening dress. password",
+            "name": "Richard",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "a T-shirt.",
+                "black"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a T-shirt.",
+                        "I want to buy a T-shirt."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like black"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a denims jacket. password",
+            "name": "Barbara",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "an evening dress.",
+                "smoke grey color"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for an evening dress.",
+                        "I want to buy an evening dress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like smoke grey color"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a miniskirt. password",
+            "name": "Michael",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "a denims jacket.",
+                "brown"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a denims jacket.",
+                        "I want to buy a denims jacket."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like brown"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a three-piece suit. password",
+            "name": "Betty",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "a miniskirt.",
+                "tawny"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a miniskirt.",
+                        "I want to buy a miniskirt."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like tawny"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a training suit. password",
+            "name": "Steven",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "a three-piece suit.",
+                "umber"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a three-piece suit.",
+                        "I want to buy a three-piece suit."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like umber"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a wool dress. password",
+            "name": "Kimberly",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "a training suit.",
+                "gaudy"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a training suit.",
+                        "I want to buy a training suit."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like gaudy"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a maxi dress. password",
+            "name": "Robert",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "a wool dress.",
+                "green"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a wool dress.",
+                        "I want to buy a wool dress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like green"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a pleated skirt and a blouse. password",
+            "name": "Lisa",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "a maxi dress.",
+                "bright green"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a maxi dress.",
+                        "I want to buy a maxi dress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like bright green"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a blazer. password",
+            "name": "William",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "a pleated skirt and a blouse.",
+                "lime"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a pleated skirt and a blouse.",
+                        "I want to buy a pleated skirt and a blouse."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like lime"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a leather jacket. password",
+            "name": "Dorothy",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "a blazer.",
+                "blue"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a blazer.",
+                        "I want to buy a blazer."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like blue"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a pair of trousers. password",
+            "name": "David",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "a leather jacket.",
+                "peacock blue"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a leather jacket.",
+                        "I want to buy a leather jacket."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like peacock blue"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a polo shirt with two shorts. password",
+            "name": "Susan",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "a pair of trousers.",
+                "salmon"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a pair of trousers.",
+                        "I want to buy a pair of trousers."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like salmon"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a pinafore dress. password",
+            "name": "Anthony",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "a polo shirt with two shorts.",
+                "pink red"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a polo shirt with two shorts.",
+                        "I want to buy a polo shirt with two shorts."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like pink red"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a dressing gown. password",
+            "name": "Donna",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "a pinafore dress.",
+                "orchid"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a pinafore dress.",
+                        "I want to buy a pinafore dress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like orchid"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a pair of jeans. password",
+            "name": "Charles",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "a dressing gown.",
+                "ruby"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a dressing gown.",
+                        "I want to buy a dressing gown."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like ruby"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a overcoat. password",
+            "name": "Mary",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "a pair of jeans.",
+                "deep red"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a pair of jeans.",
+                        "I want to buy a pair of jeans."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like deep red"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy two shirts. password",
+            "name": "Christopher",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "a overcoat.",
+                "violet"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a overcoat.",
+                        "I want to buy a overcoat."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like violet"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a slacks. password",
+            "name": "Michelle",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "two shirts.",
+                "white"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for two shirts.",
+                        "I want to buy two shirts."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like white"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a pinafore dress. password",
+            "name": "Kenneth",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "a slacks.",
+                "orange"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a slacks.",
+                        "I want to buy a slacks."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like orange"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a cardigan. password",
+            "name": "Ashley",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "a pinafore dress.",
+                "yellow"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a pinafore dress.",
+                        "I want to buy a pinafore dress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like yellow"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a sweater and a T-shirt. password",
+            "name": "Mark",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "a cardigan.",
+                "pale yellow"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a cardigan.",
+                        "I want to buy a cardigan."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like pale yellow"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a swimming trunks. password",
+            "name": "Linda",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "a sweater and a T-shirt.",
+                "bronze"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a sweater and a T-shirt.",
+                        "I want to buy a sweater and a T-shirt."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like bronze"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a undershirt. password",
+            "name": "Thomas",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "a swimming trunks.",
+                "ochre"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a swimming trunks.",
+                        "I want to buy a swimming trunks."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like ochre"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a sheepskin coat. password",
+            "name": "Patricia",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "a undershirt.",
+                "dark green"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a undershirt.",
+                        "I want to buy a undershirt."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like dark green"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a blouse. password",
+            "name": "Matthew",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "a sheepskin coat.",
+                "beige"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a sheepskin coat.",
+                        "I want to buy a sheepskin coat."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like beige"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a overcoat. password",
+            "name": "Margaret",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "a blouse.",
+                "grey"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a blouse.",
+                        "I want to buy a blouse."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like grey"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a tight leggings. password",
+            "name": "Daniel",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "a overcoat.",
+                "mint"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a overcoat.",
+                        "I want to buy a overcoat."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like mint"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a sundress. password",
+            "name": "Karen",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "a tight leggings.",
+                "red orange"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a tight leggings.",
+                        "I want to buy a tight leggings."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like red orange"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a culottes. password",
+            "name": "Donald",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "a sundress.",
+                "plum"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a sundress.",
+                        "I want to buy a sundress."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like plum"
+                    ]
+                }
+            ]
+        },
+        {
+            "discription": "Tình huống khách hàng vào cửa hàng hỏi mua quần/áo. Nhân viên tư vấn hỏi khách cần tìm/muốn mua món đồ gì, sau đó hỏi khách thích màu gì?",
+            "password": "I want to buy a sundress. password",
+            "name": "Sarah",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "a culottes.",
+                "purple"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "What are you looking for?",
+                        "How can I help you?"
+                    ],
+                    "aw": [
+                        "I am looking for a culottes.",
+                        "I want to buy a culottes."
+                    ]
+                },
+                {
+                    "qs": [
+                        "What color do you like?"
+                    ],
+                    "aw": [
+                        "I like purple"
+                    ]
+                }
+            ]
+        }
+    ]
+}
