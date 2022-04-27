@@ -140,37 +140,37 @@ let ArrOutput = [
     },
     {
         "id": "PronunCourses-1",
-        "name": "1000QS - 00",
+        "name": "Lesson 00",
         "fileName": "PronunCourses/bai0"
     },
     {
         "id": "PronunCourses-2",
-        "name": "1000QS - 01",
+        "name": "Lesson 01",
         "fileName": "PronunCourses/bai1"
     },
     {
         "id": "PronunCourses-3",
-        "name": "1000QS - 02",
+        "name": "Lesson 02",
         "fileName": "PronunCourses/bai2"
     },
     {
         "id": "PronunCourses-3",
-        "name": "1000QS - 03",
+        "name": "Lesson 03",
         "fileName": "PronunCourses/bai3"
     },
     {
         "id": "PronunCourses-3",
-        "name": "1000QS - 04",
+        "name": "Lesson 04",
         "fileName": "PronunCourses/bai4"
     },
     {
         "id": "PronunCourses-3",
-        "name": "1000QS - 05",
+        "name": "Lesson 05",
         "fileName": "PronunCourses/bai5"
     },
     {
         "id": "PronunCourses-3",
-        "name": "1000QS - 06",
+        "name": "Lesson 06",
         "fileName": "PronunCourses/bai6"
     },
 ].concat(data)
