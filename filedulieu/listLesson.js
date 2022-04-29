@@ -5,7 +5,7 @@ const data = require("../database/Data_Practice.json")
 let ArrOutput = [
     {
         "id": "Nha-hang-sub1",
-        "name": "1a_01: Hi, how arr you?",
+        "name": "1a_01: Hi, how are you?",
         "fileName": "A1_NhaHang_01/bai1_1a"
     },
     {

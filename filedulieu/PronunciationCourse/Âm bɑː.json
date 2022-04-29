@@ -1,0 +1,282 @@
+[
+    {
+        "nameoflession": "B.3.2_01",
+        "story": "",
+        "dataTool": [],
+        "status": ""
+    },
+    {
+        "coerdataoflession": [
+            {
+                "total": {
+                    "image": "https://i.postimg.cc/SRWCVcf4/man2.png",
+                    "status": true,
+                    "gender": "male",
+                    "icon": [
+                        "n.",
+                        "sự tắm"
+                    ],
+                    "viewPick": {
+                        "header": "",
+                        "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+                        "des": "Michael"
+                    },
+                    "submit": [
+                        []
+                    ],
+                    "submitsyntax": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    ],
+                    "robotspeakfirst": [
+                        "Please say Hi!"
+                    ]
+                },
+                "begin": {
+                    "handling_next": [
+                        {
+                            "manspeak": [
+                                "Hi"
+                            ],
+                            "robotspeak": [
+                                ""
+                            ],
+                            "icon": "",
+                            "function": {
+                                "action": {
+                                    "name": "bɑːθ",
+                                    "list": [
+                                        {
+                                            "title": "",
+                                            "data": "bargain",
+                                            "stt": true,
+                                            "submit": true
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bar",
+                                            "stt": true,
+                                            "submit": true
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bath",
+                                            "stt": true,
+                                            "submit": false
+                                        }
+                                    ]
+                                }
+                            },
+                            "handling_next": [
+                                {
+                                    "manspeak": [
+                                        "bath"
+                                    ],
+                                    "robotspeak": [
+                                        "bath"
+                                    ],
+                                    "icon": "",
+                                    "function": {
+                                        "end_successfull": true
+                                    },
+                                    "handling_next": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "middle": {
+                    "handling_next": []
+                },
+                "end": {
+                    "handling_next": null
+                }
+            },
+            {
+                "total": {
+                    "image": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+                    "status": true,
+                    "gender": "female",
+                    "icon": [
+                        "n.",
+                        "sự mặc cả, sự giao kèo mua bán"
+                    ],
+                    "viewPick": {
+                        "header": "",
+                        "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+                        "des": "Barbara"
+                    },
+                    "submit": [
+                        []
+                    ],
+                    "submitsyntax": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    ],
+                    "robotspeakfirst": [
+                        "Please say Hi!"
+                    ]
+                },
+                "begin": {
+                    "handling_next": [
+                        {
+                            "manspeak": [
+                                "Hi"
+                            ],
+                            "robotspeak": [
+                                ""
+                            ],
+                            "icon": "",
+                            "function": {
+                                "action": {
+                                    "name": "ˈbɑːgɪn",
+                                    "list": [
+                                        {
+                                            "title": "",
+                                            "data": "bath",
+                                            "stt": true,
+                                            "submit": true
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bar",
+                                            "stt": true,
+                                            "submit": true
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bargain",
+                                            "stt": true,
+                                            "submit": false
+                                        }
+                                    ]
+                                }
+                            },
+                            "handling_next": [
+                                {
+                                    "manspeak": [
+                                        "bargain"
+                                    ],
+                                    "robotspeak": [
+                                        "bargain"
+                                    ],
+                                    "icon": "",
+                                    "function": {
+                                        "end_successfull": true
+                                    },
+                                    "handling_next": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "middle": {
+                    "handling_next": []
+                },
+                "end": {
+                    "handling_next": null
+                }
+            },
+            {
+                "total": {
+                    "image": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+                    "status": true,
+                    "gender": "male",
+                    "icon": [
+                        "n.",
+                        "quán bán rượu"
+                    ],
+                    "viewPick": {
+                        "header": "",
+                        "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+                        "des": "Richard"
+                    },
+                    "submit": [
+                        []
+                    ],
+                    "submitsyntax": [
+                        [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ]
+                    ],
+                    "robotspeakfirst": [
+                        "Please say Hi!"
+                    ]
+                },
+                "begin": {
+                    "handling_next": [
+                        {
+                            "manspeak": [
+                                "Hi"
+                            ],
+                            "robotspeak": [
+                                ""
+                            ],
+                            "icon": "",
+                            "function": {
+                                "action": {
+                                    "name": "bɑː",
+                                    "list": [
+                                        {
+                                            "title": "",
+                                            "data": "bargain",
+                                            "stt": true,
+                                            "submit": true
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bar",
+                                            "stt": true,
+                                            "submit": false
+                                        },
+                                        {
+                                            "title": "",
+                                            "data": "bath",
+                                            "stt": true,
+                                            "submit": true
+                                        }
+                                    ]
+                                }
+                            },
+                            "handling_next": [
+                                {
+                                    "manspeak": [
+                                        "bar"
+                                    ],
+                                    "robotspeak": [
+                                        "bar"
+                                    ],
+                                    "icon": "",
+                                    "function": {
+                                        "end_successfull": true
+                                    },
+                                    "handling_next": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "middle": {
+                    "handling_next": []
+                },
+                "end": {
+                    "handling_next": null
+                }
+            }
+        ]
+    }
+]

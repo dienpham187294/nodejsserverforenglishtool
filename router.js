@@ -3,6 +3,7 @@ const router = express.Router();
 const fs = require('file-system');
 const shuffleArr = require("./filedulieu/dataHelperFunction/shuffleArr")
 const AmainTem = require("./filedulieu/PronunCourses/T_TEMPLATE_01/AmainTem")
+const MainPronunciationCreate = require("./filedulieu/PronunciationCourse/T_TEMPLATE_01/MainPronunciationCreate")
 const bodyParser = require('body-parser')
 const jsonParser = bodyParser.json()
 
@@ -14,6 +15,15 @@ router.get("/2", (req, res) => {
 });
 router.get("/menuThuchanhcoban", (req, res) => {
   const data = require("./filedulieu/listLesson")
+  res.send({ "data": data }).status(200);
+});
+
+router.get("/menuThuchanhcoban", (req, res) => {
+  const data = require("./filedulieu/listLesson")
+  res.send({ "data": data }).status(200);
+});
+router.get("/menuPronunciation", (req, res) => {
+  const data = require("./filedulieu/listPronunciationCourse")
   res.send({ "data": data }).status(200);
 });
 router.get("/menuThuchanhkienthuc", (req, res) => {
@@ -35,6 +45,10 @@ router.get("/menuMusic", (req, res) => {
 ///////////////
 
 router.post("/loadDataThuchanhcoban", jsonParser, (req, res) => {
+  const data = require("./filedulieu/" + req.body.id)
+  res.send({ "data": data }).status(200);
+});
+router.post("/loadDataPronunciation", jsonParser, (req, res) => {
   const data = require("./filedulieu/" + req.body.id)
   res.send({ "data": data }).status(200);
 });
@@ -148,6 +162,26 @@ router.post("/InsertPracticeData", jsonParser, (req, res) => {
   })
   res.send({ "success": true }).status(200);
 });
+
+router.post("/InsertMainPronunciationCreate", jsonParser, (req, res) => {
+
+  fs.readFile("./database/MainPronunciationCreate.json", 'utf8', (err, jsonFile) => {
+    if (!err) {
+      try {
+        let data = JSON.parse(jsonFile)
+        data.push({ name: req.body.name, fileName: "PronunciationCourse/" + req.body.name })
+        fs.writeFile("./database/MainPronunciationCreate.json", JSON.stringify(data))
+        fs.writeFile("./filedulieu/PronunciationCourse/" + req.body.name + ".json", JSON.stringify(getPronunciation(JSON.parse(req.body.body))))
+      } catch (error) {
+        console.log(error)
+      }
+    }
+  })
+  res.send({ "success": true }).status(200);
+});
+module.exports = router;
+
+
 module.exports = router;
 
 
@@ -161,8 +195,6 @@ function getPracticeLestion(DAT) {
     InAmainTem.core,
   )
   let DataTable = []
-
-
   const outPut
     = [
       {
@@ -177,3 +209,27 @@ function getPracticeLestion(DAT) {
     ]
   return outPut
 }
+
+
+
+function getPronunciation(DAT) {
+  let InAmainTem = MainPronunciationCreate(DAT)
+  let coerdataoflession = [].concat(
+    InAmainTem.core,
+  )
+  let DataTable = []
+  const outPut
+    = [
+      {
+        "nameoflession": "B.3.2_01",
+        "story": "",
+        "dataTool": DataTable,
+        "status": "",
+      },
+      {
+        "coerdataoflession": shuffleArr(shuffleArr(coerdataoflession))
+      }
+    ]
+  return outPut
+}
+
