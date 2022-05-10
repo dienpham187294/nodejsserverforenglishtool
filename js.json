@@ -1,0 +1,906 @@
+{
+    "info": "",
+    "base": [],
+    "data": [
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's not too expensive password.",
+            "name": "Richard",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "Buffet restaurant",
+                "reasonable"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Buffet restaurant",
+                        "My favorite place is Buffet restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's reasonable"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's economical password.",
+            "name": "Barbara",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "Cafeteria",
+                "not too expensive"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Cafeteria",
+                        "My favorite place is Cafeteria"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's not too expensive"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's fair password.",
+            "name": "Michael",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "Fast food restaurant",
+                "economical"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fast food restaurant",
+                        "My favorite place is Fast food restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's economical"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's dirt cheap password.",
+            "name": "Betty",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "Fine dining restaurant",
+                "fair"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fine dining restaurant",
+                        "My favorite place is Fine dining restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's fair"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's a snip password.",
+            "name": "Steven",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "Ethnic restaurant",
+                "dirt cheap"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Ethnic restaurant",
+                        "My favorite place is Ethnic restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's dirt cheap"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's steal password.",
+            "name": "Kimberly",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "Hot pot restaurant",
+                "a snip"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Hot pot restaurant",
+                        "My favorite place is Hot pot restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's a snip"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's cheap to run password.",
+            "name": "Robert",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "Japanese restaurant",
+                "steal"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Japanese restaurant",
+                        "My favorite place is Japanese restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's steal"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's dear password.",
+            "name": "Lisa",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "Korean restaurant",
+                "cheap to run"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Korean restaurant",
+                        "My favorite place is Korean restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's cheap to run"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's extortionate password.",
+            "name": "William",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "Thai restaurant",
+                "dear"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Thai restaurant",
+                        "My favorite place is Thai restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's dear"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's too high password.",
+            "name": "Dorothy",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "Seafood restaurant",
+                "extortionate"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Seafood restaurant",
+                        "My favorite place is Seafood restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's extortionate"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's pricey password.",
+            "name": "David",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "the new Chinese place",
+                "too high"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend the new Chinese place",
+                        "My favorite place is the new Chinese place"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's too high"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's dear password.",
+            "name": "Susan",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "Buffet restaurant",
+                "pricey"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Buffet restaurant",
+                        "My favorite place is Buffet restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's pricey"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's prohibitive password.",
+            "name": "Anthony",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "Cafeteria",
+                "dear"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Cafeteria",
+                        "My favorite place is Cafeteria"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's dear"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's expensive password.",
+            "name": "Donna",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "Fast food restaurant",
+                "prohibitive"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fast food restaurant",
+                        "My favorite place is Fast food restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's prohibitive"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's for sale password.",
+            "name": "Charles",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "Fine dining restaurant",
+                "expensive"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fine dining restaurant",
+                        "My favorite place is Fine dining restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's expensive"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's a real bargain password.",
+            "name": "Mary",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "Ethnic restaurant",
+                "for sale"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Ethnic restaurant",
+                        "My favorite place is Ethnic restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's for sale"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's affordable password.",
+            "name": "Christopher",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "Hot pot restaurant",
+                "a real bargain"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Hot pot restaurant",
+                        "My favorite place is Hot pot restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's a real bargain"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's steal password.",
+            "name": "Michelle",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "Japanese restaurant",
+                "affordable"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Japanese restaurant",
+                        "My favorite place is Japanese restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's affordable"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's cheap to run password.",
+            "name": "Kenneth",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "Korean restaurant",
+                "steal"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Korean restaurant",
+                        "My favorite place is Korean restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's steal"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's dear password.",
+            "name": "Ashley",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "Thai restaurant",
+                "cheap to run"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Thai restaurant",
+                        "My favorite place is Thai restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's cheap to run"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's extortionate password.",
+            "name": "Mark",
+            "gender": "male",
+            "img": "https://i.postimg.cc/d0pCY5Wv/man1.png",
+            "submit": [
+                "Seafood restaurant",
+                "dear"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Seafood restaurant",
+                        "My favorite place is Seafood restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's dear"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's too high password.",
+            "name": "Linda",
+            "gender": "female",
+            "img": "https://i.postimg.cc/MGvBNCmd/women1.jpg",
+            "submit": [
+                "the new Chinese place",
+                "extortionate"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend the new Chinese place",
+                        "My favorite place is the new Chinese place"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's extortionate"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's pricey password.",
+            "name": "Thomas",
+            "gender": "male",
+            "img": "https://i.postimg.cc/SRWCVcf4/man2.png",
+            "submit": [
+                "Buffet restaurant",
+                "too high"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Buffet restaurant",
+                        "My favorite place is Buffet restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's too high"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's dear password.",
+            "name": "Patricia",
+            "gender": "female",
+            "img": "https://i.postimg.cc/wMKDhwJF/women2.png",
+            "submit": [
+                "Cafeteria",
+                "pricey"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Cafeteria",
+                        "My favorite place is Cafeteria"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's pricey"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's prohibitive password.",
+            "name": "Matthew",
+            "gender": "male",
+            "img": "https://i.postimg.cc/hjmdPVwm/man3.jpg",
+            "submit": [
+                "Fast food restaurant",
+                "dear"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fast food restaurant",
+                        "My favorite place is Fast food restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's dear"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's expensive password.",
+            "name": "Margaret",
+            "gender": "female",
+            "img": "https://i.postimg.cc/tCNFxtgt/women3.jpg",
+            "submit": [
+                "Fine dining restaurant",
+                "prohibitive"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Fine dining restaurant",
+                        "My favorite place is Fine dining restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's prohibitive"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's for sale password.",
+            "name": "Daniel",
+            "gender": "male",
+            "img": "https://i.postimg.cc/J7JN1WVF/man4.png",
+            "submit": [
+                "Ethnic restaurant",
+                "expensive"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Ethnic restaurant",
+                        "My favorite place is Ethnic restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's expensive"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's a real bargain password.",
+            "name": "Karen",
+            "gender": "female",
+            "img": "https://i.postimg.cc/02spjH9y/women4.jpg",
+            "submit": [
+                "Hot pot restaurant",
+                "for sale"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Hot pot restaurant",
+                        "My favorite place is Hot pot restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's for sale"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's affordable password.",
+            "name": "Donald",
+            "gender": "male",
+            "img": "https://i.postimg.cc/mgdMdLCP/man5.png",
+            "submit": [
+                "Japanese restaurant",
+                "a real bargain"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Japanese restaurant",
+                        "My favorite place is Japanese restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's a real bargain"
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Hỏi một đề nghị nhà hàng và giá cả.",
+            "password": "It's affordable password.",
+            "name": "Sarah",
+            "gender": "female",
+            "img": "https://i.postimg.cc/Jz7ZcDDw/women5.jpg",
+            "submit": [
+                "Korean restaurant",
+                "affordable"
+            ],
+            "QA": [
+                {
+                    "qs": [
+                        "Do you know any good places to eat?"
+                    ],
+                    "aw": [
+                        "I'd recommend Korean restaurant",
+                        "My favorite place is Korean restaurant"
+                    ]
+                },
+                {
+                    "qs": [
+                        "What is the price?"
+                    ],
+                    "aw": [
+                        "It's affordable"
+                    ]
+                }
+            ]
+        }
+    ]
+}
