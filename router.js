@@ -26,6 +26,10 @@ router.get("/menuPronunciation", (req, res) => {
   const data = require("./filedulieu/listPronunciationCourse")
   res.send({ "data": data }).status(200);
 });
+router.get("/menu1000Sen", (req, res) => {
+  const data = require("./filedulieu/list1000SenCourse")
+  res.send({ "data": data }).status(200);
+});
 router.get("/menuThuchanhkienthuc", (req, res) => {
   const data = require("./filedulieu/listLessonKienthuc")
   res.send({ "data": data }).status(200);

@@ -34,7 +34,7 @@ function getOutputT(DATAUSE) {
             "img": e.img,
             "des": e.name
         }
-        let SpeakFirst = ["Please say Hi!"]
+        let SpeakFirst = ["Hi", "Hello"]
         let nameBE = ", sir"
         if (e.gender === "female") {
             nameBE = ", ma'am"
@@ -45,7 +45,7 @@ function getOutputT(DATAUSE) {
             {
                 "index": "0",
                 "handle": FnObjHanldingNext(
-                    ["Hi"],
+                    ["Hi", "Hello"],
                     [""],
                     Record(DATAUSE, iM)
                 )
@@ -117,7 +117,7 @@ function getOutputT(DATAUSE) {
                 End,
                 SpeakFirst,
                 [
-                  
+
                     e.partOfWord,
                     e.meaning
                 ]
