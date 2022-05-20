@@ -1,0 +1,30 @@
+[
+    {
+        "id": "/menuThuchanhcoban",
+        "file": "./filedulieu/listLesson"
+    },
+    {
+        "id": "/menuPronunciation",
+        "file": "./filedulieu/listPronunciationCourse"
+    },
+    {
+        "id": "/menu1000Sen",
+        "file": "./filedulieu/list1000SenCourse"
+    },
+    {
+        "id": "/menuThuchanhkienthuc",
+        "file": "./filedulieu/listLessonKienthuc"
+    },
+    {
+        "id": "/menuIPA",
+        "file": "./filedulieu/C_IPA/A_IPA"
+    },
+    {
+        "id": "/menuNghe",
+        "file": "./filedulieu/D_LISTEN/DA_DATA"
+    },
+    {
+        "id": "/menuMusic",
+        "file": "./filedulieu/C_IPA/B_Mucsic"
+    }
+]
