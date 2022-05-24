@@ -1,9 +1,8 @@
 const express = require("express");
 const router = express.Router();
 const fs = require('file-system');
-const shuffleArr = require("./filedulieu/dataHelperFunction/shuffleArr")
-const AmainTem = require("./filedulieu/PronunCourses/T_TEMPLATE_01/AmainTem")
-const MainPronunciationCreate = require("./filedulieu/PronunciationCourse/T_TEMPLATE_01/MainPronunciationCreate")
+
+
 const bodyParser = require('body-parser')
 const jsonParser = bodyParser.json()
 

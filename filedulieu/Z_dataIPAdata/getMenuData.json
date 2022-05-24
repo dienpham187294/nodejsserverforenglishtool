@@ -12,6 +12,22 @@
         "file": "./filedulieu/list1000SenCourse"
     },
     {
+        "id": "/get3A",
+        "file": "./filedulieu/listGd3A"
+    },
+    {
+        "id": "/get3B",
+        "file": "./filedulieu/listGd3B"
+    },
+    {
+        "id": "/get4",
+        "file": "./filedulieu/listGd4"
+    },
+    {
+        "id": "/get5",
+        "file": "./filedulieu/listGd5"
+    },
+    {
         "id": "/menuThuchanhkienthuc",
         "file": "./filedulieu/listLessonKienthuc"
     },

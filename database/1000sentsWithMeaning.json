@@ -1,0 +1,5002 @@
+[
+    {
+        "Sents": "Will you be my friend?",
+        "ipaSents": "wɪl juː biː maɪ frɛnd?",
+        "Meaning": "Bạn sẽ là bạn của tôi chứ?"
+    },
+    {
+        "Sents": "You and I will always be friends.",
+        "ipaSents": "juː ænd aɪ wɪl ˈɔːlweɪz biː frɛndz.",
+        "Meaning": "Bạn và tôi sẽ luôn là bạn của nhau."
+    },
+    {
+        "Sents": "Today is the first of November.",
+        "ipaSents": "təˈdeɪ ɪz ðə fɜːst ɒv nəʊˈvɛmbə.",
+        "Meaning": "Hôm nay là ngày đầu tiên của tháng mười một."
+    },
+    {
+        "Sents": "I saw a bear today.",
+        "ipaSents": "aɪ sɔː ə beə təˈdeɪ.",
+        "Meaning": "Tôi đã nhìn thấy một con gấu hôm nay."
+    },
+    {
+        "Sents": "She is in her room.",
+        "ipaSents": "ʃiː ɪz ɪn hɜː ruːm.",
+        "Meaning": "Cô ấy đang ở trong phòng của mình."
+    },
+    {
+        "Sents": "Let’s go to the park.",
+        "ipaSents": "lɛts gəʊ tuː ðə pɑːk.",
+        "Meaning": "Chúng ta hãy đi đến công viên."
+    },
+    {
+        "Sents": "I have a few questions.",
+        "ipaSents": "aɪ hæv ə fjuː ˈkwɛsʧənz.",
+        "Meaning": "Tôi có một vài câu hỏi."
+    },
+    {
+        "Sents": "I like her too.",
+        "ipaSents": "aɪ laɪk hɜː tuː.",
+        "Meaning": "Tôi cũng thích cô ấy."
+    },
+    {
+        "Sents": "It is sunny outside.",
+        "ipaSents": "ɪt ɪz ˈsʌni ˌaʊtˈsaɪd.",
+        "Meaning": "Ngoài trời đang nắng."
+    },
+    {
+        "Sents": "I really like it here.",
+        "ipaSents": "aɪ ˈrɪəli laɪk ɪt hɪə.",
+        "Meaning": "Tôi thực sự thích nó ở đây."
+    },
+    {
+        "Sents": "That door is open.",
+        "ipaSents": "ðæt dɔːr ɪz ˈəʊpən.",
+        "Meaning": "Cánh cửa đó đang mở."
+    },
+    {
+        "Sents": "This letter is for you.",
+        "ipaSents": "ðɪs ˈlɛtər ɪz fɔː juː.",
+        "Meaning": "Bức thư này là dành cho bạn."
+    },
+    {
+        "Sents": "You are really nice.",
+        "ipaSents": "juː ɑː ˈrɪəli naɪs.",
+        "Meaning": "Bạn thực sự tốt."
+    },
+    {
+        "Sents": "He is my brother.",
+        "ipaSents": "hiː ɪz maɪ ˈbrʌðə.",
+        "Meaning": "Anh ấy là anh trai tôi."
+    },
+    {
+        "Sents": "I want to go with you.",
+        "ipaSents": "aɪ wɒnt tuː gəʊ wɪð juː.",
+        "Meaning": "Tôi muốn đi cùng bạn."
+    },
+    {
+        "Sents": "I watch movies on my iPad.",
+        "ipaSents": "aɪ wɒʧ ˈmuːviz ɒn maɪ ˈaɪˌpæd.",
+        "Meaning": "Tôi xem phim trên iPad của mình."
+    },
+    {
+        "Sents": "What will you do now?",
+        "ipaSents": "wɒt wɪl juː duː naʊ?",
+        "Meaning": "Bạn sẽ làm gì bây giờ?"
+    },
+    {
+        "Sents": "Can I say something?",
+        "ipaSents": "kæn aɪ seɪ ˈsʌmθɪŋ?",
+        "Meaning": "Tôi nói một tí được không?"
+    },
+    {
+        "Sents": "This is my favorite cookie.",
+        "ipaSents": "ðɪs ɪz maɪ ˈfeɪvərɪt ˈkʊki.",
+        "Meaning": "Đây là cookie yêu thích của tôi."
+    },
+    {
+        "Sents": "They are here!",
+        "ipaSents": "ðeɪ ɑː hɪə!",
+        "Meaning": "Họ ở đây!"
+    },
+    {
+        "Sents": "Can you pick me up at the mall?",
+        "ipaSents": "kæn juː pɪk miː ʌp æt ðə mɔːl?",
+        "Meaning": "Bạn có thể đón tôi ở trung tâm mua sắm được không?"
+    },
+    {
+        "Sents": "I’m sorry but she’s away.",
+        "ipaSents": "aɪm ˈsɒri bʌt ʃiːz əˈweɪ.",
+        "Meaning": "Tôi xin lỗi nhưng cô ấy đi vắng."
+    },
+    {
+        "Sents": "We are going to watch a movie.",
+        "ipaSents": "wiː ɑː ˈgəʊɪŋ tuː wɒʧ ə ˈmuːvi.",
+        "Meaning": "Chúng ta sẽ xem một bộ phim."
+    },
+    {
+        "Sents": "This is his box.",
+        "ipaSents": "ðɪs ɪz hɪz bɒks.",
+        "Meaning": "Đây là hộp của anh ấy."
+    },
+    {
+        "Sents": "This card came from my cousin.",
+        "ipaSents": "ðɪs kɑːd keɪm frɒm maɪ ˈkʌzn.",
+        "Meaning": "Thẻ này đến từ anh họ của tôi."
+    },
+    {
+        "Sents": "That’s a really cool trick!",
+        "ipaSents": "ðæts ə ˈrɪəli kuːl trɪk!",
+        "Meaning": "Đó là một thủ thuật thực sự thú vị!"
+    },
+    {
+        "Sents": "That’s not what I want.",
+        "ipaSents": "ðæts nɒt wɒt aɪ wɒnt.",
+        "Meaning": "Đó không phải là điều tôi muốn."
+    },
+    {
+        "Sents": "I can’t open it.",
+        "ipaSents": "aɪ kɑːnt ˈəʊpən ɪt.",
+        "Meaning": "Tôi không thể mở nó."
+    },
+    {
+        "Sents": "I won’t open it.",
+        "ipaSents": "aɪ wəʊnt ˈəʊpən ɪt.",
+        "Meaning": "Tôi sẽ không mở nó."
+    },
+    {
+        "Sents": "Will you come by and see me?",
+        "ipaSents": "wɪl juː kʌm baɪ ænd siː miː?",
+        "Meaning": "Bạn sẽ đến và gặp tôi?"
+    },
+    {
+        "Sents": "She is very happy.",
+        "ipaSents": "ʃiː ɪz ˈvɛri ˈhæpi.",
+        "Meaning": "Cô ấy rất hạnh phúc."
+    },
+    {
+        "Sents": "Do you like blue or yellow?",
+        "ipaSents": "duː juː laɪk bluː ɔː ˈjɛləʊ?",
+        "Meaning": "Bạn thích màu xanh hay màu vàng?"
+    },
+    {
+        "Sents": "Her role as an English teacher is very important.",
+        "ipaSents": "hɜː rəʊl æz ən ˈɪŋglɪʃ ˈtiːʧər ɪz ˈvɛri ɪmˈpɔːtənt.",
+        "Meaning": "Vai trò của một giáo viên tiếng Anh là rất quan trọng."
+    },
+    {
+        "Sents": "What are you thinking of?",
+        "ipaSents": "wɒt ɑː juː ˈθɪŋkɪŋ ɒv?",
+        "Meaning": "Bạn đang nghĩ về cái gì vậy?"
+    },
+    {
+        "Sents": "I want to go there.",
+        "ipaSents": "aɪ wɒnt tuː gəʊ ðeə.",
+        "Meaning": "Tôi muốn đi đến đó."
+    },
+    {
+        "Sents": "This is their house.",
+        "ipaSents": "ðɪs ɪz ðeə haʊs.",
+        "Meaning": "Đây là nhà của họ."
+    },
+    {
+        "Sents": "What can I do for you?",
+        "ipaSents": "wɒt kæn aɪ duː fɔː juː?",
+        "Meaning": "Tôi có thể làm gì cho bạn?"
+    },
+    {
+        "Sents": "Who can help me?",
+        "ipaSents": "huː kæn hɛlp miː?",
+        "Meaning": "Ai có thể giúp tôi?"
+    },
+    {
+        "Sents": "Can you get me my eyeglasses?",
+        "ipaSents": "kæn juː gɛt miː maɪ ˈaɪglɑːsɪz?",
+        "Meaning": "Bạn có thể lấy cho tôi kính mắt của tôi được không?"
+    },
+    {
+        "Sents": "What if I fail?",
+        "ipaSents": "wɒt ɪf aɪ feɪl?",
+        "Meaning": "Nếu tôi thất bại thì sao?"
+    },
+    {
+        "Sents": "Would you help me out?",
+        "ipaSents": "wʊd juː hɛlp miː aʊt?",
+        "Meaning": "Bạn có thể giúp tôi ra ngoài?"
+    },
+    {
+        "Sents": "I have her book.",
+        "ipaSents": "aɪ hæv hɜː bʊk.",
+        "Meaning": "Tôi có cuốn sách của cô ấy."
+    },
+    {
+        "Sents": "All my favorite books are on this shelf.",
+        "ipaSents": "ɔːl maɪ ˈfeɪvərɪt bʊks ɑːr ɒn ðɪs ʃɛlf.",
+        "Meaning": "Tất cả những cuốn sách yêu thích của tôi đều có trên kệ này."
+    },
+    {
+        "Sents": "My mom is coming to visit.",
+        "ipaSents": "maɪ mɒm ɪz ˈkʌmɪŋ tuː ˈvɪzɪt.",
+        "Meaning": "Mẹ tôi sắp đến thăm."
+    },
+    {
+        "Sents": "Can we make our projects together?",
+        "ipaSents": "kæn wiː meɪk ˈaʊə ˈprɒʤɛkts təˈgɛðə?",
+        "Meaning": "Chúng ta có thể thực hiện các dự án của chúng ta cùng nhau không?"
+    },
+    {
+        "Sents": "What is this movie about?",
+        "ipaSents": "wɒt ɪz ðɪs ˈmuːvi əˈbaʊt?",
+        "Meaning": "Phim này nói về cái gì?"
+    },
+    {
+        "Sents": "Do you know where this place is?",
+        "ipaSents": "duː juː nəʊ weə ðɪs pleɪs ɪz?",
+        "Meaning": "Bạn có biết nơi này là ở đâu không?"
+    },
+    {
+        "Sents": "I will help you find that place.",
+        "ipaSents": "aɪ wɪl hɛlp juː faɪnd ðæt pleɪs.",
+        "Meaning": "Tôi sẽ giúp bạn tìm ra nơi đó."
+    },
+    {
+        "Sents": "As soon as she’s here, I’ll talk to her.",
+        "ipaSents": "æz suːn æz ʃiːz hɪə, aɪl tɔːk tuː hɜː.",
+        "Meaning": "Ngay khi cô ấy ở đây, tôi sẽ nói chuyện với cô ấy."
+    },
+    {
+        "Sents": "I live up in the mountains.",
+        "ipaSents": "aɪ lɪv ʌp ɪn ðə ˈmaʊntɪnz.",
+        "Meaning": "Tôi sống trên núi."
+    },
+    {
+        "Sents": "She is one of my English teachers.",
+        "ipaSents": "ʃiː ɪz wʌn ɒv maɪ ˈɪŋglɪʃ ˈtiːʧəz.",
+        "Meaning": "Cô ấy là một trong những giáo viên tiếng Anh của tôi."
+    },
+    {
+        "Sents": "There was a time I liked to play golf.",
+        "ipaSents": "ðeə wɒz ə taɪm aɪ laɪkt tuː pleɪ gɒlf.",
+        "Meaning": "Có một thời gian tôi thích chơi gôn."
+    },
+    {
+        "Sents": "There are so many things I want to learn.",
+        "ipaSents": "ðeər ɑː səʊ ˈmɛni θɪŋz aɪ wɒnt tuː lɜːn.",
+        "Meaning": "Có rất nhiều điều tôi muốn học."
+    },
+    {
+        "Sents": "This is the year I’m finally going to learn English.",
+        "ipaSents": "ðɪs ɪz ðə jɪər aɪm ˈfaɪnəli ˈgəʊɪŋ tuː lɜːn ˈɪŋglɪʃ.",
+        "Meaning": "Đây là năm cuối cùng tôi sẽ học tiếng Anh."
+    },
+    {
+        "Sents": "I am so sorry.",
+        "ipaSents": "aɪ æm səʊ ˈsɒri.",
+        "Meaning": "Tôi rât tiêc."
+    },
+    {
+        "Sents": "I think I need to lie down.",
+        "ipaSents": "aɪ θɪŋk aɪ niːd tuː laɪ daʊn.",
+        "Meaning": "Tôi nghĩ tôi cần phải nằm xuống."
+    },
+    {
+        "Sents": "When will I see you again?",
+        "ipaSents": "wɛn wɪl aɪ siː juː əˈgɛn?",
+        "Meaning": "Chưng nao chung ta gặp lại nhau?"
+    },
+    {
+        "Sents": "Which of these slippers is yours?",
+        "ipaSents": "wɪʧ ɒv ðiːz ˈslɪpəz ɪz jɔːz?",
+        "Meaning": "Đôi dép nào trong số này là của bạn?"
+    },
+    {
+        "Sents": "Please give this to them.",
+        "ipaSents": "pliːz gɪv ðɪs tuː ðɛm.",
+        "Meaning": "Hãy đưa cái này cho họ."
+    },
+    {
+        "Sents": "Please give them some of the apples I brought home.",
+        "ipaSents": "pliːz gɪv ðɛm sʌm ɒv ði ˈæplz aɪ brɔːt həʊm.",
+        "Meaning": "Làm ơn cho họ một số táo mà tôi đã mang về nhà."
+    },
+    {
+        "Sents": "Can you give me some apples?",
+        "ipaSents": "kæn juː gɪv miː sʌm ˈæplz?",
+        "Meaning": "Bạn có thể cho tôi một ít táo được không?"
+    },
+    {
+        "Sents": "There are so many people at the mall today.",
+        "ipaSents": "ðeər ɑː səʊ ˈmɛni ˈpiːpl æt ðə mɔːl təˈdeɪ.",
+        "Meaning": "Hôm nay có rất nhiều người ở trung tâm mua sắm."
+    },
+    {
+        "Sents": "Please take home some of these apples",
+        "ipaSents": "pliːz teɪk həʊm sʌm ɒv ðiːz ˈæplz",
+        "Meaning": "Hãy mang về nhà một số táo này"
+    },
+    {
+        "Sents": "Please throw the trash out.",
+        "ipaSents": "pliːz θrəʊ ðə træʃ aʊt.",
+        "Meaning": "Hãy ném thùng rác ra ngoài."
+    },
+    {
+        "Sents": "My puppy ran into the woods.",
+        "ipaSents": "maɪ ˈpʌpi ræn ˈɪntuː ðə wʊdz.",
+        "Meaning": "Con chó con của tôi chạy vào rừng."
+    },
+    {
+        "Sents": "Just close your eyes.",
+        "ipaSents": "ʤʌst kləʊs jɔːr aɪz.",
+        "Meaning": "Chỉ cần nhắm mắt lại."
+    },
+    {
+        "Sents": "Did you see that?",
+        "ipaSents": "dɪd juː siː ðæt?",
+        "Meaning": "Bạn có thấy điều đó không?"
+    },
+    {
+        "Sents": "I heard him singing earlier.",
+        "ipaSents": "aɪ hɜːd hɪm ˈsɪŋɪŋ ˈɜːlɪə.",
+        "Meaning": "Tôi đã nghe anh ấy hát trước đó."
+    },
+    {
+        "Sents": "Your mom is here.",
+        "ipaSents": "jɔː mɒm ɪz hɪə.",
+        "Meaning": "Mẹ của bạn đang ở đây."
+    },
+    {
+        "Sents": "Can your mom and dad come to the party?",
+        "ipaSents": "kæn jɔː mɒm ænd dæd kʌm tuː ðə ˈpɑːti?",
+        "Meaning": "Bố mẹ bạn có thể đến dự tiệc không?"
+    },
+    {
+        "Sents": "Could you help me with my project?",
+        "ipaSents": "kʊd juː hɛlp miː wɪð maɪ ˈprɒʤɛkt?",
+        "Meaning": "Bạn có thể giúp tôi với dự án của tôi?"
+    },
+    {
+        "Sents": "I want to watch this now.",
+        "ipaSents": "aɪ wɒnt tuː wɒʧ ðɪs naʊ.",
+        "Meaning": "Tôi muốn xem cái này ngay bây giờ."
+    },
+    {
+        "Sents": "I like this cake better than the other one you showed me.",
+        "ipaSents": "aɪ laɪk ðɪs keɪk ˈbɛtə ðæn ði ˈʌðə wʌn juː ʃəʊd miː.",
+        "Meaning": "Tôi thích cái bánh này hơn cái khác mà bạn đã cho tôi xem."
+    },
+    {
+        "Sents": "I like this bag better than the other one you showed me.",
+        "ipaSents": "aɪ laɪk ðɪs bæg ˈbɛtə ðæn ði ˈʌðə wʌn juː ʃəʊd miː.",
+        "Meaning": "Tôi thích cái túi này hơn cái kia mà bạn đã cho tôi xem."
+    },
+    {
+        "Sents": "I like these shoes better than the other ones you showed me.",
+        "ipaSents": "aɪ laɪk ðiːz ʃuːz ˈbɛtə ðæn ði ˈʌðə wʌnz juː ʃəʊd miː.",
+        "Meaning": "Tôi thích đôi giày này hơn những đôi khác mà bạn đã cho tôi xem."
+    },
+    {
+        "Sents": "How do I turn this on?",
+        "ipaSents": "haʊ duː aɪ tɜːn ðɪs ɒn?",
+        "Meaning": "Làm cách nào để bật tính năng này?"
+    },
+    {
+        "Sents": "We had breakfast and then we went to church.",
+        "ipaSents": "wiː hæd ˈbrɛkfəst ænd ðɛn wiː wɛnt tuː ʧɜːʧ.",
+        "Meaning": "Chúng tôi ăn sáng và sau đó chúng tôi đến nhà thờ."
+    },
+    {
+        "Sents": "I need to read its manual.",
+        "ipaSents": "aɪ niːd tuː riːd ɪts ˈmænjʊəl.",
+        "Meaning": "Tôi cần đọc hướng dẫn sử dụng của nó."
+    },
+    {
+        "Sents": "This is our home now.",
+        "ipaSents": "ðɪs ɪz ˈaʊə həʊm naʊ.",
+        "Meaning": "Đây là nhà của chúng tôi bây giờ."
+    },
+    {
+        "Sents": "Two cheeseburgers, please.",
+        "ipaSents": "tuː ˈʧiːzˌbɜːgəz, pliːz.",
+        "Meaning": "Làm ơn cho hai cái bánh mì kẹp thịt."
+    },
+    {
+        "Sents": "Can I have some more milkshakes?",
+        "ipaSents": "kæn aɪ hæv sʌm mɔː ˈmɪlkʃeɪks?",
+        "Meaning": "Tôi có thể có thêm một ít sữa lắc được không?"
+    },
+    {
+        "Sents": "Do you like these ribbons?",
+        "ipaSents": "duː juː laɪk ðiːz ˈrɪbənz?",
+        "Meaning": "Bạn có thích những dải ruy băng này không?"
+    },
+    {
+        "Sents": "Do you want these ribbons?",
+        "ipaSents": "duː juː wɒnt ðiːz ˈrɪbənz?",
+        "Meaning": "Bạn có muốn những dải ruy băng này không?"
+    },
+    {
+        "Sents": "Can you look this way?",
+        "ipaSents": "kæn juː lʊk ðɪs weɪ?",
+        "Meaning": "Bạn có thể nhìn theo hướng này?"
+    },
+    {
+        "Sents": "Please look this way.",
+        "ipaSents": "pliːz lʊk ðɪs weɪ.",
+        "Meaning": "Hãy nhìn theo hướng này."
+    },
+    {
+        "Sents": "She was my very first teacher.",
+        "ipaSents": "ʃiː wɒz maɪ ˈvɛri fɜːst ˈtiːʧə.",
+        "Meaning": "Cô ấy là giáo viên đầu tiên của tôi."
+    },
+    {
+        "Sents": "She was also my best friend.",
+        "ipaSents": "ʃiː wɒz ˈɔːlsəʊ maɪ bɛst frɛnd.",
+        "Meaning": "Cô ấy cũng là bạn thân nhất của tôi."
+    },
+    {
+        "Sents": "I have new shoes.",
+        "ipaSents": "aɪ hæv njuː ʃuːz.",
+        "Meaning": "Tôi có đôi giày mới."
+    },
+    {
+        "Sents": "I am crying because I’m sad.",
+        "ipaSents": "aɪ æm ˈkraɪɪŋ bɪˈkɒz aɪm sæd.",
+        "Meaning": "Tôi đang khóc vì tôi buồn."
+    },
+    {
+        "Sents": "Today is national friendship day.",
+        "ipaSents": "təˈdeɪ ɪz ˈnæʃənl ˈfrɛndʃɪp deɪ.",
+        "Meaning": "Hôm nay là ngày quốc gia hữu nghị."
+    },
+    {
+        "Sents": "I have more stickers at home.",
+        "ipaSents": "aɪ hæv mɔː ˈstɪkəz æt həʊm.",
+        "Meaning": "Tôi có nhiều nhãn dán hơn ở nhà."
+    },
+    {
+        "Sents": "How do I use this?",
+        "ipaSents": "haʊ duː aɪ juːz ðɪs?",
+        "Meaning": "Làm cách nào để sử dụng cái này?"
+    },
+    {
+        "Sents": "There’s no electricity now.",
+        "ipaSents": "ðeəz nəʊ ɪlɛkˈtrɪsɪti naʊ.",
+        "Meaning": "Hiện không có điện."
+    },
+    {
+        "Sents": "There’s a man outside looking for you.",
+        "ipaSents": "ðeəz ə mæn ˌaʊtˈsaɪd ˈlʊkɪŋ fɔː juː.",
+        "Meaning": "Có một người đàn ông bên ngoài đang tìm bạn."
+    },
+    {
+        "Sents": "Where can I find rare furniture?",
+        "ipaSents": "weə kæn aɪ faɪnd reə ˈfɜːnɪʧə?",
+        "Meaning": "Tôi có thể tìm đồ nội thất quý hiếm ở đâu?"
+    },
+    {
+        "Sents": "My mom is here.",
+        "ipaSents": "maɪ mɒm ɪz hɪə.",
+        "Meaning": "Mẹ tôi ở đây."
+    },
+    {
+        "Sents": "One thing led to another.",
+        "ipaSents": "wʌn θɪŋ lɛd tuː əˈnʌðə.",
+        "Meaning": "Điều này dẫn đến điều khác."
+    },
+    {
+        "Sents": "Give her these pearls.",
+        "ipaSents": "gɪv hɜː ðiːz pɜːlz.",
+        "Meaning": "Hãy tặng cô ấy những viên ngọc trai này."
+    },
+    {
+        "Sents": "We shared many dreams together.",
+        "ipaSents": "wiː ʃeəd ˈmɛni driːmz təˈgɛðə.",
+        "Meaning": "Chúng tôi đã chia sẻ nhiều ước mơ cùng nhau."
+    },
+    {
+        "Sents": "You know me so well.",
+        "ipaSents": "juː nəʊ miː səʊ wɛl.",
+        "Meaning": "Bạn biết tôi rất rõ."
+    },
+    {
+        "Sents": "You are my only friend here.",
+        "ipaSents": "juː ɑː maɪ ˈəʊnli frɛnd hɪə.",
+        "Meaning": "Bạn là người bạn duy nhất của tôi ở đây."
+    },
+    {
+        "Sents": "Those boots belong to my friend.",
+        "ipaSents": "ðəʊz buːts bɪˈlɒŋ tuː maɪ frɛnd.",
+        "Meaning": "Đôi ủng đó là của bạn tôi."
+    },
+    {
+        "Sents": "Can you tell me which way to go?",
+        "ipaSents": "kæn juː tɛl miː wɪʧ weɪ tuː gəʊ?",
+        "Meaning": "Bạn có thể cho tôi biết con đường nào để đi?"
+    },
+    {
+        "Sents": "She’s the one he’s been waiting for.",
+        "ipaSents": "ʃiːz ðə wʌn hiːz biːn ˈweɪtɪŋ fɔː.",
+        "Meaning": "Cô ấy là người anh ấy đang chờ đợi."
+    },
+    {
+        "Sents": "I’m very upset right now.",
+        "ipaSents": "aɪm ˈvɛri ʌpˈsɛt raɪt naʊ.",
+        "Meaning": "Tôi rất khó chịu ngay bây giờ."
+    },
+    {
+        "Sents": "Her grandmother is sick.",
+        "ipaSents": "hɜː ˈgrænˌmʌðər ɪz sɪk.",
+        "Meaning": "Bà của cô ấy bị ốm."
+    },
+    {
+        "Sents": "She can’t even stand on her own.",
+        "ipaSents": "ʃiː kɑːnt ˈiːvən stænd ɒn hɜːr əʊn.",
+        "Meaning": "Cô ấy thậm chí không thể tự đứng vững."
+    },
+    {
+        "Sents": "I’ll be right back.",
+        "ipaSents": "aɪl biː raɪt bæk.",
+        "Meaning": "Tôi sẽ trở lại ngay."
+    },
+    {
+        "Sents": "Have you had any luck on your research?",
+        "ipaSents": "hæv juː hæd ˈɛni lʌk ɒn jɔː rɪˈsɜːʧ?",
+        "Meaning": "Bạn đã gặp may mắn nào về nghiên cứu của mình chưa?"
+    },
+    {
+        "Sents": "You’re a good person.",
+        "ipaSents": "jʊər ə gʊd ˈpɜːsn.",
+        "Meaning": "Bạn là một người tốt."
+    },
+    {
+        "Sents": "That woman looks so polished.",
+        "ipaSents": "ðæt ˈwʊmən lʊks səʊ ˈpɒlɪʃt.",
+        "Meaning": "Người phụ nữ đó trông thật bóng bẩy."
+    },
+    {
+        "Sents": "Your faith will see you through tough times.",
+        "ipaSents": "jɔː feɪθ wɪl siː juː θruː tʌf taɪmz.",
+        "Meaning": "Niềm tin của bạn sẽ nhìn thấy bạn vượt qua thời gian khó khăn."
+    },
+    {
+        "Sents": "Do you want to go with us?",
+        "ipaSents": "duː juː wɒnt tuː gəʊ wɪð ʌs?",
+        "Meaning": "Bạn có muốn đi với chúng tôi không?"
+    },
+    {
+        "Sents": "This is the best day of my life.",
+        "ipaSents": "ðɪs ɪz ðə bɛst deɪ ɒv maɪ laɪf.",
+        "Meaning": "Đây là ngày tuyệt vời nhất trong cuộc đời tôi."
+    },
+    {
+        "Sents": "I just saw a child cross the street by herself.",
+        "ipaSents": "aɪ ʤʌst sɔː ə ʧaɪld krɒs ðə striːt baɪ hɜːˈsɛlf.",
+        "Meaning": "Tôi vừa nhìn thấy một đứa trẻ băng qua đường một mình."
+    },
+    {
+        "Sents": "Did you go there?",
+        "ipaSents": "dɪd juː gəʊ ðeə?",
+        "Meaning": "Bạn đã đến đó chưa?"
+    },
+    {
+        "Sents": "I have to go to work.",
+        "ipaSents": "aɪ hæv tuː gəʊ tuː wɜːk.",
+        "Meaning": "Tôi phải đi làm đây."
+    },
+    {
+        "Sents": "Let’s go down.",
+        "ipaSents": "lɛts gəʊ daʊn.",
+        "Meaning": "Nào chúng ta cùng đi xuống."
+    },
+    {
+        "Sents": "You may take your seats.",
+        "ipaSents": "juː meɪ teɪk jɔː siːts.",
+        "Meaning": "Bạn có thể lấy chỗ ngồi của mình."
+    },
+    {
+        "Sents": "Let’s have dinner after work.",
+        "ipaSents": "lɛts hæv ˈdɪnər ˈɑːftə wɜːk.",
+        "Meaning": "Hãy ăn tối sau khi làm việc."
+    },
+    {
+        "Sents": "Should I buy this dress?",
+        "ipaSents": "ʃʊd aɪ baɪ ðɪs drɛs?",
+        "Meaning": "Tôi có nên mua chiếc váy này không?"
+    },
+    {
+        "Sents": "Call me when you get home, okay?",
+        "ipaSents": "kɔːl miː wɛn juː gɛt həʊm, ˈəʊˈkeɪ?",
+        "Meaning": "Gọi cho tôi khi bạn về nhà, được không?"
+    },
+    {
+        "Sents": "I want to travel and see the world.",
+        "ipaSents": "aɪ wɒnt tuː ˈtrævl ænd siː ðə wɜːld.",
+        "Meaning": "Tôi muốn đi du lịch và ngắm nhìn thế giới."
+    },
+    {
+        "Sents": "I can’t wait for this day to be over.",
+        "ipaSents": "aɪ kɑːnt weɪt fɔː ðɪs deɪ tuː biː ˈəʊvə.",
+        "Meaning": "Tôi không thể đợi ngày này kết thúc."
+    },
+    {
+        "Sents": "My cousin goes to school here.",
+        "ipaSents": "maɪ ˈkʌzn gəʊz tuː skuːl hɪə.",
+        "Meaning": "Em họ tôi đi học ở đây."
+    },
+    {
+        "Sents": "I still think you should go.",
+        "ipaSents": "aɪ stɪl θɪŋk juː ʃʊd gəʊ.",
+        "Meaning": "Tôi vẫn nghĩ bạn nên đi."
+    },
+    {
+        "Sents": "Can you try to be nicer to him?",
+        "ipaSents": "kæn juː traɪ tuː biː ˈnaɪsə tuː hɪm?",
+        "Meaning": "Bạn có thể cố gắng đối xử tốt hơn với anh ấy không?"
+    },
+    {
+        "Sents": "What’s in that box?",
+        "ipaSents": "wɒts ɪn ðæt bɒks?",
+        "Meaning": "Cái gì trong hộp đó?"
+    },
+    {
+        "Sents": "As soon as I get home, I'm going to start watching that series.",
+        "ipaSents": "æz suːn æz aɪ gɛt həʊm, aɪm ˈgəʊɪŋ tuː stɑːt ˈwɒʧɪŋ ðæt ˈsɪəriːz.",
+        "Meaning": "Ngay sau khi về nhà, tôi sẽ bắt đầu xem bộ truyện đó."
+    },
+    {
+        "Sents": "This is my last slice of cake, I promise!",
+        "ipaSents": "ðɪs ɪz maɪ lɑːst slaɪs ɒv keɪk, aɪ ˈprɒmɪs!",
+        "Meaning": "Đây là miếng bánh cuối cùng của tôi, tôi hứa!"
+    },
+    {
+        "Sents": "Can you ask the waiter to bring us some wine?",
+        "ipaSents": "kæn juː ɑːsk ðə ˈweɪtə tuː brɪŋ ʌs sʌm waɪn?",
+        "Meaning": "Bạn có thể yêu cầu người phục vụ mang rượu cho chúng tôi không?"
+    },
+    {
+        "Sents": "I need some wine tonight!",
+        "ipaSents": "aɪ niːd sʌm waɪn təˈnaɪt!",
+        "Meaning": "Tôi cần một ít rượu vang tối nay!"
+    },
+    {
+        "Sents": "I need some wine, too!",
+        "ipaSents": "aɪ niːd sʌm waɪn, tuː!",
+        "Meaning": "Tôi cũng cần một chút rượu!"
+    },
+    {
+        "Sents": "I feel so tired, I just need to relax and unwind.",
+        "ipaSents": "aɪ fiːl səʊ ˈtaɪəd, aɪ ʤʌst niːd tuː rɪˈlæks ænd ʌnˈwaɪnd.",
+        "Meaning": "Tôi cảm thấy rất mệt mỏi, tôi chỉ cần thư giãn và xả hơi."
+    },
+    {
+        "Sents": "I have three sisters.",
+        "ipaSents": "aɪ hæv θriː ˈsɪstəz.",
+        "Meaning": "Tôi có ba chị em gái."
+    },
+    {
+        "Sents": "When was the last time you saw them?",
+        "ipaSents": "wɛn wɒz ðə lɑːst taɪm juː sɔː ðɛm?",
+        "Meaning": "Lần cuối cùng bạn nhìn thấy chúng là khi nào?"
+    },
+    {
+        "Sents": "Check out the state of that shed, it’s falling apart.",
+        "ipaSents": "ʧɛk aʊt ðə steɪt ɒv ðæt ʃɛd, ɪts ˈfɔːlɪŋ əˈpɑːt.",
+        "Meaning": "Kiểm tra tình trạng của cái nhà kho đó, nó đang đổ nát."
+    },
+    {
+        "Sents": "I’m never going to drink wine again.",
+        "ipaSents": "aɪm ˈnɛvə ˈgəʊɪŋ tuː drɪŋk waɪn əˈgɛn.",
+        "Meaning": "Tôi sẽ không bao giờ uống rượu nữa."
+    },
+    {
+        "Sents": "Over the years we’ve become really close.",
+        "ipaSents": "ˈəʊvə ðə jɪəz wiːv bɪˈkʌm ˈrɪəli kləʊs.",
+        "Meaning": "Qua nhiều năm, chúng tôi đã trở nên thực sự thân thiết."
+    },
+    {
+        "Sents": "This is just between you and me.",
+        "ipaSents": "ðɪs ɪz ʤʌst bɪˈtwiːn juː ænd miː.",
+        "Meaning": "Đây chỉ là giữa bạn và tôi."
+    },
+    {
+        "Sents": "Give me a high five!",
+        "ipaSents": "gɪv miː ə haɪ faɪv!",
+        "Meaning": "Cho tôi một điểm cao!"
+    },
+    {
+        "Sents": "I really like your painting!",
+        "ipaSents": "aɪ ˈrɪəli laɪk jɔː ˈpeɪntɪŋ!",
+        "Meaning": "Tôi thực sự thích bức tranh của bạn!"
+    },
+    {
+        "Sents": "I have something for you.",
+        "ipaSents": "aɪ hæv ˈsʌmθɪŋ fɔː juː.",
+        "Meaning": "Tôi có thứ này cho bạn."
+    },
+    {
+        "Sents": "She’s the most beautiful girl I’ve ever seen.",
+        "ipaSents": "ʃiːz ðə məʊst ˈbjuːtəfʊl gɜːl aɪv ˈɛvə siːn.",
+        "Meaning": "Cô ấy là cô gái xinh đẹp nhất mà tôi từng thấy."
+    },
+    {
+        "Sents": "I’ll have another glass of wine, please.",
+        "ipaSents": "aɪl hæv əˈnʌðə glɑːs ɒv waɪn, pliːz.",
+        "Meaning": "Vui lòng cho tôi một ly rượu khác."
+    },
+    {
+        "Sents": "I love you guys so much.",
+        "ipaSents": "aɪ lʌv juː gaɪz səʊ mʌʧ.",
+        "Meaning": "Tôi yêu các bạn rất nhiều."
+    },
+    {
+        "Sents": "You are like family to me.",
+        "ipaSents": "juː ɑː laɪk ˈfæmɪli tuː miː.",
+        "Meaning": "Bạn như một gia đình đối với tôi."
+    },
+    {
+        "Sents": "I want to get my own place.",
+        "ipaSents": "aɪ wɒnt tuː gɛt maɪ əʊn pleɪs.",
+        "Meaning": "Tôi muốn có được vị trí của riêng mình."
+    },
+    {
+        "Sents": "Get out of my room.",
+        "ipaSents": "gɛt aʊt ɒv maɪ ruːm.",
+        "Meaning": "Ra khỏi phòng tôi."
+    },
+    {
+        "Sents": "I want you to leave.",
+        "ipaSents": "aɪ wɒnt juː tuː liːv.",
+        "Meaning": "Tôi muốn bạn rời đi."
+    },
+    {
+        "Sents": "Please put down that book and listen to me.",
+        "ipaSents": "pliːz pʊt daʊn ðæt bʊk ænd ˈlɪsn tuː miː.",
+        "Meaning": "Hãy đặt cuốn sách đó xuống và lắng nghe tôi."
+    },
+    {
+        "Sents": "I feel so old!",
+        "ipaSents": "aɪ fiːl səʊ əʊld!",
+        "Meaning": "Tôi cảm thấy thật già!"
+    },
+    {
+        "Sents": "I can wait for you here while you shop.",
+        "ipaSents": "aɪ kæn weɪt fɔː juː hɪə waɪl juː ʃɒp.",
+        "Meaning": "Tôi có thể đợi bạn ở đây trong khi bạn mua sắm."
+    },
+    {
+        "Sents": "I didn’t mean to sound so angry.",
+        "ipaSents": "aɪ dɪdnt miːn tuː saʊnd səʊ ˈæŋgri.",
+        "Meaning": "Tôi không cố ý tỏ ra tức giận như vậy."
+    },
+    {
+        "Sents": "Can you turn on the lights?",
+        "ipaSents": "kæn juː tɜːn ɒn ðə laɪts?",
+        "Meaning": "Bạn có thể bật đèn lên không?"
+    },
+    {
+        "Sents": "Can we keep the lights on tonight?",
+        "ipaSents": "kæn wiː kiːp ðə laɪts ɒn təˈnaɪt?",
+        "Meaning": "Chúng ta có thể để đèn sáng tối nay không?"
+    },
+    {
+        "Sents": "I’ve always been a diligent student.",
+        "ipaSents": "aɪv ˈɔːlweɪz biːn ə ˈdɪlɪʤənt ˈstjuːdənt.",
+        "Meaning": "Tôi luôn là một học sinh siêng năng."
+    },
+    {
+        "Sents": "This is why I don’t go out anymore.",
+        "ipaSents": "ðɪs ɪz waɪ aɪ dəʊnt gəʊ aʊt ˌɛniˈmɔː.",
+        "Meaning": "Đây là lý do tại sao tôi không ra ngoài nữa."
+    },
+    {
+        "Sents": "Why won’t you let him know how you feel?",
+        "ipaSents": "waɪ wəʊnt juː lɛt hɪm nəʊ haʊ juː fiːl?",
+        "Meaning": "Tại sao bạn không cho anh ấy biết cảm giác của bạn?"
+    },
+    {
+        "Sents": "This ice cream place is great for families with kids!",
+        "ipaSents": "ðɪs aɪs kriːm pleɪs ɪz greɪt fɔː ˈfæmɪliz wɪð kɪdz!",
+        "Meaning": "Địa điểm ăn kem này là tuyệt vời cho các gia đình có trẻ em!"
+    },
+    {
+        "Sents": "Hey, we’re wearing the same shirt!",
+        "ipaSents": "heɪ, wɪə ˈweərɪŋ ðə seɪm ʃɜːt!",
+        "Meaning": "Này, chúng ta đang mặc cùng một chiếc áo!"
+    },
+    {
+        "Sents": "I have this big crush on Brad Pitt.",
+        "ipaSents": "aɪ hæv ðɪs bɪg krʌʃ ɒn bræd pɪt.",
+        "Meaning": "Tôi rất thích Brad Pitt."
+    },
+    {
+        "Sents": "The group sitting across our table is so noisy.",
+        "ipaSents": "ðə gruːp ˈsɪtɪŋ əˈkrɒs ˈaʊə ˈteɪbl ɪz səʊ ˈnɔɪzi.",
+        "Meaning": "Nhóm ngồi đối diện bàn của chúng tôi rất ồn ào."
+    },
+    {
+        "Sents": "Where do I begin with this huge project?",
+        "ipaSents": "weə duː aɪ bɪˈgɪn wɪð ðɪs hjuːʤ ˈprɒʤɛkt?",
+        "Meaning": "Tôi bắt đầu từ đâu với dự án khổng lồ này?"
+    },
+    {
+        "Sents": "She may seem quiet, but she’s really outgoing once you get to know her.",
+        "ipaSents": "ʃiː meɪ siːm ˈkwaɪət, bʌt ʃiːz ˈrɪəli aʊtˈgəʊɪŋ wʌns juː gɛt tuː nəʊ hɜː.",
+        "Meaning": "Cô ấy có vẻ trầm lặng, nhưng cô ấy thực sự hướng ngoại khi bạn làm quen với cô ấy."
+    },
+    {
+        "Sents": "Japan is such a beautiful country!",
+        "ipaSents": "ʤəˈpæn ɪz sʌʧ ə ˈbjuːtəfʊl ˈkʌntri!",
+        "Meaning": "Nhật Bản là một đất nước xinh đẹp!"
+    },
+    {
+        "Sents": "I need help with my math homework.",
+        "ipaSents": "aɪ niːd hɛlp wɪð maɪ mæθ ˈhəʊmˌwɜːk.",
+        "Meaning": "Tôi cần giúp đỡ với bài tập về nhà toán học của tôi."
+    },
+    {
+        "Sents": "Can we talk in private?",
+        "ipaSents": "kæn wiː tɔːk ɪn ˈpraɪvɪt?",
+        "Meaning": "Chúng ta có thể nói chuyện riêng không?"
+    },
+    {
+        "Sents": "Where were you last night?",
+        "ipaSents": "weə wɜː juː lɑːst naɪt?",
+        "Meaning": "Bạn đã ở đâu tối qua?"
+    },
+    {
+        "Sents": "If only I could turn back time.",
+        "ipaSents": "ɪf ˈəʊnli aɪ kʊd tɜːn bæk taɪm.",
+        "Meaning": "Giá như tôi có thể quay ngược thời gian."
+    },
+    {
+        "Sents": "The problem is we think we have plenty of time.",
+        "ipaSents": "ðə ˈprɒbləm ɪz wiː θɪŋk wiː hæv ˈplɛnti ɒv taɪm.",
+        "Meaning": "Vấn đề là chúng tôi nghĩ rằng chúng tôi còn nhiều thời gian."
+    },
+    {
+        "Sents": "Every person has his own big goal to fulfill.",
+        "ipaSents": "ˈɛvri ˈpɜːsn hæz hɪz əʊn bɪg gəʊl tuː fʊlˈfɪl.",
+        "Meaning": "Mỗi người đều có mục tiêu lớn của riêng mình để hoàn thành."
+    },
+    {
+        "Sents": "This is great to start learning the English language.",
+        "ipaSents": "ðɪs ɪz greɪt tuː stɑːt ˈlɜːnɪŋ ði ˈɪŋglɪʃ ˈlæŋgwɪʤ.",
+        "Meaning": "Đây là điều tuyệt vời để bắt đầu học tiếng Anh."
+    },
+    {
+        "Sents": "Don’t let go of my hand.",
+        "ipaSents": "dəʊnt lɛt gəʊ ɒv maɪ hænd.",
+        "Meaning": "Đừng buông tay tôi."
+    },
+    {
+        "Sents": "This might actually work.",
+        "ipaSents": "ðɪs maɪt ˈækʧʊəli wɜːk.",
+        "Meaning": "Điều này thực sự có thể hoạt động."
+    },
+    {
+        "Sents": "The American culture is so dynamic.",
+        "ipaSents": "ði əˈmɛrɪkən ˈkʌlʧər ɪz səʊ daɪˈnæmɪk.",
+        "Meaning": "Văn hóa Mỹ rất năng động."
+    },
+    {
+        "Sents": "Can you show me how to use this vacuum cleaner?",
+        "ipaSents": "kæn juː ʃəʊ miː haʊ tuː juːz ðɪs ˈvækjʊəm ˈkliːnə?",
+        "Meaning": "Bạn có thể chỉ cho tôi cách sử dụng máy hút bụi này không?"
+    },
+    {
+        "Sents": "This is my favorite part of the movie!",
+        "ipaSents": "ðɪs ɪz maɪ ˈfeɪvərɪt pɑːt ɒv ðə ˈmuːvi!",
+        "Meaning": "Đây là phần yêu thích của tôi trong bộ phim!"
+    },
+    {
+        "Sents": "What is the story about?",
+        "ipaSents": "wɒt ɪz ðə ˈstɔːri əˈbaʊt?",
+        "Meaning": "Câu chuyện nói về điều gì?"
+    },
+    {
+        "Sents": "I am so against domestic abuse!",
+        "ipaSents": "aɪ æm səʊ əˈgɛnst dəʊˈmɛstɪk əˈbjuːs!",
+        "Meaning": "Tôi rất chống lại sự lạm dụng trong gia đình!"
+    },
+    {
+        "Sents": "This place is wonderful!",
+        "ipaSents": "ðɪs pleɪs ɪz ˈwʌndəfʊl!",
+        "Meaning": "Nơi này thật tuyệt vời!"
+    },
+    {
+        "Sents": "She kept saying this over and over again.",
+        "ipaSents": "ʃiː kɛpt ˈseɪɪŋ ðɪs ˈəʊvər ænd ˈəʊvər əˈgɛn.",
+        "Meaning": "Cô ấy cứ nói đi nói lại điều này."
+    },
+    {
+        "Sents": "He is such an annoying person.",
+        "ipaSents": "hiː ɪz sʌʧ ən əˈnɔɪɪŋ ˈpɜːsn.",
+        "Meaning": "Anh ta đúng là một kẻ khó chịu."
+    },
+    {
+        "Sents": "Can we play that game again?",
+        "ipaSents": "kæn wiː pleɪ ðæt geɪm əˈgɛn?",
+        "Meaning": "Chúng ta có thể chơi lại trò chơi đó không?"
+    },
+    {
+        "Sents": "Just a few more errands and I'm done!",
+        "ipaSents": "ʤʌst ə fjuː mɔːr ˈɛrəndz ænd aɪm dʌn!",
+        "Meaning": "Chỉ cần một vài việc lặt vặt nữa là xong!"
+    },
+    {
+        "Sents": "What an interesting case you are working on now!",
+        "ipaSents": "wɒt ən ˈɪntrɪstɪŋ keɪs juː ɑː ˈwɜːkɪŋ ɒn naʊ!",
+        "Meaning": "Thật là một trường hợp thú vị mà bạn đang làm!"
+    },
+    {
+        "Sents": "That’s the most interesting story I’ve ever heard.",
+        "ipaSents": "ðæts ðə məʊst ˈɪntrɪstɪŋ ˈstɔːri aɪv ˈɛvə hɜːd.",
+        "Meaning": "Đó là câu chuyện thú vị nhất mà tôi từng nghe."
+    },
+    {
+        "Sents": "I had a rough week.",
+        "ipaSents": "aɪ hæd ə rʌf wiːk.",
+        "Meaning": "Tôi đã có một tuần khó khăn."
+    },
+    {
+        "Sents": "Will you keep me company?",
+        "ipaSents": "wɪl juː kiːp miː ˈkʌmpəni?",
+        "Meaning": "Bạn sẽ tiếp tục bầu bạn với tôi chứ?"
+    },
+    {
+        "Sents": "Where are we going?",
+        "ipaSents": "weər ɑː wiː ˈgəʊɪŋ?",
+        "Meaning": "Chúng ta đang đi đâu vậy?"
+    },
+    {
+        "Sents": "What’s wrong with the airport’s system?",
+        "ipaSents": "wɒts rɒŋ wɪð ði ˈeəpɔːts ˈsɪstɪm?",
+        "Meaning": "Có vấn đề gì với hệ thống của sân bay?"
+    },
+    {
+        "Sents": "Can you give each of them an apple?",
+        "ipaSents": "kæn juː gɪv iːʧ ɒv ðɛm ən ˈæpl?",
+        "Meaning": "Bạn có thể cho mỗi người trong số họ một quả táo?"
+    },
+    {
+        "Sents": "I’m right this time.",
+        "ipaSents": "aɪm raɪt ðɪs taɪm.",
+        "Meaning": "Tôi đúng lúc này."
+    },
+    {
+        "Sents": "This community program for teens is really helpful.",
+        "ipaSents": "ðɪs kəˈmjuːnɪti ˈprəʊgræm fɔː tiːnz ɪz ˈrɪəli ˈhɛlpfʊl.",
+        "Meaning": "Chương trình cộng đồng dành cho thanh thiếu niên này thực sự hữu ích."
+    },
+    {
+        "Sents": "Did you hear that?",
+        "ipaSents": "dɪd juː hɪə ðæt?",
+        "Meaning": "Bạn có nghe thấy điều đó không?"
+    },
+    {
+        "Sents": "I’m so sleepy.",
+        "ipaSents": "aɪm səʊ ˈsliːpi.",
+        "Meaning": "Tôi rất buồn ngủ."
+    },
+    {
+        "Sents": "I have a question for you.",
+        "ipaSents": "aɪ hæv ə ˈkwɛsʧən fɔː juː.",
+        "Meaning": "Tôi có một câu hỏi dành cho bạn."
+    },
+    {
+        "Sents": "During the session, I saw him fall asleep.",
+        "ipaSents": "ˈdjʊərɪŋ ðə ˈsɛʃən, aɪ sɔː hɪm fɔːl əˈsliːp.",
+        "Meaning": "Trong suốt buổi học, tôi thấy anh ấy ngủ thiếp đi."
+    },
+    {
+        "Sents": "I have to work this weekend.",
+        "ipaSents": "aɪ hæv tuː wɜːk ðɪs ˈwiːkˈɛnd.",
+        "Meaning": "Tôi phải làm việc vào cuối tuần này."
+    },
+    {
+        "Sents": "We can play soccer next weekend instead.",
+        "ipaSents": "wiː kæn pleɪ ˈsɒkə nɛkst ˈwiːkˈɛnd ɪnˈstɛd.",
+        "Meaning": "Thay vào đó, chúng ta có thể chơi bóng đá vào cuối tuần tới."
+    },
+    {
+        "Sents": "I hope the government does something about the poverty in this country.",
+        "ipaSents": "aɪ həʊp ðə ˈgʌvnmənt dʌz ˈsʌmθɪŋ əˈbaʊt ðə ˈpɒvəti ɪn ðɪs ˈkʌntri.",
+        "Meaning": "Tôi hy vọng chính phủ làm điều gì đó để giải quyết tình trạng nghèo đói ở đất nước này."
+    },
+    {
+        "Sents": "If you see a bear here, run for your life.",
+        "ipaSents": "ɪf juː siː ə beə hɪə, rʌn fɔː jɔː laɪf.",
+        "Meaning": "Nếu bạn nhìn thấy một con gấu ở đây, hãy chạy lấy mạng sống của bạn."
+    },
+    {
+        "Sents": "I have a small favor to ask you.",
+        "ipaSents": "aɪ hæv ə smɔːl ˈfeɪvə tuː ɑːsk juː.",
+        "Meaning": "Tôi có một ân huệ nhỏ muốn hỏi bạn."
+    },
+    {
+        "Sents": "I have a number of favors to ask you.",
+        "ipaSents": "aɪ hæv ə ˈnʌmbər ɒv ˈfeɪvəz tuː ɑːsk juː.",
+        "Meaning": "Tôi có một số đặc ân để hỏi bạn."
+    },
+    {
+        "Sents": "Please turn off the television.",
+        "ipaSents": "pliːz tɜːn ɒf ðə ˈtɛlɪˌvɪʒən.",
+        "Meaning": "Vui lòng tắt tivi."
+    },
+    {
+        "Sents": "I always bring pepper spray with me.",
+        "ipaSents": "aɪ ˈɔːlweɪz brɪŋ ˈpɛpə spreɪ wɪð miː.",
+        "Meaning": "Tôi luôn mang theo bình xịt hơi cay bên mình."
+    },
+    {
+        "Sents": "Let’s move on to the next tourist spot.",
+        "ipaSents": "lɛts muːv ɒn tuː ðə nɛkst ˈtʊərɪst spɒt.",
+        "Meaning": "Hãy chuyển sang điểm du lịch tiếp theo."
+    },
+    {
+        "Sents": "I really like you.",
+        "ipaSents": "aɪ ˈrɪəli laɪk juː.",
+        "Meaning": "Tôi thực sự thích bạn."
+    },
+    {
+        "Sents": "The night is young.",
+        "ipaSents": "ðə naɪt ɪz jʌŋ.",
+        "Meaning": "Đêm vẫn còn sớm."
+    },
+    {
+        "Sents": "I’m going to live like there’s no tomorrow.",
+        "ipaSents": "aɪm ˈgəʊɪŋ tuː lɪv laɪk ðeəz nəʊ təˈmɒrəʊ.",
+        "Meaning": "Tôi sẽ sống như không có ngày mai."
+    },
+    {
+        "Sents": "Mr. Morris is here.",
+        "ipaSents": "Mr. ˈmɒrɪs ɪz hɪə.",
+        "Meaning": "Ông Morris đang ở đây."
+    },
+    {
+        "Sents": "You have a point.",
+        "ipaSents": "juː hæv ə pɔɪnt.",
+        "Meaning": "Bạn có lý."
+    },
+    {
+        "Sents": "I believe in you.",
+        "ipaSents": "aɪ bɪˈliːv ɪn juː.",
+        "Meaning": "Tôi tin bạn."
+    },
+    {
+        "Sents": "Just hold my hand.",
+        "ipaSents": "ʤʌst həʊld maɪ hænd.",
+        "Meaning": "Chỉ cần nắm tay tôi."
+    },
+    {
+        "Sents": "I’m going to see you today.",
+        "ipaSents": "aɪm ˈgəʊɪŋ tuː siː juː təˈdeɪ.",
+        "Meaning": "Tôi sẽ gặp bạn hôm nay."
+    },
+    {
+        "Sents": "Please bring a pen.",
+        "ipaSents": "pliːz brɪŋ ə pɛn.",
+        "Meaning": "Vui lòng mang theo bút."
+    },
+    {
+        "Sents": "What will happen if you don’t submit your report on time?",
+        "ipaSents": "wɒt wɪl ˈhæpən ɪf juː dəʊnt səbˈmɪt jɔː rɪˈpɔːt ɒn taɪm?",
+        "Meaning": "Điều gì sẽ xảy ra nếu bạn không gửi báo cáo đúng hạn?"
+    },
+    {
+        "Sents": "This is the next best thing.",
+        "ipaSents": "ðɪs ɪz ðə nɛkst bɛst θɪŋ.",
+        "Meaning": "Đây là điều tốt nhất tiếp theo."
+    },
+    {
+        "Sents": "I can’t live without my phone.",
+        "ipaSents": "aɪ kɑːnt lɪv wɪˈðaʊt maɪ fəʊn.",
+        "Meaning": "Tôi không thể sống mà không có điện thoại của mình."
+    },
+    {
+        "Sents": "Before I go to bed I always wash my face.",
+        "ipaSents": "bɪˈfɔːr aɪ gəʊ tuː bɛd aɪ ˈɔːlweɪz wɒʃ maɪ feɪs.",
+        "Meaning": "Trước khi đi ngủ, tôi luôn rửa mặt."
+    },
+    {
+        "Sents": "There’s a large amount of data online about that topic.",
+        "ipaSents": "ðeəz ə lɑːʤ əˈmaʊnt ɒv ˈdeɪtə ˈɒnˌlaɪn əˈbaʊt ðæt ˈtɒpɪk.",
+        "Meaning": "Có một lượng lớn dữ liệu trực tuyến về chủ đề đó."
+    },
+    {
+        "Sents": "That’s all I know about dinosaurs.",
+        "ipaSents": "ðæts ɔːl aɪ nəʊ əˈbaʊt ˈdaɪnəʊsɔːz.",
+        "Meaning": "Đó là tất cả những gì tôi biết về khủng long."
+    },
+    {
+        "Sents": "I have a million questions about this book.",
+        "ipaSents": "aɪ hæv ə ˈmɪljən ˈkwɛsʧənz əˈbaʊt ðɪs bʊk.",
+        "Meaning": "Tôi có một triệu câu hỏi về cuốn sách này."
+    },
+    {
+        "Sents": "We must watch this movie together.",
+        "ipaSents": "wiː mʌst wɒʧ ðɪs ˈmuːvi təˈgɛðə.",
+        "Meaning": "Chúng ta phải xem bộ phim này cùng nhau."
+    },
+    {
+        "Sents": "Can we go home now?",
+        "ipaSents": "kæn wiː gəʊ həʊm naʊ?",
+        "Meaning": "Chúng ta có thể về nhà bây giờ không?"
+    },
+    {
+        "Sents": "I hid it under my bed.",
+        "ipaSents": "aɪ hɪd ɪt ˈʌndə maɪ bɛd.",
+        "Meaning": "Tôi đã giấu nó dưới gầm giường của mình."
+    },
+    {
+        "Sents": "I filled the tub with water.",
+        "ipaSents": "aɪ fɪld ðə tʌb wɪð ˈwɔːtə.",
+        "Meaning": "Tôi đổ đầy nước vào bồn tắm."
+    },
+    {
+        "Sents": "His room is at the end of the corridor.",
+        "ipaSents": "hɪz ruːm ɪz æt ði ɛnd ɒv ðə ˈkɒrɪdɔː.",
+        "Meaning": "Phòng của anh ấy ở cuối hành lang."
+    },
+    {
+        "Sents": "Can you write me a prescription for this?",
+        "ipaSents": "kæn juː raɪt miː ə prɪsˈkrɪpʃən fɔː ðɪs?",
+        "Meaning": "Bạn có thể viết cho tôi một đơn thuốc cho điều này?"
+    },
+    {
+        "Sents": "His mother is a very lovely woman.",
+        "ipaSents": "hɪz ˈmʌðər ɪz ə ˈvɛri ˈlʌvli ˈwʊmən.",
+        "Meaning": "Mẹ anh là một người phụ nữ rất đáng yêu."
+    },
+    {
+        "Sents": "This area of this house needs to be fixed.",
+        "ipaSents": "ðɪs ˈeərɪə ɒv ðɪs haʊs niːdz tuː biː fɪkst.",
+        "Meaning": "Diện tích của ngôi nhà này cần được sửa lại."
+    },
+    {
+        "Sents": "That virus has become a national concern.",
+        "ipaSents": "ðæt ˈvaɪərəs hæz bɪˈkʌm ə ˈnæʃənl kənˈsɜːn.",
+        "Meaning": "Virus đó đã trở thành mối quan tâm của quốc gia."
+    },
+    {
+        "Sents": "She needs money to buy her medicine.",
+        "ipaSents": "ʃiː niːdz ˈmʌni tuː baɪ hɜː ˈmɛdsɪn.",
+        "Meaning": "Cô ấy cần tiền để mua thuốc cho mình."
+    },
+    {
+        "Sents": "She shared her story to the media.",
+        "ipaSents": "ʃiː ʃeəd hɜː ˈstɔːri tuː ðə ˈmiːdiə.",
+        "Meaning": "Cô đã chia sẻ câu chuyện của mình với giới truyền thông."
+    },
+    {
+        "Sents": "She is so young and so hopeful.",
+        "ipaSents": "ʃiː ɪz səʊ jʌŋ ænd səʊ ˈhəʊpfʊl.",
+        "Meaning": "Cô ấy còn quá trẻ và rất hy vọng."
+    },
+    {
+        "Sents": "It’s a fact: shopping can improve your mood.",
+        "ipaSents": "ɪts ə fækt: ˈʃɒpɪŋ kæn ɪmˈpruːv jɔː muːd.",
+        "Meaning": "Đó là một thực tế: mua sắm có thể cải thiện tâm trạng của bạn."
+    },
+    {
+        "Sents": "It’s that time of the month!",
+        "ipaSents": "ɪts ðæt taɪm ɒv ðə mʌnθ!",
+        "Meaning": "Vào thời gian đó của tháng!"
+    },
+    {
+        "Sents": "Just because she’s different, it doesn’t mean she’s bad.",
+        "ipaSents": "ʤʌst bɪˈkɒz ʃiːz ˈdɪfrənt, ɪt dʌznt miːn ʃiːz bæd.",
+        "Meaning": "Chỉ vì cô ấy khác biệt, không có nghĩa là cô ấy xấu."
+    },
+    {
+        "Sents": "You have a lot of explaining to do.",
+        "ipaSents": "juː hæv ə lɒt ɒv ɪksˈpleɪnɪŋ tuː duː.",
+        "Meaning": "Bạn có rất nhiều giải thích để làm."
+    },
+    {
+        "Sents": "Turn right when you reach the corner.",
+        "ipaSents": "tɜːn raɪt wɛn juː riːʧ ðə ˈkɔːnə.",
+        "Meaning": "Rẽ phải khi bạn đến góc."
+    },
+    {
+        "Sents": "Let’s study our English lessons together.",
+        "ipaSents": "lɛts ˈstʌdi ˈaʊər ˈɪŋglɪʃ ˈlɛsnz təˈgɛðə.",
+        "Meaning": "Chúng ta hãy cùng nhau nghiên cứu các bài học tiếng Anh của chúng ta."
+    },
+    {
+        "Sents": "Can I borrow your English book?",
+        "ipaSents": "kæn aɪ ˈbɒrəʊ jɔːr ˈɪŋglɪʃ bʊk?",
+        "Meaning": "Tôi có thể mượn sách tiếng Anh của bạn không?"
+    },
+    {
+        "Sents": "She has pink eye.",
+        "ipaSents": "ʃiː hæz pɪŋk aɪ.",
+        "Meaning": "Cô ấy có mắt màu hồng."
+    },
+    {
+        "Sents": "I love my job.",
+        "ipaSents": "aɪ lʌv maɪ ʤɒb.",
+        "Meaning": "Tôi yêu công việc của mình."
+    },
+    {
+        "Sents": "Describe yourself in one word.",
+        "ipaSents": "dɪsˈkraɪb jɔːˈsɛlf ɪn wʌn wɜːd.",
+        "Meaning": "Mô tả bản thân bằng một từ."
+    },
+    {
+        "Sents": "Though you are angry now, I’m sure you will forget about this later.",
+        "ipaSents": "ðəʊ juː ɑːr ˈæŋgri naʊ, aɪm ʃʊə juː wɪl fəˈgɛt əˈbaʊt ðɪs ˈleɪtə.",
+        "Meaning": "Dù bây giờ bạn đang tức giận nhưng tôi chắc chắn rằng bạn sẽ quên chuyện này sau này."
+    },
+    {
+        "Sents": "His business is thriving.",
+        "ipaSents": "hɪz ˈbɪznɪs ɪz ˈθraɪvɪŋ.",
+        "Meaning": "Công việc kinh doanh của anh ấy đang phát đạt."
+    },
+    {
+        "Sents": "This is not an issue for me.",
+        "ipaSents": "ðɪs ɪz nɒt ən ˈɪʃuː fɔː miː.",
+        "Meaning": "Đây không phải là một vấn đề đối với tôi."
+    },
+    {
+        "Sents": "Whose side are you on, anyway?",
+        "ipaSents": "huːz saɪd ɑː juː ɒn, ˈɛnɪweɪ?",
+        "Meaning": "Dù sao thì bạn cũng đứng về phía ai?"
+    },
+    {
+        "Sents": "Always be kind, even to strangers.",
+        "ipaSents": "ˈɔːlweɪz biː kaɪnd, ˈiːvən tuː ˈstreɪnʤəz.",
+        "Meaning": "Hãy luôn tử tế, ngay cả với người lạ."
+    },
+    {
+        "Sents": "There are four seasons in a year.",
+        "ipaSents": "ðeər ɑː fɔː ˈsiːznz ɪn ə jɪə.",
+        "Meaning": "Có bốn mùa trong một năm."
+    },
+    {
+        "Sents": "Let’s head back, it’s freezing out here.",
+        "ipaSents": "lɛts hɛd bæk, ɪts ˈfriːzɪŋ aʊt hɪə.",
+        "Meaning": "Quay đầu lại, ở đây đang đóng băng."
+    },
+    {
+        "Sents": "We’ve gone too far and now we’re lost.",
+        "ipaSents": "wiːv gɒn tuː fɑːr ænd naʊ wɪə lɒst.",
+        "Meaning": "Chúng ta đã đi quá xa và giờ chúng ta lạc lối."
+    },
+    {
+        "Sents": "She has long, black hair.",
+        "ipaSents": "ʃiː hæz lɒŋ, blæk heə.",
+        "Meaning": "Cô ấy có mái tóc đen dài."
+    },
+    {
+        "Sents": "She has long, brown hair.",
+        "ipaSents": "ʃiː hæz lɒŋ, braʊn heə.",
+        "Meaning": "Cô ấy có mái tóc dài và màu nâu."
+    },
+    {
+        "Sents": "They both love chocolate ice cream.",
+        "ipaSents": "ðeɪ bəʊθ lʌv ˈʧɒkəlɪt aɪs kriːm.",
+        "Meaning": "Cả hai đều thích kem sô cô la."
+    },
+    {
+        "Sents": "I have two little boys with me now.",
+        "ipaSents": "aɪ hæv tuː ˈlɪtl bɔɪz wɪð miː naʊ.",
+        "Meaning": "Bây giờ tôi có hai cậu con trai nhỏ."
+    },
+    {
+        "Sents": "The house is so quiet without you.",
+        "ipaSents": "ðə haʊs ɪz səʊ ˈkwaɪət wɪˈðaʊt juː.",
+        "Meaning": "Ngôi nhà thật yên tĩnh khi không có anh."
+    },
+    {
+        "Sents": "I hope you say yes.",
+        "ipaSents": "aɪ həʊp juː seɪ jɛs.",
+        "Meaning": "Tôi hy vọng bạn nói có."
+    },
+    {
+        "Sents": "After all this time, he has finally learned to love.",
+        "ipaSents": "ˈɑːftər ɔːl ðɪs taɪm, hiː hæz ˈfaɪnəli lɜːnt tuː lʌv.",
+        "Meaning": "Sau ngần ấy thời gian, cuối cùng anh ấy cũng đã học được cách yêu."
+    },
+    {
+        "Sents": "Ever since his mom died, he has been cranky and angry at the world.",
+        "ipaSents": "ˈɛvə sɪns hɪz mɒm daɪd, hiː hæz biːn ˈkræŋki ænd ˈæŋgri æt ðə wɜːld.",
+        "Meaning": "Kể từ khi mẹ anh mất, anh luôn cáu kỉnh và giận dữ với thế giới."
+    },
+    {
+        "Sents": "That was such a long time ago.",
+        "ipaSents": "ðæt wɒz sʌʧ ə lɒŋ taɪm əˈgəʊ.",
+        "Meaning": "Đó là một thời gian dài trước đây."
+    },
+    {
+        "Sents": "Please provide me with a list of your services.",
+        "ipaSents": "pliːz prəˈvaɪd miː wɪð ə lɪst ɒv jɔː ˈsɜːvɪsɪz.",
+        "Meaning": "Vui lòng cung cấp cho tôi danh sách các dịch vụ của bạn."
+    },
+    {
+        "Sents": "Do you have a specific dental service to treat this?",
+        "ipaSents": "duː juː hæv ə spɪˈsɪfɪk ˈdɛntl ˈsɜːvɪs tuː triːt ðɪs?",
+        "Meaning": "Bạn có một dịch vụ nha khoa cụ thể để điều trị điều này?"
+    },
+    {
+        "Sents": "We went around the block.",
+        "ipaSents": "wiː wɛnt əˈraʊnd ðə blɒk.",
+        "Meaning": "Chúng tôi đã đi xung quanh khu nhà."
+    },
+    {
+        "Sents": "You’re a good friend.",
+        "ipaSents": "jʊər ə gʊd frɛnd.",
+        "Meaning": "Bạn là một người bạn tốt."
+    },
+    {
+        "Sents": "You’re important to me.",
+        "ipaSents": "jʊər ɪmˈpɔːtənt tuː miː.",
+        "Meaning": "Bạn quan trọng đôi vơi tôi."
+    },
+    {
+        "Sents": "My father is so important to me.",
+        "ipaSents": "maɪ ˈfɑːðər ɪz səʊ ɪmˈpɔːtənt tuː miː.",
+        "Meaning": "Cha tôi rất quan trọng đối với tôi."
+    },
+    {
+        "Sents": "Let’s sit outside together.",
+        "ipaSents": "lɛts sɪt ˌaʊtˈsaɪd təˈgɛðə.",
+        "Meaning": "Hãy ngồi bên ngoài cùng nhau."
+    },
+    {
+        "Sents": "He’s away right now.",
+        "ipaSents": "hiːz əˈweɪ raɪt naʊ.",
+        "Meaning": "Anh ấy đi ngay bây giờ."
+    },
+    {
+        "Sents": "Until when will you be away?",
+        "ipaSents": "ənˈtɪl wɛn wɪl juː biː əˈweɪ?",
+        "Meaning": "Cho đến khi nào bạn sẽ đi xa?"
+    },
+    {
+        "Sents": "With great power comes great responsibility.",
+        "ipaSents": "wɪð greɪt ˈpaʊə kʌmz greɪt rɪsˌpɒnsəˈbɪlɪti.",
+        "Meaning": "Với sức mạnh lớn đến trách nhiệm lớn."
+    },
+    {
+        "Sents": "I’ve been checking his temperature every hour.",
+        "ipaSents": "aɪv biːn ˈʧɛkɪŋ hɪz ˈtɛmprɪʧər ˈɛvri ˈaʊə.",
+        "Meaning": "Tôi đã kiểm tra nhiệt độ của anh ấy hàng giờ."
+    },
+    {
+        "Sents": "Let’s play a game.",
+        "ipaSents": "lɛts pleɪ ə geɪm.",
+        "Meaning": "Chúng ta hãy chơi một trò chơi."
+    },
+    {
+        "Sents": "I buy from his bakery as often as I can.",
+        "ipaSents": "aɪ baɪ frɒm hɪz ˈbeɪkəri æz ˈɒf(ə)n æz aɪ kæn.",
+        "Meaning": "Tôi mua từ tiệm bánh của anh ấy thường xuyên nhất có thể."
+    },
+    {
+        "Sents": "He’s not yet home.",
+        "ipaSents": "hiːz nɒt jɛt həʊm.",
+        "Meaning": "Anh ấy vẫn chưa về nhà."
+    },
+    {
+        "Sents": "There’s a long line at the grocery cashier.",
+        "ipaSents": "ðeəz ə lɒŋ laɪn æt ðə ˈgrəʊsəri kæˈʃɪə.",
+        "Meaning": "Có một hàng dài ở quầy thu ngân tạp hóa."
+    },
+    {
+        "Sents": "I stay away from political discussions.",
+        "ipaSents": "aɪ steɪ əˈweɪ frɒm pəˈlɪtɪkəl dɪsˈkʌʃənz.",
+        "Meaning": "Tôi tránh xa các cuộc thảo luận chính trị."
+    },
+    {
+        "Sents": "It’s the end of an era.",
+        "ipaSents": "ɪts ði ɛnd ɒv ən ˈɪərə.",
+        "Meaning": "Đó là sự kết thúc của một kỷ nguyên."
+    },
+    {
+        "Sents": "Among all my pets, he’s my most favorite.",
+        "ipaSents": "əˈmʌŋ ɔːl maɪ pɛts, hiːz maɪ məʊst ˈfeɪvərɪt.",
+        "Meaning": "Trong số tất cả các vật nuôi của tôi, nó là con vật yêu thích nhất của tôi."
+    },
+    {
+        "Sents": "Have you ever tried this cake?",
+        "ipaSents": "hæv juː ˈɛvə traɪd ðɪs keɪk?",
+        "Meaning": "Bạn đã từng thử món bánh này chưa?"
+    },
+    {
+        "Sents": "Can you stand still for a minute?",
+        "ipaSents": "kæn juː stænd stɪl fɔːr ə ˈmɪnɪt?",
+        "Meaning": "Bạn có thể đứng yên trong một phút không?"
+    },
+    {
+        "Sents": "What you did was so bad.",
+        "ipaSents": "wɒt juː dɪd wɒz səʊ bæd.",
+        "Meaning": "Những gì bạn đã làm thật tồi tệ."
+    },
+    {
+        "Sents": "I can’t lose you.",
+        "ipaSents": "aɪ kɑːnt luːz juː.",
+        "Meaning": "Tôi không thể để mất bạn."
+    },
+    {
+        "Sents": "I want to buy this bag, however, I need to save up for it first.",
+        "ipaSents": "aɪ wɒnt tuː baɪ ðɪs bæg, haʊˈɛvə, aɪ niːd tuː seɪv ʌp fɔːr ɪt fɜːst.",
+        "Meaning": "Tôi muốn mua chiếc túi này, tuy nhiên, trước tiên tôi cần phải tiết kiệm cho nó."
+    },
+    {
+        "Sents": "She’s a member of the babysitter’s club.",
+        "ipaSents": "ʃiːz ə ˈmɛmbər ɒv ðə ˈbeɪbɪˌsɪtəz klʌb.",
+        "Meaning": "Cô ấy là thành viên của câu lạc bộ người trông trẻ."
+    },
+    {
+        "Sents": "Let’s pay for our groceries.",
+        "ipaSents": "lɛts peɪ fɔːr ˈaʊə ˈgrəʊsəriz.",
+        "Meaning": "Hãy trả tiền cho cửa hàng tạp hóa của chúng tôi."
+    },
+    {
+        "Sents": "There’s a law against jay-walking.",
+        "ipaSents": "ðeəz ə lɔː əˈgɛnst ʤeɪ-ˈwɔːkɪŋ.",
+        "Meaning": "Có luật chống đi bộ đường dài."
+    },
+    {
+        "Sents": "I want you to meet my aunt.",
+        "ipaSents": "aɪ wɒnt juː tuː miːt maɪ ɑːnt.",
+        "Meaning": "Tôi muốn bạn gặp dì của tôi."
+    },
+    {
+        "Sents": "Let’s go inside my car.",
+        "ipaSents": "lɛts gəʊ ɪnˈsaɪd maɪ kɑː.",
+        "Meaning": "Vào trong xe của tôi."
+    },
+    {
+        "Sents": "This is the city that never sleeps.",
+        "ipaSents": "ðɪs ɪz ðə ˈsɪti ðæt ˈnɛvə sliːps.",
+        "Meaning": "Đây là thành phố không bao giờ ngủ."
+    },
+    {
+        "Sents": "I’m almost done with my report.",
+        "ipaSents": "aɪm ˈɔːlməʊst dʌn wɪð maɪ rɪˈpɔːt.",
+        "Meaning": "Tôi sắp hoàn thành báo cáo của mình."
+    },
+    {
+        "Sents": "Did you remember to include the summary in your report?",
+        "ipaSents": "dɪd juː rɪˈmɛmbə tuː ɪnˈkluːd ðə ˈsʌməri ɪn jɔː rɪˈpɔːt?",
+        "Meaning": "Bạn có nhớ đưa phần tóm tắt vào báo cáo của mình không?"
+    },
+    {
+        "Sents": "Can we continue working tomorrow?",
+        "ipaSents": "kæn wiː kənˈtɪnju(ː) ˈwɜːkɪŋ təˈmɒrəʊ?",
+        "Meaning": "Chúng ta có thể tiếp tục làm việc vào ngày mai không?"
+    },
+    {
+        "Sents": "Great, let me set an appointment for you.",
+        "ipaSents": "greɪt, lɛt miː sɛt ən əˈpɔɪntmənt fɔː juː.",
+        "Meaning": "Tuyệt vời, hãy để tôi đặt một cuộc hẹn cho bạn."
+    },
+    {
+        "Sents": "I’ll finish it later.",
+        "ipaSents": "aɪl ˈfɪnɪʃ ɪt ˈleɪtə.",
+        "Meaning": "Tôi sẽ hoàn thành nó sau."
+    },
+    {
+        "Sents": "Our community is very tight-knit.",
+        "ipaSents": "ˈaʊə kəˈmjuːnɪti ɪz ˈvɛri taɪt-nɪt.",
+        "Meaning": "Cộng đồng của chúng tôi rất chặt chẽ."
+    },
+    {
+        "Sents": "There’s so much to learn in the English language.",
+        "ipaSents": "ðeəz səʊ mʌʧ tuː lɜːn ɪn ði ˈɪŋglɪʃ ˈlæŋgwɪʤ.",
+        "Meaning": "Có quá nhiều thứ để học bằng tiếng Anh."
+    },
+    {
+        "Sents": "What’s your name?",
+        "ipaSents": "wɒts jɔː neɪm?",
+        "Meaning": "Bạn tên là gì?"
+    },
+    {
+        "Sents": "I can give you five reasons why you need to watch that video.",
+        "ipaSents": "aɪ kæn gɪv juː faɪv ˈriːznz waɪ juː niːd tuː wɒʧ ðæt ˈvɪdɪəʊ.",
+        "Meaning": "Tôi có thể cung cấp cho bạn năm lý do tại sao bạn cần xem video đó."
+    },
+    {
+        "Sents": "I once had a puppy named bark.",
+        "ipaSents": "aɪ wʌns hæd ə ˈpʌpi neɪmd bɑːk.",
+        "Meaning": "Tôi đã từng có một con chó con tên là sủa."
+    },
+    {
+        "Sents": "I love my white sneakers.",
+        "ipaSents": "aɪ lʌv maɪ waɪt ˈsniːkəz.",
+        "Meaning": "Tôi yêu đôi giày thể thao màu trắng của mình."
+    },
+    {
+        "Sents": "She’s the least productive among all the employees.",
+        "ipaSents": "ʃiːz ðə liːst prəˈdʌktɪv əˈmʌŋ ɔːl ði ˌɛmplɔɪˈiːz.",
+        "Meaning": "Cô ấy là người kém năng suất nhất trong số tất cả các nhân viên."
+    },
+    {
+        "Sents": "She was our class president back in high school.",
+        "ipaSents": "ʃiː wɒz ˈaʊə klɑːs ˈprɛzɪdənt bæk ɪn haɪ skuːl.",
+        "Meaning": "Cô ấy là lớp trưởng của chúng tôi hồi trung học."
+    },
+    {
+        "Sents": "I’d love to learn more about the English language.",
+        "ipaSents": "aɪd lʌv tuː lɜːn mɔːr əˈbaʊt ði ˈɪŋglɪʃ ˈlæŋgwɪʤ.",
+        "Meaning": "Tôi muốn tìm hiểu thêm về ngôn ngữ tiếng Anh."
+    },
+    {
+        "Sents": "What is her real name?",
+        "ipaSents": "wɒt ɪz hɜː rɪəl neɪm?",
+        "Meaning": "Tên thật của cô ấy là gì?"
+    },
+    {
+        "Sents": "What can we change so that things will get better?",
+        "ipaSents": "wɒt kæn wiː ʧeɪnʤ səʊ ðæt θɪŋz wɪl gɛt ˈbɛtə?",
+        "Meaning": "Chúng ta có thể thay đổi điều gì để mọi thứ trở nên tốt đẹp hơn?"
+    },
+    {
+        "Sents": "They hired a team to do the design of their new office.",
+        "ipaSents": "ðeɪ ˈhaɪəd ə tiːm tuː duː ðə dɪˈzaɪn ɒv ðeə njuː ˈɒfɪs.",
+        "Meaning": "Họ đã thuê một nhóm để thiết kế văn phòng mới của họ."
+    },
+    {
+        "Sents": "She’s laughing every minute of every day.",
+        "ipaSents": "ʃiːz ˈlɑːfɪŋ ˈɛvri ˈmɪnɪt ɒv ˈɛvri deɪ.",
+        "Meaning": "Cô ấy đang cười mỗi phút mỗi ngày."
+    },
+    {
+        "Sents": "This is the best potato salad I've ever tasted.",
+        "ipaSents": "ðɪs ɪz ðə bɛst pəˈteɪtəʊ ˈsæləd aɪv ˈɛvə ˈteɪstɪd.",
+        "Meaning": "Đây là món salad khoai tây ngon nhất mà tôi từng được nếm."
+    },
+    {
+        "Sents": "I have several old clothes I need to donate.",
+        "ipaSents": "aɪ hæv ˈsɛvrəl əʊld kləʊðz aɪ niːd tuː dəʊˈneɪt.",
+        "Meaning": "Tôi có vài bộ quần áo cũ cần quyên góp."
+    },
+    {
+        "Sents": "It was your idea to go to the beach, remember?",
+        "ipaSents": "ɪt wɒz jɔːr aɪˈdɪə tuː gəʊ tuː ðə biːʧ, rɪˈmɛmbə?",
+        "Meaning": "Đó là ý tưởng của bạn để đi đến bãi biển, nhớ không?"
+    },
+    {
+        "Sents": "I loved that toy when I was a kid.",
+        "ipaSents": "aɪ lʌvd ðæt tɔɪ wɛn aɪ wɒz ə kɪd.",
+        "Meaning": "Tôi thích món đồ chơi đó khi tôi còn nhỏ."
+    },
+    {
+        "Sents": "She worked out hard to achieve a toned body.",
+        "ipaSents": "ʃiː wɜːkt aʊt hɑːd tuː əˈʧiːv ə təʊnd ˈbɒdi.",
+        "Meaning": "Cô tập luyện chăm chỉ để có được thân hình săn chắc."
+    },
+    {
+        "Sents": "This is the information I need.",
+        "ipaSents": "ðɪs ɪz ði ˌɪnfəˈmeɪʃən aɪ niːd.",
+        "Meaning": "Đây là thông tin tôi cần."
+    },
+    {
+        "Sents": "There’s nothing we can do now.",
+        "ipaSents": "ðeəz ˈnʌθɪŋ wiː kæn duː naʊ.",
+        "Meaning": "Chúng tôi không thể làm gì bây giờ."
+    },
+    {
+        "Sents": "Three years ago, I visited Japan for the first time.",
+        "ipaSents": "θriː jɪəz əˈgəʊ, aɪ ˈvɪzɪtɪd ʤəˈpæn fɔː ðə fɜːst taɪm.",
+        "Meaning": "Ba năm trước, tôi đến thăm Nhật Bản lần đầu tiên."
+    },
+    {
+        "Sents": "You’re right, I want to go back there.",
+        "ipaSents": "jʊə raɪt, aɪ wɒnt tuː gəʊ bæk ðeə.",
+        "Meaning": "Bạn nói đúng, tôi muốn quay lại đó."
+    },
+    {
+        "Sents": "Just lead the way and I'll follow.",
+        "ipaSents": "ʤʌst liːd ðə weɪ ænd aɪl ˈfɒləʊ.",
+        "Meaning": "Chỉ cần dẫn đường và tôi sẽ theo sau."
+    },
+    {
+        "Sents": "I feel awkward in these social gatherings.",
+        "ipaSents": "aɪ fiːl ˈɔːkwəd ɪn ðiːz ˈsəʊʃəl ˈgæðərɪŋz.",
+        "Meaning": "Tôi cảm thấy khó xử trong những cuộc gặp gỡ xã hội này."
+    },
+    {
+        "Sents": "I understand how you feel.",
+        "ipaSents": "aɪ ˌʌndəˈstænd haʊ juː fiːl.",
+        "Meaning": "Tôi hiểu bạn cảm thấy thế nào."
+    },
+    {
+        "Sents": "Whether in big groups or small groups, I always feel a little shy at first.",
+        "ipaSents": "ˈwɛðər ɪn bɪg gruːps ɔː smɔːl gruːps, aɪ ˈɔːlweɪz fiːl ə ˈlɪtl ʃaɪ æt fɜːst.",
+        "Meaning": "Dù ở nhóm lớn hay nhóm nhỏ, ban đầu tôi luôn cảm thấy hơi ngại."
+    },
+    {
+        "Sents": "Looking back, I knew I was always an introvert.",
+        "ipaSents": "ˈlʊkɪŋ bæk, aɪ njuː aɪ wɒz ˈɔːlweɪz ən ˈɪntrəʊˌvɜːt.",
+        "Meaning": "Nhìn lại, tôi biết mình luôn là người hướng nội."
+    },
+    {
+        "Sents": "Let’s watch the sunset on the horizon.",
+        "ipaSents": "lɛts wɒʧ ðə ˈsʌnsɛt ɒn ðə həˈraɪzn.",
+        "Meaning": "Hãy cùng ngắm hoàng hôn trên đường chân trời."
+    },
+    {
+        "Sents": "They’re together now.",
+        "ipaSents": "ðeə təˈgɛðə naʊ.",
+        "Meaning": "Bây giờ họ đang ở bên nhau."
+    },
+    {
+        "Sents": "I’ll follow you home.",
+        "ipaSents": "aɪl ˈfɒləʊ juː həʊm.",
+        "Meaning": "Tôi sẽ theo bạn về nhà."
+    },
+    {
+        "Sents": "You’ll always have me around.",
+        "ipaSents": "juːl ˈɔːlweɪz hæv miː əˈraʊnd.",
+        "Meaning": "Bạn sẽ luôn có tôi bên cạnh."
+    },
+    {
+        "Sents": "Every parent is trying hard and doing their best.",
+        "ipaSents": "ˈɛvri ˈpeərənt ɪz ˈtraɪɪŋ hɑːd ænd ˈdu(ː)ɪŋ ðeə bɛst.",
+        "Meaning": "Cha mẹ nào cũng cố gắng và nỗ lực hết mình."
+    },
+    {
+        "Sents": "You are only allowed to go out today.",
+        "ipaSents": "juː ɑːr ˈəʊnli əˈlaʊd tuː gəʊ aʊt təˈdeɪ.",
+        "Meaning": "Bạn chỉ được phép ra ngoài ngày hôm nay."
+    },
+    {
+        "Sents": "Please stop that.",
+        "ipaSents": "pliːz stɒp ðæt.",
+        "Meaning": "Hãy dừng lại đó."
+    },
+    {
+        "Sents": "Why is your face so red?",
+        "ipaSents": "waɪ ɪz jɔː feɪs səʊ rɛd?",
+        "Meaning": "Sao mặt cậu đỏ thế này?"
+    },
+    {
+        "Sents": "You can ask me for anything.",
+        "ipaSents": "juː kæn ɑːsk miː fɔːr ˈɛnɪθɪŋ.",
+        "Meaning": "Bạn có thể yêu cầu tôi bất cứ điều gì."
+    },
+    {
+        "Sents": "Did you create that presentation? It was so good.",
+        "ipaSents": "dɪd juː kri(ː)ˈeɪt ðæt ˌprɛzɛnˈteɪʃən? ɪt wɒz səʊ gʊd.",
+        "Meaning": "Bạn đã tạo bản trình bày đó? Nó rất tốt."
+    },
+    {
+        "Sents": "This is public property.",
+        "ipaSents": "ðɪs ɪz ˈpʌblɪk ˈprɒpəti.",
+        "Meaning": "Đây là tài sản công cộng."
+    },
+    {
+        "Sents": "I already asked him to resend his report.",
+        "ipaSents": "aɪ ɔːlˈrɛdi ɑːskt hɪm tuː ˌriːˈsɛnd hɪz rɪˈpɔːt.",
+        "Meaning": "Tôi đã yêu cầu anh ta gửi lại báo cáo của mình."
+    },
+    {
+        "Sents": "Could you speak a little louder?",
+        "ipaSents": "kʊd juː spiːk ə ˈlɪtl ˈlaʊdə?",
+        "Meaning": "Bạn có thể nói to hơn một chút được không?"
+    },
+    {
+        "Sents": "The others haven’t arrived yet.",
+        "ipaSents": "ði ˈʌðəz hævnt əˈraɪvd jɛt.",
+        "Meaning": "Những người khác vẫn chưa đến."
+    },
+    {
+        "Sents": "I read somewhere that this house is haunted.",
+        "ipaSents": "aɪ riːd ˈsʌmweə ðæt ðɪs haʊs ɪz ˈhɔːntɪd.",
+        "Meaning": "Tôi đọc ở đâu đó rằng ngôi nhà này bị ma ám."
+    },
+    {
+        "Sents": "What level are you in that game?",
+        "ipaSents": "wɒt ˈlɛvl ɑː juː ɪn ðæt geɪm?",
+        "Meaning": "Bạn đang ở cấp độ nào trong trò chơi đó?"
+    },
+    {
+        "Sents": "Do you allow your kids to play outside the house?",
+        "ipaSents": "duː juː əˈlaʊ jɔː kɪdz tuː pleɪ ˌaʊtˈsaɪd ðə haʊs?",
+        "Meaning": "Bạn có cho phép con bạn chơi bên ngoài nhà không?"
+    },
+    {
+        "Sents": "Is it okay if we add a bit of sugar to the tea?",
+        "ipaSents": "ɪz ɪt ˈəʊˈkeɪ ɪf wiː æd ə bɪt ɒv ˈʃʊgə tuː ðə tiː?",
+        "Meaning": "Nếu chúng ta thêm một chút đường vào trà thì có được không?"
+    },
+    {
+        "Sents": "Welcome to my office.",
+        "ipaSents": "ˈwɛlkəm tuː maɪ ˈɒfɪs.",
+        "Meaning": "Chào mừng đến với văn phòng của tôi."
+    },
+    {
+        "Sents": "How much did you spend on your last shopping spree?",
+        "ipaSents": "haʊ mʌʧ dɪd juː spɛnd ɒn jɔː lɑːst ˈʃɒpɪŋ spriː?",
+        "Meaning": "Bạn đã chi bao nhiêu cho lần mua sắm cuối cùng của mình?"
+    },
+    {
+        "Sents": "You left the door open.",
+        "ipaSents": "juː lɛft ðə dɔːr ˈəʊpən.",
+        "Meaning": "Bạn đã để cửa mở."
+    },
+    {
+        "Sents": "You must take good care of your health.",
+        "ipaSents": "juː mʌst teɪk gʊd keər ɒv jɔː hɛlθ.",
+        "Meaning": "Bạn phải chăm sóc sức khỏe của mình thật tốt."
+    },
+    {
+        "Sents": "You are a good person.",
+        "ipaSents": "juː ɑːr ə gʊd ˈpɜːsn.",
+        "Meaning": "Bạn là một người tốt."
+    },
+    {
+        "Sents": "This is my work of art.",
+        "ipaSents": "ðɪs ɪz maɪ wɜːk ɒv ɑːt.",
+        "Meaning": "Đây là tác phẩm nghệ thuật của tôi."
+    },
+    {
+        "Sents": "Are you sure you want to do this alone?",
+        "ipaSents": "ɑː juː ʃʊə juː wɒnt tuː duː ðɪs əˈləʊn?",
+        "Meaning": "Bạn có chắc chắn muốn làm điều này một mình?"
+    },
+    {
+        "Sents": "You are such a brave little boy.",
+        "ipaSents": "juː ɑː sʌʧ ə breɪv ˈlɪtl bɔɪ.",
+        "Meaning": "Con quả là một cậu bé dũng cảm."
+    },
+    {
+        "Sents": "The war has finally ended.",
+        "ipaSents": "ðə wɔː hæz ˈfaɪnəli ˈɛndɪd.",
+        "Meaning": "Cuộc chiến cuối cùng đã kết thúc."
+    },
+    {
+        "Sents": "She is my history professor.",
+        "ipaSents": "ʃiː ɪz maɪ ˈhɪstəri prəˈfɛsə.",
+        "Meaning": "Cô ấy là giáo sư lịch sử của tôi."
+    },
+    {
+        "Sents": "Are you going to her party tonight?",
+        "ipaSents": "ɑː juː ˈgəʊɪŋ tuː hɜː ˈpɑːti təˈnaɪt?",
+        "Meaning": "Bạn có đi đến bữa tiệc của cô ấy tối nay?"
+    },
+    {
+        "Sents": "We support everyone within our small community.",
+        "ipaSents": "wiː səˈpɔːt ˈɛvrɪwʌn wɪˈðɪn ˈaʊə smɔːl kəˈmjuːnɪti.",
+        "Meaning": "Chúng tôi hỗ trợ tất cả mọi người trong cộng đồng nhỏ của chúng tôi."
+    },
+    {
+        "Sents": "We want everyone to grow and thrive in their careers.",
+        "ipaSents": "wiː wɒnt ˈɛvrɪwʌn tuː grəʊ ænd θraɪv ɪn ðeə kəˈrɪəz.",
+        "Meaning": "Chúng tôi muốn tất cả mọi người đều phát triển và thành công trong sự nghiệp của họ."
+    },
+    {
+        "Sents": "The result of this outreach program is amazing.",
+        "ipaSents": "ðə rɪˈzʌlt ɒv ðɪs ˈaʊtriːʧ ˈprəʊgræm ɪz əˈmeɪzɪŋ.",
+        "Meaning": "Kết quả của chương trình tiếp cận cộng đồng này thật tuyệt vời."
+    },
+    {
+        "Sents": "Are you open to teaching on weekends?",
+        "ipaSents": "ɑː juː ˈəʊpən tuː ˈtiːʧɪŋ ɒn ˈwiːkˈɛndz?",
+        "Meaning": "Bạn có mở cửa dạy học vào cuối tuần không?"
+    },
+    {
+        "Sents": "Where can we change her diaper?",
+        "ipaSents": "weə kæn wiː ʧeɪnʤ hɜː ˈdaɪəpə?",
+        "Meaning": "Chúng tôi có thể thay tã cho cô ấy ở đâu?"
+    },
+    {
+        "Sents": "It’s such a beautiful morning!",
+        "ipaSents": "ɪts sʌʧ ə ˈbjuːtəfʊl ˈmɔːnɪŋ!",
+        "Meaning": "Đó là một buổi sáng đẹp trời!"
+    },
+    {
+        "Sents": "Come take a walk with me.",
+        "ipaSents": "kʌm teɪk ə wɔːk wɪð miː.",
+        "Meaning": "Hãy đi dạo với tôi."
+    },
+    {
+        "Sents": "You are the reason I came home.",
+        "ipaSents": "juː ɑː ðə ˈriːzn aɪ keɪm həʊm.",
+        "Meaning": "Bạn là lý do tôi trở về nhà."
+    },
+    {
+        "Sents": "Her blood pressure has gotten really low.",
+        "ipaSents": "hɜː blʌd ˈprɛʃə hæz ˈgɒtn ˈrɪəli ləʊ.",
+        "Meaning": "Huyết áp của cô ấy đã xuống rất thấp."
+    },
+    {
+        "Sents": "We can win this match if we work together.",
+        "ipaSents": "wiː kæn wɪn ðɪs mæʧ ɪf wiː wɜːk təˈgɛðə.",
+        "Meaning": "Chúng tôi có thể giành chiến thắng trong trận đấu này nếu chúng tôi làm việc cùng nhau."
+    },
+    {
+        "Sents": "How is your research going?",
+        "ipaSents": "haʊ ɪz jɔː rɪˈsɜːʧ ˈgəʊɪŋ?",
+        "Meaning": "Tiến trình nghiên cứu của bạn như thế nào?"
+    },
+    {
+        "Sents": "That girl is in my class.",
+        "ipaSents": "ðæt gɜːl ɪz ɪn maɪ klɑːs.",
+        "Meaning": "Cô gái đó học cùng lớp với tôi."
+    },
+    {
+        "Sents": "I’ve seen that guy in school before.",
+        "ipaSents": "aɪv siːn ðæt gaɪ ɪn skuːl bɪˈfɔː.",
+        "Meaning": "Tôi đã từng gặp anh chàng đó trong trường học trước đây."
+    },
+    {
+        "Sents": "I come to work so early every day.",
+        "ipaSents": "aɪ kʌm tuː wɜːk səʊ ˈɜːli ˈɛvri deɪ.",
+        "Meaning": "Tôi đến làm việc sớm như vậy mỗi ngày."
+    },
+    {
+        "Sents": "Let’s buy some food, I’m hungry!",
+        "ipaSents": "lɛts baɪ sʌm fuːd, aɪm ˈhʌŋgri!",
+        "Meaning": "Mua đồ ăn đi, tôi đói rồi!"
+    },
+    {
+        "Sents": "Can I talk to you before you go home?",
+        "ipaSents": "kæn aɪ tɔːk tuː juː bɪˈfɔː juː gəʊ həʊm?",
+        "Meaning": "Tôi có thể nói chuyện với bạn trước khi bạn về nhà không?"
+    },
+    {
+        "Sents": "The moment she walked into the room, her puppy started to jump and dance again.",
+        "ipaSents": "ðə ˈməʊmənt ʃiː wɔːkt ˈɪntuː ðə ruːm, hɜː ˈpʌpi ˈstɑːtɪd tuː ʤʌmp ænd dɑːns əˈgɛn.",
+        "Meaning": "Lúc cô bước vào phòng, con chó con của cô lại bắt đầu nhảy và nhảy."
+    },
+    {
+        "Sents": "He cooked this turkey himself.",
+        "ipaSents": "hiː kʊkt ðɪs ˈtɜːki hɪmˈsɛlf.",
+        "Meaning": "Anh ấy đã tự tay nấu món gà tây này."
+    },
+    {
+        "Sents": "I am loving the cold night air here.",
+        "ipaSents": "aɪ æm ˈlʌvɪŋ ðə kəʊld naɪt eə hɪə.",
+        "Meaning": "Tôi yêu cái không khí lạnh về đêm ở đây."
+    },
+    {
+        "Sents": "You are the best teacher ever.",
+        "ipaSents": "juː ɑː ðə bɛst ˈtiːʧər ˈɛvə.",
+        "Meaning": "Bạn là người giáo viên tốt nhất từ ​​trước đến nay."
+    },
+    {
+        "Sents": "Don’t force him to play with other kids.",
+        "ipaSents": "dəʊnt fɔːs hɪm tuː pleɪ wɪð ˈʌðə kɪdz.",
+        "Meaning": "Đừng ép anh ấy chơi với những đứa trẻ khác."
+    },
+    {
+        "Sents": "Can I offer you a ride home?",
+        "ipaSents": "kæn aɪ ˈɒfə juː ə raɪd həʊm?",
+        "Meaning": "Tôi có thể cho bạn một chuyến xe về nhà không?"
+    },
+    {
+        "Sents": "Boys, that’s enough playing for today.",
+        "ipaSents": "bɔɪz, ðæts ɪˈnʌf ˈpleɪɪŋ fɔː təˈdeɪ.",
+        "Meaning": "Các chàng trai, chơi như vậy là đủ cho ngày hôm nay."
+    },
+    {
+        "Sents": "You both need to change into your sleep clothes now.",
+        "ipaSents": "juː bəʊθ niːd tuː ʧeɪnʤ ˈɪntuː jɔː sliːp kləʊðz naʊ.",
+        "Meaning": "Cả hai bạn cần thay quần áo đi ngủ ngay bây giờ."
+    },
+    {
+        "Sents": "I just want you to get the best education.",
+        "ipaSents": "aɪ ʤʌst wɒnt juː tuː gɛt ðə bɛst ˌɛdju(ː)ˈkeɪʃən.",
+        "Meaning": "Tôi chỉ muốn con có được một nền giáo dục tốt nhất."
+    },
+    {
+        "Sents": "Your dog ran across the park.",
+        "ipaSents": "jɔː dɒg ræn əˈkrɒs ðə pɑːk.",
+        "Meaning": "Con chó của bạn chạy ngang qua công viên."
+    },
+    {
+        "Sents": "Although she felt tired, she still couldn’t sleep.",
+        "ipaSents": "ɔːlˈðəʊ ʃiː fɛlt ˈtaɪəd, ʃiː stɪl ˈkʊdnt sliːp.",
+        "Meaning": "Mặc dù cảm thấy mệt mỏi nhưng cô vẫn không thể ngủ được."
+    },
+    {
+        "Sents": "Do you think she will still remember me after ten years?",
+        "ipaSents": "duː juː θɪŋk ʃiː wɪl stɪl rɪˈmɛmbə miː ˈɑːftə tɛn jɪəz?",
+        "Meaning": "Bạn có nghĩ rằng cô ấy sẽ vẫn nhớ đến tôi sau mười năm?"
+    },
+    {
+        "Sents": "Her foot got caught in one of the ropes.",
+        "ipaSents": "hɜː fʊt gɒt kɔːt ɪn wʌn ɒv ðə rəʊps.",
+        "Meaning": "Chân cô ấy vướng vào một trong những sợi dây."
+    },
+    {
+        "Sents": "This is the second time she got late this month.",
+        "ipaSents": "ðɪs ɪz ðə ˈsɛkənd taɪm ʃiː gɒt leɪt ðɪs mʌnθ.",
+        "Meaning": "Đây là lần thứ hai cô ấy bị trễ kinh trong tháng này."
+    },
+    {
+        "Sents": "There’s a boy in her class who keeps pulling her hair.",
+        "ipaSents": "ðeəz ə bɔɪ ɪn hɜː klɑːs huː kiːps ˈpʊlɪŋ hɜː heə.",
+        "Meaning": "Có một cậu bé trong lớp của cô ấy liên tục kéo tóc cô ấy."
+    },
+    {
+        "Sents": "Maybe we can have ice cream for dessert.",
+        "ipaSents": "ˈmeɪbiː wiː kæn hæv aɪs kriːm fɔː dɪˈzɜːt.",
+        "Meaning": "Có lẽ chúng ta có thể ăn kem để tráng miệng."
+    },
+    {
+        "Sents": "He took a step toward her.",
+        "ipaSents": "hiː tʊk ə stɛp təˈwɔːd hɜː.",
+        "Meaning": "Anh tiến một bước về phía cô."
+    },
+    {
+        "Sents": "Will you be able to send me your report today?",
+        "ipaSents": "wɪl juː biː ˈeɪbl tuː sɛnd miː jɔː rɪˈpɔːt təˈdeɪ?",
+        "Meaning": "Bạn sẽ có thể gửi cho tôi báo cáo của bạn ngày hôm nay?"
+    },
+    {
+        "Sents": "What is the average marrying age these days?",
+        "ipaSents": "wɒt ɪz ði ˈævərɪʤ ˈmæriɪŋ eɪʤ ðiːz deɪz?",
+        "Meaning": "Tuổi kết hôn trung bình những ngày này là bao nhiêu?"
+    },
+    {
+        "Sents": "The cat ran off with the dog.",
+        "ipaSents": "ðə kæt ræn ɒf wɪð ðə dɒg.",
+        "Meaning": "Con mèo bỏ chạy với con chó."
+    },
+    {
+        "Sents": "They have a generous return policy.",
+        "ipaSents": "ðeɪ hæv ə ˈʤɛnərəs rɪˈtɜːn ˈpɒlɪsi.",
+        "Meaning": "Họ có một chính sách hoàn trả hào phóng."
+    },
+    {
+        "Sents": "Everything is on sale.",
+        "ipaSents": "ˈɛvrɪθɪŋ ɪz ɒn seɪl.",
+        "Meaning": "Tất cả mọi thứ đều được bán."
+    },
+    {
+        "Sents": "I love what you’re wearing!",
+        "ipaSents": "aɪ lʌv wɒt jʊə ˈweərɪŋ!",
+        "Meaning": "Tôi thích những gì bạn đang mặc!"
+    },
+    {
+        "Sents": "Wait, give me time to process everything you’re telling me.",
+        "ipaSents": "weɪt, gɪv miː taɪm tuː ˈprəʊsɛs ˈɛvrɪθɪŋ jʊə ˈtɛlɪŋ miː.",
+        "Meaning": "Chờ đã, cho tôi thời gian để xử lý mọi thứ bạn đang nói với tôi."
+    },
+    {
+        "Sents": "I love music.",
+        "ipaSents": "aɪ lʌv ˈmjuːzɪk.",
+        "Meaning": "Tôi yêu âm nhạc."
+    },
+    {
+        "Sents": "Around 20 people attended, including bob and beth.",
+        "ipaSents": "əˈraʊnd 20 ˈpiːpl əˈtɛndɪd, ɪnˈkluːdɪŋ bɒb ænd bɛθ.",
+        "Meaning": "Khoảng 20 người đã tham dự, bao gồm cả bob và beth."
+    },
+    {
+        "Sents": "I hope you consider my project proposal.",
+        "ipaSents": "aɪ həʊp juː kənˈsɪdə maɪ ˈprɒʤɛkt prəˈpəʊzəl.",
+        "Meaning": "Tôi hy vọng bạn xem xét đề xuất dự án của tôi."
+    },
+    {
+        "Sents": "How did that appear out of nowhere?",
+        "ipaSents": "haʊ dɪd ðæt əˈpɪər aʊt ɒv ˈnəʊweə?",
+        "Meaning": "Làm thế nào mà điều đó xuất hiện từ hư không?"
+    },
+    {
+        "Sents": "I’m actually just heading out.",
+        "ipaSents": "aɪm ˈækʧʊəli ʤʌst ˈhɛdɪŋ aʊt.",
+        "Meaning": "Tôi thực sự chỉ đang đi ra ngoài."
+    },
+    {
+        "Sents": "I’m going to buy these shoes.",
+        "ipaSents": "aɪm ˈgəʊɪŋ tuː baɪ ðiːz ʃuːz.",
+        "Meaning": "Tôi sẽ mua đôi giày này."
+    },
+    {
+        "Sents": "He’s probably still asleep.",
+        "ipaSents": "hiːz ˈprɒbəbli stɪl əˈsliːp.",
+        "Meaning": "Anh ấy có lẽ vẫn đang ngủ."
+    },
+    {
+        "Sents": "Give him a break, he is only human.",
+        "ipaSents": "gɪv hɪm ə breɪk, hiː ɪz ˈəʊnli ˈhjuːmən.",
+        "Meaning": "Hãy cho anh ta nghỉ ngơi, anh ta chỉ là con người."
+    },
+    {
+        "Sents": "Is it alright if you wait for a few minutes?",
+        "ipaSents": "ɪz ɪt ɔːlˈraɪt ɪf juː weɪt fɔːr ə fjuː ˈmɪnɪts?",
+        "Meaning": "Có ổn không nếu bạn đợi trong vài phút?"
+    },
+    {
+        "Sents": "This blow dryer has served me well for years.",
+        "ipaSents": "ðɪs bləʊ ˈdraɪə hæz sɜːvd miː wɛl fɔː jɪəz.",
+        "Meaning": "Máy sấy thổi này đã phục vụ tôi tốt trong nhiều năm."
+    },
+    {
+        "Sents": "Let’s visit the Sunday market.",
+        "ipaSents": "lɛts ˈvɪzɪt ðə ˈsʌndeɪ ˈmɑːkɪt.",
+        "Meaning": "Hãy đến thăm chợ Chủ nhật."
+    },
+    {
+        "Sents": "I don’t want my cat to die, let’s take him to the vet, please.",
+        "ipaSents": "aɪ dəʊnt wɒnt maɪ kæt tuː daɪ, lɛts teɪk hɪm tuː ðə vɛt, pliːz.",
+        "Meaning": "Tôi không muốn con mèo của mình chết, hãy đưa nó đến bác sĩ thú y, làm ơn."
+    },
+    {
+        "Sents": "Please send the package to my address.",
+        "ipaSents": "pliːz sɛnd ðə ˈpækɪʤ tuː maɪ əˈdrɛs.",
+        "Meaning": "Vui lòng gửi gói hàng đến địa chỉ của tôi."
+    },
+    {
+        "Sents": "You can’t expect much from their poor service.",
+        "ipaSents": "juː kɑːnt ɪksˈpɛkt mʌʧ frɒm ðeə pʊə ˈsɜːvɪs.",
+        "Meaning": "Bạn không thể mong đợi nhiều từ dịch vụ kém của họ."
+    },
+    {
+        "Sents": "I can’t wait to go home!",
+        "ipaSents": "aɪ kɑːnt weɪt tuː gəʊ həʊm!",
+        "Meaning": "Tôi nóng lòng muốn về nhà!"
+    },
+    {
+        "Sents": "I did sense that something was not okay.",
+        "ipaSents": "aɪ dɪd sɛns ðæt ˈsʌmθɪŋ wɒz nɒt ˈəʊˈkeɪ.",
+        "Meaning": "Tôi đã cảm thấy rằng có điều gì đó không ổn."
+    },
+    {
+        "Sents": "He is going to build his dream house.",
+        "ipaSents": "hiː ɪz ˈgəʊɪŋ tuː bɪld hɪz driːm haʊs.",
+        "Meaning": "Anh ấy sẽ xây ngôi nhà mơ ước của mình."
+    },
+    {
+        "Sents": "You can stay with me for a few weeks.",
+        "ipaSents": "juː kæn steɪ wɪð miː fɔːr ə fjuː wiːks.",
+        "Meaning": "Bạn có thể ở với tôi trong một vài tuần."
+    },
+    {
+        "Sents": "Be careful, you might fall.",
+        "ipaSents": "biː ˈkeəfʊl, juː maɪt fɔːl.",
+        "Meaning": "Hãy cẩn thận, bạn có thể bị ngã."
+    },
+    {
+        "Sents": "Oh no, I left my phone at home!",
+        "ipaSents": "əʊ nəʊ, aɪ lɛft maɪ fəʊn æt həʊm!",
+        "Meaning": "Ồ không, tôi để quên điện thoại ở nhà!"
+    },
+    {
+        "Sents": "We have to act as one nation.",
+        "ipaSents": "wiː hæv tuː ækt æz wʌn ˈneɪʃən.",
+        "Meaning": "Chúng ta phải hành động như một quốc gia."
+    },
+    {
+        "Sents": "What’s your plan this time?",
+        "ipaSents": "wɒts jɔː plæn ðɪs taɪm?",
+        "Meaning": "Kế hoạch của bạn lần này là gì?"
+    },
+    {
+        "Sents": "Don’t cut your hair.",
+        "ipaSents": "dəʊnt kʌt jɔː heə.",
+        "Meaning": "Đừng cắt tóc của bạn."
+    },
+    {
+        "Sents": "We met in college.",
+        "ipaSents": "wiː mɛt ɪn ˈkɒlɪʤ.",
+        "Meaning": "Chúng tôi gặp nhau ở trường đại học."
+    },
+    {
+        "Sents": "Music is an interest of mine.",
+        "ipaSents": "ˈmjuːzɪk ɪz ən ˈɪntrɪst ɒv maɪn.",
+        "Meaning": "Âm nhạc là một sở thích của tôi."
+    },
+    {
+        "Sents": "Death is such a heavy topic for me.",
+        "ipaSents": "dɛθ ɪz sʌʧ ə ˈhɛvi ˈtɒpɪk fɔː miː.",
+        "Meaning": "Cái chết là một chủ đề nặng nề đối với tôi."
+    },
+    {
+        "Sents": "What course did you take up in college?",
+        "ipaSents": "wɒt kɔːs dɪd juː teɪk ʌp ɪn ˈkɒlɪʤ?",
+        "Meaning": "Bạn đã học khóa học gì ở trường đại học?"
+    },
+    {
+        "Sents": "Is there someone who can go with you?",
+        "ipaSents": "ɪz ðeə ˈsʌmwʌn huː kæn gəʊ wɪð juː?",
+        "Meaning": "Có ai đó có thể đi cùng bạn không?"
+    },
+    {
+        "Sents": "What an exciting experience!",
+        "ipaSents": "wɒt ən ɪkˈsaɪtɪŋ ɪksˈpɪərɪəns!",
+        "Meaning": "Thật là một trải nghiệm thú vị!"
+    },
+    {
+        "Sents": "I’m scared to check what’s behind that door.",
+        "ipaSents": "aɪm skeəd tuː ʧɛk wɒts bɪˈhaɪnd ðæt dɔː.",
+        "Meaning": "Tôi sợ hãi khi kiểm tra xem có gì đằng sau cánh cửa đó."
+    },
+    {
+        "Sents": "I can’t reach him, he won’t answer his phone.",
+        "ipaSents": "aɪ kɑːnt riːʧ hɪm, hiː wəʊnt ˈɑːnsə hɪz fəʊn.",
+        "Meaning": "Tôi không thể liên lạc với anh ấy, anh ấy sẽ không trả lời điện thoại của mình."
+    },
+    {
+        "Sents": "This is a local business.",
+        "ipaSents": "ðɪs ɪz ə ˈləʊkəl ˈbɪznɪs.",
+        "Meaning": "Đây là một doanh nghiệp địa phương."
+    },
+    {
+        "Sents": "Smoking can kill you.",
+        "ipaSents": "ˈsməʊkɪŋ kæn kɪl juː.",
+        "Meaning": "Hút thuốc có thể giết chết bạn."
+    },
+    {
+        "Sents": "I have six books about psychology.",
+        "ipaSents": "aɪ hæv sɪks bʊks əˈbaʊt saɪˈkɒləʤi.",
+        "Meaning": "Tôi có sáu cuốn sách về tâm lý học."
+    },
+    {
+        "Sents": "These remain on the top shelf.",
+        "ipaSents": "ðiːz rɪˈmeɪn ɒn ðə tɒp ʃɛlf.",
+        "Meaning": "Những thứ này vẫn còn trên kệ trên cùng."
+    },
+    {
+        "Sents": "Wow, the effect of that mascara is great!",
+        "ipaSents": "waʊ, ði ɪˈfɛkt ɒv ðæt mæsˈkɑːrə ɪz greɪt!",
+        "Meaning": "Chà, tác dụng của cây mascara đó thật tuyệt!"
+    },
+    {
+        "Sents": "Can I use your phone?",
+        "ipaSents": "kæn aɪ juːz jɔː fəʊn?",
+        "Meaning": "Tôi có thể dùng điện thoại của bạn được không?"
+    },
+    {
+        "Sents": "Yeah, he did call me earlier.",
+        "ipaSents": "jeə, hiː dɪd kɔːl miː ˈɜːlɪə.",
+        "Meaning": "Phải, anh ấy đã gọi cho tôi trước đó."
+    },
+    {
+        "Sents": "He did suggest that to me.",
+        "ipaSents": "hiː dɪd səˈʤɛst ðæt tuː miː.",
+        "Meaning": "Anh ấy đã gợi ý điều đó cho tôi."
+    },
+    {
+        "Sents": "We were in the same English class.",
+        "ipaSents": "wiː wɜːr ɪn ðə seɪm ˈɪŋglɪʃ klɑːs.",
+        "Meaning": "Chúng tôi học cùng lớp tiếng Anh."
+    },
+    {
+        "Sents": "Where’s the remote control?",
+        "ipaSents": "weəz ðə rɪˈməʊt kənˈtrəʊl?",
+        "Meaning": "Điều khiển từ xa ở đâu?"
+    },
+    {
+        "Sents": "It’s so challenging to discipline kids these days.",
+        "ipaSents": "ɪts səʊ ˈʧælɪnʤɪŋ tuː ˈdɪsɪplɪn kɪdz ðiːz deɪz.",
+        "Meaning": "Ngày nay, thật khó để kỷ luật trẻ em."
+    },
+    {
+        "Sents": "I don’t care about what you think.",
+        "ipaSents": "aɪ dəʊnt keər əˈbaʊt wɒt juː θɪŋk.",
+        "Meaning": "Tôi không quan tâm đến những gì bạn nghĩ."
+    },
+    {
+        "Sents": "Perhaps we can arrive at a compromise.",
+        "ipaSents": "pəˈhæps wiː kæn əˈraɪv æt ə ˈkɒmprəmaɪz.",
+        "Meaning": "Có lẽ chúng ta có thể đi đến một thỏa hiệp."
+    },
+    {
+        "Sents": "There’s a little bird outside my window.",
+        "ipaSents": "ðeəz ə ˈlɪtl bɜːd ˌaʊtˈsaɪd maɪ ˈwɪndəʊ.",
+        "Meaning": "Có một con chim nhỏ bên ngoài cửa sổ của tôi."
+    },
+    {
+        "Sents": "I am running late for my doctor’s appointment.",
+        "ipaSents": "aɪ æm ˈrʌnɪŋ leɪt fɔː maɪ ˈdɒktəz əˈpɔɪntmənt.",
+        "Meaning": "Tôi đang đến trễ cuộc hẹn với bác sĩ của mình."
+    },
+    {
+        "Sents": "That test was so hard.",
+        "ipaSents": "ðæt tɛst wɒz səʊ hɑːd.",
+        "Meaning": "Bài kiểm tra đó thật khó."
+    },
+    {
+        "Sents": "He’s over there, by the soccer field.",
+        "ipaSents": "hiːz ˈəʊvə ðeə, baɪ ðə ˈsɒkə fiːld.",
+        "Meaning": "Anh ấy ở đằng kia, cạnh sân bóng."
+    },
+    {
+        "Sents": "Is anyone else coming?",
+        "ipaSents": "ɪz ˈɛnɪwʌn ɛls ˈkʌmɪŋ?",
+        "Meaning": "Có ai khác đến không?"
+    },
+    {
+        "Sents": "Can we pass by the grocery store?",
+        "ipaSents": "kæn wiː pɑːs baɪ ðə ˈgrəʊsəri stɔː?",
+        "Meaning": "Chúng ta có thể đi ngang qua cửa hàng tạp hóa không?"
+    },
+    {
+        "Sents": "She was my former housemate.",
+        "ipaSents": "ʃiː wɒz maɪ ˈfɔːmə ˈhaʊsmeɪt.",
+        "Meaning": "Cô ấy là bạn cùng nhà cũ của tôi."
+    },
+    {
+        "Sents": "We can sell your old couch online.",
+        "ipaSents": "wiː kæn sɛl jɔːr əʊld kaʊʧ ˈɒnˌlaɪn.",
+        "Meaning": "Chúng tôi có thể bán đi văng cũ của bạn trực tuyến."
+    },
+    {
+        "Sents": "It’s a major issue for the project.",
+        "ipaSents": "ɪts ə ˈmeɪʤər ˈɪʃuː fɔː ðə ˈprɒʤɛkt.",
+        "Meaning": "Đó là một vấn đề lớn của dự án."
+    },
+    {
+        "Sents": "Sometimes I forget to turn off the porch lights.",
+        "ipaSents": "ˈsʌmtaɪmz aɪ fəˈgɛt tuː tɜːn ɒf ðə pɔːʧ laɪts.",
+        "Meaning": "Đôi khi tôi quên tắt đèn ngoài hiên."
+    },
+    {
+        "Sents": "They’ll require you to show your i.d.",
+        "ipaSents": "ðeɪl rɪˈkwaɪə juː tuː ʃəʊ jɔːr aɪ.diː.",
+        "Meaning": "Họ sẽ yêu cầu bạn xuất trình i.d."
+    },
+    {
+        "Sents": "Can I tag along your road trip?",
+        "ipaSents": "kæn aɪ tæg əˈlɒŋ jɔː rəʊd trɪp?",
+        "Meaning": "Tôi có thể gắn thẻ dọc theo chuyến đi của bạn không?"
+    },
+    {
+        "Sents": "This news development is really interesting.",
+        "ipaSents": "ðɪs njuːz dɪˈvɛləpmənt ɪz ˈrɪəli ˈɪntrɪstɪŋ.",
+        "Meaning": "Diễn biến tin tức này thực sự thú vị."
+    },
+    {
+        "Sents": "They can take care of themselves.",
+        "ipaSents": "ðeɪ kæn teɪk keər ɒv ðəmˈsɛlvz.",
+        "Meaning": "Họ có thể tự chăm sóc bản thân."
+    },
+    {
+        "Sents": "I read her report and it was great!",
+        "ipaSents": "aɪ riːd hɜː rɪˈpɔːt ænd ɪt wɒz greɪt!",
+        "Meaning": "Tôi đã đọc báo cáo của cô ấy và nó thật tuyệt!"
+    },
+    {
+        "Sents": "She’s going to play the role of Elsa.",
+        "ipaSents": "ʃiːz ˈgəʊɪŋ tuː pleɪ ðə rəʊl ɒv Elsa.",
+        "Meaning": "Cô ấy sẽ đóng vai Elsa."
+    },
+    {
+        "Sents": "Your singing has gotten so much better!",
+        "ipaSents": "jɔː ˈsɪŋɪŋ hæz ˈgɒtn səʊ mʌʧ ˈbɛtə!",
+        "Meaning": "Ca hát của bạn đã trở nên tốt hơn rất nhiều!"
+    },
+    {
+        "Sents": "Some countries are facing an economic crisis.",
+        "ipaSents": "sʌm ˈkʌntriz ɑː ˈfeɪsɪŋ ən ˌiːkəˈnɒmɪk ˈkraɪsɪs.",
+        "Meaning": "Một số quốc gia đang phải đối mặt với khủng hoảng kinh tế."
+    },
+    {
+        "Sents": "The government must make an effort to solve this.",
+        "ipaSents": "ðə ˈgʌvnmənt mʌst meɪk ən ˈɛfət tuː sɒlv ðɪs.",
+        "Meaning": "Chính phủ phải nỗ lực để giải quyết việc này."
+    },
+    {
+        "Sents": "His grades have gone up.",
+        "ipaSents": "hɪz greɪdz hæv gɒn ʌp.",
+        "Meaning": "Điểm của anh ấy đã tăng lên."
+    },
+    {
+        "Sents": "Please decide where to eat.",
+        "ipaSents": "pliːz dɪˈsaɪd weə tuː iːt.",
+        "Meaning": "Hãy quyết định nơi để ăn."
+    },
+    {
+        "Sents": "How would you rate the hotel’s service?",
+        "ipaSents": "haʊ wʊd juː reɪt ðə həʊˈtɛlz ˈsɜːvɪs?",
+        "Meaning": "Bạn đánh giá dịch vụ của khách sạn như thế nào?"
+    },
+    {
+        "Sents": "They have strong customer service here!",
+        "ipaSents": "ðeɪ hæv strɒŋ ˈkʌstəmə ˈsɜːvɪs hɪə!",
+        "Meaning": "Họ có dịch vụ khách hàng mạnh mẽ ở đây!"
+    },
+    {
+        "Sents": "Maybe it’s possible to change their bathroom amenities.",
+        "ipaSents": "ˈmeɪbiː ɪts ˈpɒsəbl tuː ʧeɪnʤ ðeə ˈbɑːθru(ː)m əˈmiːnɪtiz.",
+        "Meaning": "Có lẽ có thể thay đổi đồ vệ sinh cá nhân của họ."
+    },
+    {
+        "Sents": "My heart is so full.",
+        "ipaSents": "maɪ hɑːt ɪz səʊ fʊl.",
+        "Meaning": "Trái tim tôi thật đầy ắp."
+    },
+    {
+        "Sents": "She got the patent for the drug she has created to cure cancer.",
+        "ipaSents": "ʃiː gɒt ðə ˈpeɪtənt fɔː ðə drʌg ʃiː hæz kri(ː)ˈeɪtɪd tuː kjʊə ˈkænsə.",
+        "Meaning": "Cô đã nhận được bằng sáng chế cho loại thuốc mà cô đã tạo ra để chữa bệnh ung thư."
+    },
+    {
+        "Sents": "Can you show me how to solve this puzzle?",
+        "ipaSents": "kæn juː ʃəʊ miː haʊ tuː sɒlv ðɪs ˈpʌzl?",
+        "Meaning": "Bạn có thể chỉ cho tôi làm thế nào để giải quyết câu đố này?"
+    },
+    {
+        "Sents": "You are a wonderful leader.",
+        "ipaSents": "juː ɑːr ə ˈwʌndəfʊl ˈliːdə.",
+        "Meaning": "Bạn là một nhà lãnh đạo tuyệt vời."
+    },
+    {
+        "Sents": "Watch her face light up when you mention his name.",
+        "ipaSents": "wɒʧ hɜː feɪs laɪt ʌp wɛn juː ˈmɛnʃən hɪz neɪm.",
+        "Meaning": "Nhìn khuôn mặt cô ấy sáng lên khi bạn nhắc đến tên anh ấy."
+    },
+    {
+        "Sents": "Hearing his mom’s voice is all he needs right now.",
+        "ipaSents": "ˈhɪərɪŋ hɪz mɒmz vɔɪs ɪz ɔːl hiː niːdz raɪt naʊ.",
+        "Meaning": "Nghe thấy giọng nói của mẹ là tất cả những gì anh ấy cần ngay bây giờ."
+    },
+    {
+        "Sents": "My wife is away for the weekend.",
+        "ipaSents": "maɪ waɪf ɪz əˈweɪ fɔː ðə ˈwiːkˈɛnd.",
+        "Meaning": "Cuối tuần vợ tôi đi vắng."
+    },
+    {
+        "Sents": "I have the whole house to myself.",
+        "ipaSents": "aɪ hæv ðə həʊl haʊs tuː maɪˈsɛlf.",
+        "Meaning": "Tôi có toàn bộ ngôi nhà cho riêng mình."
+    },
+    {
+        "Sents": "The police have questioned him about the incident.",
+        "ipaSents": "ðə pəˈliːs hæv ˈkwɛsʧənd hɪm əˈbaʊt ði ˈɪnsɪdənt.",
+        "Meaning": "Cảnh sát đã thẩm vấn anh ta về vụ việc."
+    },
+    {
+        "Sents": "This relaxation technique really eases my mind.",
+        "ipaSents": "ðɪs ˌriːlækˈseɪʃən tɛkˈniːk ˈrɪəli ˈiːzɪz maɪ maɪnd.",
+        "Meaning": "Kỹ thuật thư giãn này thực sự giúp tôi xoa dịu tâm trí."
+    },
+    {
+        "Sents": "I can finally move out from my old apartment.",
+        "ipaSents": "aɪ kæn ˈfaɪnəli muːv aʊt frɒm maɪ əʊld əˈpɑːtmənt.",
+        "Meaning": "Cuối cùng thì tôi cũng có thể dọn ra khỏi căn hộ cũ của mình."
+    },
+    {
+        "Sents": "My baby niece likes to pull my hair.",
+        "ipaSents": "maɪ ˈbeɪbi niːs laɪks tuː pʊl maɪ heə.",
+        "Meaning": "Đứa cháu gái nhỏ của tôi thích kéo tóc của tôi."
+    },
+    {
+        "Sents": "I give her tickles in return.",
+        "ipaSents": "aɪ gɪv hɜː ˈtɪklz ɪn rɪˈtɜːn.",
+        "Meaning": "Tôi trả lại cho cô ấy sự nhột nhạt."
+    },
+    {
+        "Sents": "The best things in life are free.",
+        "ipaSents": "ðə bɛst θɪŋz ɪn laɪf ɑː friː.",
+        "Meaning": "Những điều tốt nhất trong cuộc sống là miễn phí."
+    },
+    {
+        "Sents": "His dad is in the military.",
+        "ipaSents": "hɪz dæd ɪz ɪn ðə ˈmɪlɪtəri.",
+        "Meaning": "Bố anh ấy đang trong quân đội."
+    },
+    {
+        "Sents": "This is the price you pay for lying.",
+        "ipaSents": "ðɪs ɪz ðə praɪs juː peɪ fɔː ˈlaɪɪŋ.",
+        "Meaning": "Đây là cái giá mà bạn phải trả cho việc nói dối."
+    },
+    {
+        "Sents": "Did you report this to the police?",
+        "ipaSents": "dɪd juː rɪˈpɔːt ðɪs tuː ðə pəˈliːs?",
+        "Meaning": "Bạn đã báo cáo điều này với cảnh sát?"
+    },
+    {
+        "Sents": "I am praying for less stress this coming new year.",
+        "ipaSents": "aɪ æm ˈpreɪɪŋ fɔː lɛs strɛs ðɪs ˈkʌmɪŋ njuː jɪə.",
+        "Meaning": "Tôi đang cầu nguyện cho năm mới sắp tới bớt căng thẳng hơn."
+    },
+    {
+        "Sents": "According to the weather report, it’s going to rain today.",
+        "ipaSents": "əˈkɔːdɪŋ tuː ðə ˈwɛðə rɪˈpɔːt, ɪts ˈgəʊɪŋ tuː reɪn təˈdeɪ.",
+        "Meaning": "Theo bản tin thời tiết, hôm nay trời sẽ mưa."
+    },
+    {
+        "Sents": "This is a big decision for me.",
+        "ipaSents": "ðɪs ɪz ə bɪg dɪˈsɪʒən fɔː miː.",
+        "Meaning": "Đây là một quyết định lớn đối với tôi."
+    },
+    {
+        "Sents": "I’ll explain everything later, I promise.",
+        "ipaSents": "aɪl ɪksˈpleɪn ˈɛvrɪθɪŋ ˈleɪtə, aɪ ˈprɒmɪs.",
+        "Meaning": "Tôi sẽ giải thích mọi thứ sau, tôi hứa."
+    },
+    {
+        "Sents": "His son is so cute!",
+        "ipaSents": "hɪz sʌn ɪz səʊ kjuːt!",
+        "Meaning": "Con trai của anh ấy thật đáng yêu!"
+    },
+    {
+        "Sents": "I hope I’ll have a son one day.",
+        "ipaSents": "aɪ həʊp aɪl hæv ə sʌn wʌn deɪ.",
+        "Meaning": "Tôi hy vọng một ngày nào đó tôi sẽ có một cậu con trai."
+    },
+    {
+        "Sents": "Even if they’ve broken up, they still remain friends.",
+        "ipaSents": "ˈiːvən ɪf ðeɪv ˈbrəʊkən ʌp, ðeɪ stɪl rɪˈmeɪn frɛndz.",
+        "Meaning": "Ngay cả khi đã chia tay, họ vẫn là bạn của nhau."
+    },
+    {
+        "Sents": "That rash could develop into something more serious.",
+        "ipaSents": "ðæt ræʃ kʊd dɪˈvɛləp ˈɪntuː ˈsʌmθɪŋ mɔː ˈsɪərɪəs.",
+        "Meaning": "Phát ban đó có thể phát triển thành một cái gì đó nghiêm trọng hơn."
+    },
+    {
+        "Sents": "This view is amazing!",
+        "ipaSents": "ðɪs vjuː ɪz əˈmeɪzɪŋ!",
+        "Meaning": "Quan điểm này là tuyệt vời!"
+    },
+    {
+        "Sents": "They’ve taken their relationship to the next level.",
+        "ipaSents": "ðeɪv ˈteɪkən ðeə rɪˈleɪʃənʃɪp tuː ðə nɛkst ˈlɛvl.",
+        "Meaning": "Họ đã đưa mối quan hệ của mình lên một tầm cao mới."
+    },
+    {
+        "Sents": "Can you carry my bag for me?",
+        "ipaSents": "kæn juː ˈkæri maɪ bæg fɔː miː?",
+        "Meaning": "Bạn có thể xách cặp cho tôi được không?"
+    },
+    {
+        "Sents": "This town is extremely quiet.",
+        "ipaSents": "ðɪs taʊn ɪz ɪksˈtriːmli ˈkwaɪət.",
+        "Meaning": "Thị trấn này cực kỳ yên tĩnh."
+    },
+    {
+        "Sents": "There’s a road that leads to the edge of the woods.",
+        "ipaSents": "ðeəz ə rəʊd ðæt liːdz tuː ði ɛʤ ɒv ðə wʊdz.",
+        "Meaning": "Có một con đường dẫn đến bìa rừng."
+    },
+    {
+        "Sents": "You can’t drive there, you need to walk.",
+        "ipaSents": "juː kɑːnt draɪv ðeə, juː niːd tuː wɔːk.",
+        "Meaning": "Bạn không thể lái xe đến đó, bạn cần phải đi bộ."
+    },
+    {
+        "Sents": "He broke his arm during practice.",
+        "ipaSents": "hiː brəʊk hɪz ɑːm ˈdjʊərɪŋ ˈpræktɪs.",
+        "Meaning": "Anh ấy bị gãy tay trong lúc tập luyện."
+    },
+    {
+        "Sents": "It’s true, I’m leaving the company.",
+        "ipaSents": "ɪts truː, aɪm ˈliːvɪŋ ðə ˈkʌmpəni.",
+        "Meaning": "Đúng là tôi sắp rời công ty."
+    },
+    {
+        "Sents": "Animal abuse is now a federal felony!",
+        "ipaSents": "ˈænɪməl əˈbjuːs ɪz naʊ ə ˈfɛdərəl ˈfɛləni!",
+        "Meaning": "Ngược đãi động vật hiện là một trọng tội liên bang!"
+    },
+    {
+        "Sents": "Don’t break the law.",
+        "ipaSents": "dəʊnt breɪk ðə lɔː.",
+        "Meaning": "Đừng vi phạm pháp luật."
+    },
+    {
+        "Sents": "You better learn how to follow rules.",
+        "ipaSents": "juː ˈbɛtə lɜːn haʊ tuː ˈfɒləʊ ruːlz.",
+        "Meaning": "Tốt hơn bạn nên học cách tuân theo các quy tắc."
+    },
+    {
+        "Sents": "What’s the difference between happiness and contentment?",
+        "ipaSents": "wɒts ðə ˈdɪfrəns bɪˈtwiːn ˈhæpɪnɪs ænd kənˈtɛntmənt?",
+        "Meaning": "Sự khác biệt giữa hạnh phúc và mãn nguyện là gì?"
+    },
+    {
+        "Sents": "I forgot to thank her for the pie she sent us.",
+        "ipaSents": "aɪ fəˈgɒt tuː θæŋk hɜː fɔː ðə paɪ ʃiː sɛnt ʌs.",
+        "Meaning": "Tôi quên cảm ơn cô ấy vì chiếc bánh mà cô ấy đã gửi cho chúng tôi."
+    },
+    {
+        "Sents": "Did you receive the pie I sent you?",
+        "ipaSents": "dɪd juː rɪˈsiːv ðə paɪ aɪ sɛnt juː?",
+        "Meaning": "Bạn đã nhận được cái bánh mà tôi đã gửi cho bạn chưa?"
+    },
+    {
+        "Sents": "I value our friendship so much.",
+        "ipaSents": "aɪ ˈvæljuː ˈaʊə ˈfrɛndʃɪp səʊ mʌʧ.",
+        "Meaning": "Tôi coi trọng tình bạn của chúng tôi rất nhiều."
+    },
+    {
+        "Sents": "Their brand has gone international!",
+        "ipaSents": "ðeə brænd hæz gɒn ˌɪntə(ː)ˈnæʃənl!",
+        "Meaning": "Thương hiệu của họ đã vươn ra quốc tế!"
+    },
+    {
+        "Sents": "This building is so tall!",
+        "ipaSents": "ðɪs ˈbɪldɪŋ ɪz səʊ tɔːl!",
+        "Meaning": "Tòa nhà này cao quá!"
+    },
+    {
+        "Sents": "Your next action is going to be critical.",
+        "ipaSents": "jɔː nɛkst ˈækʃ(ə)n ɪz ˈgəʊɪŋ tuː biː ˈkrɪtɪkəl.",
+        "Meaning": "Hành động tiếp theo của bạn sẽ rất quan trọng."
+    },
+    {
+        "Sents": "My workload is so full now.",
+        "ipaSents": "maɪ ˈwɜːkˌləʊd ɪz səʊ fʊl naʊ.",
+        "Meaning": "Hiện tại khối lượng công việc của tôi quá đầy."
+    },
+    {
+        "Sents": "A great leader is a great model of how to do things.",
+        "ipaSents": "ə greɪt ˈliːdər ɪz ə greɪt ˈmɒdl ɒv haʊ tuː duː θɪŋz.",
+        "Meaning": "Một nhà lãnh đạo tuyệt vời là một hình mẫu tuyệt vời về cách làm mọi việc."
+    },
+    {
+        "Sents": "He wants to join the soccer team.",
+        "ipaSents": "hiː wɒnts tuː ʤɔɪn ðə ˈsɒkə tiːm.",
+        "Meaning": "Anh ấy muốn tham gia đội bóng đá."
+    },
+    {
+        "Sents": "Christmas is my favorite season!",
+        "ipaSents": "ˈkrɪsməs ɪz maɪ ˈfeɪvərɪt ˈsiːzn!",
+        "Meaning": "Giáng sinh là mùa yêu thích của tôi!"
+    },
+    {
+        "Sents": "Their society is holding a fundraiser.",
+        "ipaSents": "ðeə səˈsaɪəti ɪz ˈhəʊldɪŋ ə ˈfʌndˌreɪzə.",
+        "Meaning": "Xã hội của họ đang tổ chức một buổi gây quỹ."
+    },
+    {
+        "Sents": "I’m going home because my mom needs me.",
+        "ipaSents": "aɪm ˈgəʊɪŋ həʊm bɪˈkɒz maɪ mɒm niːdz miː.",
+        "Meaning": "Tôi về nhà vì mẹ tôi cần tôi."
+    },
+    {
+        "Sents": "How much is the current income tax?",
+        "ipaSents": "haʊ mʌʧ ɪz ðə ˈkʌrənt ˈɪnkʌm tæks?",
+        "Meaning": "Thuế thu nhập hiện tại là bao nhiêu?"
+    },
+    {
+        "Sents": "The director yelled ‘cut!'",
+        "ipaSents": "ðə dɪˈrɛktə jɛld kʌt!'",
+        "Meaning": "Đạo diễn hét lên ‘cắt!’"
+    },
+    {
+        "Sents": "I’m too early for my appointment.",
+        "ipaSents": "aɪm tuː ˈɜːli fɔː maɪ əˈpɔɪntmənt.",
+        "Meaning": "Tôi còn quá sớm cho cuộc hẹn của mình."
+    },
+    {
+        "Sents": "Please position your hand properly when drawing.",
+        "ipaSents": "pliːz pəˈzɪʃən jɔː hænd ˈprɒpəli wɛn ˈdrɔːɪŋ.",
+        "Meaning": "Hãy đặt tay đúng vị trí khi vẽ."
+    },
+    {
+        "Sents": "That basketball player is cute.",
+        "ipaSents": "ðæt ˈbɑːskɪtˌbɔːl ˈpleɪər ɪz kjuːt.",
+        "Meaning": "Cầu thủ bóng rổ đó thật dễ thương."
+    },
+    {
+        "Sents": "I agree! He is cute!",
+        "ipaSents": "aɪ əˈgriː! hiː ɪz kjuːt!",
+        "Meaning": "Tôi đồng ý! Anh ấy thật dễ thương!"
+    },
+    {
+        "Sents": "I especially like his blue eyes.",
+        "ipaSents": "aɪ ɪsˈpɛʃəli laɪk hɪz bluː aɪz.",
+        "Meaning": "Tôi đặc biệt thích đôi mắt xanh của anh ấy."
+    },
+    {
+        "Sents": "Can we record the minutes of this meeting, please?",
+        "ipaSents": "kæn wiː ˈrɛkɔːd ðə ˈmɪnɪts ɒv ðɪs ˈmiːtɪŋ, pliːz?",
+        "Meaning": "Chúng tôi có thể ghi lại biên bản cuộc họp này được không?"
+    },
+    {
+        "Sents": "Did you pick a color theme already?",
+        "ipaSents": "dɪd juː pɪk ə ˈkʌlə θiːm ɔːlˈrɛdi?",
+        "Meaning": "Bạn đã chọn một chủ đề màu sắc chưa?"
+    },
+    {
+        "Sents": "Is that what you’re going to wear for the party?",
+        "ipaSents": "ɪz ðæt wɒt jʊə ˈgəʊɪŋ tuː weə fɔː ðə ˈpɑːti?",
+        "Meaning": "Đó có phải là những gì bạn sẽ mặc cho bữa tiệc không?"
+    },
+    {
+        "Sents": "You can use a special paper for your invitations.",
+        "ipaSents": "juː kæn juːz ə ˈspɛʃəl ˈpeɪpə fɔː jɔːr ˌɪnvɪˈteɪʃənz.",
+        "Meaning": "Bạn có thể sử dụng một loại giấy đặc biệt cho lời mời của mình."
+    },
+    {
+        "Sents": "Some special papers are even scented!",
+        "ipaSents": "sʌm ˈspɛʃəl ˈpeɪpəz ɑːr ˈiːvən ˈsɛntɪd!",
+        "Meaning": "Một số loại giấy đặc biệt thậm chí còn có mùi thơm!"
+    },
+    {
+        "Sents": "Please leave some space to write down your phone number.",
+        "ipaSents": "pliːz liːv sʌm speɪs tuː raɪt daʊn jɔː fəʊn ˈnʌmbə.",
+        "Meaning": "Vui lòng để lại một số khoảng trống để viết số điện thoại của bạn."
+    },
+    {
+        "Sents": "The ground is shaking.",
+        "ipaSents": "ðə graʊnd ɪz ˈʃeɪkɪŋ.",
+        "Meaning": "Mặt đất đang rung chuyển."
+    },
+    {
+        "Sents": "A new island was formed after that big earthquake.",
+        "ipaSents": "ə njuː ˈaɪlənd wɒz fɔːmd ˈɑːftə ðæt bɪg ˈɜːθkweɪk.",
+        "Meaning": "Một hòn đảo mới được hình thành sau trận động đất lớn đó."
+    },
+    {
+        "Sents": "I need your support for this project.",
+        "ipaSents": "aɪ niːd jɔː səˈpɔːt fɔː ðɪs ˈprɒʤɛkt.",
+        "Meaning": "Tôi cần sự hỗ trợ của bạn cho dự án này."
+    },
+    {
+        "Sents": "We’re holding a big event tonight.",
+        "ipaSents": "wɪə ˈhəʊldɪŋ ə bɪg ɪˈvɛnt təˈnaɪt.",
+        "Meaning": "Chúng tôi sẽ tổ chức một sự kiện lớn vào tối nay."
+    },
+    {
+        "Sents": "Our official wedding photos are out!",
+        "ipaSents": "ˈaʊər əˈfɪʃəl ˈwɛdɪŋ ˈfəʊtəʊz ɑːr aʊt!",
+        "Meaning": "Hình ảnh đám cưới chính thức của chúng tôi đã ra mắt!"
+    },
+    {
+        "Sents": "Whose umbrella is this?",
+        "ipaSents": "huːz ʌmˈbrɛlə ɪz ðɪs?",
+        "Meaning": "Cái ô này của ai vậy?"
+    },
+    {
+        "Sents": "What does it matter anyway?",
+        "ipaSents": "wɒt dʌz ɪt ˈmætər ˈɛnɪweɪ?",
+        "Meaning": "Nó có vấn đề gì không?"
+    },
+    {
+        "Sents": "Everyone thinks I stole that file.",
+        "ipaSents": "ˈɛvrɪwʌn θɪŋks aɪ stəʊl ðæt faɪl.",
+        "Meaning": "Mọi người đều nghĩ rằng tôi đã đánh cắp tập tin đó."
+    },
+    {
+        "Sents": "I hate being the center of attention.",
+        "ipaSents": "aɪ heɪt ˈbiːɪŋ ðə ˈsɛntər ɒv əˈtɛnʃ(ə)n.",
+        "Meaning": "Tôi ghét trở thành trung tâm của sự chú ý."
+    },
+    {
+        "Sents": "The couple is on their honeymoon now.",
+        "ipaSents": "ðə ˈkʌpl ɪz ɒn ðeə ˈhʌnɪmuːn naʊ.",
+        "Meaning": "Hiện cặp đôi đang đi hưởng tuần trăng mật."
+    },
+    {
+        "Sents": "This site is so big!",
+        "ipaSents": "ðɪs saɪt ɪz səʊ bɪg!",
+        "Meaning": "Trang web này rất lớn!"
+    },
+    {
+        "Sents": "It’s the end of an era.",
+        "ipaSents": "ɪts ði ɛnd ɒv ən ˈɪərə.",
+        "Meaning": "Đó là sự kết thúc của một kỷ nguyên."
+    },
+    {
+        "Sents": "This project file is due tomorrow.",
+        "ipaSents": "ðɪs ˈprɒʤɛkt faɪl ɪz djuː təˈmɒrəʊ.",
+        "Meaning": "Hồ sơ dự án này sẽ đến hạn vào ngày mai."
+    },
+    {
+        "Sents": "He hit the burglar with a bat.",
+        "ipaSents": "hiː hɪt ðə ˈbɜːglə wɪð ə bæt.",
+        "Meaning": "Anh ta dùng gậy đánh tên trộm."
+    },
+    {
+        "Sents": "All moms are their child’s home base.",
+        "ipaSents": "ɔːl mɒmz ɑː ðeə ʧaɪldz həʊm beɪs.",
+        "Meaning": "Tất cả các bà mẹ đều là cơ sở ở nhà của con họ."
+    },
+    {
+        "Sents": "What musical activity can you suggest for my toddler?",
+        "ipaSents": "wɒt ˈmjuːzɪkəl ækˈtɪvɪti kæn juː səˈʤɛst fɔː maɪ ˈtɒdlə?",
+        "Meaning": "Bạn có thể gợi ý hoạt động âm nhạc nào cho con tôi?"
+    },
+    {
+        "Sents": "My son can draw a star!",
+        "ipaSents": "maɪ sʌn kæn drɔː ə stɑː!",
+        "Meaning": "Con trai tôi có thể vẽ một ngôi sao!"
+    },
+    {
+        "Sents": "I saw him draw it while he was writing on the table.",
+        "ipaSents": "aɪ sɔː hɪm drɔː ɪt waɪl hiː wɒz ˈraɪtɪŋ ɒn ðə ˈteɪbl.",
+        "Meaning": "Tôi thấy anh ấy vẽ nó khi anh ấy đang viết trên bàn."
+    },
+    {
+        "Sents": "I need to enroll him to a good preschool.",
+        "ipaSents": "aɪ niːd tuː ɪnˈrəʊl hɪm tuː ə gʊd ˌpriːˈskuːl.",
+        "Meaning": "Tôi cần ghi danh cho cháu vào một trường mầm non tốt."
+    },
+    {
+        "Sents": "There’s a basketball court near our house.",
+        "ipaSents": "ðeəz ə ˈbɑːskɪtˌbɔːl kɔːt nɪər ˈaʊə haʊs.",
+        "Meaning": "Có một sân bóng rổ gần nhà của chúng tôi."
+    },
+    {
+        "Sents": "Fresh farm produce is the best.",
+        "ipaSents": "frɛʃ fɑːm ˈprɒdjuːs ɪz ðə bɛst.",
+        "Meaning": "Nông sản tươi là tốt nhất."
+    },
+    {
+        "Sents": "I could eat that all day.",
+        "ipaSents": "aɪ kʊd iːt ðæt ɔːl deɪ.",
+        "Meaning": "Tôi có thể ăn cái đó cả ngày."
+    },
+    {
+        "Sents": "My sister is dating an American.",
+        "ipaSents": "maɪ ˈsɪstər ɪz ˈdeɪtɪŋ ən əˈmɛrɪkən.",
+        "Meaning": "Em gái tôi đang hẹn hò với một người Mỹ."
+    },
+    {
+        "Sents": "I love to teach English lessons.",
+        "ipaSents": "aɪ lʌv tuː tiːʧ ˈɪŋglɪʃ ˈlɛsnz.",
+        "Meaning": "Tôi thích dạy các bài học tiếng Anh."
+    },
+    {
+        "Sents": "Could you buy me some cooking oil at the store?",
+        "ipaSents": "kʊd juː baɪ miː sʌm ˈkʊkɪŋ ɔɪl æt ðə stɔː?",
+        "Meaning": "Bạn có thể mua cho tôi một ít dầu ăn ở cửa hàng được không?"
+    },
+    {
+        "Sents": "Just half a liter, please.",
+        "ipaSents": "ʤʌst hɑːf ə ˈliːtə, pliːz.",
+        "Meaning": "Vui lòng chỉ nửa lít."
+    },
+    {
+        "Sents": "The situation is getting out of hand.",
+        "ipaSents": "ðə ˌsɪtjʊˈeɪʃən ɪz ˈgɛtɪŋ aʊt ɒv hænd.",
+        "Meaning": "Tình hình đang vượt quá tầm kiểm soát."
+    },
+    {
+        "Sents": "I thought you said this was going to be easy?",
+        "ipaSents": "aɪ θɔːt juː sɛd ðɪs wɒz ˈgəʊɪŋ tuː biː ˈiːzi?",
+        "Meaning": "Tôi nghĩ bạn nói điều này sẽ dễ dàng?"
+    },
+    {
+        "Sents": "The cost of fuel has increased!",
+        "ipaSents": "ðə kɒst ɒv fjʊəl hæz ɪnˈkriːst!",
+        "Meaning": "Chi phí nhiên liệu đã tăng lên!"
+    },
+    {
+        "Sents": "The fuel industry is hiking prices.",
+        "ipaSents": "ðə fjʊəl ˈɪndəstri ɪz ˈhaɪkɪŋ ˈpraɪsɪz.",
+        "Meaning": "Ngành công nghiệp nhiên liệu đang tăng giá."
+    },
+    {
+        "Sents": "Will our government figure out how to fix this problem?",
+        "ipaSents": "wɪl ˈaʊə ˈgʌvnmənt ˈfɪgər aʊt haʊ tuː fɪks ðɪs ˈprɒbləm?",
+        "Meaning": "Liệu chính phủ của chúng ta có tìm ra cách khắc phục vấn đề này không?"
+    },
+    {
+        "Sents": "I can’t bear to face this horrendous traffic again and again.",
+        "ipaSents": "aɪ kɑːnt beə tuː feɪs ðɪs hɒˈrɛndəs ˈtræfɪk əˈgɛn ænd əˈgɛn.",
+        "Meaning": "Tôi không thể chịu nổi khi phải đối mặt với giao thông khủng khiếp này lặp đi lặp lại."
+    },
+    {
+        "Sents": "Let’s cross the street.",
+        "ipaSents": "lɛts krɒs ðə striːt.",
+        "Meaning": "Hãy băng qua đường."
+    },
+    {
+        "Sents": "There’s an image of him stored inside my mind.",
+        "ipaSents": "ðeəz ən ˈɪmɪʤ ɒv hɪm stɔːd ɪnˈsaɪd maɪ maɪnd.",
+        "Meaning": "Có một hình ảnh về anh ấy được lưu giữ trong tâm trí tôi."
+    },
+    {
+        "Sents": "The bike itself is pretty awesome.",
+        "ipaSents": "ðə baɪk ɪtˈsɛlf ɪz ˈprɪti ˈɔːsəm.",
+        "Meaning": "Bản thân chiếc xe đạp là khá tuyệt vời."
+    },
+    {
+        "Sents": "Plus, it has a phone holder.",
+        "ipaSents": "plʌs, ɪt hæz ə fəʊn ˈhəʊldə.",
+        "Meaning": "Thêm vào đó, nó có một giá đỡ điện thoại."
+    },
+    {
+        "Sents": "I either walk or commute to work.",
+        "ipaSents": "aɪ ˈaɪðə wɔːk ɔː kəˈmjuːt tuː wɜːk.",
+        "Meaning": "Tôi đi bộ hoặc đi làm."
+    },
+    {
+        "Sents": "How can we simplify this data?",
+        "ipaSents": "haʊ kæn wiː ˈsɪmplɪfaɪ ðɪs ˈdeɪtə?",
+        "Meaning": "Làm thế nào chúng ta có thể đơn giản hóa dữ liệu này?"
+    },
+    {
+        "Sents": "Could you cover for me during emergencies?",
+        "ipaSents": "kʊd juː ˈkʌvə fɔː miː ˈdjʊərɪŋ ɪˈmɜːʤənsiz?",
+        "Meaning": "Bạn có thể che chở cho tôi trong những trường hợp khẩn cấp không?"
+    },
+    {
+        "Sents": "I’m quite satisfied with their work.",
+        "ipaSents": "aɪm kwaɪt ˈsætɪsfaɪd wɪð ðeə wɜːk.",
+        "Meaning": "Tôi khá hài lòng với công việc của họ."
+    },
+    {
+        "Sents": "Picture this: a lake, a cabin, and lots of peace and quiet.",
+        "ipaSents": "ˈpɪkʧə ðɪs: ə leɪk, ə ˈkæbɪn, ænd lɒts ɒv piːs ænd ˈkwaɪət.",
+        "Meaning": "Hãy hình dung thế này: một cái hồ, một căn nhà gỗ, và rất nhiều sự yên bình và tĩnh lặng."
+    },
+    {
+        "Sents": "That picture is so clear inside my head.",
+        "ipaSents": "ðæt ˈpɪkʧər ɪz səʊ klɪər ɪnˈsaɪd maɪ hɛd.",
+        "Meaning": "Hình ảnh đó rất rõ ràng trong đầu tôi."
+    },
+    {
+        "Sents": "Let’s practice our dance number.",
+        "ipaSents": "lɛts ˈpræktɪs ˈaʊə dɑːns ˈnʌmbə.",
+        "Meaning": "Hãy thực hành số nhảy của chúng ta."
+    },
+    {
+        "Sents": "That’s a piece of cake!",
+        "ipaSents": "ðæts ə piːs ɒv keɪk!",
+        "Meaning": "Đó là một miếng bánh!"
+    },
+    {
+        "Sents": "Their plane is going to land soon.",
+        "ipaSents": "ðeə pleɪn ɪz ˈgəʊɪŋ tuː lænd suːn.",
+        "Meaning": "Máy bay của họ sẽ sớm hạ cánh."
+    },
+    {
+        "Sents": "This is her most recent social media post.",
+        "ipaSents": "ðɪs ɪz hɜː məʊst ˈriːsnt ˈsəʊʃəl ˈmiːdiə pəʊst.",
+        "Meaning": "Đây là bài đăng trên mạng xã hội gần đây nhất của cô ấy."
+    },
+    {
+        "Sents": "Describe yourself in one word.",
+        "ipaSents": "dɪsˈkraɪb jɔːˈsɛlf ɪn wʌn wɜːd.",
+        "Meaning": "Mô tả bản thân bằng một từ."
+    },
+    {
+        "Sents": "This is my favorite product in their new line of cosmetics.",
+        "ipaSents": "ðɪs ɪz maɪ ˈfeɪvərɪt ˈprɒdʌkt ɪn ðeə njuː laɪn ɒv kɒzˈmɛtɪks.",
+        "Meaning": "Đây là sản phẩm yêu thích của tôi trong dòng mỹ phẩm mới của họ."
+    },
+    {
+        "Sents": "The doctor is in.",
+        "ipaSents": "ðə ˈdɒktər ɪz ɪn.",
+        "Meaning": "Các bác sĩ đang ở trong."
+    },
+    {
+        "Sents": "Can you post this up on the wall?",
+        "ipaSents": "kæn juː pəʊst ðɪs ʌp ɒn ðə wɔːl?",
+        "Meaning": "Bạn có thể đăng cái này lên tường được không?"
+    },
+    {
+        "Sents": "The patient is in so much pain now.",
+        "ipaSents": "ðə ˈpeɪʃənt ɪz ɪn səʊ mʌʧ peɪn naʊ.",
+        "Meaning": "Hiện bệnh nhân rất đau."
+    },
+    {
+        "Sents": "She’s a factory worker.",
+        "ipaSents": "ʃiːz ə ˈfæktəri ˈwɜːkə.",
+        "Meaning": "Cô ấy là một công nhân nhà máy."
+    },
+    {
+        "Sents": "I saw that on the news.",
+        "ipaSents": "aɪ sɔː ðæt ɒn ðə njuːz.",
+        "Meaning": "Tôi đã thấy điều đó trên tin tức."
+    },
+    {
+        "Sents": "I have to pass this English test.",
+        "ipaSents": "aɪ hæv tuː pɑːs ðɪs ˈɪŋglɪʃ tɛst.",
+        "Meaning": "Tôi phải vượt qua bài kiểm tra tiếng Anh này."
+    },
+    {
+        "Sents": "Let’s watch a movie later.",
+        "ipaSents": "lɛts wɒʧ ə ˈmuːvi ˈleɪtə.",
+        "Meaning": "Hãy xem phim sau."
+    },
+    {
+        "Sents": "There’s a certain kind of magic in the air now.",
+        "ipaSents": "ðeəz ə ˈsɜːtn kaɪnd ɒv ˈmæʤɪk ɪn ði eə naʊ.",
+        "Meaning": "Hiện giờ có một loại ma thuật nào đó đang bay trong không khí."
+    },
+    {
+        "Sents": "Santa lives up north.",
+        "ipaSents": "ˈsæntə lɪvz ʌp nɔːθ.",
+        "Meaning": "Ông già Noel sống ở phía bắc."
+    },
+    {
+        "Sents": "I love Christmas!",
+        "ipaSents": "aɪ lʌv ˈkrɪsməs!",
+        "Meaning": "Tôi yêu Giáng sinh!"
+    },
+    {
+        "Sents": "This letter is very personal.",
+        "ipaSents": "ðɪs ˈlɛtər ɪz ˈvɛri ˈpɜːsnl.",
+        "Meaning": "Bức thư này rất cá nhân."
+    },
+    {
+        "Sents": "Why did you open and read it?",
+        "ipaSents": "waɪ dɪd juː ˈəʊpən ænd riːd ɪt?",
+        "Meaning": "Tại sao bạn mở và đọc nó?"
+    },
+    {
+        "Sents": "Will you support him?",
+        "ipaSents": "wɪl juː səˈpɔːt hɪm?",
+        "Meaning": "Bạn sẽ ủng hộ anh ấy chứ?"
+    },
+    {
+        "Sents": "I simply won’t tolerate bad behavior.",
+        "ipaSents": "aɪ ˈsɪmpli wəʊnt ˈtɒləreɪt bæd bɪˈheɪvjə.",
+        "Meaning": "Tôi chỉ đơn giản là sẽ không dung thứ cho hành vi xấu."
+    },
+    {
+        "Sents": "This is the third time you’ve lied to me.",
+        "ipaSents": "ðɪs ɪz ðə θɜːd taɪm juːv laɪd tuː miː.",
+        "Meaning": "Đây là lần thứ ba bạn nói dối tôi."
+    },
+    {
+        "Sents": "Write about the advantages of technology.",
+        "ipaSents": "raɪt əˈbaʊt ði ədˈvɑːntɪʤɪz ɒv tɛkˈnɒləʤi.",
+        "Meaning": "Viết về những lợi thế của công nghệ."
+    },
+    {
+        "Sents": "Let’s catch up soon, please!",
+        "ipaSents": "lɛts kæʧ ʌp suːn, pliːz!",
+        "Meaning": "Hãy bắt kịp sớm, vui lòng!"
+    },
+    {
+        "Sents": "Watch your step.",
+        "ipaSents": "wɒʧ jɔː stɛp.",
+        "Meaning": "Theo dõi bước đi của bạn."
+    },
+    {
+        "Sents": "Her baby is so adorable.",
+        "ipaSents": "hɜː ˈbeɪbi ɪz səʊ əˈdɔːrəbl.",
+        "Meaning": "Em bé của cô ấy thật đáng yêu."
+    },
+    {
+        "Sents": "Can you turn on the computer, please?",
+        "ipaSents": "kæn juː tɜːn ɒn ðə kəmˈpjuːtə, pliːz?",
+        "Meaning": "Bạn có thể bật máy tính lên được không?"
+    },
+    {
+        "Sents": "You need to type in your password.",
+        "ipaSents": "juː niːd tuː taɪp ɪn jɔː ˈpɑːswɜːd.",
+        "Meaning": "Bạn cần nhập mật khẩu của mình."
+    },
+    {
+        "Sents": "Can I have your attention, please?",
+        "ipaSents": "kæn aɪ hæv jɔːr əˈtɛnʃ(ə)n, pliːz?",
+        "Meaning": "Tôi có thể để ý bạn được không?"
+    },
+    {
+        "Sents": "Can you draw this for me?",
+        "ipaSents": "kæn juː drɔː ðɪs fɔː miː?",
+        "Meaning": "Bạn có thể vẽ cái này cho tôi được không?"
+    },
+    {
+        "Sents": "That film is absolutely mind-blowing.",
+        "ipaSents": "ðæt fɪlm ɪz ˈæbsəluːtli maɪnd-ˈbləʊɪŋ.",
+        "Meaning": "Đó là bộ phim hoàn toàn tuyệt vời."
+    },
+    {
+        "Sents": "He is a Republican candidate.",
+        "ipaSents": "hiː ɪz ə rɪˈpʌblɪkən ˈkændɪˌdeɪt.",
+        "Meaning": "Anh ấy là một ứng cử viên của Đảng Cộng hòa."
+    },
+    {
+        "Sents": "That tree has been there for generations.",
+        "ipaSents": "ðæt triː hæz biːn ðeə fɔː ˌʤɛnəˈreɪʃənz.",
+        "Meaning": "Cây đó đã có từ bao đời nay."
+    },
+    {
+        "Sents": "You are my source of strength.",
+        "ipaSents": "juː ɑː maɪ sɔːs ɒv strɛŋθ.",
+        "Meaning": "Bạn là nguồn sức mạnh của tôi."
+    },
+    {
+        "Sents": "I’ll wear a red dress tonight.",
+        "ipaSents": "aɪl weər ə rɛd drɛs təˈnaɪt.",
+        "Meaning": "Tôi sẽ mặc một chiếc váy đỏ tối nay."
+    },
+    {
+        "Sents": "He nearly died in that accident!",
+        "ipaSents": "hiː ˈnɪəli daɪd ɪn ðæt ˈæksɪdənt!",
+        "Meaning": "Anh ấy suýt chết trong vụ tai nạn đó!"
+    },
+    {
+        "Sents": "Their organization is doing great things for street kids.",
+        "ipaSents": "ðeər ˌɔːgənaɪˈzeɪʃən ɪz ˈdu(ː)ɪŋ greɪt θɪŋz fɔː striːt kɪdz.",
+        "Meaning": "Tổ chức của họ đang làm những điều tuyệt vời cho trẻ em đường phố."
+    },
+    {
+        "Sents": "Let me choose a color.",
+        "ipaSents": "lɛt miː ʧuːz ə ˈkʌlə.",
+        "Meaning": "Hãy để tôi chọn một màu."
+    },
+    {
+        "Sents": "We have to see the cause and effect of this experiment.",
+        "ipaSents": "wiː hæv tuː siː ðə kɔːz ænd ɪˈfɛkt ɒv ðɪs ɪksˈpɛrɪmənt.",
+        "Meaning": "Chúng ta phải xem nguyên nhân và kết quả của cuộc thử nghiệm này."
+    },
+    {
+        "Sents": "I’ll cut my hair short for a change.",
+        "ipaSents": "aɪl kʌt maɪ heə ʃɔːt fɔːr ə ʧeɪnʤ.",
+        "Meaning": "Tôi sẽ cắt tóc ngắn để thay đổi."
+    },
+    {
+        "Sents": "Can you look at the items I bought?",
+        "ipaSents": "kæn juː lʊk æt ði ˈaɪtəmz aɪ bɔːt?",
+        "Meaning": "Bạn có thể nhìn vào những món đồ tôi đã mua không?"
+    },
+    {
+        "Sents": "What is the point of all this?",
+        "ipaSents": "wɒt ɪz ðə pɔɪnt ɒv ɔːl ðɪs?",
+        "Meaning": "tất cả những thứ này có nghĩa gì?"
+    },
+    {
+        "Sents": "We’re living in the 21st century, mary.",
+        "ipaSents": "wɪə ˈlɪvɪŋ ɪn ðiː 21st ˈsɛnʧʊri, ˈmeəri.",
+        "Meaning": "Chúng ta đang sống trong thế kỷ 21, thưa bà."
+    },
+    {
+        "Sents": "The evidence clearly shows that he is guilty.",
+        "ipaSents": "ði ˈɛvɪdəns ˈklɪəli ʃəʊz ðæt hiː ɪz ˈgɪlti.",
+        "Meaning": "Bằng chứng rõ ràng cho thấy anh ta có tội."
+    },
+    {
+        "Sents": "I’ll buy window curtains next week.",
+        "ipaSents": "aɪl baɪ ˈwɪndəʊ ˈkɜːtnz nɛkst wiːk.",
+        "Meaning": "Tôi sẽ mua rèm cửa sổ vào tuần tới."
+    },
+    {
+        "Sents": "Sometimes, life can be difficult.",
+        "ipaSents": "ˈsʌmtaɪmz, laɪf kæn biː ˈdɪfɪkəlt.",
+        "Meaning": "Đôi khi, cuộc sống có thể khó khăn."
+    },
+    {
+        "Sents": "You have to listen to your teacher.",
+        "ipaSents": "juː hæv tuː ˈlɪsn tuː jɔː ˈtiːʧə.",
+        "Meaning": "Bạn phải nghe giáo viên của bạn."
+    },
+    {
+        "Sents": "I will launch my course soon.",
+        "ipaSents": "aɪ wɪl lɔːnʧ maɪ kɔːs suːn.",
+        "Meaning": "Tôi sẽ bắt đầu khóa học của tôi sớm."
+    },
+    {
+        "Sents": "I hope they understand our culture better.",
+        "ipaSents": "aɪ həʊp ðeɪ ˌʌndəˈstænd ˈaʊə ˈkʌlʧə ˈbɛtə.",
+        "Meaning": "Tôi hy vọng họ hiểu văn hóa của chúng tôi hơn."
+    },
+    {
+        "Sents": "My target is to have 1 billion dollars in my account by the end of the year.",
+        "ipaSents": "maɪ ˈtɑːgɪt ɪz tuː hæv 1 ˈbɪljən ˈdɒləz ɪn maɪ əˈkaʊnt baɪ ði ɛnd ɒv ðə jɪə.",
+        "Meaning": "Mục tiêu của tôi là có 1 tỷ đô la trong tài khoản của mình vào cuối năm."
+    },
+    {
+        "Sents": "Is there any chance that you can do this for me?",
+        "ipaSents": "ɪz ðeər ˈɛni ʧɑːns ðæt juː kæn duː ðɪs fɔː miː?",
+        "Meaning": "Có bất kỳ cơ hội nào mà bạn có thể làm điều này cho tôi?"
+    },
+    {
+        "Sents": "My brother always has my back.",
+        "ipaSents": "maɪ ˈbrʌðər ˈɔːlweɪz hæz maɪ bæk.",
+        "Meaning": "Anh trai tôi luôn luôn có tôi sau lưng."
+    },
+    {
+        "Sents": "now put that energy into walking.",
+        "ipaSents": "naʊ pʊt ðæt ˈɛnəʤi ˈɪntuː ˈwɔːkɪŋ.",
+        "Meaning": "bây giờ hãy đặt năng lượng đó vào việc đi bộ."
+    },
+    {
+        "Sents": "They covered a period of twenty years.",
+        "ipaSents": "ðeɪ ˈkʌvəd ə ˈpɪərɪəd ɒv ˈtwɛnti jɪəz.",
+        "Meaning": "Chúng được bảo hiểm trong khoảng thời gian hai mươi năm."
+    },
+    {
+        "Sents": "Have seen my course already?",
+        "ipaSents": "hæv siːn maɪ kɔːs ɔːlˈrɛdi?",
+        "Meaning": "Đã xem khóa học của tôi rồi chứ?"
+    },
+    {
+        "Sents": "I’ll go to the beach in summer.",
+        "ipaSents": "aɪl gəʊ tuː ðə biːʧ ɪn ˈsʌmə.",
+        "Meaning": "Tôi sẽ đi biển vào mùa hè."
+    },
+    {
+        "Sents": "Sometimes, less is more.",
+        "ipaSents": "ˈsʌmtaɪmz, lɛs ɪz mɔː.",
+        "Meaning": "Đôi khi ít lại hơn."
+    },
+    {
+        "Sents": "I just realize that I have a meeting today.",
+        "ipaSents": "aɪ ʤʌst ˈrɪəlaɪz ðæt aɪ hæv ə ˈmiːtɪŋ təˈdeɪ.",
+        "Meaning": "Tôi chỉ nhận ra rằng tôi có một cuộc họp hôm nay."
+    },
+    {
+        "Sents": "I have a hundred dollars that I can lend you.",
+        "ipaSents": "aɪ hæv ə ˈhʌndrəd ˈdɒləz ðæt aɪ kæn lɛnd juː.",
+        "Meaning": "Tôi có một trăm đô la mà tôi có thể cho bạn vay."
+    },
+    {
+        "Sents": "I am available to work on your project.",
+        "ipaSents": "aɪ æm əˈveɪləbl tuː wɜːk ɒn jɔː ˈprɒʤɛkt.",
+        "Meaning": "Tôi sẵn sàng làm việc trong dự án của bạn."
+    },
+    {
+        "Sents": "Plant a seed.",
+        "ipaSents": "plɑːnt ə siːd.",
+        "Meaning": "Trồng một hạt giống."
+    },
+    {
+        "Sents": "It was likely a deer trail.",
+        "ipaSents": "ɪt wɒz ˈlaɪkli ə dɪə treɪl.",
+        "Meaning": "Đó có thể là một con đường mòn của hươu."
+    },
+    {
+        "Sents": "It was the perfect opportunity to test her theory.",
+        "ipaSents": "ɪt wɒz ðə ˈpɜːfɪkt ˌɒpəˈtjuːnɪti tuː tɛst hɜː ˈθɪəri.",
+        "Meaning": "Đó là cơ hội hoàn hảo để kiểm tra lý thuyết của cô ấy."
+    },
+    {
+        "Sents": "I’m sure there’s a Latin term for it.",
+        "ipaSents": "aɪm ʃʊə ðeəz ə ˈlætɪn tɜːm fɔːr ɪt.",
+        "Meaning": "Tôi chắc chắn rằng có một thuật ngữ Latinh cho nó."
+    },
+    {
+        "Sents": "It was just a short stay at the hotel.",
+        "ipaSents": "ɪt wɒz ʤʌst ə ʃɔːt steɪ æt ðə həʊˈtɛl.",
+        "Meaning": "Đó chỉ là một kỳ nghỉ ngắn hạn tại khách sạn."
+    },
+    {
+        "Sents": "I already passed my letter of intent.",
+        "ipaSents": "aɪ ɔːlˈrɛdi pɑːst maɪ ˈlɛtər ɒv ɪnˈtɛnt.",
+        "Meaning": "Tôi đã thông qua ý định thư của mình."
+    },
+    {
+        "Sents": "Do you know the condition I am in?",
+        "ipaSents": "duː juː nəʊ ðə kənˈdɪʃən aɪ æm ɪn?",
+        "Meaning": "Bạn có biết tình trạng của tôi không?"
+    },
+    {
+        "Sents": "I have no choice.",
+        "ipaSents": "aɪ hæv nəʊ ʧɔɪs.",
+        "Meaning": "Tôi không có lựa chọn."
+    },
+    {
+        "Sents": "Let’s meet out at the meeting place.",
+        "ipaSents": "lɛts miːt aʊt æt ðə ˈmiːtɪŋ pleɪs.",
+        "Meaning": "Gặp nhau ở điểm hẹn."
+    },
+    {
+        "Sents": "I am a single parent.",
+        "ipaSents": "aɪ æm ə ˈsɪŋgl ˈpeərənt.",
+        "Meaning": "Tôi là một phụ huynh đơn thân."
+    },
+    {
+        "Sents": "It’s the rule of the law.",
+        "ipaSents": "ɪts ðə ruːl ɒv ðə lɔː.",
+        "Meaning": "Đó là quy định của luật."
+    },
+    {
+        "Sents": "My daughter knows how to read now.",
+        "ipaSents": "maɪ ˈdɔːtə nəʊz haʊ tuː riːd naʊ.",
+        "Meaning": "Con gái tôi biết đọc bây giờ."
+    },
+    {
+        "Sents": "I will take this up with the administration.",
+        "ipaSents": "aɪ wɪl teɪk ðɪs ʌp wɪð ði ədˌmɪnɪsˈtreɪʃ(ə)n.",
+        "Meaning": "Tôi sẽ giải quyết vấn đề này với chính quyền."
+    },
+    {
+        "Sents": "I am headed south.",
+        "ipaSents": "aɪ æm ˈhɛdɪd saʊθ.",
+        "Meaning": "Tôi đang đi về hướng nam."
+    },
+    {
+        "Sents": "My husband just bought me a ring for my birthday.",
+        "ipaSents": "maɪ ˈhʌzbənd ʤʌst bɔːt miː ə rɪŋ fɔː maɪ ˈbɜːθdeɪ.",
+        "Meaning": "Chồng tôi vừa mua cho tôi một chiếc nhẫn nhân ngày sinh nhật của tôi."
+    },
+    {
+        "Sents": "It will be debated in the congress.",
+        "ipaSents": "ɪt wɪl biː dɪˈbeɪtɪd ɪn ðə ˈkɒŋgrɛs.",
+        "Meaning": "Nó sẽ được tranh luận trong đại hội."
+    },
+    {
+        "Sents": "She is our floor manager.",
+        "ipaSents": "ʃiː ɪz ˈaʊə flɔː ˈmænɪʤə.",
+        "Meaning": "Cô ấy là quản lý tầng của chúng tôi."
+    },
+    {
+        "Sents": "I handled their election campaign.",
+        "ipaSents": "aɪ ˈhændld ðeər ɪˈlɛkʃən kæmˈpeɪn.",
+        "Meaning": "Tôi đã xử lý chiến dịch tranh cử của họ."
+    },
+    {
+        "Sents": "She had nothing material to report.",
+        "ipaSents": "ʃiː hæd ˈnʌθɪŋ məˈtɪərɪəl tuː rɪˈpɔːt.",
+        "Meaning": "Cô không có tài liệu gì để báo cáo."
+    },
+    {
+        "Sents": "The population of the nearest big city was growing.",
+        "ipaSents": "ðə ˌpɒpjʊˈleɪʃən ɒv ðə ˈnɪərɪst bɪg ˈsɪti wɒz ˈgrəʊɪŋ.",
+        "Meaning": "Dân số của thành phố lớn gần nhất đang tăng lên."
+    },
+    {
+        "Sents": "I wish you well.",
+        "ipaSents": "aɪ wɪʃ juː wɛl.",
+        "Meaning": "Tôi cầu chúc bạn khỏe mạnh."
+    },
+    {
+        "Sents": "I am going to call the bank.",
+        "ipaSents": "aɪ æm ˈgəʊɪŋ tuː kɔːl ðə bæŋk.",
+        "Meaning": "Tôi sẽ gọi cho ngân hàng."
+    },
+    {
+        "Sents": "The economy is booming.",
+        "ipaSents": "ði i(ː)ˈkɒnəmi ɪz ˈbuːmɪŋ.",
+        "Meaning": "Nền kinh tế đang phát triển vượt bậc."
+    },
+    {
+        "Sents": "She needs medical assistance.",
+        "ipaSents": "ʃiː niːdz ˈmɛdɪkəl əˈsɪstəns.",
+        "Meaning": "Cô ấy cần hỗ trợ y tế."
+    },
+    {
+        "Sents": "I’ll take her to the nearest hospital.",
+        "ipaSents": "aɪl teɪk hɜː tuː ðə ˈnɪərɪst ˈhɒspɪtl.",
+        "Meaning": "Tôi sẽ đưa cô ấy đến bệnh viện gần nhất."
+    },
+    {
+        "Sents": "I saw you in church last Sunday.",
+        "ipaSents": "aɪ sɔː juː ɪn ʧɜːʧ lɑːst ˈsʌndeɪ.",
+        "Meaning": "Tôi đã nhìn thấy bạn trong nhà thờ vào Chủ nhật tuần trước."
+    },
+    {
+        "Sents": "Please close the door.",
+        "ipaSents": "pliːz kləʊs ðə dɔː.",
+        "Meaning": "Hãy đóng cửa lại."
+    },
+    {
+        "Sents": "There are a thousand reasons to learn English!",
+        "ipaSents": "ðeər ɑːr ə ˈθaʊzənd ˈriːznz tuː lɜːn ˈɪŋglɪʃ!",
+        "Meaning": "Có hàng ngàn lý do để học tiếng Anh!"
+    },
+    {
+        "Sents": "Taking a risk can be rewarding.",
+        "ipaSents": "ˈteɪkɪŋ ə rɪsk kæn biː rɪˈwɔːdɪŋ.",
+        "Meaning": "Chấp nhận rủi ro có thể được thưởng."
+    },
+    {
+        "Sents": "What is your current address?",
+        "ipaSents": "wɒt ɪz jɔː ˈkʌrənt əˈdrɛs?",
+        "Meaning": "Địa chỉ hiện tại của bạn là gì?"
+    },
+    {
+        "Sents": "Make sure your smoke alarm works in case of fire.",
+        "ipaSents": "meɪk ʃʊə jɔː sməʊk əˈlɑːm wɜːks ɪn keɪs ɒv ˈfaɪə.",
+        "Meaning": "Đảm bảo rằng thiết bị báo động khói của bạn hoạt động trong trường hợp hỏa hoạn."
+    },
+    {
+        "Sents": "The future is full of hope.",
+        "ipaSents": "ðə ˈfjuːʧər ɪz fʊl ɒv həʊp.",
+        "Meaning": "Tương lai đầy hy vọng."
+    },
+    {
+        "Sents": "That is the wrong answer.",
+        "ipaSents": "ðæt ɪz ðə rɒŋ ˈɑːnsə.",
+        "Meaning": "Đó là câu trả lời sai."
+    },
+    {
+        "Sents": "We need to involve the police.",
+        "ipaSents": "wiː niːd tuː ɪnˈvɒlv ðə pəˈliːs.",
+        "Meaning": "Chúng ta cần có sự tham gia của cảnh sát."
+    },
+    {
+        "Sents": "What is your defense or reason you did this?",
+        "ipaSents": "wɒt ɪz jɔː dɪˈfɛns ɔː ˈriːzn juː dɪd ðɪs?",
+        "Meaning": "Biện hộ của bạn là gì hoặc lý do bạn làm điều này là gì?"
+    },
+    {
+        "Sents": "Does anyone know the answer?",
+        "ipaSents": "dʌz ˈɛnɪwʌn nəʊ ði ˈɑːnsə?",
+        "Meaning": "Có ai biết câu trả lời không?"
+    },
+    {
+        "Sents": "Let’s increase your test score.",
+        "ipaSents": "lɛts ˈɪnkriːs jɔː tɛst skɔː.",
+        "Meaning": "Hãy tăng điểm bài kiểm tra của bạn."
+    },
+    {
+        "Sents": "Some apartment buildings have security.",
+        "ipaSents": "sʌm əˈpɑːtmənt ˈbɪldɪŋz hæv sɪˈkjʊərɪti.",
+        "Meaning": "Một số khu chung cư có bảo vệ."
+    },
+    {
+        "Sents": "I need to go to the bank to withdraw some money.",
+        "ipaSents": "aɪ niːd tuː gəʊ tuː ðə bæŋk tuː wɪðˈdrɔː sʌm ˈmʌni.",
+        "Meaning": "Tôi cần đến ngân hàng để rút một số tiền."
+    },
+    {
+        "Sents": "I can clean up by myself.",
+        "ipaSents": "aɪ kæn kliːn ʌp baɪ maɪˈsɛlf.",
+        "Meaning": "Tôi có thể tự dọn dẹp."
+    },
+    {
+        "Sents": "I can certainly help clean up.",
+        "ipaSents": "aɪ kæn ˈsɜːtnli hɛlp kliːn ʌp.",
+        "Meaning": "Tôi chắc chắn có thể giúp dọn dẹp."
+    },
+    {
+        "Sents": "If you drive west, you will arrive in California.",
+        "ipaSents": "ɪf juː draɪv wɛst, juː wɪl əˈraɪv ɪn ˌkæləˈfɔːniə.",
+        "Meaning": "Nếu bạn lái xe về phía Tây, bạn sẽ đến California."
+    },
+    {
+        "Sents": "My favorite sport is soccer.",
+        "ipaSents": "maɪ ˈfeɪvərɪt spɔːt ɪz ˈsɒkə.",
+        "Meaning": "Môn thể thao yêu thích của tôi là bóng đá."
+    },
+    {
+        "Sents": "Can you see the board?",
+        "ipaSents": "kæn juː siː ðə bɔːd?",
+        "Meaning": "Bạn có thể nhìn thấy bảng?"
+    },
+    {
+        "Sents": "Seek and you will find.",
+        "ipaSents": "siːk ænd juː wɪl faɪnd.",
+        "Meaning": "Tìm kiếm và bạn sẽ tìm thấy."
+    },
+    {
+        "Sents": "Lobster is $20 per pound.",
+        "ipaSents": "ˈlɒbstər ɪz $20 pɜː paʊnd.",
+        "Meaning": "Tôm hùm là $ 20 một pound."
+    },
+    {
+        "Sents": "My favorite subject is English!",
+        "ipaSents": "maɪ ˈfeɪvərɪt ˈsʌbʤɪkt ɪz ˈɪŋglɪʃ!",
+        "Meaning": "Môn tôi yêu thích là tiếng Anh!"
+    },
+    {
+        "Sents": "Where can I find a police officer?",
+        "ipaSents": "weə kæn aɪ faɪnd ə pəˈliːs ˈɒfɪsə?",
+        "Meaning": "Tôi có thể tìm cảnh sát ở đâu?"
+    },
+    {
+        "Sents": "This is a private party.",
+        "ipaSents": "ðɪs ɪz ə ˈpraɪvɪt ˈpɑːti.",
+        "Meaning": "Đây là một bữa tiệc riêng tư."
+    },
+    {
+        "Sents": "Let’s take a 15-minute rest.",
+        "ipaSents": "lɛts teɪk eɪ 15-ˈmɪnɪt rɛst.",
+        "Meaning": "Hãy nghỉ ngơi trong 15 phút."
+    },
+    {
+        "Sents": "This dog’s behavior is excellent.",
+        "ipaSents": "ðɪs dɒgz bɪˈheɪvjər ɪz ˈɛksələnt.",
+        "Meaning": "Hành vi của con chó này là tuyệt vời."
+    },
+    {
+        "Sents": "A used car can be a good deal.",
+        "ipaSents": "ə juːzd kɑː kæn biː ə gʊd diːl.",
+        "Meaning": "Một chiếc xe đã qua sử dụng có thể là một việc tốt."
+    },
+    {
+        "Sents": "Your performance can be affected by your sleep.",
+        "ipaSents": "jɔː pəˈfɔːməns kæn biː əˈfɛktɪd baɪ jɔː sliːp.",
+        "Meaning": "Hiệu suất của bạn có thể bị ảnh hưởng bởi giấc ngủ của bạn."
+    },
+    {
+        "Sents": "I don’t want to fight with you.",
+        "ipaSents": "aɪ dəʊnt wɒnt tuː faɪt wɪð juː.",
+        "Meaning": "Tôi không muốn chiến đấu với bạn."
+    },
+    {
+        "Sents": "Throw me the ball!",
+        "ipaSents": "θrəʊ miː ðə bɔːl!",
+        "Meaning": "Ném bóng cho tôi!"
+    },
+    {
+        "Sents": "You are a top student.",
+        "ipaSents": "juː ɑːr ə tɒp ˈstjuːdənt.",
+        "Meaning": "Bạn là một sinh viên hàng đầu."
+    },
+    {
+        "Sents": "Let’s finish reading this quickly.",
+        "ipaSents": "lɛts ˈfɪnɪʃ ˈriːdɪŋ ðɪs ˈkwɪkli.",
+        "Meaning": "Hãy nhanh chóng kết thúc việc đọc này."
+    },
+    {
+        "Sents": "In the past, my English was not as good as it is today.",
+        "ipaSents": "ɪn ðə pɑːst, maɪ ˈɪŋglɪʃ wɒz nɒt æz gʊd æz ɪt ɪz təˈdeɪ.",
+        "Meaning": "Trước đây, tiếng Anh của tôi không được như ngày nay."
+    },
+    {
+        "Sents": "My goal is to speak English fluently.",
+        "ipaSents": "maɪ gəʊl ɪz tuː spiːk ˈɪŋglɪʃ ˈflu(ː)əntli.",
+        "Meaning": "Mục tiêu của tôi là nói tiếng Anh trôi chảy."
+    },
+    {
+        "Sents": "My second goal is to increase my confidence.",
+        "ipaSents": "maɪ ˈsɛkənd gəʊl ɪz tuː ˈɪnkriːs maɪ ˈkɒnfɪdəns.",
+        "Meaning": "Mục tiêu thứ hai của tôi là tăng cường sự tự tin của mình."
+    },
+    {
+        "Sents": "I go to bed around 10 pm.",
+        "ipaSents": "aɪ gəʊ tuː bɛd əˈraʊnd 10 pm.",
+        "Meaning": "Tôi đi ngủ khoảng 10 giờ tối."
+    },
+    {
+        "Sents": "I would like to order a book.",
+        "ipaSents": "aɪ wʊd laɪk tuː ˈɔːdər ə bʊk.",
+        "Meaning": "Tôi muốn đặt một cuốn sách."
+    },
+    {
+        "Sents": "The author of this series is world-famous.",
+        "ipaSents": "ði ˈɔːθər ɒv ðɪs ˈsɪəriːz ɪz wɜːld-ˈfeɪməs.",
+        "Meaning": "Tác giả của bộ truyện này nổi tiếng thế giới."
+    },
+    {
+        "Sents": "I need to fill (up) my gas tank.",
+        "ipaSents": "aɪ niːd tuː fɪl (ʌp) maɪ gæs tæŋk.",
+        "Meaning": "Tôi cần đổ (đầy) bình xăng của mình."
+    },
+    {
+        "Sents": "I represent my family.",
+        "ipaSents": "aɪ ˌrɛprɪˈzɛnt maɪ ˈfæmɪli.",
+        "Meaning": "Tôi đại diện cho gia đình tôi."
+    },
+    {
+        "Sents": "Turn off your phone and the tv and focus on your studies!",
+        "ipaSents": "tɜːn ɒf jɔː fəʊn ænd ðə ˌtiːˈviː ænd ˈfəʊkəs ɒn jɔː ˈstʌdiz!",
+        "Meaning": "Tắt điện thoại và TV và tập trung vào việc học của bạn!"
+    },
+    {
+        "Sents": "It’s great having foreign friends.",
+        "ipaSents": "ɪts greɪt ˈhævɪŋ ˈfɒrɪn frɛndz.",
+        "Meaning": "Thật tuyệt khi có những người bạn nước ngoài."
+    },
+    {
+        "Sents": "Please don’t drop the eggs!",
+        "ipaSents": "pliːz dəʊnt drɒp ði ɛgz!",
+        "Meaning": "Xin đừng làm rơi trứng!"
+    },
+    {
+        "Sents": "Let’s make a plan.",
+        "ipaSents": "lɛts meɪk ə plæn.",
+        "Meaning": "Hãy lập kế hoạch."
+    },
+    {
+        "Sents": "The hospital needs people to give blood.",
+        "ipaSents": "ðə ˈhɒspɪtl niːdz ˈpiːpl tuː gɪv blʌd.",
+        "Meaning": "Bệnh viện cần người cho máu."
+    },
+    {
+        "Sents": "Once upon a time, a princess lived in a castle.",
+        "ipaSents": "wʌns əˈpɒn ə taɪm, ə prɪnˈsɛs lɪvd ɪn ə ˈkɑːsl.",
+        "Meaning": "Ngày xưa, một công chúa sống trong một lâu đài."
+    },
+    {
+        "Sents": "Let’s contract an agency to help with marketing.",
+        "ipaSents": "lɛts ˈkɒntrækt ən ˈeɪʤənsi tuː hɛlp wɪð ˈmɑːkɪtɪŋ.",
+        "Meaning": "Hãy ký hợp đồng với một đại lý để giúp tiếp thị."
+    },
+    {
+        "Sents": "The door says ‘push,’ not ‘pull.'",
+        "ipaSents": "ðə dɔː sɛz pʊʃ,’ nɒt pʊl.'",
+        "Meaning": "Cánh cửa nói \"đẩy\", không phải \"kéo\"."
+    },
+    {
+        "Sents": "I love walking in nature!",
+        "ipaSents": "aɪ lʌv ˈwɔːkɪŋ ɪn ˈneɪʧə!",
+        "Meaning": "Tôi thích đi dạo trong thiên nhiên!"
+    },
+    {
+        "Sents": "My favorite color is blue.",
+        "ipaSents": "maɪ ˈfeɪvərɪt ˈkʌlər ɪz bluː.",
+        "Meaning": "Màu sắc yêu thích của tôi là màu xanh."
+    },
+    {
+        "Sents": "‘No’ is one of the shortest complete sentences.",
+        "ipaSents": "nəʊ ɪz wʌn ɒv ðə ˈʃɔːtɪst kəmˈpliːt ˈsɛntənsɪz.",
+        "Meaning": "‘No’ là một trong những câu hoàn chỉnh ngắn nhất."
+    },
+    {
+        "Sents": "I cleaned the bathroom most recently, so I think it’s your turn this time.",
+        "ipaSents": "aɪ kliːnd ðə ˈbɑːθru(ː)m məʊst ˈriːsntli, səʊ aɪ θɪŋk ɪts jɔː tɜːn ðɪs taɪm.",
+        "Meaning": "Tôi đã dọn dẹp phòng tắm gần đây nhất, vì vậy tôi nghĩ lần này đến lượt bạn."
+    },
+    {
+        "Sents": "I’m going to the store to buy some bread.",
+        "ipaSents": "aɪm ˈgəʊɪŋ tuː ðə stɔː tuː baɪ sʌm brɛd.",
+        "Meaning": "Tôi đang đi đến cửa hàng để mua một ít bánh mì."
+    },
+    {
+        "Sents": "Reduce, reuse, and recycle are the ways to help the environment.",
+        "ipaSents": "rɪˈdjuːs, riːˈjuːz, ænd ˌriːˈsaɪkl ɑː ðə weɪz tuː hɛlp ði ɪnˈvaɪərənmənt.",
+        "Meaning": "Giảm thiểu, tái sử dụng và tái chế là những cách để giúp ích cho môi trường."
+    },
+    {
+        "Sents": "I like the sound of wind chimes.",
+        "ipaSents": "aɪ laɪk ðə saʊnd ɒv wɪnd ʧaɪmz.",
+        "Meaning": "Tôi thích âm thanh của chuông gió."
+    },
+    {
+        "Sents": "Please take notes during the lesson.",
+        "ipaSents": "pliːz teɪk nəʊts ˈdjʊərɪŋ ðə ˈlɛsn.",
+        "Meaning": "Hãy ghi chép lại trong buổi học."
+    },
+    {
+        "Sents": "I feel fine.",
+        "ipaSents": "aɪ fiːl faɪn.",
+        "Meaning": "Tôi cảm thấy ổn."
+    },
+    {
+        "Sents": "Before the movie, let’s buy popcorn!",
+        "ipaSents": "bɪˈfɔː ðə ˈmuːvi, lɛts baɪ ˈpɒpkɔːn!",
+        "Meaning": "Trước khi xem phim, hãy mua bắp rang bơ!"
+    },
+    {
+        "Sents": "Near, far, wherever you are, I do believe that the heart goes on.",
+        "ipaSents": "nɪə, fɑː, weərˈɛvə juː ɑː, aɪ duː bɪˈliːv ðæt ðə hɑːt gəʊz ɒn.",
+        "Meaning": "Gần, xa, dù bạn ở đâu, tôi tin rằng trái tim luôn hướng về."
+    },
+    {
+        "Sents": "The environmental movement is an international movement.",
+        "ipaSents": "ði ɪnˌvaɪərənˈmɛntl ˈmuːvmənt ɪz ən ˌɪntə(ː)ˈnæʃənl ˈmuːvmənt.",
+        "Meaning": "Phong trào môi trường là một phong trào quốc tế."
+    },
+    {
+        "Sents": "Please turn to page 62.",
+        "ipaSents": "pliːz tɜːn tuː peɪʤ 62.",
+        "Meaning": "Vui lòng chuyển sang trang 62."
+    },
+    {
+        "Sents": "You can enter the building on the left.",
+        "ipaSents": "juː kæn ˈɛntə ðə ˈbɪldɪŋ ɒn ðə lɛft.",
+        "Meaning": "Bạn có thể vào tòa nhà bên trái."
+    },
+    {
+        "Sents": "Let me share my idea.",
+        "ipaSents": "lɛt miː ʃeə maɪ aɪˈdɪə.",
+        "Meaning": "Hãy để tôi chia sẻ ý tưởng của tôi."
+    },
+    {
+        "Sents": "Ice cream has more calories than water.",
+        "ipaSents": "aɪs kriːm hæz mɔː ˈkæləriz ðæn ˈwɔːtə.",
+        "Meaning": "Kem có nhiều calo hơn nước."
+    },
+    {
+        "Sents": "Most people can find something in common with each other.",
+        "ipaSents": "məʊst ˈpiːpl kæn faɪnd ˈsʌmθɪŋ ɪn ˈkɒmən wɪð iːʧ ˈʌðə.",
+        "Meaning": "Hầu hết mọi người đều có thể tìm thấy điểm chung với nhau."
+    },
+    {
+        "Sents": "We had a poor harvest this year because it was so dry.",
+        "ipaSents": "wiː hæd ə pʊə ˈhɑːvɪst ðɪs jɪə bɪˈkɒz ɪt wɒz səʊ draɪ.",
+        "Meaning": "Chúng tôi đã có một vụ thu hoạch kém năm nay vì nó quá khô hạn."
+    },
+    {
+        "Sents": "If this pen doesn’t work, try the other one.",
+        "ipaSents": "ɪf ðɪs pɛn dʌznt wɜːk, traɪ ði ˈʌðə wʌn.",
+        "Meaning": "Nếu bút này không hoạt động, hãy thử bút khác."
+    },
+    {
+        "Sents": "This cleaner is natural, there aren’t any chemicals in it.",
+        "ipaSents": "ðɪs ˈkliːnər ɪz ˈnæʧrəl, ðeər ɑːnt ˈɛni ˈkɛmɪkəlz ɪn ɪt.",
+        "Meaning": "Chất tẩy rửa này là tự nhiên, không có bất kỳ hóa chất nào trong đó."
+    },
+    {
+        "Sents": "We watched the car race on tv.",
+        "ipaSents": "wiː wɒʧt ðə kɑː reɪs ɒn ˌtiːˈviː.",
+        "Meaning": "Chúng tôi đã xem cuộc đua ô tô trên TV."
+    },
+    {
+        "Sents": "Thank you for your concern, but I'm fine.",
+        "ipaSents": "θæŋk juː fɔː jɔː kənˈsɜːn, bʌt aɪm faɪn.",
+        "Meaning": "Cảm ơn vì sự quan tâm của bạn, nhưng tôi không sao."
+    },
+    {
+        "Sents": "What is your favorite tv series?",
+        "ipaSents": "wɒt ɪz jɔː ˈfeɪvərɪt ˌtiːˈviː ˈsɪəriːz?",
+        "Meaning": "Các chương trình TV mà bạn yêu thích?"
+    },
+    {
+        "Sents": "His job earns a significant amount of money.",
+        "ipaSents": "hɪz ʤɒb ɜːnz ə sɪgˈnɪfɪkənt əˈmaʊnt ɒv ˈmʌni.",
+        "Meaning": "Công việc của anh ấy kiếm được một số tiền đáng kể."
+    },
+    {
+        "Sents": "These earrings don’t match, but they are similar.",
+        "ipaSents": "ðiːz ˈɪəˌrɪŋz dəʊnt mæʧ, bʌt ðeɪ ɑː ˈsɪmɪlə.",
+        "Meaning": "Đôi bông tai này không giống nhau, nhưng chúng tương tự nhau."
+    },
+    {
+        "Sents": "Don’t touch the stove, it’s still hot.",
+        "ipaSents": "dəʊnt tʌʧ ðə stəʊv, ɪts stɪl hɒt.",
+        "Meaning": "Đừng chạm vào bếp, bếp vẫn còn nóng."
+    },
+    {
+        "Sents": "Learning a new language is fun.",
+        "ipaSents": "ˈlɜːnɪŋ ə njuː ˈlæŋgwɪʤ ɪz fʌn.",
+        "Meaning": "Học một ngôn ngữ mới rất thú vị."
+    },
+    {
+        "Sents": "Put a flower in each vase.",
+        "ipaSents": "pʊt ə ˈflaʊər ɪn iːʧ vɑːz.",
+        "Meaning": "Cắm một bông hoa vào mỗi bình."
+    },
+    {
+        "Sents": "I usually shop at the corner store.",
+        "ipaSents": "aɪ ˈjuːʒʊəli ʃɒp æt ðə ˈkɔːnə stɔː.",
+        "Meaning": "Tôi thường mua sắm ở cửa hàng góc."
+    },
+    {
+        "Sents": "I didn’t expect his response to come so soon.",
+        "ipaSents": "aɪ dɪdnt ɪksˈpɛkt hɪz rɪsˈpɒns tuː kʌm səʊ suːn.",
+        "Meaning": "Tôi không mong đợi phản hồi của anh ấy đến sớm như vậy."
+    },
+    {
+        "Sents": "My phone is dead, let me charge it.",
+        "ipaSents": "maɪ fəʊn ɪz dɛd, lɛt miː ʧɑːʤ ɪt.",
+        "Meaning": "Điện thoại của tôi đã chết, để tôi sạc nó."
+    },
+    {
+        "Sents": "The sun will rise at 7:00 a.m.",
+        "ipaSents": "ðə sʌn wɪl raɪz æt 7:00 eɪ.ɛm.",
+        "Meaning": "Mặt trời sẽ mọc lúc 7:00 sáng."
+    },
+    {
+        "Sents": "What kind of animal is that?",
+        "ipaSents": "wɒt kaɪnd ɒv ˈænɪməl ɪz ðæt?",
+        "Meaning": "Đó là loại động vật gì?"
+    },
+    {
+        "Sents": "Heredity is a factor in your overall health.",
+        "ipaSents": "hɪˈrɛdɪti ɪz ə ˈfæktər ɪn jɔːr ˈəʊvərɔːl hɛlθ.",
+        "Meaning": "Di truyền là một yếu tố ảnh hưởng đến sức khỏe tổng thể của bạn."
+    },
+    {
+        "Sents": "I’ve lived in this city for over a decade.",
+        "ipaSents": "aɪv lɪvd ɪn ðɪs ˈsɪti fɔːr ˈəʊvər ə ˈdɛkeɪd.",
+        "Meaning": "Tôi đã sống ở thành phố này hơn một thập kỷ."
+    },
+    {
+        "Sents": "Did you read that newspaper article?",
+        "ipaSents": "dɪd juː riːd ðæt ˈnjuːzˌpeɪpər ˈɑːtɪkl?",
+        "Meaning": "Bạn đã đọc bài báo đó?"
+    },
+    {
+        "Sents": "He wants to shoot arrows at the target.",
+        "ipaSents": "hiː wɒnts tuː ʃuːt ˈærəʊz æt ðə ˈtɑːgɪt.",
+        "Meaning": "Anh ta muốn bắn tên vào mục tiêu."
+    },
+    {
+        "Sents": "Drive east for three miles.",
+        "ipaSents": "draɪv iːst fɔː θriː maɪlz.",
+        "Meaning": "Lái xe về phía đông ba dặm."
+    },
+    {
+        "Sents": "I save all my cans for recycling.",
+        "ipaSents": "aɪ seɪv ɔːl maɪ kænz fɔː ˌriːˈsaɪklɪŋ.",
+        "Meaning": "Tôi tiết kiệm tất cả các lon của tôi để tái chế."
+    },
+    {
+        "Sents": "There are seven slices of pie left.",
+        "ipaSents": "ðeər ɑː ˈsɛvn ˈslaɪsɪz ɒv paɪ lɛft.",
+        "Meaning": "Còn lại bảy lát bánh."
+    },
+    {
+        "Sents": "Taylor swift is a recording artist.",
+        "ipaSents": "ˈteɪlə swɪft ɪz ə rɪˈkɔːdɪŋ ˈɑːtɪst.",
+        "Meaning": "Taylor swift là một nghệ sĩ thu âm."
+    },
+    {
+        "Sents": "I wish that mosquito would go away.",
+        "ipaSents": "aɪ wɪʃ ðæt məsˈkiːtəʊ wʊd gəʊ əˈweɪ.",
+        "Meaning": "Tôi ước rằng con muỗi đó sẽ biến mất."
+    },
+    {
+        "Sents": "He painted a colorful street scene.",
+        "ipaSents": "hiː ˈpeɪntɪd ə ˈkʌləf(ə)l striːt siːn.",
+        "Meaning": "Anh ấy đã vẽ nên một khung cảnh đường phố đầy màu sắc."
+    },
+    {
+        "Sents": "That shop has a good stock of postcards.",
+        "ipaSents": "ðæt ʃɒp hæz ə gʊd stɒk ɒv ˈpəʊstkɑːdz.",
+        "Meaning": "Cửa hàng đó có một kho bưu thiếp tốt."
+    },
+    {
+        "Sents": "Retail sale is a good career for some people.",
+        "ipaSents": "ˈriːteɪl seɪl ɪz ə gʊd kəˈrɪə fɔː sʌm ˈpiːpl.",
+        "Meaning": "Bán lẻ là một nghề nghiệp tốt đối với một số người."
+    },
+    {
+        "Sents": "Despite the rain, we will still have the picnic.",
+        "ipaSents": "dɪsˈpaɪt ðə reɪn, wiː wɪl stɪl hæv ðə ˈpɪknɪk.",
+        "Meaning": "Mặc dù trời mưa, chúng tôi vẫn sẽ có buổi dã ngoại."
+    },
+    {
+        "Sents": "There is good shopping in central London.",
+        "ipaSents": "ðeər ɪz gʊd ˈʃɒpɪŋ ɪn ˈsɛntrəl ˈlʌndən.",
+        "Meaning": "Có khu mua sắm tốt ở trung tâm London."
+    },
+    {
+        "Sents": "That recipe takes eight cups of flour.",
+        "ipaSents": "ðæt ˈrɛsɪpi teɪks eɪt kʌps ɒv ˈflaʊə.",
+        "Meaning": "Công thức đó cần tám cốc bột."
+    },
+    {
+        "Sents": "We haven’t had any problems thus far.",
+        "ipaSents": "wiː hævnt hæd ˈɛni ˈprɒbləmz ðʌs fɑː.",
+        "Meaning": "Cho đến nay, chúng tôi chưa gặp bất kỳ vấn đề nào."
+    },
+    {
+        "Sents": "I will propose a treatment plan for your injury.",
+        "ipaSents": "aɪ wɪl prəˈpəʊz ə ˈtriːtmənt plæn fɔː jɔːr ˈɪnʤəri.",
+        "Meaning": "Tôi sẽ đề xuất một kế hoạch điều trị cho vết thương của bạn."
+    },
+    {
+        "Sents": "The town is just beyond those mountains.",
+        "ipaSents": "ðə taʊn ɪz ʤʌst bɪˈjɒnd ðəʊz ˈmaʊntɪnz.",
+        "Meaning": "Thị trấn nằm ngay bên ngoài những ngọn núi đó."
+    },
+    {
+        "Sents": "Kittens make me happy.",
+        "ipaSents": "ˈkɪtnz meɪk miː ˈhæpi.",
+        "Meaning": "Mèo con làm tôi hạnh phúc."
+    },
+    {
+        "Sents": "Use exactly one teaspoon of salt in that recipe.",
+        "ipaSents": "juːz ɪgˈzæktli wʌn ˈtiːˌspuːn ɒv sɒlt ɪn ðæt ˈrɛsɪpi.",
+        "Meaning": "Sử dụng chính xác một thìa cà phê muối trong công thức đó."
+    },
+    {
+        "Sents": "A coat will protect you from the cold weather.",
+        "ipaSents": "ə kəʊt wɪl prəˈtɛkt juː frɒm ðə kəʊld ˈwɛðə.",
+        "Meaning": "Một chiếc áo khoác sẽ bảo vệ bạn khỏi thời tiết lạnh giá."
+    },
+    {
+        "Sents": "The cat slowly approached the bird.",
+        "ipaSents": "ðə kæt ˈsləʊli əˈprəʊʧt ðə bɜːd.",
+        "Meaning": "Con mèo từ từ đến gần con chim."
+    },
+    {
+        "Sents": "Teach your children not to lie.",
+        "ipaSents": "tiːʧ jɔː ˈʧɪldrən nɒt tuː laɪ.",
+        "Meaning": "Dạy con bạn không nói dối."
+    },
+    {
+        "Sents": "What size is that shirt?",
+        "ipaSents": "wɒt saɪz ɪz ðæt ʃɜːt?",
+        "Meaning": "Cái áo đó cỡ bao nhiêu?"
+    },
+    {
+        "Sents": "Do you think a dog is a good pet?",
+        "ipaSents": "duː juː θɪŋk ə dɒg ɪz ə gʊd pɛt?",
+        "Meaning": "Bạn có nghĩ rằng một con chó là một con vật cưng tốt?"
+    },
+    {
+        "Sents": "I have a savings fund for college.",
+        "ipaSents": "aɪ hæv ə ˈseɪvɪŋz fʌnd fɔː ˈkɒlɪʤ.",
+        "Meaning": "Tôi có một quỹ tiết kiệm cho việc học đại học."
+    },
+    {
+        "Sents": "She is so serious, she never laughs.",
+        "ipaSents": "ʃiː ɪz səʊ ˈsɪərɪəs, ʃiː ˈnɛvə lɑːfs.",
+        "Meaning": "Cô ấy rất nghiêm túc, cô ấy không bao giờ cười."
+    },
+    {
+        "Sents": "Strange things occur in that empty house.",
+        "ipaSents": "streɪnʤ θɪŋz əˈkɜːr ɪn ðæt ˈɛmpti haʊs.",
+        "Meaning": "Những điều kỳ lạ xảy ra trong ngôi nhà trống rỗng đó."
+    },
+    {
+        "Sents": "That issue has been discussed in the media.",
+        "ipaSents": "ðæt ˈɪʃuː hæz biːn dɪsˈkʌst ɪn ðə ˈmiːdiə.",
+        "Meaning": "Vấn đề đó đã được thảo luận trên các phương tiện truyền thông."
+    },
+    {
+        "Sents": "Are you ready to leave for work?",
+        "ipaSents": "ɑː juː ˈrɛdi tuː liːv fɔː wɜːk?",
+        "Meaning": "Bạn đã sẵn sàng đi làm chưa?"
+    },
+    {
+        "Sents": "That store needs a bigger sign.",
+        "ipaSents": "ðæt stɔː niːdz ə ˈbɪgə saɪn.",
+        "Meaning": "Cửa hàng đó cần một bảng hiệu lớn hơn."
+    },
+    {
+        "Sents": "I’ll have to give it some thought.",
+        "ipaSents": "aɪl hæv tuː gɪv ɪt sʌm θɔːt.",
+        "Meaning": "Tôi sẽ phải suy nghĩ về nó."
+    },
+    {
+        "Sents": "I made a list of things to do.",
+        "ipaSents": "aɪ meɪd ə lɪst ɒv θɪŋz tuː duː.",
+        "Meaning": "Tôi đã lập một danh sách những việc cần làm."
+    },
+    {
+        "Sents": "You can buy an individual or group membership.",
+        "ipaSents": "juː kæn baɪ ən ˌɪndɪˈvɪdjʊəl ɔː gruːp ˈmɛmbəʃɪp.",
+        "Meaning": "Bạn có thể mua một thành viên cá nhân hoặc nhóm."
+    },
+    {
+        "Sents": "The appliance comes with simple instructions.",
+        "ipaSents": "ði əˈplaɪəns kʌmz wɪð ˈsɪmpl ɪnˈstrʌkʃənz.",
+        "Meaning": "Thiết bị đi kèm với các hướng dẫn đơn giản."
+    },
+    {
+        "Sents": "I paid a little more for quality shoes.",
+        "ipaSents": "aɪ peɪd ə ˈlɪtl mɔː fɔː ˈkwɒlɪti ʃuːz.",
+        "Meaning": "Tôi đã trả nhiều hơn một chút cho những đôi giày chất lượng."
+    },
+    {
+        "Sents": "There is no pressure to finish right now.",
+        "ipaSents": "ðeər ɪz nəʊ ˈprɛʃə tuː ˈfɪnɪʃ raɪt naʊ.",
+        "Meaning": "Không có áp lực để hoàn thành ngay bây giờ."
+    },
+    {
+        "Sents": "Will you accept my credit card?",
+        "ipaSents": "wɪl juː əkˈsɛpt maɪ ˈkrɛdɪt kɑːd?",
+        "Meaning": "Bạn sẽ chấp nhận thẻ tín dụng của tôi chứ?"
+    },
+    {
+        "Sents": "Give me your answer by noon tomorrow.",
+        "ipaSents": "gɪv miː jɔːr ˈɑːnsə baɪ nuːn təˈmɒrəʊ.",
+        "Meaning": "Hãy cho tôi câu trả lời của bạn vào trưa mai."
+    },
+    {
+        "Sents": "That test was very hard.",
+        "ipaSents": "ðæt tɛst wɒz ˈvɛri hɑːd.",
+        "Meaning": "Bài kiểm tra đó rất khó."
+    },
+    {
+        "Sents": "The library has many online resources.",
+        "ipaSents": "ðə ˈlaɪbrəri hæz ˈmɛni ˈɒnˌlaɪn rɪˈsɔːsɪz.",
+        "Meaning": "Thư viện có nhiều tài nguyên trực tuyến."
+    },
+    {
+        "Sents": "I can’t identify that plant.",
+        "ipaSents": "aɪ kɑːnt aɪˈdɛntɪfaɪ ðæt plɑːnt.",
+        "Meaning": "Tôi không thể xác định được loại cây đó."
+    },
+    {
+        "Sents": "The door is on your left as you approach.",
+        "ipaSents": "ðə dɔːr ɪz ɒn jɔː lɛft æz juː əˈprəʊʧ.",
+        "Meaning": "Cánh cửa ở bên trái khi bạn đến gần."
+    },
+    {
+        "Sents": "We’ll have a staff meeting after lunch.",
+        "ipaSents": "wiːl hæv ə stɑːf ˈmiːtɪŋ ˈɑːftə lʌnʧ.",
+        "Meaning": "Chúng ta sẽ có một cuộc họp nhân viên sau bữa trưa."
+    },
+    {
+        "Sents": "Eye color is genetically determined.",
+        "ipaSents": "aɪ ˈkʌlər ɪz ʤɪˈnɛtɪk(ə)li dɪˈtɜːmɪnd.",
+        "Meaning": "Màu mắt được xác định về mặt di truyền."
+    },
+    {
+        "Sents": "I’ll prepare breakfast tomorrow.",
+        "ipaSents": "aɪl prɪˈpeə ˈbrɛkfəst təˈmɒrəʊ.",
+        "Meaning": "Tôi sẽ chuẩn bị bữa sáng vào ngày mai."
+    },
+    {
+        "Sents": "Face masks help prevent disease.",
+        "ipaSents": "feɪs mɑːsks hɛlp prɪˈvɛnt dɪˈziːz.",
+        "Meaning": "Mặt nạ giúp ngăn ngừa bệnh tật."
+    },
+    {
+        "Sents": "Choose whatever flavor you like the best.",
+        "ipaSents": "ʧuːz wɒtˈɛvə ˈfleɪvə juː laɪk ðə bɛst.",
+        "Meaning": "Chọn bất kỳ hương vị nào bạn thích nhất."
+    },
+    {
+        "Sents": "Failure is the back door to success.",
+        "ipaSents": "ˈfeɪljər ɪz ðə bæk dɔː tuː səkˈsɛs.",
+        "Meaning": "Thất bại là cửa sau của thành công."
+    },
+    {
+        "Sents": "It’s not a good idea to argue with your boss.",
+        "ipaSents": "ɪts nɒt ə gʊd aɪˈdɪə tuː ˈɑːgjuː wɪð jɔː bɒs.",
+        "Meaning": "Tranh luận với sếp của bạn không phải là một ý kiến ​​hay."
+    },
+    {
+        "Sents": "Would you like a cup of coffee?",
+        "ipaSents": "wʊd juː laɪk ə kʌp ɒv ˈkɒfi?",
+        "Meaning": "Bạn muốn có một tách cà phê?"
+    },
+    {
+        "Sents": "It’s not particularly hot outside, just warm.",
+        "ipaSents": "ɪts nɒt pəˈtɪkjʊləli hɒt ˌaʊtˈsaɪd, ʤʌst wɔːm.",
+        "Meaning": "Bên ngoài trời không quá nóng, chỉ ấm."
+    },
+    {
+        "Sents": "It takes a large amount of food to feed an elephant.",
+        "ipaSents": "ɪt teɪks ə lɑːʤ əˈmaʊnt ɒv fuːd tuː fiːd ən ˈɛlɪfənt.",
+        "Meaning": "Cần một lượng lớn thức ăn để nuôi một con voi."
+    },
+    {
+        "Sents": "He has the ability to explain things well.",
+        "ipaSents": "hiː hæz ði əˈbɪlɪti tuː ɪksˈpleɪn θɪŋz wɛl.",
+        "Meaning": "Anh ấy có khả năng giải thích mọi thứ tốt."
+    },
+    {
+        "Sents": "There are five people on staff here.",
+        "ipaSents": "ðeər ɑː faɪv ˈpiːpl ɒn stɑːf hɪə.",
+        "Meaning": "Có năm người trong nhân viên ở đây."
+    },
+    {
+        "Sents": "Do you recognize the person in this photo?",
+        "ipaSents": "duː juː ˈrɛkəgnaɪz ðə ˈpɜːsn ɪn ðɪs ˈfəʊtəʊ?",
+        "Meaning": "Bạn có nhận ra người trong bức ảnh này không?"
+    },
+    {
+        "Sents": "Her reply indicated that she understood.",
+        "ipaSents": "hɜː rɪˈplaɪ ˈɪndɪkeɪtɪd ðæt ʃiː ˌʌndəˈstʊd.",
+        "Meaning": "Câu trả lời của cô ấy cho thấy rằng cô ấy đã hiểu."
+    },
+    {
+        "Sents": "You can trust people of good character.",
+        "ipaSents": "juː kæn trʌst ˈpiːpl ɒv gʊd ˈkærɪktə.",
+        "Meaning": "Bạn có thể tin tưởng những người có đức tính tốt."
+    },
+    {
+        "Sents": "The company has seen strong growth this quarter.",
+        "ipaSents": "ðə ˈkʌmpəni hæz siːn strɒŋ grəʊθ ðɪs ˈkwɔːtə.",
+        "Meaning": "Công ty đã tăng trưởng mạnh mẽ trong quý này."
+    },
+    {
+        "Sents": "The farmer suffered heavy losses after the storm.",
+        "ipaSents": "ðə ˈfɑːmə ˈsʌfəd ˈhɛvi ˈlɒsɪz ˈɑːftə ðə stɔːm.",
+        "Meaning": "Người nông dân thiệt hại nặng nề sau bão."
+    },
+    {
+        "Sents": "Set the oven to 300 degrees.",
+        "ipaSents": "sɛt ði ˈʌvn tuː 300 dɪˈgriːz.",
+        "Meaning": "Đặt lò ở 300 độ."
+    },
+    {
+        "Sents": "I wonder if the bulls will win the game.",
+        "ipaSents": "aɪ ˈwʌndər ɪf ðə bʊlz wɪl wɪn ðə geɪm.",
+        "Meaning": "Tôi tự hỏi liệu những con bò đực sẽ giành chiến thắng trong trò chơi."
+    },
+    {
+        "Sents": "The army will attack at dawn.",
+        "ipaSents": "ði ˈɑːmi wɪl əˈtæk æt dɔːn.",
+        "Meaning": "Quân đội sẽ tấn công vào lúc bình minh."
+    },
+    {
+        "Sents": "She bought herself a new coat.",
+        "ipaSents": "ʃiː bɔːt hɜːˈsɛlf ə njuː kəʊt.",
+        "Meaning": "Cô đã mua cho mình một chiếc áo khoác mới."
+    },
+    {
+        "Sents": "What internet services are in your region?",
+        "ipaSents": "wɒt ˈɪntəˌnɛt ˈsɜːvɪsɪz ɑːr ɪn jɔː ˈriːʤən?",
+        "Meaning": "Những dịch vụ internet nào có trong khu vực của bạn?"
+    },
+    {
+        "Sents": "I don’t watch much television.",
+        "ipaSents": "aɪ dəʊnt wɒʧ mʌʧ ˈtɛlɪˌvɪʒən.",
+        "Meaning": "Tôi không xem tivi nhiều."
+    },
+    {
+        "Sents": "I packed my dishes in a strong box.",
+        "ipaSents": "aɪ pækt maɪ ˈdɪʃɪz ɪn ə strɒŋ bɒks.",
+        "Meaning": "Tôi đóng gói các món ăn của mình trong một chiếc hộp chắc chắn."
+    },
+    {
+        "Sents": "There is a good movie on tv tonight.",
+        "ipaSents": "ðeər ɪz ə gʊd ˈmuːvi ɒn ˌtiːˈviː təˈnaɪt.",
+        "Meaning": "Có một bộ phim hay trên tv tối nay."
+    },
+    {
+        "Sents": "The company will pay for your training.",
+        "ipaSents": "ðə ˈkʌmpəni wɪl peɪ fɔː jɔː ˈtreɪnɪŋ.",
+        "Meaning": "Công ty sẽ trả tiền cho việc đào tạo của bạn."
+    },
+    {
+        "Sents": "That is a pretty dress.",
+        "ipaSents": "ðæt ɪz ə ˈprɪti drɛs.",
+        "Meaning": "Đó là một chiếc váy đẹp."
+    },
+    {
+        "Sents": "The stock market traded lower today.",
+        "ipaSents": "ðə stɒk ˈmɑːkɪt ˈtreɪdɪd ˈləʊə təˈdeɪ.",
+        "Meaning": "Thị trường chứng khoán hôm nay giao dịch thấp hơn."
+    },
+    {
+        "Sents": "I got a good deal at the store.",
+        "ipaSents": "aɪ gɒt ə gʊd diːl æt ðə stɔː.",
+        "Meaning": "Tôi có một thỏa thuận tốt ở cửa hàng."
+    },
+    {
+        "Sents": "Who do you think will win the election?",
+        "ipaSents": "huː duː juː θɪŋk wɪl wɪn ði ɪˈlɛkʃən?",
+        "Meaning": "Bạn nghĩ ai sẽ thắng cuộc bầu cử?"
+    },
+    {
+        "Sents": "Everybody likes ice cream.",
+        "ipaSents": "ˈɛvrɪbɒdi laɪks aɪs kriːm.",
+        "Meaning": "Mọi người đều thích kem."
+    },
+    {
+        "Sents": "Keep a physical distance of six feet.",
+        "ipaSents": "kiːp ə ˈfɪzɪkəl ˈdɪstəns ɒv sɪks fiːt.",
+        "Meaning": "Giữ khoảng cách vật lý là 6 feet."
+    },
+    {
+        "Sents": "Lay the baby in her crib, please.",
+        "ipaSents": "leɪ ðə ˈbeɪbi ɪn hɜː krɪb, pliːz.",
+        "Meaning": "Làm ơn đặt đứa bé vào cũi của cô ấy."
+    },
+    {
+        "Sents": "My general impression of the restaurant was good.",
+        "ipaSents": "maɪ ˈʤɛnərəl ɪmˈprɛʃən ɒv ðə ˈrɛstrɒnt wɒz gʊd.",
+        "Meaning": "Ấn tượng chung của tôi về nhà hàng là tốt."
+    },
+    {
+        "Sents": "I have a good feeling about this.",
+        "ipaSents": "aɪ hæv ə gʊd ˈfiːlɪŋ əˈbaʊt ðɪs.",
+        "Meaning": "Tôi có một cảm giác tốt về điều này."
+    },
+    {
+        "Sents": "The standard fee is $10.00.",
+        "ipaSents": "ðə ˈstændəd fiː ɪz $10.00.",
+        "Meaning": "Phí tiêu chuẩn là $ 10,00."
+    },
+    {
+        "Sents": "The electrician will send me a bill.",
+        "ipaSents": "ði ɪlɛkˈtrɪʃən wɪl sɛnd miː ə bɪl.",
+        "Meaning": "Thợ điện sẽ gửi hóa đơn cho tôi."
+    },
+    {
+        "Sents": "You have a text message on your phone.",
+        "ipaSents": "juː hæv ə tɛkst ˈmɛsɪʤ ɒn jɔː fəʊn.",
+        "Meaning": "Bạn có một tin nhắn văn bản trên điện thoại của mình."
+    },
+    {
+        "Sents": "I fail to see what is so funny about that.",
+        "ipaSents": "aɪ feɪl tuː siː wɒt ɪz səʊ ˈfʌni əˈbaʊt ðæt.",
+        "Meaning": "Tôi không hiểu điều đó có gì buồn cười."
+    },
+    {
+        "Sents": "The cat goes outside sometimes.",
+        "ipaSents": "ðə kæt gəʊz ˌaʊtˈsaɪd ˈsʌmtaɪmz.",
+        "Meaning": "Đôi khi con mèo đi ra ngoài."
+    },
+    {
+        "Sents": "When will your plane arrive?",
+        "ipaSents": "wɛn wɪl jɔː pleɪn əˈraɪv?",
+        "Meaning": "Khi nào máy bay của bạn sẽ đến nơi?"
+    },
+    {
+        "Sents": "I’ll give you my analysis when I’ve seen everything.",
+        "ipaSents": "aɪl gɪv juː maɪ əˈnæləsɪs wɛn aɪv siːn ˈɛvrɪθɪŋ.",
+        "Meaning": "Tôi sẽ cung cấp cho bạn phân tích của tôi khi tôi đã nhìn thấy mọi thứ."
+    },
+    {
+        "Sents": "There are many health benefits to quinoa.",
+        "ipaSents": "ðeər ɑː ˈmɛni hɛlθ ˈbɛnɪfɪts tuː ˈkiːnwɑː.",
+        "Meaning": "Hạt quinoa có rất nhiều lợi ích cho sức khỏe."
+    },
+    {
+        "Sents": "What’s your name?",
+        "ipaSents": "wɒts jɔː neɪm?",
+        "Meaning": "Bạn tên là gì?"
+    },
+    {
+        "Sents": "Do you know the sex of your baby yet?",
+        "ipaSents": "duː juː nəʊ ðə sɛks ɒv jɔː ˈbeɪbi jɛt?",
+        "Meaning": "Bạn đã biết giới tính của con mình chưa?"
+    },
+    {
+        "Sents": "Move the car forward a few feet.",
+        "ipaSents": "muːv ðə kɑː ˈfɔːwəd ə fjuː fiːt.",
+        "Meaning": "Di chuyển xe về phía trước một vài bước chân."
+    },
+    {
+        "Sents": "My lawyer helped me write a will.",
+        "ipaSents": "maɪ ˈlɔːjə hɛlpt miː raɪt ə wɪl.",
+        "Meaning": "Luật sư đã giúp tôi viết di chúc."
+    },
+    {
+        "Sents": "If everyone is present, the meeting can begin.",
+        "ipaSents": "ɪf ˈɛvrɪwʌn ɪz ˈprɛznt, ðə ˈmiːtɪŋ kæn bɪˈgɪn.",
+        "Meaning": "Nếu tất cả mọi người đều có mặt, cuộc họp có thể bắt đầu."
+    },
+    {
+        "Sents": "What section of the stadium are you sitting in?",
+        "ipaSents": "wɒt ˈsɛkʃən ɒv ðə ˈsteɪdiəm ɑː juː ˈsɪtɪŋ ɪn?",
+        "Meaning": "Bạn đang ngồi ở khu vực nào của sân vận động?"
+    },
+    {
+        "Sents": "Environmental issues are in the news.",
+        "ipaSents": "ɪnˌvaɪərənˈmɛntl ˈɪʃuːz ɑːr ɪn ðə njuːz.",
+        "Meaning": "Các vấn đề môi trường đang được đưa tin."
+    },
+    {
+        "Sents": "Glass is much heavier than plastic.",
+        "ipaSents": "glɑːs ɪz mʌʧ ˈhɛvɪə ðæn ˈplæstɪk.",
+        "Meaning": "Thủy tinh nặng hơn nhiều so với nhựa."
+    },
+    {
+        "Sents": "Could you answer a question for me?",
+        "ipaSents": "kʊd juː ˈɑːnsər ə ˈkwɛsʧən fɔː miː?",
+        "Meaning": "Bạn có thể trả lời một câu hỏi cho tôi?"
+    },
+    {
+        "Sents": "His best skill is woodworking.",
+        "ipaSents": "hɪz bɛst skɪl ɪz ˈwʊdwɜːkɪŋ.",
+        "Meaning": "Kỹ năng tốt nhất của anh ấy là chế biến gỗ."
+    },
+    {
+        "Sents": "My sister lives close to me.",
+        "ipaSents": "maɪ ˈsɪstə lɪvz kləʊs tuː miː.",
+        "Meaning": "Em gái tôi sống gần tôi."
+    },
+    {
+        "Sents": "The movie starts at 7:30 pm.",
+        "ipaSents": "ðə ˈmuːvi stɑːts æt 7:30 pm.",
+        "Meaning": "Phim bắt đầu lúc 7:30 tối."
+    },
+    {
+        "Sents": "Dr. Smith is my favorite professor.",
+        "ipaSents": "Dr. smɪθ ɪz maɪ ˈfeɪvərɪt prəˈfɛsə.",
+        "Meaning": "Tiến sĩ Smith là giáo sư yêu thích của tôi."
+    },
+    {
+        "Sents": "The mining operation employs thousands of people.",
+        "ipaSents": "ðə ˈmaɪnɪŋ ˌɒpəˈreɪʃən ɪmˈplɔɪz ˈθaʊzəndz ɒv ˈpiːpl.",
+        "Meaning": "Hoạt động khai thác sử dụng hàng nghìn người."
+    },
+    {
+        "Sents": "I keep my accounts at my financial institution.",
+        "ipaSents": "aɪ kiːp maɪ əˈkaʊnts æt maɪ faɪˈnænʃəl ˌɪnstɪˈtjuːʃən.",
+        "Meaning": "Tôi giữ tài khoản của mình tại tổ chức tài chính của mình."
+    },
+    {
+        "Sents": "The police fight crime.",
+        "ipaSents": "ðə pəˈliːs faɪt kraɪm.",
+        "Meaning": "Cảnh sát chống tội phạm."
+    },
+    {
+        "Sents": "A caterpillar is the larval stage of a butterfly.",
+        "ipaSents": "ə ˈkætəpɪlər ɪz ðə ˈlɑːvəl steɪʤ ɒv ə ˈbʌtəflaɪ.",
+        "Meaning": "Sâu bướm là giai đoạn ấu trùng của bướm."
+    },
+    {
+        "Sents": "Would it be ok to eat out tonight?",
+        "ipaSents": "wʊd ɪt biː ˈəʊˈkeɪ tuː iːt aʊt təˈnaɪt?",
+        "Meaning": "Tối nay đi ăn ngoài có được không?"
+    },
+    {
+        "Sents": "We should compare cars before we buy one.",
+        "ipaSents": "wiː ʃʊd kəmˈpeə kɑːz bɪˈfɔː wiː baɪ wʌn.",
+        "Meaning": "Chúng ta nên so sánh những chiếc xe trước khi mua một chiếc."
+    },
+    {
+        "Sents": "City authorities make the local laws.",
+        "ipaSents": "ˈsɪti ɔːˈθɒrɪtiz meɪk ðə ˈləʊkəl lɔːz.",
+        "Meaning": "Chính quyền thành phố thực hiện luật pháp địa phương."
+    },
+    {
+        "Sents": "I miss you, when will I see you again?",
+        "ipaSents": "aɪ mɪs juː, wɛn wɪl aɪ siː juː əˈgɛn?",
+        "Meaning": "Em nhớ anh, khi nào gặp lại anh?"
+    },
+    {
+        "Sents": "We need to design a new logo.",
+        "ipaSents": "wiː niːd tuː dɪˈzaɪn ə njuː ˈləʊgəʊ.",
+        "Meaning": "Chúng tôi cần thiết kế một logo mới."
+    },
+    {
+        "Sents": "Let’s sort these beads according to color.",
+        "ipaSents": "lɛts sɔːt ðiːz biːdz əˈkɔːdɪŋ tuː ˈkʌlə.",
+        "Meaning": "Hãy phân loại các hạt này theo màu sắc."
+    },
+    {
+        "Sents": "I only have one cat.",
+        "ipaSents": "aɪ ˈəʊnli hæv wʌn kæt.",
+        "Meaning": "Tôi chỉ có một con mèo."
+    },
+    {
+        "Sents": "I’ll act on your information today.",
+        "ipaSents": "aɪl ækt ɒn jɔːr ˌɪnfəˈmeɪʃən təˈdeɪ.",
+        "Meaning": "Tôi sẽ hành động dựa trên thông tin của bạn hôm nay."
+    },
+    {
+        "Sents": "The baby counted her ten toes.",
+        "ipaSents": "ðə ˈbeɪbi ˈkaʊntɪd hɜː tɛn təʊz.",
+        "Meaning": "Em bé đã đếm được mười ngón chân của mẹ."
+    },
+    {
+        "Sents": "Do you have the knowledge to fix that?",
+        "ipaSents": "duː juː hæv ðə ˈnɒlɪʤ tuː fɪks ðæt?",
+        "Meaning": "Bạn có kiến ​​thức để khắc phục điều đó?"
+    },
+    {
+        "Sents": "Gun ownership is a controversial topic.",
+        "ipaSents": "gʌn ˈəʊnəʃɪp ɪz ə ˌkɒntrəˈvɜːʃəl ˈtɒpɪk.",
+        "Meaning": "Quyền sở hữu súng là một chủ đề gây tranh cãi."
+    },
+    {
+        "Sents": "There is a train station close to my house.",
+        "ipaSents": "ðeər ɪz ə treɪn ˈsteɪʃən kləʊs tuː maɪ haʊs.",
+        "Meaning": "Có một ga xe lửa gần nhà tôi."
+    },
+    {
+        "Sents": "My favorite color is blue.",
+        "ipaSents": "maɪ ˈfeɪvərɪt ˈkʌlər ɪz bluː.",
+        "Meaning": "Màu sắc yêu thích của tôi là màu xanh."
+    },
+    {
+        "Sents": "After the accident, I was in a state of shock.",
+        "ipaSents": "ˈɑːftə ði ˈæksɪdənt, aɪ wɒz ɪn ə steɪt ɒv ʃɒk.",
+        "Meaning": "Sau khi vụ tai nạn xảy ra, tôi bị sốc."
+    },
+    {
+        "Sents": "Our new corporate strategy is written here.",
+        "ipaSents": "ˈaʊə njuː ˈkɔːpərɪt ˈstrætɪʤi ɪz ˈrɪtn hɪə.",
+        "Meaning": "Chiến lược công ty mới của chúng tôi được viết ở đây."
+    },
+    {
+        "Sents": "I prefer little cars.",
+        "ipaSents": "aɪ priˈfɜː ˈlɪtl kɑːz.",
+        "Meaning": "Tôi thích những chiếc xe nhỏ hơn."
+    },
+    {
+        "Sents": "The instructions were clearly written.",
+        "ipaSents": "ði ɪnˈstrʌkʃənz wɜː ˈklɪəli ˈrɪtn.",
+        "Meaning": "Các hướng dẫn đã được viết rõ ràng."
+    },
+    {
+        "Sents": "We’ll discuss that at the meeting.",
+        "ipaSents": "wiːl dɪsˈkʌs ðæt æt ðə ˈmiːtɪŋ.",
+        "Meaning": "Chúng ta sẽ thảo luận điều đó tại cuộc họp."
+    },
+    {
+        "Sents": "Your mother does indeed have hearing loss.",
+        "ipaSents": "jɔː ˈmʌðə dʌz ɪnˈdiːd hæv ˈhɪərɪŋ lɒs.",
+        "Meaning": "Mẹ của bạn thực sự bị mất thính giác."
+    },
+    {
+        "Sents": "It takes a lot of force to open that door.",
+        "ipaSents": "ɪt teɪks ə lɒt ɒv fɔːs tuː ˈəʊpən ðæt dɔː.",
+        "Meaning": "Cần rất nhiều lực để mở cánh cửa đó."
+    },
+    {
+        "Sents": "Please tell me the truth.",
+        "ipaSents": "pliːz tɛl miː ðə truːθ.",
+        "Meaning": "Làm ơn hãy nói tôi biết sự thật."
+    },
+    {
+        "Sents": "That’s a beautiful song.",
+        "ipaSents": "ðæts ə ˈbjuːtəfʊl sɒŋ.",
+        "Meaning": "Đó là một bài hát hay."
+    },
+    {
+        "Sents": "I need an example of that grammar point, please.",
+        "ipaSents": "aɪ niːd ən ɪgˈzɑːmpl ɒv ðæt ˈgræmə pɔɪnt, pliːz.",
+        "Meaning": "Tôi cần một ví dụ về điểm ngữ pháp đó, làm ơn."
+    },
+    {
+        "Sents": "Does Australia have a democratic government?",
+        "ipaSents": "dʌz ɒˈstreɪliːə hæv ə ˌdɛməˈkrætɪk ˈgʌvnmənt?",
+        "Meaning": "Úc có chính phủ dân chủ không?"
+    },
+    {
+        "Sents": "Please check my work to be sure it’s correct.",
+        "ipaSents": "pliːz ʧɛk maɪ wɜːk tuː biː ʃʊər ɪts kəˈrɛkt.",
+        "Meaning": "Vui lòng kiểm tra công việc của tôi để chắc chắn rằng nó chính xác."
+    },
+    {
+        "Sents": "We live in a healthy environment.",
+        "ipaSents": "wiː lɪv ɪn ə ˈhɛlθi ɪnˈvaɪərənmənt.",
+        "Meaning": "Chúng ta đang sống trong một môi trường lành mạnh."
+    },
+    {
+        "Sents": "The boy broke his leg.",
+        "ipaSents": "ðə bɔɪ brəʊk hɪz lɛg.",
+        "Meaning": "Cậu bé bị gãy chân."
+    },
+    {
+        "Sents": "Turn on the light, it’s dark in here.",
+        "ipaSents": "tɜːn ɒn ðə laɪt, ɪts dɑːk ɪn hɪə.",
+        "Meaning": "Bật đèn lên, trong này tối."
+    },
+    {
+        "Sents": "Masks must be worn in public places.",
+        "ipaSents": "mɑːsks mʌst biː wɔːn ɪn ˈpʌblɪk ˈpleɪsɪz.",
+        "Meaning": "Ở những nơi công cộng phải đeo khẩu trang."
+    },
+    {
+        "Sents": "That rug comes in various shades of gray.",
+        "ipaSents": "ðæt rʌg kʌmz ɪn ˈveərɪəs ʃeɪdz ɒv greɪ.",
+        "Meaning": "Tấm thảm đó có nhiều màu xám khác nhau."
+    },
+    {
+        "Sents": "Would you rather have a hamburger than a hot dog?",
+        "ipaSents": "wʊd juː ˈrɑːðə hæv ə ˈhæmbɜːgə ðæn ə hɒt dɒg?",
+        "Meaning": "Bạn muốn ăn một chiếc bánh hamburger hơn là một chiếc xúc xích?"
+    },
+    {
+        "Sents": "That movie always makes me laugh.",
+        "ipaSents": "ðæt ˈmuːvi ˈɔːlweɪz meɪks miː lɑːf.",
+        "Meaning": "Bộ phim đó luôn khiến tôi cười."
+    },
+    {
+        "Sents": "If you don’t know, just guess.",
+        "ipaSents": "ɪf juː dəʊnt nəʊ, ʤʌst gɛs.",
+        "Meaning": "Nếu bạn không biết, chỉ cần đoán."
+    },
+    {
+        "Sents": "The company’s executives are paid well.",
+        "ipaSents": "ðə ˈkʌmpəniz ɪgˈzɛkjʊtɪvz ɑː peɪd wɛl.",
+        "Meaning": "Các giám đốc điều hành của công ty được trả lương cao."
+    },
+    {
+        "Sents": "Set the glass on the table, please.",
+        "ipaSents": "sɛt ðə glɑːs ɒn ðə ˈteɪbl, pliːz.",
+        "Meaning": "Làm ơn đặt cái ly lên bàn."
+    },
+    {
+        "Sents": "He needs to study for the test.",
+        "ipaSents": "hiː niːdz tuː ˈstʌdi fɔː ðə tɛst.",
+        "Meaning": "Anh ấy cần phải học cho bài kiểm tra."
+    },
+    {
+        "Sents": "The employee proved his worth.",
+        "ipaSents": "ði ˌɛmplɔɪˈiː pruːvd hɪz wɜːθ.",
+        "Meaning": "Nhân viên đã chứng minh giá trị của mình."
+    },
+    {
+        "Sents": "Please hang your coat on the hook.",
+        "ipaSents": "pliːz hæŋ jɔː kəʊt ɒn ðə hʊk.",
+        "Meaning": "Hãy treo áo khoác của bạn trên móc."
+    },
+    {
+        "Sents": "He ate the entire meal in 10 minutes.",
+        "ipaSents": "hiː ɛt ði ɪnˈtaɪə miːl ɪn 10 ˈmɪnɪts.",
+        "Meaning": "Anh ấy đã ăn toàn bộ bữa ăn trong 10 phút."
+    },
+    {
+        "Sents": "There are decorative rocks in the garden.",
+        "ipaSents": "ðeər ɑː ˈdɛkərətɪv rɒks ɪn ðə ˈgɑːdn.",
+        "Meaning": "Có đá trang trí trong vườn."
+    },
+    {
+        "Sents": "The windows don’t open by design.",
+        "ipaSents": "ðə ˈwɪndəʊz dəʊnt ˈəʊpən baɪ dɪˈzaɪn.",
+        "Meaning": "Các cửa sổ không mở theo thiết kế."
+    },
+    {
+        "Sents": "Have you had enough coffee?",
+        "ipaSents": "hæv juː hæd ɪˈnʌf ˈkɒfi?",
+        "Meaning": "Bạn đã uống đủ cà phê chưa?"
+    },
+    {
+        "Sents": "Don’t forget to stop at the store.",
+        "ipaSents": "dəʊnt fəˈgɛt tuː stɒp æt ðə stɔː.",
+        "Meaning": "Đừng quên dừng lại ở cửa hàng."
+    },
+    {
+        "Sents": "She hasn’t eaten since yesterday.",
+        "ipaSents": "ʃiː ˈhæznt ˈiːtn sɪns ˈjɛstədeɪ.",
+        "Meaning": "Cô ấy đã không ăn kể từ hôm qua."
+    },
+    {
+        "Sents": "I made an insurance claim for my car accident.",
+        "ipaSents": "aɪ meɪd ən ɪnˈʃʊərəns kleɪm fɔː maɪ kɑːr ˈæksɪdənt.",
+        "Meaning": "Tôi đã yêu cầu bảo hiểm cho tai nạn xe hơi của tôi."
+    },
+    {
+        "Sents": "Leave me a note if you’re going to be late.",
+        "ipaSents": "liːv miː ə nəʊt ɪf jʊə ˈgəʊɪŋ tuː biː leɪt.",
+        "Meaning": "Hãy để lại lời nhắn cho tôi nếu bạn đến muộn."
+    },
+    {
+        "Sents": "Remove the cookies from the oven.",
+        "ipaSents": "rɪˈmuːv ðə ˈkʊkiz frɒm ði ˈʌvn.",
+        "Meaning": "Lấy cookie ra khỏi lò."
+    },
+    {
+        "Sents": "The manager will look at your application.",
+        "ipaSents": "ðə ˈmænɪʤə wɪl lʊk æt jɔːr ˌæplɪˈkeɪʃ(ə)n.",
+        "Meaning": "Người quản lý sẽ xem xét đơn đăng ký của bạn."
+    },
+    {
+        "Sents": "Could you help me move this table?",
+        "ipaSents": "kʊd juː hɛlp miː muːv ðɪs ˈteɪbl?",
+        "Meaning": "Bạn có thể giúp tôi di chuyển cái bàn này được không?"
+    },
+    {
+        "Sents": "Close the door, please.",
+        "ipaSents": "kləʊs ðə dɔː, pliːz.",
+        "Meaning": "Xin hãy đóng cửa lại."
+    },
+    {
+        "Sents": "The dog did not make a sound.",
+        "ipaSents": "ðə dɒg dɪd nɒt meɪk ə saʊnd.",
+        "Meaning": "Con chó không phát ra tiếng động."
+    },
+    {
+        "Sents": "I enjoy soda.",
+        "ipaSents": "aɪ ɪnˈʤɔɪ ˈsəʊdə.",
+        "Meaning": "Tôi thích soda."
+    },
+    {
+        "Sents": "Band is the name of our internet network.",
+        "ipaSents": "bænd ɪz ðə neɪm ɒv ˈaʊər ˈɪntəˌnɛt ˈnɛtwɜːk.",
+        "Meaning": "Band là tên của mạng internet của chúng tôi."
+    },
+    {
+        "Sents": "The legal documents need to be signed.",
+        "ipaSents": "ðə ˈliːgəl ˈdɒkjʊmənts niːd tuː biː saɪnd.",
+        "Meaning": "Các văn bản pháp lý cần phải được ký kết."
+    },
+    {
+        "Sents": "She is very religious, she attends church weekly.",
+        "ipaSents": "ʃiː ɪz ˈvɛri rɪˈlɪʤəs, ʃiː əˈtɛndz ʧɜːʧ ˈwiːkli.",
+        "Meaning": "Cô ấy rất sùng đạo, cô ấy đến nhà thờ hàng tuần."
+    },
+    {
+        "Sents": "My feet are cold.",
+        "ipaSents": "maɪ fiːt ɑː kəʊld.",
+        "Meaning": "Chân của tôi lạnh."
+    },
+    {
+        "Sents": "Please fill out this application form.",
+        "ipaSents": "pliːz fɪl aʊt ðɪs ˌæplɪˈkeɪʃ(ə)n fɔːm.",
+        "Meaning": "Vui lòng điền vào mẫu đơn đăng ký này."
+    },
+    {
+        "Sents": "The divorce was final last month.",
+        "ipaSents": "ðə dɪˈvɔːs wɒz ˈfaɪnl lɑːst mʌnθ.",
+        "Meaning": "Cuộc ly hôn là cuối cùng vào tháng trước."
+    },
+    {
+        "Sents": "The main problem is a lack of money.",
+        "ipaSents": "ðə meɪn ˈprɒbləm ɪz ə læk ɒv ˈmʌni.",
+        "Meaning": "Vấn đề chính là thiếu tiền."
+    },
+    {
+        "Sents": "He studies health science at the university.",
+        "ipaSents": "hiː ˈstʌdiz hɛlθ ˈsaɪəns æt ðə ˌjuːnɪˈvɜːsɪti.",
+        "Meaning": "Anh ấy nghiên cứu khoa học sức khỏe tại trường đại học."
+    },
+    {
+        "Sents": "The grass is green.",
+        "ipaSents": "ðə grɑːs ɪz griːn.",
+        "Meaning": "Cỏ xanh."
+    },
+    {
+        "Sents": "He has a good memory.",
+        "ipaSents": "hiː hæz ə gʊd ˈmɛməri.",
+        "Meaning": "Anh ấy có một trí nhớ tốt."
+    },
+    {
+        "Sents": "They sent me a card for my birthday.",
+        "ipaSents": "ðeɪ sɛnt miː ə kɑːd fɔː maɪ ˈbɜːθdeɪ.",
+        "Meaning": "Họ đã gửi cho tôi một tấm thiệp cho ngày sinh nhật của tôi."
+    },
+    {
+        "Sents": "Look on the shelf above the sink.",
+        "ipaSents": "lʊk ɒn ðə ʃɛlf əˈbʌv ðə sɪŋk.",
+        "Meaning": "Nhìn trên kệ phía trên bồn rửa."
+    },
+    {
+        "Sents": "That’s a comfortable seat.",
+        "ipaSents": "ðæts ə ˈkʌmf(ə)təbl siːt.",
+        "Meaning": "Đó là một chỗ ngồi thoải mái."
+    },
+    {
+        "Sents": "Your body is made of millions of cells.",
+        "ipaSents": "jɔː ˈbɒdi ɪz meɪd ɒv ˈmɪljənz ɒv sɛlz.",
+        "Meaning": "Cơ thể của bạn được tạo ra từ hàng triệu tế bào."
+    },
+    {
+        "Sents": "They established their business in 1942.",
+        "ipaSents": "ðeɪ ɪsˈtæblɪʃt ðeə ˈbɪznɪs ɪn 1942.",
+        "Meaning": "Họ thành lập doanh nghiệp của mình vào năm 1942."
+    },
+    {
+        "Sents": "That’s a very nice car.",
+        "ipaSents": "ðæts ə ˈvɛri naɪs kɑː.",
+        "Meaning": "Đó là một chiếc xe rất đẹp."
+    },
+    {
+        "Sents": "They are employing her on a trial basis.",
+        "ipaSents": "ðeɪ ɑːr ɪmˈplɔɪɪŋ hɜːr ɒn ə ˈtraɪəl ˈbeɪsɪs.",
+        "Meaning": "Họ đang tuyển dụng cô ấy trên cơ sở thử việc."
+    },
+    {
+        "Sents": "Matt is an IT expert.",
+        "ipaSents": "mæt ɪz ən ɪt ˈɛkspɜːt.",
+        "Meaning": "Matt là một chuyên gia CNTT."
+    },
+    {
+        "Sents": "Did you see that movie?",
+        "ipaSents": "dɪd juː siː ðæt ˈmuːvi?",
+        "Meaning": "Bạn đã xem bộ phim đó chưa?"
+    },
+    {
+        "Sents": "Spring is the most beautiful season.",
+        "ipaSents": "sprɪŋ ɪz ðə məʊst ˈbjuːtəfʊl ˈsiːzn.",
+        "Meaning": "Mùa xuân là mùa đẹp nhất."
+    },
+    {
+        "Sents": "Her ‘no was very firm, she won’t change her mind.",
+        "ipaSents": "hɜː nəʊ wɒz ˈvɛri fɜːm, ʃiː wəʊnt ʧeɪnʤ hɜː maɪnd.",
+        "Meaning": "Cô ấy nói \"không rất chắc chắn, cô ấy sẽ không thay đổi ý định của mình.\""
+    },
+    {
+        "Sents": "The democrats control the senate.",
+        "ipaSents": "ðə ˈdɛməkræts kənˈtrəʊl ðə ˈsɛnɪt.",
+        "Meaning": "Những người dân chủ kiểm soát thượng viện."
+    },
+    {
+        "Sents": "I listen to the radio in the car.",
+        "ipaSents": "aɪ ˈlɪsn tuː ðə ˈreɪdɪəʊ ɪn ðə kɑː.",
+        "Meaning": "Tôi nghe radio trong xe hơi."
+    },
+    {
+        "Sents": "We visited the museum today.",
+        "ipaSents": "wiː ˈvɪzɪtɪd ðə mju(ː)ˈzɪəm təˈdeɪ.",
+        "Meaning": "Chúng tôi đã đến thăm viện bảo tàng ngày hôm nay."
+    },
+    {
+        "Sents": "That store has good management.",
+        "ipaSents": "ðæt stɔː hæz gʊd ˈmænɪʤmənt.",
+        "Meaning": "Cửa hàng đó có quản lý tốt."
+    },
+    {
+        "Sents": "She cares for her mother at home.",
+        "ipaSents": "ʃiː keəz fɔː hɜː ˈmʌðər æt həʊm.",
+        "Meaning": "Cô ấy chăm sóc cho mẹ cô ấy ở nhà."
+    },
+    {
+        "Sents": "You should avoid poison ivy.",
+        "ipaSents": "juː ʃʊd əˈvɔɪd ˈpɔɪzn ˈaɪvi.",
+        "Meaning": "Bạn nên tránh cây thường xuân độc."
+    },
+    {
+        "Sents": "Can you imagine if pigs could fly?",
+        "ipaSents": "kæn juː ɪˈmæʤɪn ɪf pɪgz kʊd flaɪ?",
+        "Meaning": "Bạn có thể tưởng tượng nếu lợn có thể bay?"
+    },
+    {
+        "Sents": "Would you like to go out tonight?",
+        "ipaSents": "wʊd juː laɪk tuː gəʊ aʊt təˈnaɪt?",
+        "Meaning": "Bạn có muốn đi chơi tối nay không?"
+    },
+    {
+        "Sents": "That truck is huge!",
+        "ipaSents": "ðæt trʌk ɪz hjuːʤ!",
+        "Meaning": "Xe tải đó rất lớn!"
+    },
+    {
+        "Sents": "He threw the ball to the dog.",
+        "ipaSents": "hiː θruː ðə bɔːl tuː ðə dɒg.",
+        "Meaning": "Anh ta ném quả bóng cho con chó."
+    },
+    {
+        "Sents": "I said ‘no,’ please don’t ask again.",
+        "ipaSents": "aɪ sɛd nəʊ,’ pliːz dəʊnt ɑːsk əˈgɛn.",
+        "Meaning": "Tôi đã nói \"không\", vui lòng không hỏi lại."
+    },
+    {
+        "Sents": "Close the window, please.",
+        "ipaSents": "kləʊs ðə ˈwɪndəʊ, pliːz.",
+        "Meaning": "Vui lòng đóng cửa sổ."
+    },
+    {
+        "Sents": "Did you finish your homework?",
+        "ipaSents": "dɪd juː ˈfɪnɪʃ jɔː ˈhəʊmˌwɜːk?",
+        "Meaning": "Bạn đã hoàn thành bài tập về nhà chưa?"
+    },
+    {
+        "Sents": "Do you give yourself a haircut?",
+        "ipaSents": "duː juː gɪv jɔːˈsɛlf ə ˈheəkʌt?",
+        "Meaning": "Bạn có cho mình một mái tóc cắt?"
+    },
+    {
+        "Sents": "He talks a lot.",
+        "ipaSents": "hiː tɔːks ə lɒt.",
+        "Meaning": "Anh ấy nói rất nhiều."
+    },
+    {
+        "Sents": "In theory, that’s a good plan.",
+        "ipaSents": "ɪn ˈθɪəri, ðæts ə gʊd plæn.",
+        "Meaning": "Về lý thuyết, đó là một kế hoạch tốt."
+    },
+    {
+        "Sents": "The drought had a big impact on the crops.",
+        "ipaSents": "ðə draʊt hæd ə bɪg ˈɪmpækt ɒn ðə krɒps.",
+        "Meaning": "Hạn hán đã ảnh hưởng lớn đến mùa màng."
+    },
+    {
+        "Sents": "He hasn’t responded to my text yet.",
+        "ipaSents": "hiː ˈhæznt rɪsˈpɒndɪd tuː maɪ tɛkst jɛt.",
+        "Meaning": "Anh ấy chưa trả lời tin nhắn của tôi."
+    },
+    {
+        "Sents": "The police chief gave a statement to the media.",
+        "ipaSents": "ðə pəˈliːs ʧiːf geɪv ə ˈsteɪtmənt tuː ðə ˈmiːdiə.",
+        "Meaning": "Cảnh sát trưởng đã đưa ra một tuyên bố với giới truyền thông."
+    },
+    {
+        "Sents": "Exercise helps you maintain a healthy weight.",
+        "ipaSents": "ˈɛksəsaɪz hɛlps juː meɪnˈteɪn ə ˈhɛlθi weɪt.",
+        "Meaning": "Tập thể dục giúp bạn duy trì cân nặng hợp lý."
+    },
+    {
+        "Sents": "I need to charge my phone.",
+        "ipaSents": "aɪ niːd tuː ʧɑːʤ maɪ fəʊn.",
+        "Meaning": "Tôi cần sạc điện thoại của mình."
+    },
+    {
+        "Sents": "That’s a popular restaurant.",
+        "ipaSents": "ðæts ə ˈpɒpjʊlə ˈrɛstrɒnt.",
+        "Meaning": "Đó là một nhà hàng bình dân."
+    },
+    {
+        "Sents": "They serve traditional Italian food there.",
+        "ipaSents": "ðeɪ sɜːv trəˈdɪʃənl ɪˈtæliən fuːd ðeə.",
+        "Meaning": "Họ phục vụ các món ăn truyền thống của Ý ở đó."
+    },
+    {
+        "Sents": "Jump onto the boat and we’ll go fishing.",
+        "ipaSents": "ʤʌmp ˈɒntʊ ðə bəʊt ænd wiːl gəʊ ˈfɪʃɪŋ.",
+        "Meaning": "Nhảy lên thuyền và chúng ta sẽ đi câu cá."
+    },
+    {
+        "Sents": "Washing off the dirt revealed the boy’s skinned knee.",
+        "ipaSents": "ˈwɒʃɪŋ ɒf ðə dɜːt rɪˈviːld ðə bɔɪz skɪnd niː.",
+        "Meaning": "Rửa sạch bụi bẩn để lộ đầu gối bị lột da của cậu bé."
+    },
+    {
+        "Sents": "What direction is the city from here?",
+        "ipaSents": "wɒt dɪˈrɛkʃən ɪz ðə ˈsɪti frɒm hɪə?",
+        "Meaning": "Thành phố từ đây đi theo hướng nào?"
+    },
+    {
+        "Sents": "No weapons are allowed in government buildings.",
+        "ipaSents": "nəʊ ˈwɛpənz ɑːr əˈlaʊd ɪn ˈgʌvnmənt ˈbɪldɪŋz.",
+        "Meaning": "Không có vũ khí nào được phép sử dụng trong các tòa nhà chính phủ."
+    },
+    {
+        "Sents": "That store only has three employees.",
+        "ipaSents": "ðæt stɔːr ˈəʊnli hæz θriː ˌɛmplɔɪˈiːz.",
+        "Meaning": "Cửa hàng đó chỉ có ba nhân viên."
+    },
+    {
+        "Sents": "There is cultural significance to those old ruins.",
+        "ipaSents": "ðeər ɪz ˈkʌlʧərəl sɪgˈnɪfɪkəns tuː ðəʊz əʊld rʊɪnz.",
+        "Meaning": "Có ý nghĩa văn hóa đối với những tàn tích cũ."
+    },
+    {
+        "Sents": "The carton contains a dozen eggs.",
+        "ipaSents": "ðə ˈkɑːtən kənˈteɪnz ə ˈdʌzn ɛgz.",
+        "Meaning": "Thùng carton chứa một tá trứng."
+    },
+    {
+        "Sents": "World leaders gathered for peace talks.",
+        "ipaSents": "wɜːld ˈliːdəz ˈgæðəd fɔː piːs tɔːks.",
+        "Meaning": "Các nhà lãnh đạo thế giới tụ họp để đàm phán hòa bình."
+    },
+    {
+        "Sents": "My head hurts.",
+        "ipaSents": "maɪ hɛd hɜːts.",
+        "Meaning": "Đầu tôi đau."
+    },
+    {
+        "Sents": "Keep control of the car.",
+        "ipaSents": "kiːp kənˈtrəʊl ɒv ðə kɑː.",
+        "Meaning": "Giữ quyền kiểm soát xe."
+    },
+    {
+        "Sents": "The glass has a heavy base so it won’t fall over.",
+        "ipaSents": "ðə glɑːs hæz ə ˈhɛvi beɪs səʊ ɪt wəʊnt fɔːl ˈəʊvə.",
+        "Meaning": "Kính có đế nặng nên sẽ không bị đổ."
+    },
+    {
+        "Sents": "I have chest pain.",
+        "ipaSents": "aɪ hæv ʧɛst peɪn.",
+        "Meaning": "Tôi bị đau ngực."
+    },
+    {
+        "Sents": "Maria applied for the job.",
+        "ipaSents": "məˈriːə əˈplaɪd fɔː ðə ʤɒb.",
+        "Meaning": "Maria đã nộp đơn xin việc."
+    },
+    {
+        "Sents": "The children play at the park.",
+        "ipaSents": "ðə ˈʧɪldrən pleɪ æt ðə pɑːk.",
+        "Meaning": "Những đứa trẻ chơi ở công viên."
+    },
+    {
+        "Sents": "Measure twice, cut once.",
+        "ipaSents": "ˈmɛʒə twaɪs, kʌt wʌns.",
+        "Meaning": "Đo hai lần cắt một lần."
+    },
+    {
+        "Sents": "The doorway was very wide.",
+        "ipaSents": "ðə ˈdɔːweɪ wɒz ˈvɛri waɪd.",
+        "Meaning": "Ô cửa rất rộng."
+    },
+    {
+        "Sents": "Don’t shake the can of soda.",
+        "ipaSents": "dəʊnt ʃeɪk ðə kæn ɒv ˈsəʊdə.",
+        "Meaning": "Đừng lắc lon nước ngọt."
+    },
+    {
+        "Sents": "We can fly to France next year.",
+        "ipaSents": "wiː kæn flaɪ tuː ˈfrɑːns nɛkst jɪə.",
+        "Meaning": "Chúng tôi có thể bay đến Pháp vào năm tới."
+    },
+    {
+        "Sents": "My job interview went well.",
+        "ipaSents": "maɪ ʤɒb ˈɪntəvjuː wɛnt wɛl.",
+        "Meaning": "Buổi phỏng vấn xin việc của tôi diễn ra tốt đẹp."
+    },
+    {
+        "Sents": "Did you manage to find the keys?",
+        "ipaSents": "dɪd juː ˈmænɪʤ tuː faɪnd ðə kiːz?",
+        "Meaning": "Bạn đã quản lý để tìm thấy các chìa khóa?"
+    },
+    {
+        "Sents": "The table has six matching chairs.",
+        "ipaSents": "ðə ˈteɪbl hæz sɪks ˈmæʧɪŋ ʧeəz.",
+        "Meaning": "Bàn có sáu ghế phù hợp."
+    },
+    {
+        "Sents": "I don’t enjoy eating fish.",
+        "ipaSents": "aɪ dəʊnt ɪnˈʤɔɪ ˈiːtɪŋ fɪʃ.",
+        "Meaning": "Tôi không thích ăn cá."
+    },
+    {
+        "Sents": "That particular style looks good on you.",
+        "ipaSents": "ðæt pəˈtɪkjʊlə staɪl lʊks gʊd ɒn juː.",
+        "Meaning": "Phong cách cụ thể đó trông phù hợp với bạn."
+    },
+    {
+        "Sents": "I use the camera on my phone.",
+        "ipaSents": "aɪ juːz ðə ˈkæmərə ɒn maɪ fəʊn.",
+        "Meaning": "Tôi sử dụng máy ảnh trên điện thoại của mình."
+    },
+    {
+        "Sents": "The building’s structure is solid.",
+        "ipaSents": "ðə ˈbɪldɪŋz ˈstrʌkʧər ɪz ˈsɒlɪd.",
+        "Meaning": "Cấu trúc của tòa nhà chắc chắn."
+    },
+    {
+        "Sents": "Mitch is very active in politics.",
+        "ipaSents": "Mitch ɪz ˈvɛri ˈæktɪv ɪn ˈpɒlɪtɪks.",
+        "Meaning": "Mitch rất tích cực trong lĩnh vực chính trị."
+    },
+    {
+        "Sents": "The singer will perform tonight.",
+        "ipaSents": "ðə ˈsɪŋə wɪl pəˈfɔːm təˈnaɪt.",
+        "Meaning": "Ca sĩ sẽ biểu diễn vào tối nay."
+    },
+    {
+        "Sents": "It rained a little bit last night.",
+        "ipaSents": "ɪt reɪnd ə ˈlɪtl bɪt lɑːst naɪt.",
+        "Meaning": "Đêm qua trời có mưa một chút."
+    },
+    {
+        "Sents": "Keep track of your pet’s weight.",
+        "ipaSents": "kiːp træk ɒv jɔː pɛts weɪt.",
+        "Meaning": "Theo dõi cân nặng của thú cưng."
+    },
+    {
+        "Sents": "The storm came up suddenly.",
+        "ipaSents": "ðə stɔːm keɪm ʌp ˈsʌdnli.",
+        "Meaning": "Cơn bão nổi lên bất ngờ."
+    },
+    {
+        "Sents": "You’ll discover treasures at that thrift store.",
+        "ipaSents": "juːl dɪsˈkʌvə ˈtrɛʒəz æt ðæt θrɪft stɔː.",
+        "Meaning": "Bạn sẽ khám phá các kho báu tại cửa hàng tiết kiệm đó."
+    },
+    {
+        "Sents": "There are ten candidates for the position.",
+        "ipaSents": "ðeər ɑː tɛn ˈkændɪˌdeɪts fɔː ðə pəˈzɪʃən.",
+        "Meaning": "Có mười ứng cử viên cho vị trí này."
+    },
+    {
+        "Sents": "The flag flies on the top of that building.",
+        "ipaSents": "ðə flæg flaɪz ɒn ðə tɒp ɒv ðæt ˈbɪldɪŋ.",
+        "Meaning": "Lá cờ bay trên đỉnh của tòa nhà đó."
+    },
+    {
+        "Sents": "Factory production has improved over the summer.",
+        "ipaSents": "ˈfæktəri prəˈdʌkʃən hæz ɪmˈpruːvd ˈəʊvə ðə ˈsʌmə.",
+        "Meaning": "Sản xuất của nhà máy đã được cải thiện trong mùa hè."
+    },
+    {
+        "Sents": "Give yourself a treat for a job well done.",
+        "ipaSents": "gɪv jɔːˈsɛlf ə triːt fɔːr ə ʤɒb wɛl dʌn.",
+        "Meaning": "Hãy tự thưởng cho mình một công việc được hoàn thành tốt."
+    },
+    {
+        "Sents": "We are taking a trip to Florida in January.",
+        "ipaSents": "wiː ɑː ˈteɪkɪŋ ə trɪp tuː ˈflɒrɪdə ɪn ˈʤænjʊəri.",
+        "Meaning": "Chúng tôi sẽ có một chuyến đi đến Florida vào tháng Giêng."
+    },
+    {
+        "Sents": "I’m staying home this evening.",
+        "ipaSents": "aɪm ˈsteɪɪŋ həʊm ðɪs ˈiːvnɪŋ.",
+        "Meaning": "Tôi sẽ ở nhà tối nay."
+    },
+    {
+        "Sents": "My bank account will affect how much I can buy.",
+        "ipaSents": "maɪ bæŋk əˈkaʊnt wɪl əˈfɛkt haʊ mʌʧ aɪ kæn baɪ.",
+        "Meaning": "Tài khoản ngân hàng của tôi sẽ ảnh hưởng đến số tiền tôi có thể mua."
+    },
+    {
+        "Sents": "The cat stays inside.",
+        "ipaSents": "ðə kæt steɪz ɪnˈsaɪd.",
+        "Meaning": "Con mèo ở trong nhà."
+    },
+    {
+        "Sents": "There will be expert presenters at the conference.",
+        "ipaSents": "ðeə wɪl biː ˈɛkspɜːt prɪˈzɛntəz æt ðə ˈkɒnfərəns.",
+        "Meaning": "Sẽ có các chuyên gia trình bày tại hội nghị."
+    },
+    {
+        "Sents": "A foot is a unit of measure.",
+        "ipaSents": "ə fʊt ɪz ə ˈjuːnɪt ɒv ˈmɛʒə.",
+        "Meaning": "Chân là một đơn vị đo lường."
+    },
+    {
+        "Sents": "Those are the best glasses to buy.",
+        "ipaSents": "ðəʊz ɑː ðə bɛst ˈglɑːsɪz tuː baɪ.",
+        "Meaning": "Đó là những chiếc kính tốt nhất để mua."
+    },
+    {
+        "Sents": "My dress is out of style.",
+        "ipaSents": "maɪ drɛs ɪz aʊt ɒv staɪl.",
+        "Meaning": "Chiếc váy của tôi đã lỗi mốt."
+    },
+    {
+        "Sents": "Adults pay full price, but children are free.",
+        "ipaSents": "ˈædʌlts peɪ fʊl praɪs, bʌt ˈʧɪldrən ɑː friː.",
+        "Meaning": "Người lớn phải trả giá đầy đủ, nhưng trẻ em được miễn phí."
+    },
+    {
+        "Sents": "Don’t worry about tomorrow.",
+        "ipaSents": "dəʊnt ˈwʌri əˈbaʊt təˈmɒrəʊ.",
+        "Meaning": "Đừng lo lắng về ngày mai."
+    },
+    {
+        "Sents": "My doctor offered me a range of options.",
+        "ipaSents": "maɪ ˈdɒktər ˈɒfəd miː ə reɪnʤ ɒv ˈɒpʃənz.",
+        "Meaning": "Bác sĩ của tôi đã đưa ra cho tôi một loạt các lựa chọn."
+    },
+    {
+        "Sents": "Can you mention me in your story?",
+        "ipaSents": "kæn juː ˈmɛnʃən miː ɪn jɔː ˈstɔːri?",
+        "Meaning": "Bạn có thể nhắc đến tôi trong câu chuyện của bạn không?"
+    },
+    {
+        "Sents": "Rather than focusing on the bad things, let’s be grateful for the good things.",
+        "ipaSents": "ˈrɑːðə ðæn ˈfəʊkəsɪŋ ɒn ðə bæd θɪŋz, lɛts biː ˈgreɪtfʊl fɔː ðə gʊd θɪŋz.",
+        "Meaning": "Thay vì tập trung vào những điều tồi tệ, chúng ta hãy biết ơn những điều tốt đẹp."
+    },
+    {
+        "Sents": "I don’t want to move far from my family.",
+        "ipaSents": "aɪ dəʊnt wɒnt tuː muːv fɑː frɒm maɪ ˈfæmɪli.",
+        "Meaning": "Tôi không muốn xa gia đình."
+    },
+    {
+        "Sents": "That poem about life is deep.",
+        "ipaSents": "ðæt ˈpəʊɪm əˈbaʊt laɪf ɪz diːp.",
+        "Meaning": "Bài thơ về cuộc đời ấy thật sâu sắc."
+    },
+    {
+        "Sents": "Please face front.",
+        "ipaSents": "pliːz feɪs frʌnt.",
+        "Meaning": "Hãy quay mặt về phía trước."
+    },
+    {
+        "Sents": "Please do not stand so close to the edge of the cliff.",
+        "ipaSents": "pliːz duː nɒt stænd səʊ kləʊs tuː ði ɛʤ ɒv ðə klɪf.",
+        "Meaning": "Xin đừng đứng sát mép vách đá."
+    },
+    {
+        "Sents": "These potato chips are in an individual serving size package.",
+        "ipaSents": "ðiːz pəˈteɪtəʊ ʧɪps ɑːr ɪn ən ˌɪndɪˈvɪdjʊəl ˈsɜːvɪŋ saɪz ˈpækɪʤ.",
+        "Meaning": "Những miếng khoai tây chiên này nằm trong một gói kích thước khẩu phần riêng lẻ."
+    },
+    {
+        "Sents": "Could you be more specific?",
+        "ipaSents": "kʊd juː biː mɔː spɪˈsɪfɪk?",
+        "Meaning": "Bạn có thể đặc sắc hơn không?"
+    },
+    {
+        "Sents": "You are a good writer.",
+        "ipaSents": "juː ɑːr ə gʊd ˈraɪtə.",
+        "Meaning": "Bạn là một nhà văn giỏi."
+    },
+    {
+        "Sents": "Stay out of trouble.",
+        "ipaSents": "steɪ aʊt ɒv ˈtrʌbl.",
+        "Meaning": "Tránh xa rắc rối."
+    },
+    {
+        "Sents": "It is necessary to sleep.",
+        "ipaSents": "ɪt ɪz ˈnɛsɪsəri tuː sliːp.",
+        "Meaning": "Nó là cần thiết để ngủ."
+    },
+    {
+        "Sents": "Throughout my life, I have always enjoyed reading.",
+        "ipaSents": "θru(ː)ˈaʊt maɪ laɪf, aɪ hæv ˈɔːlweɪz ɪnˈʤɔɪd ˈriːdɪŋ.",
+        "Meaning": "Trong suốt cuộc đời mình, tôi luôn thích đọc sách."
+    },
+    {
+        "Sents": "I challenge you to do better.",
+        "ipaSents": "aɪ ˈʧælɪnʤ juː tuː duː ˈbɛtə.",
+        "Meaning": "Tôi thách thức bạn làm tốt hơn."
+    },
+    {
+        "Sents": "Do you have any fears?",
+        "ipaSents": "duː juː hæv ˈɛni fɪəz?",
+        "Meaning": "Bạn có sợ hãi gì không?"
+    },
+    {
+        "Sents": "You do not have to shoulder all the work on your own.",
+        "ipaSents": "juː duː nɒt hæv tuː ˈʃəʊldər ɔːl ðə wɜːk ɒn jɔːr əʊn.",
+        "Meaning": "Bạn không nhất thiết phải tự mình gánh vác mọi công việc."
+    },
+    {
+        "Sents": "Have you attended any institution of higher learning?",
+        "ipaSents": "hæv juː əˈtɛndɪd ˈɛni ˌɪnstɪˈtjuːʃən ɒv ˈhaɪə ˈlɜːnɪŋ?",
+        "Meaning": "Bạn đã tham dự bất kỳ cơ sở giáo dục đại học nào chưa?"
+    },
+    {
+        "Sents": "I am a middle child with one older brother and one younger sister.",
+        "ipaSents": "aɪ æm ə ˈmɪdl ʧaɪld wɪð wʌn ˈəʊldə ˈbrʌðər ænd wʌn ˈjʌŋə ˈsɪstə.",
+        "Meaning": "Tôi là con giữa với một anh trai và một em gái."
+    },
+    {
+        "Sents": "I want to sail the seven seas.",
+        "ipaSents": "aɪ wɒnt tuː seɪl ðə ˈsɛvn siːz.",
+        "Meaning": "Tôi muốn chèo thuyền bảy biển."
+    },
+    {
+        "Sents": "I have a dream.",
+        "ipaSents": "aɪ hæv ə driːm.",
+        "Meaning": "Tôi có một giấc mơ."
+    },
+    {
+        "Sents": "A bar is a place where alcohol is served.",
+        "ipaSents": "ə bɑːr ɪz ə pleɪs weər ˈælkəhɒl ɪz sɜːvd.",
+        "Meaning": "Quầy bar là nơi phục vụ rượu."
+    },
+    {
+        "Sents": "You are beautiful.",
+        "ipaSents": "juː ɑː ˈbjuːtəfʊl.",
+        "Meaning": "Bạn thật đẹp."
+    },
+    {
+        "Sents": "Do you own property, like a house?",
+        "ipaSents": "duː juː əʊn ˈprɒpəti, laɪk ə haʊs?",
+        "Meaning": "Bạn có sở hữu tài sản, chẳng hạn như một ngôi nhà?"
+    },
+    {
+        "Sents": "Instead of eating cake, I will have fruit.",
+        "ipaSents": "ɪnˈstɛd ɒv ˈiːtɪŋ keɪk, aɪ wɪl hæv fruːt.",
+        "Meaning": "Thay vì ăn bánh, tôi sẽ có trái cây."
+    },
+    {
+        "Sents": "I am always looking for ways to improve.",
+        "ipaSents": "aɪ æm ˈɔːlweɪz ˈlʊkɪŋ fɔː weɪz tuː ɪmˈpruːv.",
+        "Meaning": "Tôi luôn tìm cách để cải thiện."
+    },
+    {
+        "Sents": "When I moved, I realized I have a lot of stuff!",
+        "ipaSents": "wɛn aɪ muːvd, aɪ ˈrɪəlaɪzd aɪ hæv ə lɒt ɒv stʌf!",
+        "Meaning": "Khi tôi chuyển đi, tôi nhận ra rằng tôi có rất nhiều thứ!"
+    },
+    {
+        "Sents": "I claim to be a fast reader, but actually, I am average.",
+        "ipaSents": "aɪ kleɪm tuː biː ə fɑːst ˈriːdə, bʌt ˈækʧʊəli, aɪ æm ˈævərɪʤ.",
+        "Meaning": "Tôi tự nhận là một người đọc nhanh, nhưng thực ra, tôi ở mức trung bình."
+    }
+]

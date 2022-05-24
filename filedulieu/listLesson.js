@@ -176,6 +176,6 @@ let ArrOutput = [
 ].concat(data)
 
 ArrOutput.forEach((e, i) => {
-    e.id += i
+    e.id = i + 1
 })
 module.exports = ArrOutput
