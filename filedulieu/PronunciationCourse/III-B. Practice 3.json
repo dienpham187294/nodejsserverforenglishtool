@@ -4711,7 +4711,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What color do you like?",
                         "Password: The singer will perform tonight."
                     ],
@@ -4757,7 +4757,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a double bed room."
@@ -5406,7 +5406,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What are you looking for?",
                         "Password: I wish that mosquito would go away."
                     ],
@@ -5452,7 +5452,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a bath tub."
@@ -6332,7 +6332,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What color do you like?",
                         "Password: I either walk or commute to work."
                     ],
@@ -6378,7 +6378,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a mountain view."
@@ -6563,7 +6563,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What are you looking for?",
                         "Password: Can you show me how to solve this puzzle?"
                     ],
@@ -6609,7 +6609,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a double bed room."
@@ -6796,7 +6796,7 @@
                     "gender": "male",
                     "icon": [
                         "What is the exact date of your arrival in summer?",
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "Password: Can you imagine if pigs could fly?"
                     ],
                     "viewPick": {
@@ -6852,7 +6852,7 @@
                         },
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a sea view."
@@ -7258,7 +7258,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What are you looking for?",
                         "Password: Can you pick me up at the mall?"
                     ],
@@ -7304,7 +7304,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a garden view."
@@ -8417,7 +8417,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What color do you like?",
                         "Password: We were in the same English class."
                     ],
@@ -8463,7 +8463,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a sea view."
@@ -8879,7 +8879,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What are you looking for?",
                         "Password: The economy is booming."
                     ],
@@ -8925,7 +8925,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a mountain view."
@@ -9111,7 +9111,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What are you looking for?",
                         "Password: The flag flies on the top of that building."
                     ],
@@ -9157,7 +9157,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a sea view."
@@ -9576,7 +9576,7 @@
                     "gender": "male",
                     "icon": [
                         "What is the exact date of your arrival in summer?",
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "Password: Can your mom and dad come to the party?"
                     ],
                     "viewPick": {
@@ -9632,7 +9632,7 @@
                         },
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a mountain view."
@@ -9807,7 +9807,7 @@
                     "gender": "male",
                     "icon": [
                         "What is the exact date of your arrival in summer?",
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "Password: Where do I begin with this huge project?"
                     ],
                     "viewPick": {
@@ -9863,7 +9863,7 @@
                         },
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a double bed room."
@@ -10038,7 +10038,7 @@
                     "gender": "female",
                     "icon": [
                         "What is the exact date of your arrival in summer?",
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "Password: It’s so challenging to discipline kids these days."
                     ],
                     "viewPick": {
@@ -10094,7 +10094,7 @@
                         },
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a bath tub."
@@ -10268,7 +10268,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What color do you like?",
                         "Password: I hid it under my bed."
                     ],
@@ -10314,7 +10314,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a bath tub."
@@ -10499,7 +10499,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "What color do you like?",
                         "Password: Wait, give me time to process everything you’re telling me."
                     ],
@@ -10545,7 +10545,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a garden view."
@@ -10731,7 +10731,7 @@
                     "gender": "female",
                     "icon": [
                         "What is the exact date of your arrival in summer?",
-                        "What kind of room would you like in this holiday?",
+                        "What kind of room would you like on this holiday?",
                         "Password: The doctor is in."
                     ],
                     "viewPick": {
@@ -10787,7 +10787,7 @@
                         },
                         {
                             "manspeak": [
-                                "What kind of room would you like in this holiday?"
+                                "What kind of room would you like on this holiday?"
                             ],
                             "robotspeak": [
                                 "I would like  a single room with a garden view."
