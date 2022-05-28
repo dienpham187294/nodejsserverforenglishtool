@@ -4251,7 +4251,7 @@
                     "gender": "male",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I don’t want my cat to die, let’s take him to the vet, please."
                     ],
                     "viewPick": {
@@ -4307,7 +4307,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a dentist"
@@ -4483,7 +4483,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I have a dream."
                     ],
                     "viewPick": {
@@ -4541,7 +4541,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a farmer"
@@ -4716,7 +4716,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I hope the government does something about the poverty in this country."
                     ],
                     "viewPick": {
@@ -4772,7 +4772,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -4947,7 +4947,7 @@
                     "gender": "male",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I saw him draw it while he was writing on the table."
                     ],
                     "viewPick": {
@@ -5003,7 +5003,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a driver"
@@ -5178,7 +5178,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: If everyone is present, the meeting can begin."
                     ],
                     "viewPick": {
@@ -5234,7 +5234,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a driver"
@@ -5409,7 +5409,7 @@
                     "gender": "female",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: My workload is so full now."
                     ],
                     "viewPick": {
@@ -5465,7 +5465,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a doctor"
@@ -6342,7 +6342,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I have a savings fund for college."
                     ],
                     "viewPick": {
@@ -6398,7 +6398,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a dentist"
@@ -6574,7 +6574,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Make sure your smoke alarm works in case of fire."
                     ],
                     "viewPick": {
@@ -6632,7 +6632,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a driver"
@@ -7041,7 +7041,7 @@
                     "gender": "female",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I’ve always been a diligent student."
                     ],
                     "viewPick": {
@@ -7097,7 +7097,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a farmer"
@@ -7272,7 +7272,7 @@
                     "gender": "female",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: How do I turn this on?"
                     ],
                     "viewPick": {
@@ -7328,7 +7328,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a doctor"
@@ -7734,7 +7734,7 @@
                     "gender": "male",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Your performance can be affected by your sleep."
                     ],
                     "viewPick": {
@@ -7790,7 +7790,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -8665,7 +8665,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: We watched the car race on tv."
                     ],
                     "viewPick": {
@@ -8723,7 +8723,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a doctor"
@@ -8899,7 +8899,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: There is cultural significance to those old ruins."
                     ],
                     "viewPick": {
@@ -8957,7 +8957,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a dentist"
@@ -9133,7 +9133,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Learning a new language is fun."
                     ],
                     "viewPick": {
@@ -9191,7 +9191,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -9831,7 +9831,7 @@
                     "gender": "female",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: If you don’t know, just guess."
                     ],
                     "viewPick": {
@@ -9887,7 +9887,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a farmer"

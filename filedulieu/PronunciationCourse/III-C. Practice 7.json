@@ -4016,8 +4016,8 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "Tell me somewhere you want to visit.",
+                        "What did you want to do when you grow up?",
                         "Password: This is the year I’m finally going to learn English."
                     ],
                     "viewPick": {
@@ -4062,7 +4062,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -4073,7 +4073,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -4335,7 +4335,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: Let’s head back, it’s freezing out here."
                     ],
@@ -4381,7 +4381,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -4656,7 +4656,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: We should compare cars before we buy one."
                     ],
                     "viewPick": {
@@ -4712,7 +4712,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -4977,7 +4977,7 @@
                     "gender": "male",
                     "icon": [
                         "How much money do you spend on average for lunch?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Could you speak a little louder?"
                     ],
                     "viewPick": {
@@ -5034,7 +5034,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -5617,7 +5617,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me about a service you used in a bank.",
                         "Password: Don’t cut your hair."
                     ],
@@ -5663,7 +5663,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -5777,7 +5777,7 @@
                     "gender": "male",
                     "icon": [
                         "Let me know what new hairstyle you want.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Some special papers are even scented!"
                     ],
                     "viewPick": {
@@ -5834,7 +5834,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -5938,7 +5938,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I’ll buy window curtains next week."
                     ],
                     "viewPick": {
@@ -5996,7 +5996,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -6742,7 +6742,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
                         "Password: This is the next best thing."
@@ -6789,7 +6789,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -6904,7 +6904,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Do you play any musical instruments?",
                         "Password: What size is that shirt?"
                     ],
@@ -6950,7 +6950,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -7064,7 +7064,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me how to go to your house.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: I won’t open it."
                     ],
                     "viewPick": {
@@ -7120,7 +7120,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -7541,7 +7541,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: She has long, brown hair."
                     ],
@@ -7587,7 +7587,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -8021,7 +8021,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: We need to involve the police."
                     ],
@@ -8067,7 +8067,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -8182,7 +8182,7 @@
                     "gender": "male",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Will our government figure out how to fix this problem?"
                     ],
                     "viewPick": {
@@ -8238,7 +8238,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"

@@ -4480,7 +4480,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: Did you see that?"
                     ],
@@ -4526,7 +4526,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to bank."
@@ -4712,7 +4712,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: I’m going to live like there’s no tomorrow."
                     ],
@@ -4758,7 +4758,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to post office."
@@ -5642,7 +5642,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: I’ll explain everything later, I promise."
                     ],
@@ -5688,7 +5688,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to park."
@@ -6106,7 +6106,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: Are you ready to leave for work?"
                     ],
@@ -6152,7 +6152,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to bank."
@@ -6570,7 +6570,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: It is sunny outside."
                     ],
@@ -6616,7 +6616,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to railway station."
@@ -7267,7 +7267,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: I don’t want my cat to die, let’s take him to the vet, please."
                     ],
@@ -7313,7 +7313,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to post office."
@@ -7731,7 +7731,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: Everything is on sale."
                     ],
@@ -7777,7 +7777,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to bank."
@@ -8194,7 +8194,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: They are employing her on a trial basis."
                     ],
@@ -8240,7 +8240,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to post office."
@@ -8425,7 +8425,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: She worked out hard to achieve a toned body."
                     ],
@@ -8471,7 +8471,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -8657,7 +8657,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: I have this big crush on Brad Pitt."
                     ],
@@ -8703,7 +8703,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -8888,7 +8888,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: His son is so cute!"
                     ],
@@ -8934,7 +8934,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to railway station."
@@ -9120,7 +9120,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: What kind of animal is that?"
                     ],
@@ -9166,7 +9166,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to railway station."
@@ -9351,7 +9351,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: His room is at the end of the corridor."
                     ],
@@ -9397,7 +9397,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to park."
@@ -10512,7 +10512,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: I feel so tired, I just need to relax and unwind."
                     ],
@@ -10558,7 +10558,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to park."
@@ -10744,7 +10744,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: Give me a high five!"
                     ],
@@ -10790,7 +10790,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."

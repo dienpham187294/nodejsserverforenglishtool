@@ -4177,7 +4177,7 @@
                     "icon": [
                         "What kind of music do you enjoy listening to?",
                         "What type of music do you like to listen to?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: We’re living in the 21st century, mary."
                     ],
                     "viewPick": {
@@ -4235,7 +4235,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -4338,7 +4338,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a disease you have had.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: We visited the museum today."
                     ],
                     "viewPick": {
@@ -4394,7 +4394,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -5139,7 +5139,7 @@
                     "gender": "male",
                     "icon": [
                         "Share with everyone a very special day for you.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: There’s a long line at the grocery cashier."
                     ],
                     "viewPick": {
@@ -5195,7 +5195,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -5940,7 +5940,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me the last time you heard someone was sick",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Do you know where this place is?"
                     ],
                     "viewPick": {
@@ -5996,7 +5996,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -6099,7 +6099,7 @@
                     "gender": "male",
                     "icon": [
                         "Tell me about a service you used in a bank.",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: Your next action is going to be critical."
                     ],
                     "viewPick": {
@@ -6155,7 +6155,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -6735,7 +6735,7 @@
                     "gender": "male",
                     "icon": [
                         "Do you play any musical instruments?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: You do not have to shoulder all the work on your own."
                     ],
                     "viewPick": {
@@ -6791,7 +6791,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"
@@ -7053,7 +7053,7 @@
                     "gender": "male",
                     "icon": [
                         "Have you ever been on a plane?",
-                        "When you were a kid, what did you want to do when you grow up?",
+                        "What did you want to do when you grow up?",
                         "Password: My cousin goes to school here."
                     ],
                     "viewPick": {
@@ -7109,7 +7109,7 @@
                         },
                         {
                             "manspeak": [
-                                "When you were a kid, what did you want to do when you grow up?"
+                                "What did you want to do when you grow up?"
                             ],
                             "robotspeak": [
                                 "I want to be  a nurse"

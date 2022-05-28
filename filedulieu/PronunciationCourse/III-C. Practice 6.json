@@ -4016,7 +4016,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Let me know what new hairstyle you want.",
                         "Password: I got a good deal at the store."
                     ],
@@ -4062,7 +4062,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -4498,7 +4498,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: She has long, brown hair."
                     ],
@@ -4544,7 +4544,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -4819,7 +4819,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me what you need to buy for a dinner.",
                         "Password: You can buy an individual or group membership."
                     ],
@@ -4865,7 +4865,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -6263,7 +6263,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Tell me how to go to your house.",
                         "Password: A caterpillar is the larval stage of a butterfly."
                     ],
@@ -6309,7 +6309,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -6422,7 +6422,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "How much money do you spend on average for lunch?",
                         "Password: Can you look this way?"
                     ],
@@ -6468,7 +6468,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -7226,7 +7226,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "Name an item in the kitchen, please!",
                         "Password: Seek and you will find."
                     ],
@@ -7272,7 +7272,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
@@ -8190,7 +8190,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me somewhere you really want to visit.",
+                        "Tell me somewhere you want to visit.",
                         "What do you cook best?",
                         "Password: Please bring a pen."
                     ],
@@ -8236,7 +8236,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me somewhere you really want to visit."
+                                "Tell me somewhere you want to visit."
                             ],
                             "robotspeak": [
                                 "I want to go to museum."
