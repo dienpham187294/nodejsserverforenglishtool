@@ -1,7 +1,6 @@
 [
-   
     {
-        "name": "III-A. Lesson 1: Tell me where you study.",
+        "name": "III-A. Practice 1: Tell me where you study.",
         "data": [
             {
                 "Answer": "Massachusetts Institute of Technology",
@@ -126,7 +125,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 1: Tell me your major!",
+        "name": "III-A. Practice 1: Tell me your major!",
         "data": [
             {
                 "Read": "My major is Agribusiness Operations",
@@ -251,7 +250,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 2: What kinds of drinks do you like?",
+        "name": "III-A. Practice 2: What kinds of drinks do you like?",
         "data": [
             {
                 "Answer": "catalan",
@@ -376,7 +375,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 2: What kinds of films do you like?",
+        "name": "III-A. Practice 2: What kinds of films do you like?",
         "data": [
             {
                 "Answer": "Action movie",
@@ -501,7 +500,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 3: Where are you going to go this weekend?",
+        "name": "III-A. Practice 3: Where are you going to go this weekend?",
         "data": [
             {
                 "Answer": "go camping",
@@ -626,7 +625,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 3: What’s the weather like in your hometown?",
+        "name": "III-A. Practice 3: What’s the weather like in your hometown?",
         "data": [
             {
                 "Answer": "sunny",
@@ -751,7 +750,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 4: What movie did you just watch?",
+        "name": "III-A. Practice 4: What movie did you just watch?",
         "data": [
             {
                 "Answer": "The Glorias: A Life On The Road",
@@ -876,7 +875,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 4: How was the film Titanic?",
+        "name": "III-A. Practice 4: How was the film Titanic?",
         "data": [
             {
                 "Read": "It’s one of the best I’ve ever seen.",
@@ -1001,7 +1000,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 5: What is the exact date of your arrival in summer?",
+        "name": "III-A. Practice 5: What is the exact date of your arrival in summer?",
         "data": [
             {
                 "Answer": "next Monday.",
@@ -1126,7 +1125,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 5: What kind of room would you like on this holiday?",
+        "name": "III-A. Practice 5: What kind of room would you like on this holiday?",
         "data": [
             {
                 "Answer": "a single room with a sea view.",
@@ -1251,7 +1250,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 6: What are you looking for?",
+        "name": "III-A. Practice 6: What are you looking for?",
         "data": [
             {
                 "Answer": "a T-shirt.",
@@ -1376,7 +1375,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 6: What color do you like?",
+        "name": "III-A. Practice 6: What color do you like?",
         "data": [
             {
                 "Answer": "black",
@@ -1501,7 +1500,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 7: What do you enjoy doing in your spare time?",
+        "name": "III-A. Practice 7: What do you enjoy doing in your spare time?",
         "data": [
             {
                 "Answer": "going out to eat",
@@ -1626,7 +1625,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 7: How often do you do your hobby?",
+        "name": "III-A. Practice 7: How often do you do your hobby?",
         "data": [
             {
                 "Answer": "every day",
@@ -1751,7 +1750,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 8: What is your favorite tourist attraction?",
+        "name": "III-A. Practice 8: What is your favorite tourist attraction?",
         "data": [
             {
                 "Answer": "Denmark",
@@ -1876,7 +1875,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 8: What do you do during your holiday trip?",
+        "name": "III-A. Practice 8: What do you do during your holiday trip?",
         "data": [
             {
                 "Answer": "take a lot of photos",
@@ -2013,7 +2012,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 9: Where are you off to later?",
+        "name": "III-A. Practice 9: Where are you off to later?",
         "data": [
             {
                 "Answer": "the museum.",
@@ -2266,7 +2265,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 9: Who do you want to travel with?",
+        "name": "III-A. Practice 9: Who do you want to travel with?",
         "data": [
             {
                 "Answer": "my friends.",
@@ -2519,7 +2518,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 10: Do you know any good places to eat?",
+        "name": "III-A. Practice 10: Do you know any good places to eat?",
         "data": [
             {
                 "Answer": "Buffet restaurant",
@@ -2644,7 +2643,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 10: What is the price of food in this area?",
+        "name": "III-A. Practice 10: What is the price of food in this area?",
         "data": [
             {
                 "Answer": "reasonable",
@@ -2769,7 +2768,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 11: What do you cook best?",
+        "name": "III-A. Practice 11: What do you cook best?",
         "data": [
             {
                 "Answer": "Grilled fish",
@@ -2894,7 +2893,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 11: Name an item in the kitchen, please!",
+        "name": "III-A. Practice 11: Name an item in the kitchen, please!",
         "data": [
             {
                 "Answer": "a fork",
@@ -3019,7 +3018,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 12: Tell me what you need to buy for a dinner.",
+        "name": "III-A. Practice 12: Tell me what you need to buy for a dinner.",
         "data": [
             {
                 "Answer": "cabbage",
@@ -3144,7 +3143,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 12: Tell me how much vegetables you need for a week.",
+        "name": "III-A. Practice 12: Tell me how much vegetables you need for a week.",
         "data": [
             {
                 "Answer": "$40",
@@ -3269,7 +3268,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 13: Tell me somewhere you want to visit.",
+        "name": "III-A. Practice 13: Tell me somewhere you want to visit.",
         "data": [
             {
                 "Answer": "museum",
@@ -3394,7 +3393,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 13: Tell me how to go to your house.",
+        "name": "III-A. Practice 13: Tell me how to go to your house.",
         "data": [
             {
                 "Read": "Go straight ahead about 50 meters.",
@@ -3519,7 +3518,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 14: Let me know what new hairstyle you want.",
+        "name": "III-A. Practice 14: Let me know what new hairstyle you want.",
         "data": [
             {
                 "Answer": "new style",
@@ -3644,7 +3643,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 14: How much money do you spend on average for lunch?",
+        "name": "III-A. Practice 14: How much money do you spend on average for lunch?",
         "data": [
             {
                 "Answer": "60 dollars",
@@ -3769,7 +3768,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 15: What type of music do you like to listen to?",
+        "name": "III-A. Practice 15: What type of music do you like to listen to?",
         "data": [
             {
                 "Answer": "Rock",
@@ -3894,7 +3893,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 15: Do you play any musical instruments?",
+        "name": "III-A. Practice 15: Do you play any musical instruments?",
         "data": [
             {
                 "Answer": "Piano",
@@ -4019,7 +4018,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 16: Tell me about a service you used in a bank.",
+        "name": "III-A. Practice 16: Tell me about a service you used in a bank.",
         "data": [
             {
                 "Answer": "exchange some money",
@@ -4144,7 +4143,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 16: What did you want to do when you grow up?",
+        "name": "III-A. Practice 16: What did you want to do when you grow up?",
         "data": [
             {
                 "Answer": "a nurse",
@@ -4269,7 +4268,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 17: Have you ever been on a plane?",
+        "name": "III-A. Practice 17: Have you ever been on a plane?",
         "data": [
             {
                 "Answer": "from New Zealand to Laos",
@@ -4394,7 +4393,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 17: Share with everyone a very special day for you.",
+        "name": "III-A. Practice 17: Share with everyone a very special day for you.",
         "data": [
             {
                 "Answer": "10th December, 2022",
@@ -4519,7 +4518,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 18: Tell me about a disease you have had.",
+        "name": "III-A. Practice 18: Tell me about a disease you have had.",
         "data": [
             {
                 "Read": "I have had malaria 2 years ago.",
@@ -4644,7 +4643,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 18: Tell me the last time you heard someone was sick.",
+        "name": "III-A. Practice 18: Tell me the last time you heard someone was sick.",
         "data": [
             {
                 "Answer": "for 2 weeks.",
@@ -4769,7 +4768,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 19: If you could choose one gift right now, what would it be?",
+        "name": "III-A. Practice 19: If you could choose one gift right now, what would it be?",
         "data": [
             {
                 "Answer": "watch",
@@ -4894,7 +4893,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 19: How long does it take if you order something from abroad?",
+        "name": "III-A. Practice 19: How long does it take if you order something from abroad?",
         "data": [
             {
                 "Answer": "a days",
@@ -5019,7 +5018,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 20: What means of transport do you normally use?",
+        "name": "III-A. Practice 20: What means of transport do you normally use?",
         "data": [
             {
                 "Answer": "by car",
@@ -5144,7 +5143,7 @@
         ]
     },
     {
-        "name": "III-A. Lesson 20: How long does it take you to go to work?",
+        "name": "III-A. Practice 20: How long does it take you to go to work?",
         "data": [
             {
                 "Answer": "5 minutes",
