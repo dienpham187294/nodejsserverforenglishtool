@@ -4016,7 +4016,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Rather than focusing on the bad things, let’s be grateful for the good things."
                     ],
@@ -4062,7 +4062,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy onion",
@@ -4441,7 +4441,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: I have more stickers at home."
                     ],
@@ -4487,7 +4487,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy lemon",
@@ -4866,7 +4866,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Learning a new language is fun."
                     ],
@@ -4912,7 +4912,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy cabbage",
@@ -5291,7 +5291,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: There is a good movie on tv tonight."
                     ],
@@ -5337,7 +5337,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy knotgrass",
@@ -5716,7 +5716,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: That’s a beautiful song."
                     ],
@@ -5762,7 +5762,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy straw mushrooms",
@@ -6141,7 +6141,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Just because she’s different, it doesn’t mean she’s bad."
                     ],
@@ -6187,7 +6187,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy broccoli",
@@ -6566,7 +6566,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Write about the advantages of technology."
                     ],
@@ -6612,7 +6612,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy radish",
@@ -6991,7 +6991,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Is anyone else coming?"
                     ],
@@ -7037,7 +7037,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy white fungus",
@@ -7416,7 +7416,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Does anyone know the answer?"
                     ],
@@ -7462,7 +7462,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy ginger",
@@ -7841,7 +7841,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: We were in the same English class."
                     ],
@@ -7887,7 +7887,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy eggplant",
@@ -8266,7 +8266,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: The dog did not make a sound."
                     ],
@@ -8312,7 +8312,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy bell pepper",
@@ -8691,7 +8691,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: This card came from my cousin."
                     ],
@@ -8737,7 +8737,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy asparagus",
@@ -9116,7 +9116,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: We must watch this movie together."
                     ],
@@ -9162,7 +9162,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy kohlrabi",
@@ -9541,7 +9541,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: He is going to build his dream house."
                     ],
@@ -9587,7 +9587,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy cucumber",
@@ -9966,7 +9966,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Our new corporate strategy is written here."
                     ],
@@ -10012,7 +10012,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy spinach",
@@ -10391,7 +10391,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Can I have some more milkshakes?"
                     ],
@@ -10437,7 +10437,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy white turnip",
@@ -10816,7 +10816,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: My favorite color is blue."
                     ],
@@ -10862,7 +10862,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy mushroom",
@@ -11241,7 +11241,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Should I buy this dress?"
                     ],
@@ -11287,7 +11287,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy seaweed",
@@ -11666,7 +11666,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: I’ll have to give it some thought."
                     ],
@@ -11712,7 +11712,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy carrot",
@@ -12091,7 +12091,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: That girl is in my class."
                     ],
@@ -12137,7 +12137,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy coriander",
@@ -12516,7 +12516,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Do you think a dog is a good pet?"
                     ],
@@ -12562,7 +12562,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy marrow",
@@ -12941,7 +12941,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: This is the best day of my life."
                     ],
@@ -12987,7 +12987,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy green onion",
@@ -13366,7 +13366,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Which of these slippers is yours?"
                     ],
@@ -13412,7 +13412,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy corn",
@@ -13791,7 +13791,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Did you hear that?"
                     ],
@@ -13837,7 +13837,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy tomato",
@@ -14216,7 +14216,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: I won’t open it."
                     ],
@@ -14262,7 +14262,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy black fungus",
@@ -14641,7 +14641,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Don’t touch the stove, it’s still hot."
                     ],
@@ -14687,7 +14687,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy sweet potato",
@@ -15066,7 +15066,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Will you come by and see me?"
                     ],
@@ -15112,7 +15112,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy loofah",
@@ -15491,7 +15491,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: We can play soccer next weekend instead."
                     ],
@@ -15537,7 +15537,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy fennel",
@@ -15916,7 +15916,7 @@
                     "status": true,
                     "gender": "male",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: Please give them some of the apples I brought home."
                     ],
@@ -15962,7 +15962,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy hot pepper",
@@ -16341,7 +16341,7 @@
                     "status": true,
                     "gender": "female",
                     "icon": [
-                        "Tell me what you need to buy for a diner.",
+                        "Tell me what you need to buy for a dinner.",
                         "Tell me how much vegetables you need for a week.",
                         "Password: These potato chips are in an individual serving size package."
                     ],
@@ -16387,7 +16387,7 @@
                     "handling_next": [
                         {
                             "manspeak": [
-                                "Tell me what you need to buy for a diner."
+                                "Tell me what you need to buy for a dinner."
                             ],
                             "robotspeak": [
                                 "I need to buy bean sprouts",
