@@ -1,8 +1,9 @@
 
 const data = require("../../database/Data_Listen.json")
-// const hihowareyou = require("./DATALISTEN/Hihowareyou")
-// const Whatwouldyoulike = require("./DATALISTEN/Whatwouldyoulike")
-// const Somethingtodrink = require("./DATALISTEN/Somethingtodrink")
+const hihowareyou = require("./DATALISTEN/Hihowareyou")
+const Whatwouldyoulike = require("./DATALISTEN/Whatwouldyoulike")
+const Howcanihelpyou = require("./DATALISTEN/Howcanihelpyou")
+const Somethingtodrink = require("./DATALISTEN/Somethingtodrink")
 // const D1_fruits = require("./DATALISTEN/D1_fruits")
 // const D1_jobs = require("./DATALISTEN/D1_jobs")
 // const D1_name = require("./DATALISTEN/D1_name")
@@ -36,26 +37,26 @@ let ArrOutput = [
     //     "Words": "Name",
     //     "DataListen": E_Name
     // },
-    // {
+    {
 
-    //     "Words": "Hi, how are you?",
-    //     "DataListen": hihowareyou
-    // },
-    // {
+        "Words": "Hi, how are you?",
+        "DataListen": hihowareyou
+    },
+    {
 
-    //     "Words": "How can I help you?",
-    //     "DataListen": hihowareyou
-    // },
-    // {
+        "Words": "How can I help you?",
+        "DataListen": Howcanihelpyou
+    },
+    {
 
-    //     "Words": "What would you like, today?",
-    //     "DataListen": Whatwouldyoulike
-    // },
-    // {
+        "Words": "What would you like, today?",
+        "DataListen": Whatwouldyoulike
+    },
+    {
 
-    //     "Words": "Something to drink?",
-    //     "DataListen": Somethingtodrink
-    // },
+        "Words": "Something to drink?",
+        "DataListen": Somethingtodrink
+    },
     // {
 
     //     "Words": "Name!",
