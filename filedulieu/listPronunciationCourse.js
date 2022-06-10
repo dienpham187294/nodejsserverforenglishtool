@@ -1,6 +1,6 @@
 // const fs = require('file-system');
 
-const data = require("../database/MainPronunciationCreate.json")
+const data = require("../database/GD2B.json")
 
 let ArrOutput = [].concat(data)
 
