@@ -215,9 +215,7 @@ function getALL(DAT) {
     let coerdataoflession = [].concat(
         InAmainTem.core,
     )
-    let DataTable = [
-        sents1000
-    ]
+    let DataTable = []
     const outPut
         = [
             {
