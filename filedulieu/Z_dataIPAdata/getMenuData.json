@@ -28,6 +28,10 @@
         "file": "./filedulieu/listGd5"
     },
     {
+        "id": "/getGame",
+        "file": "./filedulieu/listGame"
+    },
+    {
         "id": "/menuThuchanhkienthuc",
         "file": "./filedulieu/listLessonKienthuc"
     },
