@@ -215,13 +215,13 @@ function getALL(DAT) {
     let coerdataoflession = [].concat(
         InAmainTem.core,
     )
-    let DataTable = []
+
     const outPut
         = [
             {
                 "nameoflession": "B.3.2_01",
                 "story": "",
-                "dataTool": DataTable,
+                "dataTool": [],
                 "status": "",
             },
             {

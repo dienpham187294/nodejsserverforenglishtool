@@ -9,6 +9,7 @@ const FnToArrobj = require("../../dataHelperFunction/FnToArrobj")
 // const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull")
 const shuffleArr = require("../../dataHelperFunction/shuffleArr");
 const objEndSuccefull = require("../../dataHelperFunction/objEndSuccefull");
+const { end_successfull } = require("../../dataHelperFunction/objEndSuccefull")
 
 
 let ArrPassword = pickNRandomElementsOfArray(shuffleArr(sents1000), 30)
@@ -44,21 +45,15 @@ function getOutputT(DATAUSE) {
         }
         let objUse = {}
 
-        let Begin = [
-            {
-                "index": "0",
-                "handle": FnObjHanldingNext(
-                    [
-                        "Hi, how are you?",
-
-                    ],
-                    [
-                        "I'm good.",
-                        "I'm fine."
-                    ],
-                )
-            },]
-
+        let Begin = []
+        e.QA.forEach((ee, i) => {
+            Begin.push(
+                {
+                    "index": "" + i,
+                    "handle": FnObjHanldingNext(ee.qs, ee.aw)
+                },
+            )
+        })
         let input_01_Begin = []
         let input_02_Begin = []
 
@@ -73,7 +68,7 @@ function getOutputT(DATAUSE) {
         let jn = 0
         let endCode = []
         e.QA.forEach((ee, i) => {
-            jn++
+            // jn++
             Mid.push(
                 {
                     "index": "" + i,
@@ -82,27 +77,27 @@ function getOutputT(DATAUSE) {
             )
             Des = Des.concat(ee.qs)
             endCode = endCode.concat(ee.aw)
-
+            // ArrOfSubmit.push(ee.submit)
         })
-
-        let passwordInX = ArrPassword[iM % 30].Sents
-        Des.push("Password: " + passwordInX)
+        endCode = endCode.concat(e.submit)
+        // let passwordInX = ArrPassword[iM % 30].Sents
+        // Des.push("Password: " + passwordInX)
         // Des.push("Password: " + passwordInX)
 
         Mid.push(
             {
                 "index": "" + jn,
-                "handle": FnObjHanldingNext([passwordInX], ["Repeat the answer when you finish! Thank you!"], Record(DATAUSE, iM))
+                "handle": FnObjHanldingNext(endCode, ["Good!", "Great"], objEndSuccefull)
             },
         )
 
 
-        Mid.push(
-            {
-                "index": "" + jn + "-0",
-                "handle": FnObjHanldingNext(endCode, ["That's good.", "Good.", "Great"], objEndSuccefull)
-            },
-        )
+        // Mid.push(
+        //     {
+        //         "index": "" + jn + "-0",
+        //         "handle": FnObjHanldingNext(endCode, ["That's good.", "Good.", "Great"], objEndSuccefull)
+        //     },
+        // )
         let input_01_Body = []
         let input_02_Body = []
 
@@ -113,10 +108,7 @@ function getOutputT(DATAUSE) {
 
         let End = null
 
-
         ArrInFN.Submit = ArrOfSubmit
-
-
 
         outputT.push(
             Fnperson(
@@ -135,72 +127,72 @@ function getOutputT(DATAUSE) {
 }
 
 
-function Record(ARR_Input, iM) {
-    let ARR_Output = []
-    let Arr_InCheck = []
-    ARR_Input.forEach(e => {
-        e.submit.forEach(ee => {
-            if (!Arr_InCheck.includes(ee)) {
-                Arr_InCheck.push(ee)
-            }
-        })
-    })
+// function Record(ARR_Input, iM) {
+//     let ARR_Output = []
+//     let Arr_InCheck = []
+//     ARR_Input.forEach(e => {
+//         e.submit.forEach(ee => {
+//             if (!Arr_InCheck.includes(ee)) {
+//                 Arr_InCheck.push(ee)
+//             }
+//         })
+//     })
 
 
-    ARR_Input[iM].submit.forEach(ee => {
-        ARR_Output.push(
-            {
-                "title": "",
-                "data": ee,
-                "stt": true,
-                "submit": false
-            })
-    })
-    Arr_InCheck.forEach(e => {
-        if (!ARR_Input[iM].submit.includes(e)) {
-            ARR_Output.push(
-                {
-                    "title": "",
-                    "data": e,
-                    "stt": true,
-                    "submit": true
-                })
-        }
-    })
+//     ARR_Input[iM].submit.forEach(ee => {
+//         ARR_Output.push(
+//             {
+//                 "title": "",
+//                 "data": ee,
+//                 "stt": true,
+//                 "submit": false
+//             })
+//     })
+//     Arr_InCheck.forEach(e => {
+//         if (!ARR_Input[iM].submit.includes(e)) {
+//             ARR_Output.push(
+//                 {
+//                     "title": "",
+//                     "data": e,
+//                     "stt": true,
+//                     "submit": true
+//                 })
+//         }
+//     })
 
 
-    // ARR_Input.forEach((e, i) => {
-    //     if (i === iM) {
-    //         e.submit.forEach(e1 => {
-    //             // console.log(e1)
-    //             ARR_Output.push(
-    //                 {
-    //                     "title": "",
-    //                     "data": e1,
-    //                     "stt": true,
-    //                     "submit": false
-    //                 }
-    //             )
-    //         })
-    //     }
-    //     else {
-    //         e.submit.forEach(e1 => {
-    //             ARR_Output.push(
-    //                 {
-    //                     "title": "",
-    //                     "data": e1,
-    //                     "stt": true,
-    //                     "submit": true
-    //                 }
-    //             )
-    //         })
-    //     }
-    // })
-    return {
-        "action": {
-            "name": "Please enter data!",
-            "list": shuffleArr(ARR_Output),
+//     // ARR_Input.forEach((e, i) => {
+//     //     if (i === iM) {
+//     //         e.submit.forEach(e1 => {
+//     //             // console.log(e1)
+//     //             ARR_Output.push(
+//     //                 {
+//     //                     "title": "",
+//     //                     "data": e1,
+//     //                     "stt": true,
+//     //                     "submit": false
+//     //                 }
+//     //             )
+//     //         })
+//     //     }
+//     //     else {
+//     //         e.submit.forEach(e1 => {
+//     //             ARR_Output.push(
+//     //                 {
+//     //                     "title": "",
+//     //                     "data": e1,
+//     //                     "stt": true,
+//     //                     "submit": true
+//     //                 }
+//     //             )
+//     //         })
+//     //     }
+//     // })
+//     return {
+//         "action": {
+//             "name": "Please enter data!",
+//             "list": shuffleArr(ARR_Output),
 
-        }
-    }
-}
+//         }
+//     }
+// }
