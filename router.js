@@ -11,6 +11,7 @@ const loadDataInMenuRoute = require("./filedulieu/Z_dataIPAdata/loaddataInMenu.j
 
 const { getDataOnlyone } = require("./routerFuncLoadOnlyOne")
 const { insertDataFunc } = require("./routerInsert")
+const { EmailRouter } = require("./routerEmail")
 
 
 router.get("/", (req, res) => {
@@ -31,6 +32,7 @@ loadDataInMenuRoute.forEach(e => {
 })
 getDataOnlyone(router, jsonParser)
 insertDataFunc(router, jsonParser, fs)
+EmailRouter(router, jsonParser)
 
 module.exports = router;
 
